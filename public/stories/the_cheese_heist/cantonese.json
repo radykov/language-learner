@@ -1,0 +1,3345 @@
+{
+  "story": "在一間位於森林邊緣小而古雅的小屋裡，住著一隻聰明的小鼠名叫米羅。 舊的威斯克斯先生，家裡的貓，以嚴厲的爪子和警覺的目光統治著家庭。 他的主要職責？守護那個威風凜凜地放在廚房木架上的奶酪輪。 米羅長期以來都渴望那塊奶酪。 這是最精緻的切達奶酪，在下午的陽光下閃耀著豐富的黃色，米羅幾乎可以在夢中嘗到它。 但是，在威斯克斯先生的巡邏下，每一次試圖偷取一小塊的努力都以逃進牆壁而告終。 一天晚上，當太陽落在地平線下，天空被橙色和紫色的色調照亮時，米羅想出了一個計劃。 他知道，他需要智取威斯克斯先生，而不是試著跑過去。 首先，他觀察了貓的日常行為。 每晚，黃昏過後，威斯克斯先生會懶洋洋地躺在沙發上，享受著悠閒伸展，然後安穩地打盹。 米羅的搶劫時刻終於到來。 米羅開始製造一個分心的事件。 他收集了小片皺巴巴的紙，整晚攻擊它們，製造出各種角落的喧嘩。 每晚，威斯克斯先生都會從打盹中醒來，困惑地調查噪音的來源，暫時讓奶酪處於無人看管的狀態。 在米羅惡作劇的第三個晚上，他注意到了一個關鍵的細節。 威斯克斯先生有一個最喜愛的小鼠毛絨玩具，他常常撲上去。 如果他能利用這一點，那個計畫也許會成功。 米羅迅速衝進玩具籃，抓住了那隻毛絨小鼠，並把它拉到一個角落裡。 他小心翼翼地工作，拔掉了一些填充物，製作了一個迷你誘飾。 那是一個完美的自己複製品，雖然大了一些，且覆蓋著毛絨。 當夜幕降臨時，米羅把誘飾放在房間的最遠處。 他輕輕地推動它，讓它看起來就像在移動。 然後，他退到了一個茶壺後面，心中激動不已。 果然，不久之後，威斯克斯先生從睡夢中醒來，注意到了移動的影子。 “啊哈！”他想，伸展並打哈欠，“我家裡有隻鼠！” 威斯克斯先生迅速行動，像箭一樣衝向誘飾，速度足以讓任何小鼠心驚膽顫。 但米羅的計劃完美無缺。 當威斯克斯先生追逐著那團毛絨球時，米羅抓住了機會。 他在廚房的檯面上疾跑，目標直指奶酪。 當他到達架子時，圖書館的時鐘敲響了午夜，為房間帶來悠揚的鈴聲。 這與威斯克斯先生拍打誘飾時製造的喧鬧聲完美融合，他以為自己終於把晚餐逼在了角落裡。 米羅迅速抓住一塊切達奶酪，發現它比他預想的要重，但太美味了，無法留下。 就在他緊緊抱住奶酪的同時，威斯克斯先生才意識到他被騙了。 米羅剛好趕回他的洞，聽到威斯克斯先生發出困惑的喵聲，融合在他自己自豪的吱吱聲中。 “你也許在守著奶酪，但今晚，我要大快朵頤！”米羅驕傲地吱吱叫道。 當黎明的曙光爬進小屋時，米羅細細品味著那塊渴求已久的奶酪的第一口。 這不僅僅是一頓飯；這是對他智慧的見證。 奶酪豐富美味，他不禁微笑。 從那天起，米羅繼續利用他的智慧把玩著奶酪存貨，威斯克斯先生不斷哀傷地注視著，這隻小鼠在小屋的生物中成為了傳奇。",
+  "title": "芝士搶劫",
+  "sentences": [
+    {
+      "original": "在一間位於森林邊緣小而古雅的小屋裡，住著一隻聰明的小鼠名叫米羅。",
+      "translation": "In a small and quaint little house located on the edge of the forest lived a clever little mouse named Milo."
+    },
+    {
+      "original": "舊的威斯克斯先生，家裡的貓，以嚴厲的爪子和警覺的目光統治著家庭。",
+      "translation": "The old Mr. Whiskers, the house cat, ruled the household with his stern claws and watchful gaze."
+    },
+    {
+      "original": "他的主要職責？守護那個威風凜凜地放在廚房木架上的奶酪輪。",
+      "translation": "His main duty? To guard the magnificent wheel of cheese that sat on the kitchen shelf."
+    },
+    {
+      "original": "米羅長期以來都渴望那塊奶酪。",
+      "translation": "Milo had long been craving that piece of cheese."
+    },
+    {
+      "original": "這是最精緻的切達奶酪，在下午的陽光下閃耀著豐富的黃色，米羅幾乎可以在夢中嘗到它。",
+      "translation": "It was the finest cheddar cheese, gleaming with a rich yellow under the afternoon sun, and Milo could almost taste it in his dreams."
+    },
+    {
+      "original": "但是，在威斯克斯先生的巡邏下，每一次試圖偷取一小塊的努力都以逃進牆壁而告終。",
+      "translation": "However, each attempt to steal a small piece under Mr. Whiskers' patrol ended with a retreat back into the walls."
+    },
+    {
+      "original": "一天晚上，當太陽落在地平線下，天空被橙色和紫色的色調照亮時，米羅想出了一個計劃。",
+      "translation": "One evening, as the sun sank below the horizon and the sky was illuminated with shades of orange and purple, Milo devised a plan."
+    },
+    {
+      "original": "他知道，他需要智取威斯克斯先生，而不是試著跑過去。",
+      "translation": "He knew he needed to outsmart Mr. Whiskers rather than trying to run past him."
+    },
+    {
+      "original": "首先，他觀察了貓的日常行為。",
+      "translation": "First, he observed the cat's daily routines."
+    },
+    {
+      "original": "每晚，黃昏過後，威斯克斯先生會懶洋洋地躺在沙發上，享受著悠閒伸展，然後安穩地打盹。",
+      "translation": "Every night, after dusk, Mr. Whiskers would lazily lay on the sofa, enjoying a leisurely stretch, before dozing off peacefully."
+    },
+    {
+      "original": "米羅的搶劫時刻終於到來。",
+      "translation": "Milo's moment to strike had finally arrived."
+    },
+    {
+      "original": "米羅開始製造一個分心的事件。",
+      "translation": "Milo began to create a distraction."
+    },
+    {
+      "original": "他收集了小片皺巴巴的紙，整晚攻擊它們，製造出各種角落的喧嘩。",
+      "translation": "He gathered crumpled pieces of paper, attacking them throughout the night to produce various noisy disturbances from different corners."
+    },
+    {
+      "original": "每晚，威斯克斯先生都會從打盹中醒來，困惑地調查噪音的來源，暫時讓奶酪處於無人看管的狀態。",
+      "translation": "Every night, Mr. Whiskers would wake from his nap, confusedly investigating the source of the noise, momentarily leaving the cheese unattended."
+    },
+    {
+      "original": "在米羅惡作劇的第三個晚上，他注意到了一個關鍵的細節。",
+      "translation": "On the third night of Milo's antics, he noticed a crucial detail."
+    },
+    {
+      "original": "威斯克斯先生有一個最喜愛的小鼠毛絨玩具，他常常撲上去。",
+      "translation": "Mr. Whiskers had a favorite stuffed mouse toy that he often pounced on."
+    },
+    {
+      "original": "如果他能利用這一點，那個計畫也許會成功。",
+      "translation": "If he could exploit this, perhaps the plan would succeed."
+    },
+    {
+      "original": "米羅迅速衝進玩具籃，抓住了那隻毛絨小鼠，並把它拉到一個角落裡。",
+      "translation": "Milo quickly dashed into the toy basket, grabbed the stuffed mouse, and pulled it into a corner."
+    },
+    {
+      "original": "他小心翼翼地工作，拔掉了一些填充物，製作了一個迷你誘飾。",
+      "translation": "He worked carefully, pulling out some stuffing to create a mini decoy."
+    },
+    {
+      "original": "那是一個完美的自己複製品，雖然大了一些，且覆蓋著毛絨。",
+      "translation": "It was a perfect replica of himself, albeit a bit larger and covered in fur."
+    },
+    {
+      "original": "當夜幕降臨時，米羅把誘飾放在房間的最遠處。",
+      "translation": "As night fell, Milo placed the decoy at the farthest point in the room."
+    },
+    {
+      "original": "他輕輕地推動它，讓它看起來就像在移動。",
+      "translation": "He gently nudged it, making it appear as if it were moving."
+    },
+    {
+      "original": "然後，他退到了一個茶壺後面，心中激動不已。",
+      "translation": "Then, he retreated behind a teapot, his heart racing."
+    },
+    {
+      "original": "果然，不久之後，威斯克斯先生從睡夢中醒來，注意到了移動的影子。",
+      "translation": "Sure enough, soon after, Mr. Whiskers woke from his slumber and noticed the moving shadow."
+    },
+    {
+      "original": "“啊哈！”他想，伸展並打哈欠，“我家裡有隻鼠！”",
+      "translation": "\"Aha!\" he thought, stretching and yawning, \"There's a mouse in my house!\""
+    },
+    {
+      "original": "威斯克斯先生迅速行動，像箭一樣衝向誘飾，速度足以讓任何小鼠心驚膽顫。",
+      "translation": "Mr. Whiskers sprang into action, darting towards the decoy like an arrow, fast enough to frighten any mouse."
+    },
+    {
+      "original": "但米羅的計劃完美無缺。",
+      "translation": "But Milo's plan was flawless."
+    },
+    {
+      "original": "當威斯克斯先生追逐著那團毛絨球時，米羅抓住了機會。",
+      "translation": "As Mr. Whiskers chased after the fuzzy ball, Milo seized the opportunity."
+    },
+    {
+      "original": "他在廚房的檯面上疾跑，目標直指奶酪。",
+      "translation": "He sprinted across the kitchen counter, heading straight for the cheese."
+    },
+    {
+      "original": "當他到達架子時，圖書館的時鐘敲響了午夜，為房間帶來悠揚的鈴聲。",
+      "translation": "When he reached the shelf, the clock in the library chimed midnight, filling the room with a melodic ringing."
+    },
+    {
+      "original": "這與威斯克斯先生拍打誘飾時製造的喧鬧聲完美融合，他以為自己終於把晚餐逼在了角落裡。",
+      "translation": "This perfectly blended with the ruckus created by Mr. Whiskers swatting at the decoy, thinking he had finally cornered his dinner."
+    },
+    {
+      "original": "米羅迅速抓住一塊切達奶酪，發現它比他預想的要重，但太美味了，無法留下。",
+      "translation": "Milo quickly grabbed a piece of cheddar cheese, finding it heavier than he expected, but too delicious to leave behind."
+    },
+    {
+      "original": "就在他緊緊抱住奶酪的同時，威斯克斯先生才意識到他被騙了。",
+      "translation": "Just as he clutched the cheese tightly, Mr. Whiskers realized he had been tricked."
+    },
+    {
+      "original": "米羅剛好趕回他的洞，聽到威斯克斯先生發出困惑的喵聲，融合在他自己自豪的吱吱聲中。",
+      "translation": "Milo just made it back to his hole, hearing Mr. Whiskers’ confused meow blending with his own triumphant squeaks."
+    },
+    {
+      "original": "“你也許在守著奶酪，但今晚，我要大快朵頤！”米羅驕傲地吱吱叫道。",
+      "translation": "\"You may be guarding the cheese, but tonight, I am going to feast!\" Milo squeaked proudly."
+    },
+    {
+      "original": "當黎明的曙光爬進小屋時，米羅細細品味著那塊渴求已久的奶酪的第一口。",
+      "translation": "As the dawn light crept into the little house, Milo savored the first bite of the long-desired cheese."
+    },
+    {
+      "original": "這不僅僅是一頓飯；這是對他智慧的見證。",
+      "translation": "It was not just a meal; it was a testament to his cleverness."
+    },
+    {
+      "original": "奶酪豐富美味，他不禁微笑。",
+      "translation": "The cheese was rich and delectable, causing him to smile with delight."
+    },
+    {
+      "original": "從那天起，米羅繼續利用他的智慧把玩著奶酪存貨，威斯克斯先生不斷哀傷地注視著，這隻小鼠在小屋的生物中成為了傳奇。",
+      "translation": "From that day on, Milo continued to outsmart the cheese supply, while Mr. Whiskers watched in sorrow, as this little mouse became a legend among the inhabitants of the house."
+    }
+  ],
+  "words": [
+    [
+      {
+        "word": "在",
+        "translation": "in - 在 zoi6 (in, at)",
+        "explanation": "This word indicates the location or direction."
+      },
+      {
+        "word": "一間",
+        "translation": "a - 一間 jat1 gaan1 (one, a, single)",
+        "explanation": "This means one or a singular item."
+      },
+      {
+        "word": "位於",
+        "translation": "located at - 位於 wai6 jyu4 (located at)",
+        "explanation": "This indicates the position or location of something."
+      },
+      {
+        "word": "森林",
+        "translation": "forest - 森林 sam1 lam4 (forest)",
+        "explanation": "This is a large area covered mostly by trees."
+      },
+      {
+        "word": "邊緣",
+        "translation": "edge - 邊緣 bin1 yun4 (edge)",
+        "explanation": "This refers to the border or boundary of a place."
+      },
+      {
+        "word": "小",
+        "translation": "small - 小 siu2 (small)",
+        "explanation": "This word describes something that is little in size."
+      },
+      {
+        "word": "而",
+        "translation": "and - 而 ji4 (and)",
+        "explanation": "This is a connecting word, similar to 'and'."
+      },
+      {
+        "word": "古雅",
+        "translation": "elegant - 古雅 gu2 ngaa2 (elegant)",
+        "explanation": "This describes something that is gracefully old or classic."
+      },
+      {
+        "word": "的小屋",
+        "translation": "small house - 的的小屋 dik1 ge3 siu2 uk1 (small house)",
+        "explanation": "This indicates the possession of the small house."
+      },
+      {
+        "word": "裡",
+        "translation": "inside - 裡 lei5 (inside)",
+        "explanation": "This indicates that something is contained within."
+      },
+      {
+        "word": "住著",
+        "translation": "lives - 住著 zyu6 zoek3 (live)",
+        "explanation": "This means to reside or stay in a place."
+      },
+      {
+        "word": "一隻",
+        "translation": "a - 一隻 jat1 zek3 (one, a)",
+        "explanation": "This indicates a single animal."
+      },
+      {
+        "word": "聰明",
+        "translation": "smart - 聰明 cung1 ming4 (smart)",
+        "explanation": "This describes someone who is intelligent."
+      },
+      {
+        "word": "的小鼠",
+        "translation": "small mouse - 的的小鼠 dik1 ge3 siu2 syu2 (small mouse)",
+        "explanation": "This indicates possession of the small mouse."
+      },
+      {
+        "word": "名叫",
+        "translation": "named - 名叫 ming4 giu3 (named)",
+        "explanation": "This means to be called or known as."
+      },
+      {
+        "word": "米羅",
+        "translation": "Milo - 米羅 mai5 lo4 (Milo)",
+        "explanation": "This is a name for the mouse."
+      }
+    ],
+    [
+      {
+        "word": "舊的",
+        "translation": "old - 舊的 gau6 dik1 (old)",
+        "explanation": "This describes something that is not new."
+      },
+      {
+        "word": "威斯克斯",
+        "translation": "Mr. Whiskers - 威斯克斯 wai1 si1 hak1 si1 (Mr. Whiskers)",
+        "explanation": "This is a name for the cat."
+      },
+      {
+        "word": "先生",
+        "translation": "Mr. - 先生 sin1 saang1 (Mr.)",
+        "explanation": "A term of respect for a man."
+      },
+      {
+        "word": "家裡",
+        "translation": "home - 家裡 gaa1 leoi5 (home)",
+        "explanation": "This refers to someone's residence."
+      },
+      {
+        "word": "的",
+        "translation": "'s - 的 dik1 ('s)",
+        "explanation": "This indicates possession."
+      },
+      {
+        "word": "貓",
+        "translation": "cat - 貓 maau1 (cat)",
+        "explanation": "This is a domesticated animal kept as a pet."
+      },
+      {
+        "word": "以",
+        "translation": "uses - 以 ji5 (uses)",
+        "explanation": "This indicates the purpose or means of an action."
+      },
+      {
+        "word": "嚴厲",
+        "translation": "strict - 嚴厲 jim4 lai6 (strict)",
+        "explanation": "This describes a harsh or severe attitude."
+      },
+      {
+        "word": "的",
+        "translation": "'s - 的 dik1 ('s)",
+        "explanation": "This indicates possession."
+      },
+      {
+        "word": "爪子",
+        "translation": "claws - 爪子 zaau2 zi2 (claws)",
+        "explanation": "These are sharp ends of a cat's feet used to catch prey."
+      },
+      {
+        "word": "和",
+        "translation": "and - 和 wo4 (and)",
+        "explanation": "This is a connecting word, similar to 'and'."
+      },
+      {
+        "word": "警覺的",
+        "translation": "alert - 警覺的 ging2 gok3 dik1 (alert)",
+        "explanation": "This describes someone who is watchful or aware."
+      },
+      {
+        "word": "目光",
+        "translation": "gaze - 目光 muk6 gwong1 (gaze)",
+        "explanation": "This refers to the way someone looks or watches."
+      },
+      {
+        "word": "統治",
+        "translation": "rules - 統治 tung2 zi3 (rules)",
+        "explanation": "This means to govern or control."
+      },
+      {
+        "word": "著",
+        "translation": "-ing - 着 zoek3 (-ing)",
+        "explanation": "A particle indicating an action in progress."
+      },
+      {
+        "word": "家庭",
+        "translation": "family - 家庭 gaa1 ting4 (family)",
+        "explanation": "This refers to people who live together as a unit."
+      }
+    ],
+    [
+      {
+        "word": "他的",
+        "translation": "his - 他的 taa1 dik1 (his)",
+        "explanation": "This indicates possession by a male."
+      },
+      {
+        "word": "主要",
+        "translation": "main - 主要 zyu2 jiu3 (main)",
+        "explanation": "This describes something that is the most important."
+      },
+      {
+        "word": "職責",
+        "translation": "responsibility - 職責 zik1 zaak6 (responsibility)",
+        "explanation": "This refers to a duty or job."
+      },
+      {
+        "word": "？",
+        "translation": "- - -",
+        "explanation": "This is a punctuation mark indicating a question."
+      }
+    ],
+    [
+      {
+        "word": "守護",
+        "translation": "guard - 守護 sau2 wu6 (guard)",
+        "explanation": "This means to protect or keep safe."
+      },
+      {
+        "word": "那個",
+        "translation": "that - 那個 naa5 go3 (that)",
+        "explanation": "This refers to a specific item."
+      },
+      {
+        "word": "威風凜凜",
+        "translation": "majestic - 威風凜凜 wai1 fung1 lam2 lam2 (majestic)",
+        "explanation": "This describes something that appears powerful and impressive."
+      },
+      {
+        "word": "地",
+        "translation": "place - 地 dei6 (place)",
+        "explanation": "This indicates a location."
+      },
+      {
+        "word": "放在",
+        "translation": "placed on - 放在 fong3 zoi6 (placed on)",
+        "explanation": "This means to put something in a specific position."
+      },
+      {
+        "word": "廚房",
+        "translation": "kitchen - 廚房 cyu4 fong2 (kitchen)",
+        "explanation": "This is a room used for cooking."
+      },
+      {
+        "word": "木架上",
+        "translation": "wooden shelf - 木架上 muk6 gaa3 seong6 (wooden shelf)",
+        "explanation": "This refers to a structure made of wood for holding items above the ground."
+      },
+      {
+        "word": "的",
+        "translation": "'s - 的 dik1 ('s)",
+        "explanation": "This indicates possession."
+      },
+      {
+        "word": "奶酪輪",
+        "translation": "cheese wheel - 奶酪輪 naai5 lok3 wan4 (cheese wheel)",
+        "explanation": "This is a type of cheese shaped like a wheel."
+      }
+    ],
+    [
+      {
+        "word": "米羅",
+        "translation": "Milo - 米羅 mai5 lo4 (Milo)",
+        "explanation": "This is the mouse's name."
+      },
+      {
+        "word": "長期",
+        "translation": "long for a long time - 長期 coeng4 kei4 (long for a long time)",
+        "explanation": "This describes something that has been desired for an extended period."
+      },
+      {
+        "word": "以來",
+        "translation": "since - 以來 ji5 loi4 (since)",
+        "explanation": "This indicates the start of a time period."
+      },
+      {
+        "word": "都",
+        "translation": "also - 都 dou1 (also)",
+        "explanation": "This shows addition or inclusion."
+      },
+      {
+        "word": "渴望",
+        "translation": "yearning for - 渴望 hot3 mong6 (yearning for)",
+        "explanation": "This means to strongly desire something."
+      },
+      {
+        "word": "那塊",
+        "translation": "that piece - 那塊 naa5 faai3 (that piece)",
+        "explanation": "This refers to a specific portion of something."
+      },
+      {
+        "word": "奶酪",
+        "translation": "cheese - 奶酪 naai5 lok3 (cheese)",
+        "explanation": "This is a dairy product made from milk."
+      }
+    ],
+    [
+      {
+        "word": "這是",
+        "translation": "this is - 這是 ze5 si6 (this is)",
+        "explanation": "This indicates the identification of something."
+      },
+      {
+        "word": "最",
+        "translation": "the most - 最 zeoi3 (the most)",
+        "explanation": "This indicates the highest degree."
+      },
+      {
+        "word": "精緻",
+        "translation": "delicate - 精緻 zing1 zi3 (delicate)",
+        "explanation": "This describes something that is finely crafted."
+      },
+      {
+        "word": "的",
+        "translation": "'s - 的 dik1 ('s)",
+        "explanation": "This indicates possession."
+      },
+      {
+        "word": "切達奶酪",
+        "translation": "cheddar cheese - 切達奶酪 cit3 daat6 naai5 lok3 (cheddar cheese)",
+        "explanation": "This is a type of cheese that is firm and known for its sharp flavor."
+      },
+      {
+        "word": "，",
+        "translation": "- - -",
+        "explanation": "This is a punctuation mark indicating a pause."
+      },
+      {
+        "word": "在",
+        "translation": "in - 在 zoi6 (in, at)",
+        "explanation": "This indicates the location or direction."
+      },
+      {
+        "word": "下午",
+        "translation": "afternoon - 下午 haa6 ng5 (afternoon)",
+        "explanation": "This refers to the time of day between noon and evening."
+      },
+      {
+        "word": "的",
+        "translation": "'s - 的 dik1 ('s)",
+        "explanation": "This indicates possession."
+      },
+      {
+        "word": "陽光下",
+        "translation": "under sunlight - 陽光下 joeng4 gwong1 haa6 (under sunlight)",
+        "explanation": "This describes the light coming from the sun."
+      },
+      {
+        "word": "閃耀著",
+        "translation": "shining - 閃耀著 sim2 jiu6 zoek3 (shining)",
+        "explanation": "This means to emit light or glow."
+      },
+      {
+        "word": "豐富",
+        "translation": "rich - 豐富 fung1 fu3 (rich)",
+        "explanation": "This means abundant or full."
+      },
+      {
+        "word": "的",
+        "translation": "'s - 的 dik1 ('s)",
+        "explanation": "This indicates possession."
+      },
+      {
+        "word": "黃色",
+        "translation": "yellow - 黃色 wong4 sik1 (yellow)",
+        "explanation": "This describes a color."
+      },
+      {
+        "word": "，",
+        "translation": "- - -",
+        "explanation": "This is a punctuation mark indicating a pause."
+      },
+      {
+        "word": "米羅",
+        "translation": "Milo - 米羅 mai5 lo4 (Milo)",
+        "explanation": "This refers to the mouse."
+      },
+      {
+        "word": "幾乎",
+        "translation": "almost - 幾乎 gei2 fu1 (almost)",
+        "explanation": "This means nearly or very close to."
+      },
+      {
+        "word": "可以",
+        "translation": "can - 可以 ho2 ji5 (can)",
+        "explanation": "This indicates ability or permission."
+      },
+      {
+        "word": "在",
+        "translation": "in - 在 zoi6 (in, at)",
+        "explanation": "This indicates the location or direction."
+      },
+      {
+        "word": "夢中",
+        "translation": "dream - 夢中 mung6 zung1 (dream)",
+        "explanation": "This refers to a state of dreaming."
+      },
+      {
+        "word": "嘗到",
+        "translation": "taste - 嘗到 soeng4 dou3 (taste)",
+        "explanation": "This means to perceive flavor through the mouth."
+      },
+      {
+        "word": "它",
+        "translation": "it - 它 taa1 (it)",
+        "explanation": "This refers to a non-person animal or object."
+      }
+    ],
+    [
+      {
+        "word": "但是",
+        "translation": "but",
+        "explanation": "Used to introduce a contrast or contradiction."
+      },
+      {
+        "word": "在",
+        "translation": "under",
+        "explanation": "Indicating a position or condition."
+      },
+      {
+        "word": "威斯克斯",
+        "translation": "Mr. Wiskers",
+        "explanation": "The name of a character, a cat."
+      },
+      {
+        "word": "先生",
+        "translation": "Mr.",
+        "explanation": "A title used as a form of address."
+      },
+      {
+        "word": "的",
+        "translation": "'s",
+        "explanation": "A possessive particle that shows ownership."
+      },
+      {
+        "word": "巡邏",
+        "translation": "patrol",
+        "explanation": "The act of walking or monitoring an area."
+      },
+      {
+        "word": "下",
+        "translation": "under",
+        "explanation": "Denoting a position below or beneath."
+      },
+      {
+        "word": "每一次",
+        "translation": "every time",
+        "explanation": "Refers to each instance."
+      },
+      {
+        "word": "試圖",
+        "translation": "attempt",
+        "explanation": "To try or make an effort."
+      },
+      {
+        "word": "偷取",
+        "translation": "steal",
+        "explanation": "To take something unlawfully."
+      },
+      {
+        "word": "一小塊",
+        "translation": "a small piece",
+        "explanation": "Refers to a tiny part of something."
+      },
+      {
+        "word": "的",
+        "translation": "of",
+        "explanation": "A particle showing relation."
+      },
+      {
+        "word": "努力",
+        "translation": "effort",
+        "explanation": "The work put into doing something."
+      },
+      {
+        "word": "都",
+        "translation": "all",
+        "explanation": "Indicates that every instance applies."
+      },
+      {
+        "word": "以",
+        "translation": "end with",
+        "explanation": "Used to indicate the result of an action."
+      },
+      {
+        "word": "逃進",
+        "translation": "escape into",
+        "explanation": "To flee into a place."
+      },
+      {
+        "word": "牆壁",
+        "translation": "the wall",
+        "explanation": "The physical structure surrounding a space."
+      },
+      {
+        "word": "而",
+        "translation": "and",
+        "explanation": "Used to connect two ideas."
+      },
+      {
+        "word": "告終",
+        "translation": "end",
+        "explanation": "To finish or complete something."
+      }
+    ],
+    [
+      {
+        "word": "一天",
+        "translation": "one day",
+        "explanation": "Refers to a single day."
+      },
+      {
+        "word": "晚上",
+        "translation": "night",
+        "explanation": "The time of day after sunset."
+      },
+      {
+        "word": "當",
+        "translation": "when",
+        "explanation": "Indicating the time at which something happens."
+      },
+      {
+        "word": "太陽",
+        "translation": "the sun",
+        "explanation": "The star at the center of our solar system."
+      },
+      {
+        "word": "落在",
+        "translation": "sets on",
+        "explanation": "Refers to the sun going down beneath the horizon."
+      },
+      {
+        "word": "地平線",
+        "translation": "the horizon",
+        "explanation": "Where the earth's surface and the sky appear to meet."
+      },
+      {
+        "word": "下",
+        "translation": "below",
+        "explanation": "Indicating a lower position."
+      },
+      {
+        "word": "天空",
+        "translation": "the sky",
+        "explanation": "The expanse of air over the Earth."
+      },
+      {
+        "word": "被",
+        "translation": "is",
+        "explanation": "Indicating a passive state."
+      },
+      {
+        "word": "橙色",
+        "translation": "orange",
+        "explanation": "A color."
+      },
+      {
+        "word": "和",
+        "translation": "and",
+        "explanation": "Used to connect words."
+      },
+      {
+        "word": "紫色",
+        "translation": "purple",
+        "explanation": "Another color."
+      },
+      {
+        "word": "的",
+        "translation": "of",
+        "explanation": "A particle showing relation."
+      },
+      {
+        "word": "色調",
+        "translation": "hues",
+        "explanation": "Refers to shades or tones of color."
+      },
+      {
+        "word": "照亮",
+        "translation": "illuminate",
+        "explanation": "To provide light to something."
+      },
+      {
+        "word": "時",
+        "translation": "when",
+        "explanation": "Referring to a specific time."
+      },
+      {
+        "word": "米羅",
+        "translation": "Milo",
+        "explanation": "The name of a character."
+      },
+      {
+        "word": "想出",
+        "translation": "came up with",
+        "explanation": "Means to invent or create an idea."
+      },
+      {
+        "word": "了",
+        "translation": "(aspect particle)",
+        "explanation": "Indicates a completed action."
+      },
+      {
+        "word": "一個",
+        "translation": "a",
+        "explanation": "Refers to one."
+      },
+      {
+        "word": "計劃",
+        "translation": "plan",
+        "explanation": "A detailed proposal for achieving something."
+      }
+    ],
+    [
+      {
+        "word": "他",
+        "translation": "he",
+        "explanation": "Refers to a male person."
+      },
+      {
+        "word": "知道",
+        "translation": "knows",
+        "explanation": "To be aware of something."
+      },
+      {
+        "word": "，",
+        "translation": ",",
+        "explanation": "Comma used for separation."
+      },
+      {
+        "word": "他",
+        "translation": "he",
+        "explanation": "Refers to a male person."
+      },
+      {
+        "word": "需要",
+        "translation": "needs",
+        "explanation": "To require something."
+      },
+      {
+        "word": "智取",
+        "translation": "outsmart",
+        "explanation": "To gain an advantage through cleverness."
+      },
+      {
+        "word": "威斯克斯",
+        "translation": "Mr. Wiskers",
+        "explanation": "A character's name."
+      },
+      {
+        "word": "先生",
+        "translation": "Mr.",
+        "explanation": "A title used as a form of address."
+      },
+      {
+        "word": "，",
+        "translation": ",",
+        "explanation": "Comma used for separation."
+      },
+      {
+        "word": "而不是",
+        "translation": "instead of",
+        "explanation": "To indicate an alternative."
+      },
+      {
+        "word": "試著",
+        "translation": "try to",
+        "explanation": "To make an effort."
+      },
+      {
+        "word": "跑過去",
+        "translation": "run over",
+        "explanation": "To move quickly to a location."
+      },
+      {
+        "word": "。",
+        "translation": ".",
+        "explanation": "Period indicating the end of a sentence."
+      }
+    ],
+    [
+      {
+        "word": "首先",
+        "translation": "first",
+        "explanation": "Indicating the first step."
+      },
+      {
+        "word": "，",
+        "translation": ",",
+        "explanation": "Comma used for separation."
+      },
+      {
+        "word": "他",
+        "translation": "he",
+        "explanation": "Refers to a male person."
+      },
+      {
+        "word": "觀察",
+        "translation": "observed",
+        "explanation": "To watch closely."
+      },
+      {
+        "word": "了",
+        "translation": "(aspect particle)",
+        "explanation": "Indicates a completed action."
+      },
+      {
+        "word": "貓",
+        "translation": "the cat",
+        "explanation": "Refers to a feline animal."
+      },
+      {
+        "word": "的",
+        "translation": "'s",
+        "explanation": "A possessive particle showing ownership."
+      },
+      {
+        "word": "日常",
+        "translation": "daily",
+        "explanation": "Referring to everyday activities."
+      },
+      {
+        "word": "行為",
+        "translation": "behavior",
+        "explanation": "The way that animals or people act."
+      },
+      {
+        "word": "。",
+        "translation": ".",
+        "explanation": "Period indicating the end of a sentence."
+      }
+    ],
+    [
+      {
+        "word": "每晚",
+        "translation": "every night",
+        "explanation": "Refers to each night."
+      },
+      {
+        "word": "，",
+        "translation": ",",
+        "explanation": "Comma used for separation."
+      },
+      {
+        "word": "黃昏",
+        "translation": "dusk",
+        "explanation": "The time just before night."
+      },
+      {
+        "word": "過後",
+        "translation": "after",
+        "explanation": "Indicating following a time."
+      },
+      {
+        "word": "，",
+        "translation": ",",
+        "explanation": "Comma used for separation."
+      },
+      {
+        "word": "威斯克斯",
+        "translation": "Mr. Wiskers",
+        "explanation": "The name of a character."
+      },
+      {
+        "word": "先生",
+        "translation": "Mr.",
+        "explanation": "A title used as a form of address."
+      },
+      {
+        "word": "會",
+        "translation": "will",
+        "explanation": "Indicating future action."
+      },
+      {
+        "word": "懶洋洋",
+        "translation": "lazily",
+        "explanation": "Doing something without energy."
+      },
+      {
+        "word": "地",
+        "translation": "ly",
+        "explanation": "A particle used to create an adverb."
+      },
+      {
+        "word": "躺在",
+        "translation": "lie on",
+        "explanation": "To recline or rest on a surface."
+      },
+      {
+        "word": "沙發",
+        "translation": "the sofa",
+        "explanation": "A piece of furniture for sitting."
+      },
+      {
+        "word": "上",
+        "translation": "on",
+        "explanation": "Indicating position above."
+      },
+      {
+        "word": "，",
+        "translation": ",",
+        "explanation": "Comma used for separation."
+      },
+      {
+        "word": "享受",
+        "translation": "enjoy",
+        "explanation": "To take pleasure in."
+      },
+      {
+        "word": "著",
+        "translation": "(continuative particle)",
+        "explanation": "Shows an ongoing action."
+      },
+      {
+        "word": "悠閒",
+        "translation": "leisurely",
+        "explanation": "Doing something in a relaxed manner."
+      },
+      {
+        "word": "伸展",
+        "translation": "stretch",
+        "explanation": "To extend one's limbs."
+      },
+      {
+        "word": "，",
+        "translation": ",",
+        "explanation": "Comma used for separation."
+      },
+      {
+        "word": "然後",
+        "translation": "then",
+        "explanation": "To indicate a sequence of events."
+      },
+      {
+        "word": "安穩",
+        "translation": "smoothly",
+        "explanation": "In a stable or secure manner."
+      },
+      {
+        "word": "地",
+        "translation": "ly",
+        "explanation": "A particle used to create an adverb."
+      },
+      {
+        "word": "打盹",
+        "translation": "doze",
+        "explanation": "To sleep lightly."
+      }
+    ],
+    [
+      {
+        "word": "米羅",
+        "translation": "Milo",
+        "explanation": "Milo is a name."
+      },
+      {
+        "word": "的",
+        "translation": "'s",
+        "explanation": "This shows possession or relationship."
+      },
+      {
+        "word": "搶劫",
+        "translation": "robbery",
+        "explanation": "Robbery is taking something from someone illegally."
+      },
+      {
+        "word": "時刻",
+        "translation": "moment",
+        "explanation": "Moment is a specific point in time."
+      },
+      {
+        "word": "終於",
+        "translation": "finally",
+        "explanation": "Finally means something has happened after a long wait."
+      },
+      {
+        "word": "到來",
+        "translation": "arrived",
+        "explanation": "Arrived means came to a place."
+      }
+    ],
+    [
+      {
+        "word": "米羅",
+        "translation": "Milo",
+        "explanation": "Milo is a name."
+      },
+      {
+        "word": "開始",
+        "translation": "began",
+        "explanation": "Began means to start doing something."
+      },
+      {
+        "word": "製造",
+        "translation": "create",
+        "explanation": "Create means to make something."
+      },
+      {
+        "word": "一個",
+        "translation": "a",
+        "explanation": "A means one of something."
+      },
+      {
+        "word": "分心",
+        "translation": "distraction",
+        "explanation": "Distraction is something that takes attention away."
+      },
+      {
+        "word": "的",
+        "translation": "'s",
+        "explanation": "This shows possession or relationship."
+      },
+      {
+        "word": "事件",
+        "translation": "event",
+        "explanation": "Event is something that happens."
+      }
+    ],
+    [
+      {
+        "word": "他",
+        "translation": "he",
+        "explanation": "He is a pronoun used for a male."
+      },
+      {
+        "word": "收集",
+        "translation": "collected",
+        "explanation": "Collected means to gather things together."
+      },
+      {
+        "word": "了",
+        "translation": "(completed action marker)",
+        "explanation": "This indicates the action is finished."
+      },
+      {
+        "word": "小片",
+        "translation": "small pieces",
+        "explanation": "Small pieces refer to tiny parts of something."
+      },
+      {
+        "word": "皺巴巴",
+        "translation": "wrinkled",
+        "explanation": "Wrinkled means having many folds and creases."
+      },
+      {
+        "word": "的",
+        "translation": "'s",
+        "explanation": "This shows possession or relationship."
+      },
+      {
+        "word": "紙",
+        "translation": "paper",
+        "explanation": "Paper is a material used for writing."
+      },
+      {
+        "word": "整晚",
+        "translation": "all night",
+        "explanation": "All night means throughout the whole night."
+      },
+      {
+        "word": "攻擊",
+        "translation": "attacking",
+        "explanation": "Attacking means to strike or hit something."
+      },
+      {
+        "word": "它們",
+        "translation": "them",
+        "explanation": "Them refers to the small pieces."
+      },
+      {
+        "word": "製造",
+        "translation": "create",
+        "explanation": "Create means to make something."
+      },
+      {
+        "word": "出",
+        "translation": "out",
+        "explanation": "Out indicates direction away from a place."
+      },
+      {
+        "word": "各種",
+        "translation": "various",
+        "explanation": "Various means different types."
+      },
+      {
+        "word": "角落",
+        "translation": "corners",
+        "explanation": "Corners are the edges or points where lines meet."
+      },
+      {
+        "word": "的",
+        "translation": "'s",
+        "explanation": "This shows possession or relationship."
+      },
+      {
+        "word": "喧嘩",
+        "translation": "noise",
+        "explanation": "Noise is a loud sound."
+      }
+    ],
+    [
+      {
+        "word": "每",
+        "translation": "every",
+        "explanation": "Every means each one."
+      },
+      {
+        "word": "晚",
+        "translation": "night",
+        "explanation": "Night refers to the time of day after sunset."
+      },
+      {
+        "word": "威斯克斯",
+        "translation": "Mr. Wiskers",
+        "explanation": "Mr. Wiskers is a name."
+      },
+      {
+        "word": "先生",
+        "translation": "Mister",
+        "explanation": "Mister is a title for a man."
+      },
+      {
+        "word": "都",
+        "translation": "always",
+        "explanation": "Always means at all times."
+      },
+      {
+        "word": "會",
+        "translation": "would",
+        "explanation": "Would means likely or probable."
+      },
+      {
+        "word": "從",
+        "translation": "from",
+        "explanation": "From indicates the starting point."
+      },
+      {
+        "word": "打盹",
+        "translation": "napping",
+        "explanation": "Napping means sleeping briefly."
+      },
+      {
+        "word": "中",
+        "translation": "in",
+        "explanation": "In indicates location."
+      },
+      {
+        "word": "醒來",
+        "translation": "woke up",
+        "explanation": "Woke up means to stop sleeping."
+      },
+      {
+        "word": "困惑",
+        "translation": "confused",
+        "explanation": "Confused means unsure or unclear."
+      },
+      {
+        "word": "地",
+        "translation": "ly (adverbial marker)",
+        "explanation": "This indicates how an action is done."
+      },
+      {
+        "word": "調查",
+        "translation": "investigate",
+        "explanation": "Investigate means to look into something closely."
+      },
+      {
+        "word": "噪音",
+        "translation": "noise",
+        "explanation": "Noise is a loud sound."
+      },
+      {
+        "word": "的",
+        "translation": "'s",
+        "explanation": "This shows possession or relationship."
+      },
+      {
+        "word": "來源",
+        "translation": "source",
+        "explanation": "Source is the place from where something comes."
+      },
+      {
+        "word": "暫時",
+        "translation": "temporarily",
+        "explanation": "Temporarily means for a short time."
+      },
+      {
+        "word": "讓",
+        "translation": "let",
+        "explanation": "Let means to allow."
+      },
+      {
+        "word": "奶酪",
+        "translation": "cheese",
+        "explanation": "Cheese is a dairy product."
+      },
+      {
+        "word": "處於",
+        "translation": "be in",
+        "explanation": "Be in indicates being located or existing in a state."
+      },
+      {
+        "word": "無人",
+        "translation": "unattended",
+        "explanation": "Unattended means not being watched."
+      },
+      {
+        "word": "看管",
+        "translation": "guarded",
+        "explanation": "Guarded means to be watched over."
+      },
+      {
+        "word": "的",
+        "translation": "'s",
+        "explanation": "This shows possession or relationship."
+      },
+      {
+        "word": "狀態",
+        "translation": "state",
+        "explanation": "State means condition or situation."
+      }
+    ],
+    [
+      {
+        "word": "在",
+        "translation": "on",
+        "explanation": "On indicates position."
+      },
+      {
+        "word": "米羅",
+        "translation": "Milo",
+        "explanation": "Milo is a name."
+      },
+      {
+        "word": "惡作劇",
+        "translation": "prank",
+        "explanation": "Prank means a fun trick."
+      },
+      {
+        "word": "的",
+        "translation": "'s",
+        "explanation": "This shows possession or relationship."
+      },
+      {
+        "word": "第三",
+        "translation": "third",
+        "explanation": "Third means the number three in a series."
+      },
+      {
+        "word": "個",
+        "translation": "(classifier)",
+        "explanation": "A measure word for counting."
+      },
+      {
+        "word": "晚上",
+        "translation": "nights",
+        "explanation": "Nights refers to multiple occurrences of night."
+      },
+      {
+        "word": "他",
+        "translation": "he",
+        "explanation": "He is a pronoun used for a male."
+      },
+      {
+        "word": "注意到",
+        "translation": "noticed",
+        "explanation": "Noticed means to become aware of something."
+      },
+      {
+        "word": "了",
+        "translation": "(completed action marker)",
+        "explanation": "This indicates the action is finished."
+      },
+      {
+        "word": "一個",
+        "translation": "a",
+        "explanation": "A means one of something."
+      },
+      {
+        "word": "關鍵",
+        "translation": "key",
+        "explanation": "Key means something essential or important."
+      },
+      {
+        "word": "的",
+        "translation": "'s",
+        "explanation": "This shows possession or relationship."
+      },
+      {
+        "word": "細節",
+        "translation": "detail",
+        "explanation": "Detail refers to a small piece of information."
+      }
+    ],
+    [
+      {
+        "word": "威斯克斯",
+        "translation": "Mr. Whiskers - 威 nei5 (wi) 斯 si1 (s) 克 hak1 (k) 斯 si1 (s)",
+        "explanation": "The name of a character, which is Mr. Whiskers."
+      },
+      {
+        "word": "有",
+        "translation": "has - 有 jau5 (to have)",
+        "explanation": "This word indicates possession."
+      },
+      {
+        "word": "一個",
+        "translation": "a - 一 jat1 (one) 個 go3 (a unit)",
+        "explanation": "This signifies one item."
+      },
+      {
+        "word": "最喜愛",
+        "translation": "favorite - 最 zeoi3 (most) 喜喜 hei2 (like) 愛 oi3 (love)",
+        "explanation": "This shows the highest degree of liking."
+      },
+      {
+        "word": "的小鼠毛絨玩具",
+        "translation": "small mouse plush toy - 的 dik1 (of) 小 siu2 (small) 鼠 syu3 (mouse) 毛絨 mou4 jung4 (plush) 玩具 wan4 geoi6 (toy)",
+        "explanation": "This describes a toy that is a small mouse made of soft material."
+      },
+      {
+        "word": "他",
+        "translation": "he - 他 ta1 (he)",
+        "explanation": "Refers to Mr. Whiskers."
+      },
+      {
+        "word": "常常",
+        "translation": "often - 常 soeng4 (often) 常 soeng4 (always)",
+        "explanation": "This indicates frequency."
+      },
+      {
+        "word": "撲上去",
+        "translation": "pounce on - 撲 pook3 (pounce) 上 soeng5 (on) 去 heoi3 (go)",
+        "explanation": "Indicates the action of jumping onto something."
+      }
+    ],
+    [
+      {
+        "word": "如果",
+        "translation": "if - 如果 jyu4 gwo2 (if)",
+        "explanation": "This introduces a condition."
+      },
+      {
+        "word": "他",
+        "translation": "he - 他 ta1 (he)",
+        "explanation": "Refers to Mr. Whiskers."
+      },
+      {
+        "word": "能",
+        "translation": "can - 能 nang4 (can)",
+        "explanation": "Indicates ability."
+      },
+      {
+        "word": "利用",
+        "translation": "utilize - 利 lei6 (benefit) 用 jung6 (use)",
+        "explanation": "To make use of something."
+      },
+      {
+        "word": "這一點",
+        "translation": "this point - 這 ze5 (this) 一 jat1 (one) 點 dim2 (point)",
+        "explanation": "Refers to a specific aspect or point."
+      },
+      {
+        "word": "那個計畫",
+        "translation": "that plan - 那 na4 (that) 個 go3 (a unit) 計畫 gai3 waak6 (plan)",
+        "explanation": "Refers to a specific plan."
+      },
+      {
+        "word": "也許",
+        "translation": "might - 也 ja5 (also) 許 heoi2 (allow)",
+        "explanation": "Indicates possibility."
+      },
+      {
+        "word": "會",
+        "translation": "will - 會 wui5 (will)",
+        "explanation": "Indicates future possibility."
+      },
+      {
+        "word": "成功",
+        "translation": "succeed - 成 seng4 (to become) 功 gung1 (achievement)",
+        "explanation": "Indicates achieving success."
+      }
+    ],
+    [
+      {
+        "word": "米羅",
+        "translation": "Milo - 米 mai5 (rice) 羅 lo4 (to catch)",
+        "explanation": "Name of a character."
+      },
+      {
+        "word": "迅速",
+        "translation": "swiftly - 迅 seon3 (quick) 速 cuk1 (speed)",
+        "explanation": "Describes fast action."
+      },
+      {
+        "word": "衝進",
+        "translation": "dashed into - 衝 cung1 (dash) 進 zeon3 (enter)",
+        "explanation": "Indicates a sudden movement into something."
+      },
+      {
+        "word": "玩具籃",
+        "translation": "toy basket - 玩具 wan4 geoi6 (toy) 籃 laam4 (basket)",
+        "explanation": "Refers to a container for toys."
+      },
+      {
+        "word": "抓住",
+        "translation": "grabbed - 抓 zaa1 (grab) 住 zyu6 (to hold)",
+        "explanation": "Describes taking hold of something."
+      },
+      {
+        "word": "了",
+        "translation": "(completed action marker) - 了 liu5 (completed)",
+        "explanation": "Indicates the action of grabbing is finished."
+      },
+      {
+        "word": "那隻",
+        "translation": "that - 哪 na4 (which) 隻 zek3 (a measure word for animals)",
+        "explanation": "Refers to a specific item."
+      },
+      {
+        "word": "毛絨小鼠",
+        "translation": "plush mouse - 毛絨 mou4 jung4 (plush) 小 siu2 (small) 鼠 syu3 (mouse)",
+        "explanation": "Describes the same soft toy mouse."
+      },
+      {
+        "word": "並",
+        "translation": "and - 並 bing6 (and)",
+        "explanation": "Connects two actions."
+      },
+      {
+        "word": "把它拉到",
+        "translation": "pulled it to - 把 baa2 (to take) 它 ta1 (it) 拉 laai1 (pull) 到 dou3 (to)",
+        "explanation": "Describes the action of pulling."
+      },
+      {
+        "word": "一個角落裡",
+        "translation": "a corner - 一 jat1 (one) 個 go3 (a unit) 角落 go3 lok6 (corner) 裡 leoi5 (inside)",
+        "explanation": "Describes where he pulled it to."
+      }
+    ],
+    [
+      {
+        "word": "他",
+        "translation": "he - 他 ta1 (he)",
+        "explanation": "Refers to Milo."
+      },
+      {
+        "word": "小心翼翼",
+        "translation": "carefully - 小心 siu2 sam1 (cautious) 翼翼 jik6 (careful)",
+        "explanation": "Indicates doing something with caution."
+      },
+      {
+        "word": "地",
+        "translation": "(adverbial particle) - 地 dei6 (indicates manner)",
+        "explanation": "This is used to modify the action."
+      },
+      {
+        "word": "工作",
+        "translation": "worked - 工作 gung1 zok3 (work)",
+        "explanation": "Describes the action of doing work."
+      },
+      {
+        "word": "拔掉",
+        "translation": "pulled out - 拔 baat6 (pull) 掉 diu6 (down)",
+        "explanation": "Describes removing from something."
+      },
+      {
+        "word": "一些",
+        "translation": "some - 一些 jat1 se1 (some)",
+        "explanation": "Indicates a small amount."
+      },
+      {
+        "word": "填充物",
+        "translation": "stuffing - 填充 tin4 chung1 (fill) 物 mat6 (material)",
+        "explanation": "Refers to material used to fill something."
+      },
+      {
+        "word": "製作",
+        "translation": "made - 製作 zai3 zok3 (to make)",
+        "explanation": "Describes creating something."
+      },
+      {
+        "word": "了一個迷你",
+        "translation": "a mini - 了 liu5 (to complete) 一個 jat1 go3 (one) 迷你 mai4 nei5 (mini)",
+        "explanation": "Indicates a small version of something."
+      },
+      {
+        "word": "誘飾",
+        "translation": "decoy - 誘 jyu3 (lure) 飾 sik1 (decorative object)",
+        "explanation": "Refers to a small object used to attract."
+      }
+    ],
+    [
+      {
+        "word": "那是",
+        "translation": "that is - 那 naa5 (that) 是 si6 (is)",
+        "explanation": "Indicates that something exists."
+      },
+      {
+        "word": "一個完美的",
+        "translation": "a perfect - 一個 jat1 go3 (one) 完美 wun4 mei5 (perfect)",
+        "explanation": "Describes the quality of being flawless."
+      },
+      {
+        "word": "自己",
+        "translation": "self - 自己 zi6 gei2 (self)",
+        "explanation": "Refers to its own being."
+      },
+      {
+        "word": "複製品",
+        "translation": "replica - 複製 fuk1 zai3 (reproduce) 品 ban2 (product)",
+        "explanation": "Indicates an imitation or copy."
+      },
+      {
+        "word": "雖然",
+        "translation": "although - 雖然 seoi1 jin4 (although)",
+        "explanation": "Describes a contrast."
+      },
+      {
+        "word": "大了一些",
+        "translation": "a bit bigger - 大大 dai6 (big) 咗 zo2 (finished) 一些 jat1 se1 (a bit)",
+        "explanation": "Indicates that it is larger than the original."
+      },
+      {
+        "word": "且",
+        "translation": "and - 且 ce2 (and)",
+        "explanation": "This connects two clauses."
+      },
+      {
+        "word": "覆蓋著毛絨",
+        "translation": "covered with plush - 覆蓋 fuk1 goi3 (to cover) 著 zoek3 (to wear) 毛絨 mou4 jung4 (plush)",
+        "explanation": "Describes being enveloped by soft material."
+      }
+    ],
+    [
+      {
+        "word": "當",
+        "translation": "when - 當 dong1 (when)",
+        "explanation": "This word indicates the time something happens."
+      },
+      {
+        "word": "夜幕",
+        "translation": "night - 夜幕 je6 muk6 (night curtain)",
+        "explanation": "This refers to the onset of night."
+      },
+      {
+        "word": "降臨",
+        "translation": "arrives - 降臨 gong3 lam4 (descend arrive)",
+        "explanation": "This describes the action of night coming."
+      },
+      {
+        "word": "時",
+        "translation": "time - 時 si4 (time)",
+        "explanation": "This is a reference to a period."
+      },
+      {
+        "word": "米羅",
+        "translation": "Milo - 米羅 mai5 lo4 (Milo)",
+        "explanation": "This is a person's name."
+      },
+      {
+        "word": "把",
+        "translation": "(indicates the following noun is affected) - 把 baa2 (handling)",
+        "explanation": "This word indicates that the next object is being handled or affected."
+      },
+      {
+        "word": "誘飾",
+        "translation": "decoy - 誘飾 jiu5 sik1 (enticing decoration)",
+        "explanation": "This refers to an object used to attract attention."
+      },
+      {
+        "word": "放",
+        "translation": "placed - 放 fong3 (put)",
+        "explanation": "This describes the action of putting something down."
+      },
+      {
+        "word": "在",
+        "translation": "in - 在 zoi6 (in)",
+        "explanation": "This preposition shows the location."
+      },
+      {
+        "word": "房間",
+        "translation": "room - 房間 fong4 gaan1 (room space)",
+        "explanation": "This refers to a physical space within a building."
+      },
+      {
+        "word": "的",
+        "translation": "(possessive particle) - 的 dik1 (of)",
+        "explanation": "This word links nouns together."
+      },
+      {
+        "word": "最",
+        "translation": "furthest - 最 zeoi3 (most)",
+        "explanation": "This indicates the superlative level."
+      },
+      {
+        "word": "遠處",
+        "translation": "distant place - 遠處 jyun5 cyu3 (far place)",
+        "explanation": "This means a location that is far away."
+      }
+    ],
+    [
+      {
+        "word": "他",
+        "translation": "he - 他 taa1 (he)",
+        "explanation": "This refers to Milo."
+      },
+      {
+        "word": "輕輕地",
+        "translation": "gently - 輕輕地 hing1 hing1 dei6 (softly)",
+        "explanation": "This describes the manner of the action."
+      },
+      {
+        "word": "推動",
+        "translation": "pushed - 推動 teoi1 dung6 (push move)",
+        "explanation": "This describes the action of applying force to make something move."
+      },
+      {
+        "word": "它",
+        "translation": "it - 它 taa1 (it)",
+        "explanation": "This refers to the decoy."
+      },
+      {
+        "word": "讓",
+        "translation": "make it - 讓 joeng6 (let)",
+        "explanation": "This indicates causing something to happen."
+      },
+      {
+        "word": "看起來",
+        "translation": "looks like - 看起來 hon3 hei2 loi4 (looks like)",
+        "explanation": "This describes the appearance of the decoy."
+      },
+      {
+        "word": "就像",
+        "translation": "just like - 就像 zau6 coeng4 (exactly like)",
+        "explanation": "This establishes a comparison."
+      },
+      {
+        "word": "在",
+        "translation": "in - 在 zoi6 (in)",
+        "explanation": "This preposition shows where the action is happening."
+      },
+      {
+        "word": "移動",
+        "translation": "moving - 移動 ji4 dung6 (move)",
+        "explanation": "This describes the action of changing location."
+      }
+    ],
+    [
+      {
+        "word": "然後",
+        "translation": "then - 然後 jin4 hau6 (after that)",
+        "explanation": "This indicates something happens next."
+      },
+      {
+        "word": "他",
+        "translation": "he - 他 taa1 (he)",
+        "explanation": "This refers to Milo."
+      },
+      {
+        "word": "退到",
+        "translation": "retreated to - 退到 teoi3 dou3 (back to)",
+        "explanation": "This describes moving backwards to a location."
+      },
+      {
+        "word": "一個",
+        "translation": "a - 一個 jat1 go3 (one)",
+        "explanation": "This quantifies a single object."
+      },
+      {
+        "word": "茶壺",
+        "translation": "teapot - 茶壺 ca4 wu4 (tea pot)",
+        "explanation": "This is a kind of container for tea."
+      },
+      {
+        "word": "後面",
+        "translation": "behind - 後面 hau6 min6 (behind side)",
+        "explanation": "This indicates the location is at the back."
+      },
+      {
+        "word": "心中",
+        "translation": "inside heart - 心中 sam1 zung1 (heart center)",
+        "explanation": "This refers to someone's feelings."
+      },
+      {
+        "word": "激動不已",
+        "translation": "extremely excited - 激動不已 gik1 dung6 bat1 ji5 (excited no end)",
+        "explanation": "This describes a strong feeling of excitement."
+      }
+    ],
+    [
+      {
+        "word": "果然",
+        "translation": "sure enough - 果然 gwo2 jin4 (indeed)",
+        "explanation": "This indicates that something happened as expected."
+      },
+      {
+        "word": "不久",
+        "translation": "before long - 不久 bat1 gau2 (not long)",
+        "explanation": "This indicates that something will happen soon."
+      },
+      {
+        "word": "之後",
+        "translation": "after - 之後 zi1 hau6 (after that)",
+        "explanation": "This indicates the passage of time."
+      },
+      {
+        "word": "威斯克斯",
+        "translation": "Mr. Wiskers - 威斯克斯 Wai1 si1 haak3 si1 (Mr. Wiskers)",
+        "explanation": "This is a person's name."
+      },
+      {
+        "word": "先生",
+        "translation": "Mr. - 先生 sin1 saang1 (mister)",
+        "explanation": "A polite way to address a man."
+      },
+      {
+        "word": "從",
+        "translation": "from - 從 cung4 (from)",
+        "explanation": "This preposition indicates the point of origin."
+      },
+      {
+        "word": "睡夢",
+        "translation": "dream - 睡夢 seoi6 mung6 (sleep dream)",
+        "explanation": "This refers to the state of sleeping."
+      },
+      {
+        "word": "中",
+        "translation": "in - 中 zung1 (in)",
+        "explanation": "This preposition indicates being inside."
+      },
+      {
+        "word": "醒來",
+        "translation": "woke up - 醒來 saang2 loi4 (become awake)",
+        "explanation": "This describes the action of becoming awake."
+      },
+      {
+        "word": "注意到",
+        "translation": "noticed - 注意到 zyu3 ji3 dou3 (pay attention to)",
+        "explanation": "This means to become aware of something."
+      },
+      {
+        "word": "移動",
+        "translation": "moving - 移動 ji4 dung6 (move)",
+        "explanation": "This describes the action of something that is changing position."
+      },
+      {
+        "word": "的",
+        "translation": "(particle) - 的 dik1 (of)",
+        "explanation": "This word links nouns together."
+      },
+      {
+        "word": "影子",
+        "translation": "shadow - 影子 jing2 zi2 (shadow character)",
+        "explanation": "This refers to a dark shape seen when light shines."
+      }
+    ],
+    [
+      {
+        "word": "啊哈",
+        "translation": "Aha! - 啊哈 aa3 haa1 (aha)",
+        "explanation": "This is an expression of realization."
+      },
+      {
+        "word": "他",
+        "translation": "he - 他 taa1 (he)",
+        "explanation": "This refers to Mr. Wiskers."
+      },
+      {
+        "word": "想",
+        "translation": "thought - 想 soeng2 (think)",
+        "explanation": "This describes an action of thinking."
+      },
+      {
+        "word": "伸展",
+        "translation": "stretch - 伸展 san1 zin2 (extend)",
+        "explanation": "This describes the action of extending one's limbs."
+      },
+      {
+        "word": "並",
+        "translation": "and - 並 bing6 (and)",
+        "explanation": "This word connects actions."
+      },
+      {
+        "word": "打哈欠",
+        "translation": "yawned - 打哈欠 daa2 haa1 hin3 (to make a yawn)",
+        "explanation": "This describes the action of yawning."
+      },
+      {
+        "word": "我",
+        "translation": "I - 我 ngo5 (I)",
+        "explanation": "This refers to the speaker."
+      },
+      {
+        "word": "家裡",
+        "translation": "at home - 家裡 gaa1 leoi5 (home inside)",
+        "explanation": "This refers to the location being home."
+      },
+      {
+        "word": "有",
+        "translation": "have - 有 jau5 (exist)",
+        "explanation": "This indicates possession."
+      },
+      {
+        "word": "隻",
+        "translation": "a (for animals) - 隻 zek3 (one)",
+        "explanation": "This is a measure word for animals."
+      },
+      {
+        "word": "鼠",
+        "translation": "mouse - 鼠 syu2 (mouse)",
+        "explanation": "This refers to a small rodent."
+      }
+    ],
+    [
+      {
+        "word": "威斯克斯",
+        "translation": "Mr. Whiskers",
+        "explanation": "This is the name of a character in the sentence."
+      },
+      {
+        "word": "迅速",
+        "translation": "quickly",
+        "explanation": "It describes how fast Mr. Whiskers acted."
+      },
+      {
+        "word": "行動",
+        "translation": "action",
+        "explanation": "This refers to what Mr. Whiskers did."
+      },
+      {
+        "word": "像",
+        "translation": "like",
+        "explanation": "This is a comparison word."
+      },
+      {
+        "word": "箭",
+        "translation": "arrow",
+        "explanation": "It represents something that moves very fast."
+      },
+      {
+        "word": "一樣",
+        "translation": "the same",
+        "explanation": "This indicates similarity."
+      },
+      {
+        "word": "衝向",
+        "translation": "charged towards",
+        "explanation": "It describes the direction in which Mr. Whiskers moved."
+      },
+      {
+        "word": "誘飾",
+        "translation": "the lure",
+        "explanation": "This refers to something that attracts Mr. Whiskers."
+      },
+      {
+        "word": "速度",
+        "translation": "speed",
+        "explanation": "It is the measure of how fast Mr. Whiskers was moving."
+      },
+      {
+        "word": "足以",
+        "translation": "enough to",
+        "explanation": "It indicates sufficient capability."
+      },
+      {
+        "word": "讓",
+        "translation": "make",
+        "explanation": "This word refers to causing someone to feel."
+      },
+      {
+        "word": "任何",
+        "translation": "any",
+        "explanation": "It means all types."
+      },
+      {
+        "word": "小鼠",
+        "translation": "mouse",
+        "explanation": "This refers to a small animal."
+      },
+      {
+        "word": "心驚膽顫",
+        "translation": "fearful and trembling",
+        "explanation": "This describes the feeling of being scared."
+      }
+    ],
+    [
+      {
+        "word": "但",
+        "translation": "but",
+        "explanation": "This is a conjunction used to contrast ideas."
+      },
+      {
+        "word": "米羅",
+        "translation": "Milo",
+        "explanation": "This is the name of another character."
+      },
+      {
+        "word": "的",
+        "translation": "of",
+        "explanation": "This shows possession or connection."
+      },
+      {
+        "word": "計劃",
+        "translation": "plan",
+        "explanation": "This refers to what Milo had thought out."
+      },
+      {
+        "word": "完美",
+        "translation": "perfect",
+        "explanation": "This means without any flaws."
+      },
+      {
+        "word": "無缺",
+        "translation": "flawless",
+        "explanation": "This emphasizes that the plan is completely good."
+      }
+    ],
+    [
+      {
+        "word": "當",
+        "translation": "when",
+        "explanation": "This indicates a specific time."
+      },
+      {
+        "word": "威斯克斯",
+        "translation": "Mr. Whiskers",
+        "explanation": "This is the same character from the first sentence."
+      },
+      {
+        "word": "追逐",
+        "translation": "chased",
+        "explanation": "This refers to the action of following something quickly."
+      },
+      {
+        "word": "著",
+        "translation": "(a particle used for ongoing actions)",
+        "explanation": "This indicates the action is in progress."
+      },
+      {
+        "word": "那團",
+        "translation": "that ball",
+        "explanation": "This describes a round shape, likely something fluffy."
+      },
+      {
+        "word": "毛絨球",
+        "translation": "fuzzy ball",
+        "explanation": "This refers to a soft ball-like object."
+      },
+      {
+        "word": "時",
+        "translation": "time",
+        "explanation": "This refers to a point in the timeline."
+      },
+      {
+        "word": "米羅",
+        "translation": "Milo",
+        "explanation": "Again, this is the name of the character."
+      },
+      {
+        "word": "抓住",
+        "translation": "seized",
+        "explanation": "This means to take advantage of an opportunity."
+      },
+      {
+        "word": "了",
+        "translation": "(a particle indicating completion)",
+        "explanation": "This indicates that something has been completed."
+      },
+      {
+        "word": "機會",
+        "translation": "opportunity",
+        "explanation": "This refers to a chance to do something."
+      }
+    ],
+    [
+      {
+        "word": "他",
+        "translation": "He",
+        "explanation": "This refers to Milo."
+      },
+      {
+        "word": "在",
+        "translation": "in",
+        "explanation": "This indicates location."
+      },
+      {
+        "word": "廚房",
+        "translation": "kitchen",
+        "explanation": "This is a place where food is prepared."
+      },
+      {
+        "word": "的",
+        "translation": "of",
+        "explanation": "This shows possession."
+      },
+      {
+        "word": "檯面",
+        "translation": "countertop",
+        "explanation": "This is the flat surface in the kitchen."
+      },
+      {
+        "word": "上",
+        "translation": "on",
+        "explanation": "This indicates position above something."
+      },
+      {
+        "word": "疾跑",
+        "translation": "ran fast",
+        "explanation": "This describes the way he moved quickly."
+      },
+      {
+        "word": "目標",
+        "translation": "target",
+        "explanation": "This means the goal or intention."
+      },
+      {
+        "word": "直指",
+        "translation": "directly aimed at",
+        "explanation": "This describes the directness of the action."
+      },
+      {
+        "word": "奶酪",
+        "translation": "cheese",
+        "explanation": "This is a type of food."
+      }
+    ],
+    [
+      {
+        "word": "當",
+        "translation": "when",
+        "explanation": "This indicates a specific time."
+      },
+      {
+        "word": "他",
+        "translation": "he",
+        "explanation": "This refers to Milo."
+      },
+      {
+        "word": "到達",
+        "translation": "reached",
+        "explanation": "This means to arrive at a place."
+      },
+      {
+        "word": "架子",
+        "translation": "shelf",
+        "explanation": "This is a piece of furniture used to hold items."
+      },
+      {
+        "word": "時",
+        "translation": "when",
+        "explanation": "This refers to a point in time."
+      },
+      {
+        "word": "圖書館",
+        "translation": "library",
+        "explanation": "This is a place where books are kept."
+      },
+      {
+        "word": "的",
+        "translation": "of",
+        "explanation": "This shows possession."
+      },
+      {
+        "word": "時鐘",
+        "translation": "clock",
+        "explanation": "This is a device used to tell time."
+      },
+      {
+        "word": "敲響",
+        "translation": "struck",
+        "explanation": "This means to hit something to make a sound."
+      },
+      {
+        "word": "了",
+        "translation": "(a particle indicating completion)",
+        "explanation": "This indicates the action is finished."
+      },
+      {
+        "word": "午夜",
+        "translation": "midnight",
+        "explanation": "This is the time of night when the clock strikes twelve."
+      },
+      {
+        "word": "為",
+        "translation": "for",
+        "explanation": "This indicates purpose."
+      },
+      {
+        "word": "房間",
+        "translation": "room",
+        "explanation": "This refers to an enclosed space."
+      },
+      {
+        "word": "帶來",
+        "translation": "brought",
+        "explanation": "This means to cause something to happen."
+      },
+      {
+        "word": "悠揚的",
+        "translation": "melodious",
+        "explanation": "This describes a pleasant sound."
+      },
+      {
+        "word": "鈴聲",
+        "translation": "bell sound",
+        "explanation": "This refers to the sound made by a bell."
+      }
+    ],
+    [
+      {
+        "word": "這",
+        "translation": "this - 這 ze5 (this)",
+        "explanation": "A pronoun that refers to something specific or nearby."
+      },
+      {
+        "word": "與",
+        "translation": "with - 與 jyu5 (with)",
+        "explanation": "Indicates connection or accompaniment."
+      },
+      {
+        "word": "威斯克斯",
+        "translation": "Mr. Whiskers - 威斯克斯 Wai1 si1 hak1 si1 (Mr. Whiskers)",
+        "explanation": "A name referring to a character in the sentence."
+      },
+      {
+        "word": "先生",
+        "translation": "Mr - 先生 sin1 saang1 (Mr.)",
+        "explanation": "A title of respect for a male person."
+      },
+      {
+        "word": "拍打",
+        "translation": "to slap - 拍打 paak3 daa2 (to slap)",
+        "explanation": "An action of hitting something gently."
+      },
+      {
+        "word": "誘飾",
+        "translation": "lure - 誘飾 jau5 sik1 (lure)",
+        "explanation": "Refers to something that attracts or tempts."
+      },
+      {
+        "word": "時",
+        "translation": "when - 時 si4 (when)",
+        "explanation": "A time indicator."
+      },
+      {
+        "word": "製造",
+        "translation": "to create - 製造 zai3 zou6 (to create)",
+        "explanation": "Refers to the act of making or producing."
+      },
+      {
+        "word": "的",
+        "translation": "(particle) - 的 dik1 (particle)",
+        "explanation": "A grammatical particle used to indicate possession or connection."
+      },
+      {
+        "word": "喧鬧聲",
+        "translation": "noisy sound - 喧鬧聲 hyun1 naau6 saang1 (noisy sound)",
+        "explanation": "Refers to a loud or disturbing noise."
+      },
+      {
+        "word": "完美",
+        "translation": "perfect - 完美 jyun4 mei5 (perfect)",
+        "explanation": "Describes something without flaws."
+      },
+      {
+        "word": "融合",
+        "translation": "to blend - 融合 jung4 hap6 (to blend)",
+        "explanation": "The action of mixing or combining."
+      },
+      {
+        "word": "他",
+        "translation": "he - 他 ta1 (he)",
+        "explanation": "Refers to a male person."
+      },
+      {
+        "word": "以為",
+        "translation": "thought - 以為 ji5 wai4 (thought)",
+        "explanation": "Indicates a belief or assumption."
+      },
+      {
+        "word": "自己",
+        "translation": "himself - 自己 zi6 gei2 (himself)",
+        "explanation": "Refers to the person in context."
+      },
+      {
+        "word": "終於",
+        "translation": "finally - 終於 zung1 jyu1 (finally)",
+        "explanation": "Indicates the end of a long wait."
+      },
+      {
+        "word": "把",
+        "translation": "to force - 把 baa2 (to force)",
+        "explanation": "A structure indicating something has been handled."
+      },
+      {
+        "word": "晚餐",
+        "translation": "dinner - 晚餐 maan5 caan1 (dinner)",
+        "explanation": "Refers to the evening meal."
+      },
+      {
+        "word": "逼",
+        "translation": "to push - 逼 bik1 (to push)",
+        "explanation": "An action of forcing something into a corner."
+      },
+      {
+        "word": "在",
+        "translation": "in - 在 zoi6 (in)",
+        "explanation": "Indicates location or position."
+      },
+      {
+        "word": "角落",
+        "translation": "corner - 角落 gok3 lok6 (corner)",
+        "explanation": "A place where two lines or surfaces meet."
+      },
+      {
+        "word": "裡",
+        "translation": "inside - 裡 leoi5 (inside)",
+        "explanation": "Refers to the inner part."
+      },
+      {
+        "word": "米羅",
+        "translation": "Milo - 米羅 Mai5 lo4 (Milo)",
+        "explanation": "A name referring to another character."
+      },
+      {
+        "word": "迅速",
+        "translation": "swiftly -  迅速 seon6 cuk1 (swiftly)",
+        "explanation": "Describes the speed of an action."
+      },
+      {
+        "word": "抓住",
+        "translation": "to grab - 抓住 zaau1 zyu6 (to grab)",
+        "explanation": "An action of holding tightly."
+      },
+      {
+        "word": "一塊",
+        "translation": "a piece - 一塊 jat1 faai3 (a piece)",
+        "explanation": "Refers to a portion of something."
+      },
+      {
+        "word": "切達奶酪",
+        "translation": "cheddar cheese - 切達奶酪 cit3 daat6 naai5 lok3 (cheddar cheese)",
+        "explanation": "A specific type of cheese."
+      },
+      {
+        "word": "發現",
+        "translation": "to find - 發現 faat3 jin6 (to find)",
+        "explanation": "Refers to discovering something."
+      },
+      {
+        "word": "它",
+        "translation": "it - 它 taa1 (it)",
+        "explanation": "Refers to a non-human entity."
+      },
+      {
+        "word": "比",
+        "translation": "than - 比 bei2 (than)",
+        "explanation": "Used for comparison."
+      },
+      {
+        "word": "他",
+        "translation": "he - 他 ta1 (he)",
+        "explanation": "Refers to a male person."
+      },
+      {
+        "word": "預想",
+        "translation": "expect - 預想 jyu6 soeng2 (expect)",
+        "explanation": "To anticipate or think about ahead."
+      },
+      {
+        "word": "的",
+        "translation": "(particle) - 的 dik1 (particle)",
+        "explanation": "A grammatical particle."
+      },
+      {
+        "word": "重",
+        "translation": "heavy - 重 zung6 (heavy)",
+        "explanation": "Describes weight."
+      },
+      {
+        "word": "但",
+        "translation": "but - 但 daan6 (but)",
+        "explanation": "Indicates contrast."
+      },
+      {
+        "word": "太",
+        "translation": "too - 太 taai3 (too)",
+        "explanation": "Indicates excessiveness."
+      },
+      {
+        "word": "美味",
+        "translation": "delicious - 美味 mei5 mei6 (delicious)",
+        "explanation": "Describes taste."
+      },
+      {
+        "word": "了",
+        "translation": "(particle) - 了 liu5 (particle)",
+        "explanation": "A particle indicating completed action."
+      },
+      {
+        "word": "無法",
+        "translation": "cannot - 無法 mou4 faat3 (cannot)",
+        "explanation": "Indicates impossibility."
+      },
+      {
+        "word": "留下",
+        "translation": "to leave - 留下 lau4 haa6 (to leave)",
+        "explanation": "Indicates to not take something away."
+      },
+      {
+        "word": "就在",
+        "translation": "just at - 就在 zau6 zoi6 (just at)",
+        "explanation": "Indicates timing or a precise moment."
+      },
+      {
+        "word": "他",
+        "translation": "he - 他 ta1 (he)",
+        "explanation": "Refers to a male person."
+      },
+      {
+        "word": "緊緊",
+        "translation": "tightly - 緊緊 gan2 gan2 (tightly)",
+        "explanation": "Describes how something is held."
+      },
+      {
+        "word": "抱住",
+        "translation": "to hug - 抱住 bou2 zyu6 (to hug)",
+        "explanation": "The action of holding someone or something closely."
+      },
+      {
+        "word": "奶酪",
+        "translation": "cheese - 奶酪 naai5 lok3 (cheese)",
+        "explanation": "A dairy product."
+      },
+      {
+        "word": "的",
+        "translation": "(particle) - 的 dik1 (particle)",
+        "explanation": "A grammatical particle."
+      },
+      {
+        "word": "時候",
+        "translation": "time - 時候 si4 hau6 (time)",
+        "explanation": "Refers to a moment or occasion."
+      },
+      {
+        "word": "威斯克斯先生才",
+        "translation": "Mr. Whiskers only - 威斯克斯先生才 Wai1 si1 hak1 si1 sin1 saang1 coi4 (Mr. Whiskers only)",
+        "explanation": "Refers to Mr. Whiskers in the context."
+      },
+      {
+        "word": "意識到",
+        "translation": "realized - 意識到 ji3 sik1 dou3 (realized)",
+        "explanation": "Means to come to a realization."
+      },
+      {
+        "word": "他",
+        "translation": "he - 他 ta1 (he)",
+        "explanation": "Refers to a male person."
+      },
+      {
+        "word": "被",
+        "translation": "was - 被 bei6 (was)",
+        "explanation": "Indicates passive voice."
+      },
+      {
+        "word": "騙了",
+        "translation": "deceived - 騙了 pin3 liu5 (deceived)",
+        "explanation": "Indicates being misled."
+      },
+      {
+        "word": "米羅",
+        "translation": "Milo - 米羅 Mai5 lo4 (Milo)",
+        "explanation": "A name referring to another character."
+      },
+      {
+        "word": "剛好",
+        "translation": "just right - 剛好 gong1 hou2 (just right)",
+        "explanation": "Means exactly at the right moment."
+      },
+      {
+        "word": "趕回",
+        "translation": "rushed back - 趕回 gon2 wui4 (rushed back)",
+        "explanation": "Means to quickly return."
+      },
+      {
+        "word": "他的",
+        "translation": "his - 他的 keoi5 dik1 (his)",
+        "explanation": "Relates to possession."
+      },
+      {
+        "word": "洞",
+        "translation": "hole - 洞 dung6 (hole)",
+        "explanation": "A hollow space."
+      },
+      {
+        "word": "聽到",
+        "translation": "heard - 聽到 teng1 dou3 (heard)",
+        "explanation": "Indicates the action of listening."
+      },
+      {
+        "word": "威斯克斯",
+        "translation": "Mr. Whiskers - 威斯克斯 Wai1 si1 hak1 si1 (Mr. Whiskers)",
+        "explanation": "Again refers to the same character."
+      },
+      {
+        "word": "先生",
+        "translation": "Mr - 先生 sin1 saang1 (Mr.)",
+        "explanation": "Title for respect."
+      },
+      {
+        "word": "發出",
+        "translation": "let out - 發出 faat3 ceot1 (let out)",
+        "explanation": "Indicates the action of making a sound."
+      },
+      {
+        "word": "困惑",
+        "translation": "confused - 困惑 kwan3 wok6 (confused)",
+        "explanation": "Describes a state of uncertainty."
+      },
+      {
+        "word": "的",
+        "translation": "(particle) - 的 dik1 (particle)",
+        "explanation": "Another grammatical particle."
+      },
+      {
+        "word": "喵聲",
+        "translation": "meow sound - 喵聲 miu1 saang1 (meow sound)",
+        "explanation": "The sound a cat makes."
+      },
+      {
+        "word": "融合",
+        "translation": "to blend - 融合 jung4 hap6 (to blend)",
+        "explanation": "Refers to mixing or combining."
+      },
+      {
+        "word": "在",
+        "translation": "in - 在 zoi6 (in)",
+        "explanation": "Indicates location."
+      },
+      {
+        "word": "他",
+        "translation": "his - 他的 keoi5 dik1 (his)",
+        "explanation": "Relates to possession."
+      },
+      {
+        "word": "自己",
+        "translation": "own - 自己 zi6 gei2 (own)",
+        "explanation": "Refers to oneself."
+      },
+      {
+        "word": "自豪",
+        "translation": "proud - 自豪 zi6 hou4 (proud)",
+        "explanation": "Describes a feeling of satisfaction."
+      },
+      {
+        "word": "的",
+        "translation": "(particle) - 的 dik1 (particle)",
+        "explanation": "A grammatical particle."
+      },
+      {
+        "word": "吱吱聲",
+        "translation": "squeak sound - 吱吱聲 zi1 zi1 saang1 (squeak sound)",
+        "explanation": "The sound a mouse makes."
+      },
+      {
+        "word": "你",
+        "translation": "you - 你 nei5 (you)",
+        "explanation": "Refers to the person being addressed."
+      },
+      {
+        "word": "也許",
+        "translation": "maybe - 也許 jaa5 heoi2 (maybe)",
+        "explanation": "Indicates possibility."
+      },
+      {
+        "word": "在",
+        "translation": "guarding - 在 zoi6 (guarding)",
+        "explanation": "Indicates an action of watching."
+      },
+      {
+        "word": "守著",
+        "translation": "to watch - 守著 sau2 zyu6 (to watch)",
+        "explanation": "Refers to keeping an eye on something."
+      },
+      {
+        "word": "奶酪",
+        "translation": "cheese - 奶酪 naai5 lok3 (cheese)",
+        "explanation": "Refers to the dairy product."
+      },
+      {
+        "word": "但",
+        "translation": "but - 但 daan6 (but)",
+        "explanation": "Indicates contrast."
+      },
+      {
+        "word": "今晚",
+        "translation": "tonight - 今晚 gam1 maan5 (tonight)",
+        "explanation": "Refers to the evening of the current day."
+      },
+      {
+        "word": "我",
+        "translation": "I - 我 ngo5 (I)",
+        "explanation": "The speaker refers to themselves."
+      },
+      {
+        "word": "要",
+        "translation": "want - 要 jiu3 (want)",
+        "explanation": "Indicates desire."
+      },
+      {
+        "word": "大快朵頤",
+        "translation": "feast - 大快朵頤 daai6 faai3 do2 ji4 (feast)",
+        "explanation": "Means to enjoy a big meal."
+      },
+      {
+        "word": "！",
+        "translation": "(exclamation) - (exclamation)",
+        "explanation": "Indicates excitement or emphasis."
+      },
+      {
+        "word": "米羅",
+        "translation": "Milo - 米羅 Mai5 lo4 (Milo)",
+        "explanation": "Again refers to the same character."
+      },
+      {
+        "word": "驕傲",
+        "translation": "proudly - 驕傲 giu1 ngoh6 (proudly)",
+        "explanation": "Describes how Milo expresses himself."
+      },
+      {
+        "word": "吱吱叫",
+        "translation": "squeaked - 吱吱叫 zi1 zi1 giu3 (squeaked)",
+        "explanation": "Indicates the action of making a squeaking sound."
+      },
+      {
+        "word": "道",
+        "translation": "said - 道 dou6 (said)",
+        "explanation": "Used to convey something spoken."
+      }
+    ],
+    [
+      {
+        "word": "這",
+        "translation": "this - 這 ze5 (this)",
+        "explanation": "A pronoun that refers to something specific or nearby."
+      },
+      {
+        "word": "與",
+        "translation": "with - 與 jyu5 (with)",
+        "explanation": "Indicates connection or accompaniment."
+      },
+      {
+        "word": "威斯克斯",
+        "translation": "Mr. Whiskers - 威斯克斯 Wai1 si1 hak1 si1 (Mr. Whiskers)",
+        "explanation": "A name referring to a character in the sentence."
+      },
+      {
+        "word": "先生",
+        "translation": "Mr - 先生 sin1 saang1 (Mr.)",
+        "explanation": "A title of respect for a male person."
+      },
+      {
+        "word": "拍打",
+        "translation": "to slap - 拍打 paak3 daa2 (to slap)",
+        "explanation": "An action of hitting something gently."
+      },
+      {
+        "word": "誘飾",
+        "translation": "lure - 誘飾 jau5 sik1 (lure)",
+        "explanation": "Refers to something that attracts or tempts."
+      },
+      {
+        "word": "時",
+        "translation": "when - 時 si4 (when)",
+        "explanation": "A time indicator."
+      },
+      {
+        "word": "製造",
+        "translation": "to create - 製造 zai3 zou6 (to create)",
+        "explanation": "Refers to the act of making or producing."
+      },
+      {
+        "word": "的",
+        "translation": "(particle) - 的 dik1 (particle)",
+        "explanation": "A grammatical particle used to indicate possession or connection."
+      },
+      {
+        "word": "喧鬧聲",
+        "translation": "noisy sound - 喧鬧聲 hyun1 naau6 saang1 (noisy sound)",
+        "explanation": "Refers to a loud or disturbing noise."
+      },
+      {
+        "word": "完美",
+        "translation": "perfect - 完美 jyun4 mei5 (perfect)",
+        "explanation": "Describes something without flaws."
+      },
+      {
+        "word": "融合",
+        "translation": "to blend - 融合 jung4 hap6 (to blend)",
+        "explanation": "The action of mixing or combining."
+      },
+      {
+        "word": "他",
+        "translation": "he - 他 ta1 (he)",
+        "explanation": "Refers to a male person."
+      },
+      {
+        "word": "以為",
+        "translation": "thought - 以為 ji5 wai4 (thought)",
+        "explanation": "Indicates a belief or assumption."
+      },
+      {
+        "word": "自己",
+        "translation": "himself - 自己 zi6 gei2 (himself)",
+        "explanation": "Refers to the person in context."
+      },
+      {
+        "word": "終於",
+        "translation": "finally - 終於 zung1 jyu1 (finally)",
+        "explanation": "Indicates the end of a long wait."
+      },
+      {
+        "word": "把",
+        "translation": "to force - 把 baa2 (to force)",
+        "explanation": "A structure indicating something has been handled."
+      },
+      {
+        "word": "晚餐",
+        "translation": "dinner - 晚餐 maan5 caan1 (dinner)",
+        "explanation": "Refers to the evening meal."
+      },
+      {
+        "word": "逼",
+        "translation": "to push - 逼 bik1 (to push)",
+        "explanation": "An action of forcing something into a corner."
+      },
+      {
+        "word": "在",
+        "translation": "in - 在 zoi6 (in)",
+        "explanation": "Indicates location or position."
+      },
+      {
+        "word": "角落",
+        "translation": "corner - 角落 gok3 lok6 (corner)",
+        "explanation": "A place where two lines or surfaces meet."
+      },
+      {
+        "word": "裡",
+        "translation": "inside - 裡 leoi5 (inside)",
+        "explanation": "Refers to the inner part."
+      },
+      {
+        "word": "米羅",
+        "translation": "Milo - 米羅 Mai5 lo4 (Milo)",
+        "explanation": "A name referring to another character."
+      },
+      {
+        "word": "迅速",
+        "translation": "swiftly -  迅速 seon6 cuk1 (swiftly)",
+        "explanation": "Describes the speed of an action."
+      },
+      {
+        "word": "抓住",
+        "translation": "to grab - 抓住 zaau1 zyu6 (to grab)",
+        "explanation": "An action of holding tightly."
+      },
+      {
+        "word": "一塊",
+        "translation": "a piece - 一塊 jat1 faai3 (a piece)",
+        "explanation": "Refers to a portion of something."
+      },
+      {
+        "word": "切達奶酪",
+        "translation": "cheddar cheese - 切達奶酪 cit3 daat6 naai5 lok3 (cheddar cheese)",
+        "explanation": "A specific type of cheese."
+      },
+      {
+        "word": "發現",
+        "translation": "to find - 發現 faat3 jin6 (to find)",
+        "explanation": "Refers to discovering something."
+      },
+      {
+        "word": "它",
+        "translation": "it - 它 taa1 (it)",
+        "explanation": "Refers to a non-human entity."
+      },
+      {
+        "word": "比",
+        "translation": "than - 比 bei2 (than)",
+        "explanation": "Used for comparison."
+      },
+      {
+        "word": "他",
+        "translation": "he - 他 ta1 (he)",
+        "explanation": "Refers to a male person."
+      },
+      {
+        "word": "預想",
+        "translation": "expect - 預想 jyu6 soeng2 (expect)",
+        "explanation": "To anticipate or think about ahead."
+      },
+      {
+        "word": "的",
+        "translation": "(particle) - 的 dik1 (particle)",
+        "explanation": "A grammatical particle."
+      },
+      {
+        "word": "重",
+        "translation": "heavy - 重 zung6 (heavy)",
+        "explanation": "Describes weight."
+      },
+      {
+        "word": "但",
+        "translation": "but - 但 daan6 (but)",
+        "explanation": "Indicates contrast."
+      },
+      {
+        "word": "太",
+        "translation": "too - 太 taai3 (too)",
+        "explanation": "Indicates excessiveness."
+      },
+      {
+        "word": "美味",
+        "translation": "delicious - 美味 mei5 mei6 (delicious)",
+        "explanation": "Describes taste."
+      },
+      {
+        "word": "了",
+        "translation": "(particle) - 了 liu5 (particle)",
+        "explanation": "A particle indicating completed action."
+      },
+      {
+        "word": "無法",
+        "translation": "cannot - 無法 mou4 faat3 (cannot)",
+        "explanation": "Indicates impossibility."
+      },
+      {
+        "word": "留下",
+        "translation": "to leave - 留下 lau4 haa6 (to leave)",
+        "explanation": "Indicates to not take something away."
+      },
+      {
+        "word": "就在",
+        "translation": "just at - 就在 zau6 zoi6 (just at)",
+        "explanation": "Indicates timing or a precise moment."
+      },
+      {
+        "word": "他",
+        "translation": "he - 他 ta1 (he)",
+        "explanation": "Refers to a male person."
+      },
+      {
+        "word": "緊緊",
+        "translation": "tightly - 緊緊 gan2 gan2 (tightly)",
+        "explanation": "Describes how something is held."
+      },
+      {
+        "word": "抱住",
+        "translation": "to hug - 抱住 bou2 zyu6 (to hug)",
+        "explanation": "The action of holding someone or something closely."
+      },
+      {
+        "word": "奶酪",
+        "translation": "cheese - 奶酪 naai5 lok3 (cheese)",
+        "explanation": "A dairy product."
+      },
+      {
+        "word": "的",
+        "translation": "(particle) - 的 dik1 (particle)",
+        "explanation": "A grammatical particle."
+      },
+      {
+        "word": "時候",
+        "translation": "time - 時候 si4 hau6 (time)",
+        "explanation": "Refers to a moment or occasion."
+      },
+      {
+        "word": "威斯克斯先生才",
+        "translation": "Mr. Whiskers only - 威斯克斯先生才 Wai1 si1 hak1 si1 sin1 saang1 coi4 (Mr. Whiskers only)",
+        "explanation": "Refers to Mr. Whiskers in the context."
+      },
+      {
+        "word": "意識到",
+        "translation": "realized - 意識到 ji3 sik1 dou3 (realized)",
+        "explanation": "Means to come to a realization."
+      },
+      {
+        "word": "他",
+        "translation": "he - 他 ta1 (he)",
+        "explanation": "Refers to a male person."
+      },
+      {
+        "word": "被",
+        "translation": "was - 被 bei6 (was)",
+        "explanation": "Indicates passive voice."
+      },
+      {
+        "word": "騙了",
+        "translation": "deceived - 騙了 pin3 liu5 (deceived)",
+        "explanation": "Indicates being misled."
+      },
+      {
+        "word": "米羅",
+        "translation": "Milo - 米羅 Mai5 lo4 (Milo)",
+        "explanation": "A name referring to another character."
+      },
+      {
+        "word": "剛好",
+        "translation": "just right - 剛好 gong1 hou2 (just right)",
+        "explanation": "Means exactly at the right moment."
+      },
+      {
+        "word": "趕回",
+        "translation": "rushed back - 趕回 gon2 wui4 (rushed back)",
+        "explanation": "Means to quickly return."
+      },
+      {
+        "word": "他的",
+        "translation": "his - 他的 keoi5 dik1 (his)",
+        "explanation": "Relates to possession."
+      },
+      {
+        "word": "洞",
+        "translation": "hole - 洞 dung6 (hole)",
+        "explanation": "A hollow space."
+      },
+      {
+        "word": "聽到",
+        "translation": "heard - 聽到 teng1 dou3 (heard)",
+        "explanation": "Indicates the action of listening."
+      },
+      {
+        "word": "威斯克斯",
+        "translation": "Mr. Whiskers - 威斯克斯 Wai1 si1 hak1 si1 (Mr. Whiskers)",
+        "explanation": "Again refers to the same character."
+      },
+      {
+        "word": "先生",
+        "translation": "Mr - 先生 sin1 saang1 (Mr.)",
+        "explanation": "Title for respect."
+      },
+      {
+        "word": "發出",
+        "translation": "let out - 發出 faat3 ceot1 (let out)",
+        "explanation": "Indicates the action of making a sound."
+      },
+      {
+        "word": "困惑",
+        "translation": "confused - 困惑 kwan3 wok6 (confused)",
+        "explanation": "Describes a state of uncertainty."
+      },
+      {
+        "word": "的",
+        "translation": "(particle) - 的 dik1 (particle)",
+        "explanation": "Another grammatical particle."
+      },
+      {
+        "word": "喵聲",
+        "translation": "meow sound - 喵聲 miu1 saang1 (meow sound)",
+        "explanation": "The sound a cat makes."
+      },
+      {
+        "word": "融合",
+        "translation": "to blend - 融合 jung4 hap6 (to blend)",
+        "explanation": "Refers to mixing or combining."
+      },
+      {
+        "word": "在",
+        "translation": "in - 在 zoi6 (in)",
+        "explanation": "Indicates location."
+      },
+      {
+        "word": "他",
+        "translation": "his - 他的 keoi5 dik1 (his)",
+        "explanation": "Relates to possession."
+      },
+      {
+        "word": "自己",
+        "translation": "own - 自己 zi6 gei2 (own)",
+        "explanation": "Refers to oneself."
+      },
+      {
+        "word": "自豪",
+        "translation": "proud - 自豪 zi6 hou4 (proud)",
+        "explanation": "Describes a feeling of satisfaction."
+      },
+      {
+        "word": "的",
+        "translation": "(particle) - 的 dik1 (particle)",
+        "explanation": "A grammatical particle."
+      },
+      {
+        "word": "吱吱聲",
+        "translation": "squeak sound - 吱吱聲 zi1 zi1 saang1 (squeak sound)",
+        "explanation": "The sound a mouse makes."
+      },
+      {
+        "word": "你",
+        "translation": "you - 你 nei5 (you)",
+        "explanation": "Refers to the person being addressed."
+      },
+      {
+        "word": "也許",
+        "translation": "maybe - 也許 jaa5 heoi2 (maybe)",
+        "explanation": "Indicates possibility."
+      },
+      {
+        "word": "在",
+        "translation": "guarding - 在 zoi6 (guarding)",
+        "explanation": "Indicates an action of watching."
+      },
+      {
+        "word": "守著",
+        "translation": "to watch - 守著 sau2 zyu6 (to watch)",
+        "explanation": "Refers to keeping an eye on something."
+      },
+      {
+        "word": "奶酪",
+        "translation": "cheese - 奶酪 naai5 lok3 (cheese)",
+        "explanation": "Refers to the dairy product."
+      },
+      {
+        "word": "但",
+        "translation": "but - 但 daan6 (but)",
+        "explanation": "Indicates contrast."
+      },
+      {
+        "word": "今晚",
+        "translation": "tonight - 今晚 gam1 maan5 (tonight)",
+        "explanation": "Refers to the evening of the current day."
+      },
+      {
+        "word": "我",
+        "translation": "I - 我 ngo5 (I)",
+        "explanation": "The speaker refers to themselves."
+      },
+      {
+        "word": "要",
+        "translation": "want - 要 jiu3 (want)",
+        "explanation": "Indicates desire."
+      },
+      {
+        "word": "大快朵頤",
+        "translation": "feast - 大快朵頤 daai6 faai3 do2 ji4 (feast)",
+        "explanation": "Means to enjoy a big meal."
+      },
+      {
+        "word": "！",
+        "translation": "(exclamation) - (exclamation)",
+        "explanation": "Indicates excitement or emphasis."
+      },
+      {
+        "word": "米羅",
+        "translation": "Milo - 米羅 Mai5 lo4 (Milo)",
+        "explanation": "Again refers to the same character."
+      },
+      {
+        "word": "驕傲",
+        "translation": "proudly - 驕傲 giu1 ngoh6 (proudly)",
+        "explanation": "Describes how Milo expresses himself."
+      },
+      {
+        "word": "吱吱叫",
+        "translation": "squeaked - 吱吱叫 zi1 zi1 giu3 (squeaked)",
+        "explanation": "Indicates the action of making a squeaking sound."
+      },
+      {
+        "word": "道",
+        "translation": "said - 道 dou6 (said)",
+        "explanation": "Used to convey something spoken."
+      }
+    ],
+    [
+      {
+        "word": "當",
+        "translation": "when - 當 dong1 (when)",
+        "explanation": "'當' indicates a time or moment when something happens."
+      },
+      {
+        "word": "黎明",
+        "translation": "dawn - 黎明 lai4 ming4 (dawn, first light)",
+        "explanation": "'黎明' refers to the early light of day."
+      },
+      {
+        "word": "的",
+        "translation": "of - 的 dik1 (of)",
+        "explanation": "'的' indicates possession or a descriptive relationship."
+      },
+      {
+        "word": "曙光",
+        "translation": "light of dawn - 曙光 syu2 gwong1 (light of dawn)",
+        "explanation": "'曙光' refers to the first light that appears at dawn."
+      },
+      {
+        "word": "爬",
+        "translation": "crawl - 爬 paa4 (to crawl)",
+        "explanation": "'爬' describes the action of moving slowly."
+      },
+      {
+        "word": "進",
+        "translation": "enter - 進 zeon3 (to enter)",
+        "explanation": "'進' means to come into or enter."
+      },
+      {
+        "word": "小屋",
+        "translation": "cottage - 小屋 siu2 uk1 (small house)",
+        "explanation": "'小屋' refers to a small dwelling."
+      },
+      {
+        "word": "時",
+        "translation": "time - 時 si4 (time)",
+        "explanation": "'時' indicates a point in time."
+      },
+      {
+        "word": "米羅",
+        "translation": "Milo - 米羅 mai5 lo4 (name, Milo)",
+        "explanation": "This is a proper name, referring to a specific character."
+      },
+      {
+        "word": "細細",
+        "translation": "carefully - 細細 sai3 sai3 (carefully)",
+        "explanation": "'細細' describes doing something in a careful or detailed manner."
+      },
+      {
+        "word": "品味",
+        "translation": "savor - 品味 ban2 mei6 (to taste, savor)",
+        "explanation": "'品味' means to enjoy the flavor of something."
+      },
+      {
+        "word": "著",
+        "translation": "the - 著 zoek3 (particle for action)",
+        "explanation": "'著' indicates an ongoing action."
+      },
+      {
+        "word": "那塊",
+        "translation": "that piece - 那塊 naa3 faai3 (that piece)",
+        "explanation": "'那塊' refers to a specific piece of something."
+      },
+      {
+        "word": "渴求",
+        "translation": "longing - 渴求 hot3 kau4 (yearning, desiring)",
+        "explanation": "'渴求' indicates a strong desire for something."
+      },
+      {
+        "word": "已久",
+        "translation": "for a long time - 已久 ji5 gau2 (for a long time)",
+        "explanation": "'已久' suggests that a period of time has passed."
+      },
+      {
+        "word": "的",
+        "translation": "of - 的 dik1 (of)",
+        "explanation": "Indicates possession or relation."
+      },
+      {
+        "word": "奶酪",
+        "translation": "cheese - 奶酪 naai5 lok3 (milk product)",
+        "explanation": "'奶酪' refers to the dairy product cheese."
+      },
+      {
+        "word": "的",
+        "translation": "the - 的 dik1 (of)",
+        "explanation": "Indicates possession."
+      },
+      {
+        "word": "第一口",
+        "translation": "first bite - 第一下 doi6 jat1 haau2 (the first bite)",
+        "explanation": "'第一口' refers to the very first bite of food."
+      }
+    ],
+    [
+      {
+        "word": "這",
+        "translation": "this - 這 ze5 (this)",
+        "explanation": "'這' indicates something that is nearby or referring to the present."
+      },
+      {
+        "word": "不僅",
+        "translation": "not only - 不僅 bat1 gan2 (not only)",
+        "explanation": "'不僅' indicates that something is more than what is stated."
+      },
+      {
+        "word": "僅",
+        "translation": "only - 僅 gan2 (only)",
+        "explanation": "'僅' emphasizes exclusivity or limitation."
+      },
+      {
+        "word": "是",
+        "translation": "is - 是 si6 (is)",
+        "explanation": "'是' states what something is."
+      },
+      {
+        "word": "對",
+        "translation": "to - 對 deoi3 (for)",
+        "explanation": "'對' indicates a relationship or reference."
+      },
+      {
+        "word": "他",
+        "translation": "his - 他 taa1 (he, his)",
+        "explanation": "'他' refers to the person who is being discussed."
+      },
+      {
+        "word": "智慧",
+        "translation": "wisdom - 智慧 zi3 wai3 (wisdom)",
+        "explanation": "'智慧' refers to the ability to make good choices."
+      },
+      {
+        "word": "的",
+        "translation": "of - 的 dik1 (of)",
+        "explanation": "Indicates possession."
+      },
+      {
+        "word": "見證",
+        "translation": "witness - 見證 gin3 zing3 (to testify, witness)",
+        "explanation": "'見證' refers to evidence or testimony to something."
+      }
+    ],
+    [
+      {
+        "word": "奶酪",
+        "translation": "cheese - 奶酪 naai5 lok3 (milk product)",
+        "explanation": "'奶酪' refers to the dairy product cheese."
+      },
+      {
+        "word": "豐富",
+        "translation": "rich - 豐富 fung1 fu3 (rich, abundant)",
+        "explanation": "'豐富' describes something that is plentiful or has variety."
+      },
+      {
+        "word": "美味",
+        "translation": "delicious - 美味 mei5 mei6 (delicious)",
+        "explanation": "'美味' describes something that has a good taste."
+      },
+      {
+        "word": "他",
+        "translation": "he - 他 taa1 (he)",
+        "explanation": "'他' refers to the subject in the sentence."
+      },
+      {
+        "word": "不禁",
+        "translation": "cannot help but - 不禁 bat1 gam1 (cannot help but)",
+        "explanation": "'不禁' indicates an involuntary reaction."
+      },
+      {
+        "word": "微笑",
+        "translation": "smile - 微笑 mei4 siu3 (to smile)",
+        "explanation": "'微笑' describes an expression of joy."
+      }
+    ],
+    [
+      {
+        "word": "從",
+        "translation": "from - 從 cung4 (from)",
+        "explanation": "'從' indicates the starting point of an action."
+      },
+      {
+        "word": "那",
+        "translation": "that - 那 naa3 (that)",
+        "explanation": "'那' refers to something that is not close to the speaker."
+      },
+      {
+        "word": "天",
+        "translation": "day - 天 tin1 (day)",
+        "explanation": "'天' refers to a specific day."
+      },
+      {
+        "word": "起",
+        "translation": "start - 起 hei2 (to start)",
+        "explanation": "'起' suggests a beginning."
+      },
+      {
+        "word": "米羅",
+        "translation": "Milo - 米羅 mai5 lo4 (name, Milo)",
+        "explanation": "This is a proper name, referring to a specific character."
+      },
+      {
+        "word": "繼續",
+        "translation": "continue - 繼續 gai3 zuk6 (to continue)",
+        "explanation": "'繼續' means to keep doing something."
+      },
+      {
+        "word": "利用",
+        "translation": "use - 利用 lei6 jung6 (to utilize)",
+        "explanation": "'利用' refers to making use of something."
+      },
+      {
+        "word": "他的",
+        "translation": "his - 他的 ta1 dik1 (his)",
+        "explanation": "'他的' indicates possession."
+      },
+      {
+        "word": "智慧",
+        "translation": "wisdom - 智慧 zi3 wai3 (wisdom)",
+        "explanation": "'智慧' refers to smart thinking."
+      },
+      {
+        "word": "把",
+        "translation": "to handle - 把 baa2 (to take hold of)",
+        "explanation": "'把' indicates taking responsibility for an action."
+      },
+      {
+        "word": "玩",
+        "translation": "play - 玩 waan2 (to play)",
+        "explanation": "'玩' describes activity or playfulness."
+      },
+      {
+        "word": "著",
+        "translation": "with - 著 zoek3 (particle for ongoing action)",
+        "explanation": "This indicates an ongoing action."
+      },
+      {
+        "word": "奶酪",
+        "translation": "cheese - 奶酪 naai5 lok3 (milk product)",
+        "explanation": "'奶酪' refers to the dairy product cheese."
+      },
+      {
+        "word": "存貨",
+        "translation": "stock - 存貨 cyun4 fo3 (inventory, stock)",
+        "explanation": "'存貨' refers to the supply of goods."
+      }
+    ],
+    [
+      {
+        "word": "威斯克斯",
+        "translation": "Mr. Whiskers - 威斯克斯 Wai1 si1 hak1 si1 (Mr. Whiskers)",
+        "explanation": "This is a proper name, referring to a character."
+      },
+      {
+        "word": "先生",
+        "translation": "Mr. - 先生 sin1 saang1 (Mr.)",
+        "explanation": "'先生' is a title of respect for a man."
+      },
+      {
+        "word": "不斷",
+        "translation": "constantly - 不斷 bat1 dyun6 (continuously)",
+        "explanation": "'不斷' means without stopping."
+      },
+      {
+        "word": "哀傷",
+        "translation": "sad - 哀傷 oi1 soeng1 (sorrowful, sad)",
+        "explanation": "'哀傷' describes a feeling of sadness."
+      },
+      {
+        "word": "地",
+        "translation": "ly - 地 dei6 (particle indicating manner)",
+        "explanation": "Indicates the manner in which something is done."
+      },
+      {
+        "word": "注視",
+        "translation": "watch - 注視 zyu3 si6 (to observe)",
+        "explanation": "'注視' means to look at something attentively."
+      },
+      {
+        "word": "著",
+        "translation": "with - 著 zoek3 (particle for ongoing action)",
+        "explanation": "Indicates an ongoing action."
+      },
+      {
+        "word": "這隻",
+        "translation": "this little - 這隻 ze5 zek3 (this little)",
+        "explanation": "'這隻' refers to a specific small creature."
+      },
+      {
+        "word": "小鼠",
+        "translation": "mouse - 小鼠 siu2 syu3 (little mouse)",
+        "explanation": "'小鼠' refers to a small rodent."
+      },
+      {
+        "word": "在",
+        "translation": "in - 在 zoi6 (in)",
+        "explanation": "'在' indicates a location."
+      },
+      {
+        "word": "小屋",
+        "translation": "cottage - 小屋 siu2 uk1 (small house)",
+        "explanation": "'小屋' refers to a small dwelling."
+      },
+      {
+        "word": "的",
+        "translation": "of - 的 dik1 (of)",
+        "explanation": "Indicates possession."
+      },
+      {
+        "word": "生物",
+        "translation": "creature - 生物 saang1 mat6 (living being)",
+        "explanation": "'生物' refers to living beings."
+      },
+      {
+        "word": "中",
+        "translation": "within - 中 zung1 (inside)",
+        "explanation": "'中' indicates being inside something."
+      },
+      {
+        "word": "成為",
+        "translation": "become - 成為 seng4 wai4 (to become)",
+        "explanation": "'成為' means to change into something else."
+      },
+      {
+        "word": "了",
+        "translation": "has - 了 liu5 (completed action)",
+        "explanation": "Indicates a completed action."
+      },
+      {
+        "word": "傳奇",
+        "translation": "legend - 傳奇 cyun4 kei4 (legend)",
+        "explanation": "'傳奇' refers to a well-known story."
+      }
+    ]
+  ]
+}

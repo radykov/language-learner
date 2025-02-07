@@ -1,0 +1,3831 @@
+{
+  "story": "Dans une charmante petite maison à la lisière d'une ville animée, un petit canari nommé Lila vivait dans une délicate cage. Ses plumes dorées brillaient sous la lumière du soleil qui pénétrait par la fenêtre chaque matin, mais son cœur était lourd de désir. Elle écoutait souvent les chants des oiseaux à l'extérieur, s'imaginant le vaste monde sauvage au-delà de ses barreaux. Chaque jour, Lila chantait ses propres mélodies en réponse, rêvant de s'envoler à travers le ciel bleu, de sentir le vent ébouriffer ses plumes et de faire partie de la vie vibrante en dehors de sa cage. \"Si seulement je pouvais sortir juste une fois, je verrais à quoi ressemble vraiment le monde !\" gazouillait-elle à son ami, une gentille vieille tortue nommée Timmy qui se reposait souvent près de sa cage. Timmy souriait doucement, ses yeux remplis de sagesse. \"Ah, petite, le monde extérieur n'est pas toujours tel qu'il apparaît. Il est rempli de beauté, oui, mais aussi de défis que tu ne comprends peut-être pas encore.\" Lila se gonfla, son esprit d'aventure bouillonnant. \"Je veux découvrir par moi-même ! Et si c'était un paradis ?\" Un après-midi ensoleillé, pendant que Lila pratiquait ses chants, son propriétaire—distrait par des appels téléphoniques et des tâches pressantes—oubliât de fermer le loquet de sa cage. Avec un léger grincement, la porte s'ouvrit, révélant le monde extérieur dans toute sa splendeur. Lila hésita un instant, son cœur battant la chamade. D'un coup de ailes déterminé, elle s'aventura dans le grand inconnu. Le ciel était une tapisserie de couleurs, l'air parfumé de fleurs, et les sons de la nature l'entouraient comme une symphonie. Elle s'éleva de plus en plus haut, sentant le soleil réchauffer ses plumes. C'était tout ce qu'elle avait rêvé et plus encore. Pendant des heures, elle flotta de branche en branche, saluant les autres oiseaux qui gazouillaient en harmonie. L'euphorie l'envahit alors qu'elle dansait dans l'air, goûtant à la liberté. Mais alors que le soleil commençait à plonger dans le ciel, Lila remarqua un changement. Les gazouillis autrefois accueillants se transformaient en bruissements d'ailes qui semblaient plus compétitifs que amicaux. De plus grands oiseaux voletaient au-dessus, projetant des ombres sur son petit corps. Se sentant mal à l'aise, Lila se posa sur une petite branche, haletante. La beauté du monde extérieur était éclipsée par les dangers sournois ; des faucons tourbillonnaient au-dessus tandis que des écureuils jacassaient nerveusement, les yeux rivés sur des menaces invisibles. Une douce brise chuchotait des avertissements, et son cœur s'alourdit. \"Et si je devenais proie au lieu de m'envoler haut ?\" pensa-t-elle. Entourée d'arbres majestueux et de paysages inconnus, Lila se sentait très petite. Juste alors, une sage vieille chouette se percha à côté d'elle. \"Novice, viens admirer le monde ? Il peut être majestueux, mais avance prudemment. Respecte l'équilibre de la nature, ou tu pourrais le trouver peu accueillant.\" Lila hocha la tête, se sentant à la fois excitée et perdue. \"Je pensais que ce serait un paradis. Pourquoi cela semble-t-il si effrayant ?\" La chouette cligna des yeux lentement, son regard perçant. \"Le paradis a ses ombres. Rien de ce qui brille n'est or, et chaque chant porte sa propre mélodie. Ne fuis pas la réalité ; apprends à la naviguer.\" Avec le soleil se couchant, projetant de longues ombres, Lila réalisa qu'elle devait retrouver son chemin avant que l'obscurité ne l'engloutisse. Elle battit des ailes, sentant la panique monter, mais se rappela la chaleur de sa cage, le confort de ses chants, et les conseils doux de Timmy. Dans une pulsation rapide, Lila traversa à toute vitesse les arbres, suivant la douce lumière de chez elle. Lorsqu'elle s'approcha de sa fenêtre, elle vit la lueur faible de la pièce. D'un dernier bond, elle vola de nouveau à l'intérieur de sa cage, le cœur battant et essoufflée. Timmy lui sourit. \"Bienvenue de retour, petite. Cela a-t-il comblé tes rêves ?\" Avec une pause réflexive, Lila répondit : \"C'était beau et terrifiant. J'ai tant appris. Mais pour l'instant, je pense que je vais rester là où je suis et rêver de ma prochaine aventure. Un jour, je serai prête à tout affronter de nouveau.\" Et sur ces mots, Lila retourna à son perchoir familier, gazouillant une nouvelle chanson qui parlait des merveilles et des épreuves de la vie au-delà des barreaux.",
+  "title": "La vérité au-delà des barreaux",
+  "sentences": [
+    {
+      "original": "Dans une charmante petite maison à la lisière d'une ville animée, un petit canari nommé Lila vivait dans une délicate cage.",
+      "translation": "In a charming little house on the edge of a bustling town, a small canary named Lila lived in a delicate cage."
+    },
+    {
+      "original": "Ses plumes dorées brillaient sous la lumière du soleil qui pénétrait par la fenêtre chaque matin, mais son cœur était lourd de désir.",
+      "translation": "Her golden feathers shone under the sunlight that streamed through the window every morning, but her heart was heavy with longing."
+    },
+    {
+      "original": "Elle écoutait souvent les chants des oiseaux à l'extérieur, s'imaginant le vaste monde sauvage au-delà de ses barreaux.",
+      "translation": "She often listened to the songs of the birds outside, imagining the vast wild world beyond her bars."
+    },
+    {
+      "original": "Chaque jour, Lila chantait ses propres mélodies en réponse, rêvant de s'envoler à travers le ciel bleu, de sentir le vent ébouriffer ses plumes et de faire partie de la vie vibrante en dehors de sa cage.",
+      "translation": "Every day, Lila sang her own melodies in reply, dreaming of soaring through the blue sky, feeling the wind ruffle her feathers, and being part of the vibrant life outside her cage."
+    },
+    {
+      "original": "\"Si seulement je pouvais sortir juste une fois, je verrais à quoi ressemble vraiment le monde !\" gazouillait-elle à son ami, une gentille vieille tortue nommée Timmy qui se reposait souvent près de sa cage.",
+      "translation": "\"If only I could get out just once, I would see what the world really looks like!\" she chirped to her friend, a kind old turtle named Timmy who often rested near her cage."
+    },
+    {
+      "original": "Timmy souriait doucement, ses yeux remplis de sagesse.",
+      "translation": "Timmy smiled gently, his eyes filled with wisdom."
+    },
+    {
+      "original": "\"Ah, petite, le monde extérieur n'est pas toujours tel qu'il apparaît.",
+      "translation": "\"Ah, little one, the outside world is not always as it appears."
+    },
+    {
+      "original": "Il est rempli de beauté, oui, mais aussi de défis que tu ne comprends peut-être pas encore.\"",
+      "translation": "It is filled with beauty, yes, but also with challenges that you may not understand yet.\""
+    },
+    {
+      "original": "Lila se gonfla, son esprit d'aventure bouillonnant.",
+      "translation": "Lila puffed up, her adventurous spirit bubbling."
+    },
+    {
+      "original": "\"Je veux découvrir par moi-même ! Et si c'était un paradis ?\"",
+      "translation": "\"I want to discover for myself! What if it is a paradise?\""
+    },
+    {
+      "original": "Un après-midi ensoleillé, pendant que Lila pratiquait ses chants, son propriétaire—distrait par des appels téléphoniques et des tâches pressantes—oubliât de fermer le loquet de sa cage.",
+      "translation": "On a sunny afternoon, while Lila practiced her singing, her owner—distracted by phone calls and pressing tasks—forgot to close the latch of her cage."
+    },
+    {
+      "original": "Avec un léger grincement, la porte s'ouvrit, révélant le monde extérieur dans toute sa splendeur.",
+      "translation": "With a slight creak, the door opened, revealing the outside world in all its splendor."
+    },
+    {
+      "original": "Lila hésita un instant, son cœur battant la chamade.",
+      "translation": "Lila hesitated for a moment, her heart racing."
+    },
+    {
+      "original": "D'un coup de ailes déterminé, elle s'aventura dans le grand inconnu.",
+      "translation": "With a determined flap of her wings, she ventured into the great unknown."
+    },
+    {
+      "original": "Le ciel était une tapisserie de couleurs, l'air parfumé de fleurs, et les sons de la nature l'entouraient comme une symphonie.",
+      "translation": "The sky was a tapestry of colors, the air scented with flowers, and the sounds of nature surrounded her like a symphony."
+    },
+    {
+      "original": "Elle s'éleva de plus en plus haut, sentant le soleil réchauffer ses plumes.",
+      "translation": "She rose higher and higher, feeling the sun warm her feathers."
+    },
+    {
+      "original": "C'était tout ce qu'elle avait rêvé et plus encore.",
+      "translation": "It was everything she had dreamed of and more."
+    },
+    {
+      "original": "Pendant des heures, elle flotta de branche en branche, saluant les autres oiseaux qui gazouillaient en harmonie.",
+      "translation": "For hours, she floated from branch to branch, greeting the other birds who chirped in harmony."
+    },
+    {
+      "original": "L'euphorie l'envahit alors qu'elle dansait dans l'air, goûtant à la liberté.",
+      "translation": "Euphoria washed over her as she danced in the air, tasting freedom."
+    },
+    {
+      "original": "Mais alors que le soleil commençait à plonger dans le ciel, Lila remarqua un changement.",
+      "translation": "But as the sun began to plunge in the sky, Lila noticed a change."
+    },
+    {
+      "original": "Les gazouillis autrefois accueillants se transformaient en bruissements d'ailes qui semblaient plus compétitifs que amicaux.",
+      "translation": "The once welcoming chirps turned into wing flutters that seemed more competitive than friendly."
+    },
+    {
+      "original": "De plus grands oiseaux voletaient au-dessus, projetant des ombres sur son petit corps.",
+      "translation": "Larger birds soared above, casting shadows on her small body."
+    },
+    {
+      "original": "Se sentant mal à l'aise, Lila se posa sur une petite branche, haletante.",
+      "translation": "Feeling uneasy, Lila landed on a small branch, panting."
+    },
+    {
+      "original": "La beauté du monde extérieur était éclipsée par les dangers sournois ; des faucons tourbillonnaient au-dessus tandis que des écureuils jacassaient nerveusement, les yeux rivés sur des menaces invisibles.",
+      "translation": "The beauty of the outside world was overshadowed by lurking dangers; hawks spiraled overhead as squirrels chattered nervously, their eyes fixed on invisible threats."
+    },
+    {
+      "original": "Une douce brise chuchotait des avertissements, et son cœur s'alourdit.",
+      "translation": "A gentle breeze whispered warnings, and her heart grew heavy."
+    },
+    {
+      "original": "\"Et si je devenais proie au lieu de m'envoler haut ?\" pensa-t-elle.",
+      "translation": "\"What if I become prey instead of soaring high?\" she thought."
+    },
+    {
+      "original": "Entourée d'arbres majestueux et de paysages inconnus, Lila se sentait très petite.",
+      "translation": "Surrounded by majestic trees and unfamiliar landscapes, Lila felt very small."
+    },
+    {
+      "original": "Juste alors, une sage vieille chouette se percha à côté d'elle.",
+      "translation": "Just then, a wise old owl perched next to her."
+    },
+    {
+      "original": "\"Novice, viens admirer le monde ?",
+      "translation": "\"Novice, come to admire the world?"
+    },
+    {
+      "original": "Il peut être majestueux, mais avance prudemment.",
+      "translation": "It can be majestic, but proceed with caution."
+    },
+    {
+      "original": "Respecte l'équilibre de la nature, ou tu pourrais le trouver peu accueillant.\"",
+      "translation": "Respect the balance of nature, or you may find it unwelcoming.\""
+    },
+    {
+      "original": "Lila hocha la tête, se sentant à la fois excitée et perdue.",
+      "translation": "Lila nodded, feeling both excited and lost."
+    },
+    {
+      "original": "\"Je pensais que ce serait un paradis.",
+      "translation": "\"I thought it would be a paradise."
+    },
+    {
+      "original": "Pourquoi cela semble-t-il si effrayant ?\"",
+      "translation": "Why does it seem so frightening?\""
+    },
+    {
+      "original": "La chouette cligna des yeux lentement, son regard perçant.",
+      "translation": "The owl blinked slowly, its penetrating gaze."
+    },
+    {
+      "original": "\"Le paradis a ses ombres.",
+      "translation": "\"Paradise has its shadows."
+    },
+    {
+      "original": "Rien de ce qui brille n'est or, et chaque chant porte sa propre mélodie.",
+      "translation": "Not everything that glitters is gold, and every song carries its own melody."
+    },
+    {
+      "original": "Ne fuis pas la réalité ; apprends à la naviguer.\"",
+      "translation": "Don’t flee from reality; learn to navigate it.\""
+    },
+    {
+      "original": "Avec le soleil se couchant, projetant de longues ombres, Lila réalisa qu'elle devait retrouver son chemin avant que l'obscurité ne l'engloutisse.",
+      "translation": "With the sun setting, casting long shadows, Lila realized she had to find her way back before darkness swallowed her."
+    },
+    {
+      "original": "Elle battit des ailes, sentant la panique monter, mais se rappela la chaleur de sa cage, le confort de ses chants, et les conseils doux de Timmy.",
+      "translation": "She beat her wings, feeling panic rise, but remembered the warmth of her cage, the comfort of her songs, and Timmy's gentle advice."
+    },
+    {
+      "original": "Dans une pulsation rapide, Lila traversa à toute vitesse les arbres, suivant la douce lumière de chez elle.",
+      "translation": "In a quick pulse, Lila zipped through the trees, following the soft light of home."
+    },
+    {
+      "original": "Lorsqu'elle s'approcha de sa fenêtre, elle vit la lueur faible de la pièce.",
+      "translation": "As she approached her window, she saw the dim glow of the room."
+    },
+    {
+      "original": "D'un dernier bond, elle vola de nouveau à l'intérieur de sa cage, le cœur battant et essoufflée.",
+      "translation": "With one last leap, she flew back inside her cage, her heart racing and breathless."
+    },
+    {
+      "original": "Timmy lui sourit.",
+      "translation": "Timmy smiled at her."
+    },
+    {
+      "original": "\"Bienvenue de retour, petite. Cela a-t-il comblé tes rêves ?\"",
+      "translation": "\"Welcome back, little one. Did it fulfill your dreams?\""
+    },
+    {
+      "original": "Avec une pause réflexive, Lila répondit : \"C'était beau et terrifiant.",
+      "translation": "With a reflective pause, Lila replied: \"It was beautiful and terrifying."
+    },
+    {
+      "original": "J'ai tant appris.",
+      "translation": "I learned so much."
+    },
+    {
+      "original": "Mais pour l'instant, je pense que je vais rester là où je suis et rêver de ma prochaine aventure.",
+      "translation": "But for now, I think I will stay where I am and dream of my next adventure."
+    },
+    {
+      "original": "Un jour, je serai prête à tout affronter de nouveau.\"",
+      "translation": "One day, I will be ready to face everything again.\""
+    },
+    {
+      "original": "Et sur ces mots, Lila retourna à son perchoir familier, gazouillant une nouvelle chanson qui parlait des merveilles et des épreuves de la vie au-delà des barreaux.",
+      "translation": "And with those words, Lila returned to her familiar perch, chirping a new song that spoke of the wonders and trials of life beyond the bars."
+    }
+  ],
+  "words": [
+    [
+      {
+        "word": "Dans",
+        "translation": "In",
+        "explanation": "This word indicates a location."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "This is an article used for singular nouns."
+      },
+      {
+        "word": "charmante",
+        "translation": "charming",
+        "explanation": "This describes something that is pleasant and attractive."
+      },
+      {
+        "word": "petite",
+        "translation": "small",
+        "explanation": "This describes something that is not large."
+      },
+      {
+        "word": "maison",
+        "translation": "house",
+        "explanation": "This is a building where people live."
+      },
+      {
+        "word": "à",
+        "translation": "at",
+        "explanation": "This indicates a specific location."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "This is a definite article for singular nouns."
+      },
+      {
+        "word": "lisière",
+        "translation": "edge",
+        "explanation": "This means the border or limit of something."
+      },
+      {
+        "word": "d'une",
+        "translation": "of a",
+        "explanation": "This shows possession, meaning 'belonging to a'."
+      },
+      {
+        "word": "ville",
+        "translation": "city",
+        "explanation": "This is a large town where many people live."
+      },
+      {
+        "word": "animée",
+        "translation": "busy",
+        "explanation": "This describes a place that is full of activity."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "This is an article used for singular nouns."
+      },
+      {
+        "word": "petit",
+        "translation": "little",
+        "explanation": "This is another word for small."
+      },
+      {
+        "word": "canari",
+        "translation": "canary",
+        "explanation": "This is a type of small yellow bird."
+      },
+      {
+        "word": "nommé",
+        "translation": "named",
+        "explanation": "This describes how someone is called."
+      },
+      {
+        "word": "Lila",
+        "translation": "Lila",
+        "explanation": "This is the name of the character."
+      },
+      {
+        "word": "vivait",
+        "translation": "lived",
+        "explanation": "This is what Lila did, meaning to have life."
+      },
+      {
+        "word": "dans",
+        "translation": "in",
+        "explanation": "This indicates a location."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "This is an article used for singular nouns."
+      },
+      {
+        "word": "délicate",
+        "translation": "delicate",
+        "explanation": "This describes something that is fragile or fine."
+      },
+      {
+        "word": "cage",
+        "translation": "cage",
+        "explanation": "This is a structure for keeping birds inside."
+      }
+    ],
+    [
+      {
+        "word": "Ses",
+        "translation": "Her",
+        "explanation": "This shows possession, meaning 'belonging to her'."
+      },
+      {
+        "word": "plumes",
+        "translation": "feathers",
+        "explanation": "These are the things that cover the body of a bird."
+      },
+      {
+        "word": "dorées",
+        "translation": "golden",
+        "explanation": "This describes something that is the color of gold."
+      },
+      {
+        "word": "brillaient",
+        "translation": "shone",
+        "explanation": "This means to give off light or to sparkle."
+      },
+      {
+        "word": "sous",
+        "translation": "under",
+        "explanation": "This shows the position beneath something."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "This is a definite article for singular nouns."
+      },
+      {
+        "word": "lumière",
+        "translation": "light",
+        "explanation": "This is what makes things visible; it helps us see."
+      },
+      {
+        "word": "du",
+        "translation": "of the",
+        "explanation": "This shows possession or belonging."
+      },
+      {
+        "word": "soleil",
+        "translation": "sun",
+        "explanation": "This is the star that provides light and warmth to Earth."
+      },
+      {
+        "word": "qui",
+        "translation": "that",
+        "explanation": "This connects or refers to the light."
+      },
+      {
+        "word": "pénétrait",
+        "translation": "came in",
+        "explanation": "This means to pass through an opening."
+      },
+      {
+        "word": "par",
+        "translation": "by",
+        "explanation": "This shows the means or method."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "This is a definite article for singular nouns."
+      },
+      {
+        "word": "fenêtre",
+        "translation": "window",
+        "explanation": "This is an opening in a wall covered with glass."
+      },
+      {
+        "word": "chaque",
+        "translation": "every",
+        "explanation": "This means all things in a group, without exception."
+      },
+      {
+        "word": "matin",
+        "translation": "morning",
+        "explanation": "This is the first part of the day."
+      }
+    ],
+    [
+      {
+        "word": "mais",
+        "translation": "but",
+        "explanation": "This introduces a contrast."
+      },
+      {
+        "word": "son",
+        "translation": "her",
+        "explanation": "This shows possession, meaning 'belonging to her'."
+      },
+      {
+        "word": "cœur",
+        "translation": "heart",
+        "explanation": "This is the organ that pumps blood; it also means feelings."
+      },
+      {
+        "word": "était",
+        "translation": "was",
+        "explanation": "This is a past form of to be."
+      },
+      {
+        "word": "lourd",
+        "translation": "heavy",
+        "explanation": "This means something that weighs a lot."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This shows possession."
+      },
+      {
+        "word": "désir",
+        "translation": "desire",
+        "explanation": "This means a strong wish to have something."
+      }
+    ],
+    [
+      {
+        "word": "Elle",
+        "translation": "She",
+        "explanation": "This is the subject pronoun for a female."
+      },
+      {
+        "word": "écoutait",
+        "translation": "often listened",
+        "explanation": "This means to pay attention to sounds."
+      },
+      {
+        "word": "souvent",
+        "translation": "often",
+        "explanation": "This means many times."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "This is a definite article for plural nouns."
+      },
+      {
+        "word": "chants",
+        "translation": "songs",
+        "explanation": "These are musical sounds made by birds."
+      },
+      {
+        "word": "des",
+        "translation": "of the",
+        "explanation": "This shows possession for plural nouns."
+      },
+      {
+        "word": "oiseaux",
+        "translation": "birds",
+        "explanation": "These are flying animals with feathers."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "This indicates direction."
+      },
+      {
+        "word": "l'extérieur",
+        "translation": "the outside",
+        "explanation": "This means the area outside of a building."
+      },
+      {
+        "word": "s'imaginant",
+        "translation": "imagining",
+        "explanation": "This means to create a mental picture."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "This is a definite article for singular nouns."
+      },
+      {
+        "word": "vaste",
+        "translation": "vast",
+        "explanation": "This means very large."
+      },
+      {
+        "word": "monde",
+        "translation": "world",
+        "explanation": "This refers to the earth and all its inhabitants."
+      },
+      {
+        "word": "sauvage",
+        "translation": "wild",
+        "explanation": "This means living in nature, not tame."
+      },
+      {
+        "word": "au-delà",
+        "translation": "beyond",
+        "explanation": "This means past or further than."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This shows possession."
+      },
+      {
+        "word": "ses",
+        "translation": "her",
+        "explanation": "This shows possession, meaning 'belonging to her'."
+      },
+      {
+        "word": "barreaux",
+        "translation": "bars",
+        "explanation": "These are the metal rods in the cage that keep her inside."
+      }
+    ],
+    [
+      {
+        "word": "Chaque",
+        "translation": "Each",
+        "explanation": "This means every one individually."
+      },
+      {
+        "word": "jour",
+        "translation": "day",
+        "explanation": "This is a period of 24 hours."
+      },
+      {
+        "word": "Lila",
+        "translation": "Lila",
+        "explanation": "This is the name of the character."
+      },
+      {
+        "word": "chantait",
+        "translation": "sang",
+        "explanation": "This means to produce musical sounds with the voice."
+      },
+      {
+        "word": "ses",
+        "translation": "her",
+        "explanation": "This shows possession, meaning 'belonging to her'."
+      },
+      {
+        "word": "propres",
+        "translation": "own",
+        "explanation": "This describes something that belongs specifically to someone."
+      },
+      {
+        "word": "mélodies",
+        "translation": "melodies",
+        "explanation": "These are sequences of notes that are pleasant to hear."
+      },
+      {
+        "word": "en",
+        "translation": "in",
+        "explanation": "This indicates the location or manner."
+      },
+      {
+        "word": "réponse",
+        "translation": "response",
+        "explanation": "This means an answer or reply."
+      },
+      {
+        "word": "rêvant",
+        "translation": "dreaming",
+        "explanation": "This means to imagine something in a positive way."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This shows possession."
+      },
+      {
+        "word": "s'envoler",
+        "translation": "taking off",
+        "explanation": "This means to fly up into the air."
+      },
+      {
+        "word": "à",
+        "translation": "through",
+        "explanation": "This indicates movement within."
+      },
+      {
+        "word": "travers",
+        "translation": "across",
+        "explanation": "This means moving from one side to another."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "This is a definite article for singular nouns."
+      },
+      {
+        "word": "ciel",
+        "translation": "sky",
+        "explanation": "This is the space above the earth where clouds and stars are."
+      },
+      {
+        "word": "bleu",
+        "translation": "blue",
+        "explanation": "This describes a color, often seen in the sky."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This shows possession."
+      },
+      {
+        "word": "sentir",
+        "translation": "to feel",
+        "explanation": "This means to experience something through touch."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "This is a definite article for singular nouns."
+      },
+      {
+        "word": "vent",
+        "translation": "wind",
+        "explanation": "This is the natural movement of air."
+      },
+      {
+        "word": "ébouriffer",
+        "translation": "ruffle",
+        "explanation": "This means to mess up or blow around."
+      },
+      {
+        "word": "ses",
+        "translation": "her",
+        "explanation": "This shows possession, meaning 'belonging to her'."
+      },
+      {
+        "word": "plumes",
+        "translation": "feathers",
+        "explanation": "These are the coverings of a bird."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "This connects words or phrases."
+      },
+      {
+        "word": "de",
+        "translation": "to",
+        "explanation": "This shows possession."
+      },
+      {
+        "word": "faire",
+        "translation": "be",
+        "explanation": "This means to exist."
+      },
+      {
+        "word": "partie",
+        "translation": "part",
+        "explanation": "This means a section or piece of something."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This shows possession."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "This is a definite article for singular nouns."
+      },
+      {
+        "word": "vie",
+        "translation": "life",
+        "explanation": "This refers to the state of being living."
+      },
+      {
+        "word": "vibrante",
+        "translation": "vibrant",
+        "explanation": "This describes something full of energy."
+      },
+      {
+        "word": "en",
+        "translation": "in",
+        "explanation": "This indicates a location."
+      },
+      {
+        "word": "dehors",
+        "translation": "outside",
+        "explanation": "This means beyond the walls."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This shows possession."
+      },
+      {
+        "word": "sa",
+        "translation": "her",
+        "explanation": "This shows possession, meaning 'belonging to her'."
+      },
+      {
+        "word": "cage",
+        "translation": "cage",
+        "explanation": "This is a structure for keeping birds inside."
+      }
+    ],
+    [
+      {
+        "word": "Si",
+        "translation": "If",
+        "explanation": "This introduces a condition."
+      },
+      {
+        "word": "seulement",
+        "translation": "only",
+        "explanation": "This means just or exclusively."
+      },
+      {
+        "word": "je",
+        "translation": "I",
+        "explanation": "This is the subject pronoun used for oneself."
+      },
+      {
+        "word": "pouvais",
+        "translation": "could",
+        "explanation": "This means to have the ability to do something."
+      },
+      {
+        "word": "sortir",
+        "translation": "to go out",
+        "explanation": "This means to leave an enclosed space."
+      },
+      {
+        "word": "juste",
+        "translation": "just",
+        "explanation": "This means exactly or merely."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "This is an article used for singular nouns."
+      },
+      {
+        "word": "fois",
+        "translation": "time",
+        "explanation": "This means occasion or instance."
+      },
+      {
+        "word": "je",
+        "translation": "I",
+        "explanation": "This is the subject pronoun used for oneself."
+      },
+      {
+        "word": "verrais",
+        "translation": "would see",
+        "explanation": "This means to visualize or recognize."
+      },
+      {
+        "word": "à quoi",
+        "translation": "what",
+        "explanation": "This means the kind or nature of something."
+      },
+      {
+        "word": "ressemble",
+        "translation": "looks like",
+        "explanation": "This means to be similar to something."
+      },
+      {
+        "word": "vraiment",
+        "translation": "really",
+        "explanation": "This means truly or actually."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "This is a definite article."
+      },
+      {
+        "word": "monde",
+        "translation": "world",
+        "explanation": "This refers to the earth and all its inhabitants."
+      },
+      {
+        "word": "!",
+        "translation": "!",
+        "explanation": "This indicates excitement or emphasis."
+      }
+    ],
+    [
+      {
+        "word": "gazouillait",
+        "translation": "chirped",
+        "explanation": "This means to make short, repeated sounds like a bird."
+      },
+      {
+        "word": "elle",
+        "translation": "she",
+        "explanation": "This is the subject pronoun for a female."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "This indicates direction."
+      },
+      {
+        "word": "son",
+        "translation": "her",
+        "explanation": "This shows possession."
+      },
+      {
+        "word": "ami",
+        "translation": "friend",
+        "explanation": "This is someone with whom one has a bond."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "This is an article used for singular nouns."
+      },
+      {
+        "word": "gentille",
+        "translation": "kind",
+        "explanation": "This describes someone who is nice."
+      },
+      {
+        "word": "vieille",
+        "translation": "old",
+        "explanation": "This describes someone who has lived for a long time."
+      },
+      {
+        "word": "tortue",
+        "translation": "turtle",
+        "explanation": "This is a slow-moving reptile."
+      },
+      {
+        "word": "nommée",
+        "translation": "named",
+        "explanation": "This describes how someone is called."
+      },
+      {
+        "word": "Timmy",
+        "translation": "Timmy",
+        "explanation": "This is the name of the character."
+      },
+      {
+        "word": "qui",
+        "translation": "who",
+        "explanation": "This relates to the subject."
+      },
+      {
+        "word": "se",
+        "translation": "often",
+        "explanation": "This word indicates frequency."
+      },
+      {
+        "word": "reposait",
+        "translation": "rested",
+        "explanation": "This means to be in a state of rest."
+      },
+      {
+        "word": "souvent",
+        "translation": "often",
+        "explanation": "This means many times."
+      },
+      {
+        "word": "près",
+        "translation": "near",
+        "explanation": "This indicates closeness in location."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This shows possession."
+      },
+      {
+        "word": "sa",
+        "translation": "her",
+        "explanation": "This shows possession, meaning 'belonging to her'."
+      },
+      {
+        "word": "cage",
+        "translation": "cage",
+        "explanation": "This is a structure for keeping birds inside."
+      }
+    ],
+    [
+      {
+        "word": "Timmy",
+        "translation": "Timmy",
+        "explanation": "The name of the character."
+      },
+      {
+        "word": "souriait",
+        "translation": "was smiling",
+        "explanation": "What Timmy was doing."
+      },
+      {
+        "word": "doucement",
+        "translation": "softly",
+        "explanation": "How Timmy was smiling."
+      },
+      {
+        "word": "ses",
+        "translation": "his",
+        "explanation": "Possessive indicating that the eyes belong to Timmy."
+      },
+      {
+        "word": "yeux",
+        "translation": "eyes",
+        "explanation": "The part of the face that was described."
+      },
+      {
+        "word": "remplis",
+        "translation": "filled",
+        "explanation": "Describing the state of Timmy's eyes."
+      },
+      {
+        "word": "de",
+        "translation": "with",
+        "explanation": "Indicating what the eyes were filled with."
+      },
+      {
+        "word": "sagesse",
+        "translation": "wisdom",
+        "explanation": "What filled Timmy's eyes."
+      }
+    ],
+    [
+      {
+        "word": "Ah",
+        "translation": "Oh",
+        "explanation": "A sound of realization or recognition."
+      },
+      {
+        "word": "petite",
+        "translation": "little",
+        "explanation": "A term of endearment referring to Lila."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A definite article referring to the outside world."
+      },
+      {
+        "word": "monde",
+        "translation": "world",
+        "explanation": "The place where people live."
+      },
+      {
+        "word": "extérieur",
+        "translation": "outside",
+        "explanation": "The area beyond a certain point, here referring to the outside world."
+      },
+      {
+        "word": "n'est",
+        "translation": "is not",
+        "explanation": "A negation showing that something isn't the case."
+      },
+      {
+        "word": "pas",
+        "translation": "not",
+        "explanation": "Another negation part."
+      },
+      {
+        "word": "toujours",
+        "translation": "always",
+        "explanation": "Indicating something that happens all the time."
+      },
+      {
+        "word": "tel",
+        "translation": "such",
+        "explanation": "Indicating a specific type or kind."
+      },
+      {
+        "word": "qu'il",
+        "translation": "as it",
+        "explanation": "Referring to how the outside world appears."
+      },
+      {
+        "word": "apparaît",
+        "translation": "appears",
+        "explanation": "How something is seen or looks."
+      }
+    ],
+    [
+      {
+        "word": "Il",
+        "translation": "It",
+        "explanation": "Referring to the outside world."
+      },
+      {
+        "word": "est",
+        "translation": "is",
+        "explanation": "A verb showing existence."
+      },
+      {
+        "word": "rempli",
+        "translation": "filled",
+        "explanation": "Describing the state of the outside world."
+      },
+      {
+        "word": "de",
+        "translation": "with",
+        "explanation": "Indicating what the world is filled with."
+      },
+      {
+        "word": "beauté",
+        "translation": "beauty",
+        "explanation": "Something that is nice to see."
+      },
+      {
+        "word": "oui",
+        "translation": "yes",
+        "explanation": "A word of affirmation."
+      },
+      {
+        "word": "mais",
+        "translation": "but",
+        "explanation": "A contrasting word indicating there is more to say."
+      },
+      {
+        "word": "aussi",
+        "translation": "also",
+        "explanation": "Indicating in addition to."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Indicating what kind of challenges."
+      },
+      {
+        "word": "défis",
+        "translation": "challenges",
+        "explanation": "Difficult things that one must face."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "A word used to connect the clause."
+      },
+      {
+        "word": "tu",
+        "translation": "you",
+        "explanation": "Referring to Lila."
+      },
+      {
+        "word": "ne",
+        "translation": "not",
+        "explanation": "A negation indicating a lack."
+      },
+      {
+        "word": "comprends",
+        "translation": "understand",
+        "explanation": "What Lila may not grasp."
+      },
+      {
+        "word": "peut-être",
+        "translation": "perhaps",
+        "explanation": "Indicating uncertainty."
+      },
+      {
+        "word": "pas",
+        "translation": "not",
+        "explanation": "Another negation part."
+      },
+      {
+        "word": "encore",
+        "translation": "yet",
+        "explanation": "Indicating that it hasn't happened up to now."
+      }
+    ],
+    [
+      {
+        "word": "Lila",
+        "translation": "Lila",
+        "explanation": "The name of the character."
+      },
+      {
+        "word": "se",
+        "translation": "herself",
+        "explanation": "Referring to Lila."
+      },
+      {
+        "word": "gonfla",
+        "translation": "puffed up",
+        "explanation": "What Lila did; a physical action."
+      },
+      {
+        "word": "son",
+        "translation": "her",
+        "explanation": "Possessive showing it belongs to Lila."
+      },
+      {
+        "word": "esprit",
+        "translation": "spirit",
+        "explanation": "Referring to Lila's thoughts or feelings."
+      },
+      {
+        "word": "d'aventure",
+        "translation": "of adventure",
+        "explanation": "Describing the type of spirit Lila has."
+      },
+      {
+        "word": "bouillonnant",
+        "translation": "boiling",
+        "explanation": "Describing a state of excitement."
+      }
+    ],
+    [
+      {
+        "word": "Je",
+        "translation": "I",
+        "explanation": "Referring to Lila."
+      },
+      {
+        "word": "veux",
+        "translation": "want",
+        "explanation": "What Lila desires."
+      },
+      {
+        "word": "découvrir",
+        "translation": "to discover",
+        "explanation": "What Lila wants to do."
+      },
+      {
+        "word": "par",
+        "translation": "by",
+        "explanation": "Indicating the means of discovering."
+      },
+      {
+        "word": "moi-même",
+        "translation": "myself",
+        "explanation": "Indicating that Lila wants to do it alone."
+      },
+      {
+        "word": "Et",
+        "translation": "And",
+        "explanation": "Connecting two ideas."
+      },
+      {
+        "word": "si",
+        "translation": "if",
+        "explanation": "Indicating a condition or possibility."
+      },
+      {
+        "word": "c'était",
+        "translation": "it was",
+        "explanation": "A verb showing a past state."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "An indefinite article introducing a noun."
+      },
+      {
+        "word": "paradis",
+        "translation": "paradise",
+        "explanation": "A place of great happiness or beauty."
+      },
+      {
+        "word": "?",
+        "translation": "?",
+        "explanation": "A punctuation mark indicating a question."
+      }
+    ],
+    [
+      {
+        "word": "Un",
+        "translation": "A",
+        "explanation": "It is used to indicate one of something."
+      },
+      {
+        "word": "après-midi",
+        "translation": "afternoon",
+        "explanation": "The time of day after noon and before evening."
+      },
+      {
+        "word": "ensoleillé",
+        "translation": "sunny",
+        "explanation": "Describes weather that has a lot of sunshine."
+      },
+      {
+        "word": "pendant",
+        "translation": "during",
+        "explanation": "It shows the time something happens."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "It connects two parts of a sentence."
+      },
+      {
+        "word": "Lila",
+        "translation": "Lila",
+        "explanation": "The name of the character."
+      },
+      {
+        "word": "pratiquait",
+        "translation": "was practicing",
+        "explanation": "What Lila was doing; she was repeating something to improve."
+      },
+      {
+        "word": "ses",
+        "translation": "her",
+        "explanation": "It shows that something belongs to Lila."
+      },
+      {
+        "word": "chants",
+        "translation": "songs",
+        "explanation": "Musical pieces that Lila is singing."
+      },
+      {
+        "word": "son",
+        "translation": "her",
+        "explanation": "It shows that something belongs to Lila."
+      },
+      {
+        "word": "propriétaire",
+        "translation": "owner",
+        "explanation": "The person who owns Lila."
+      },
+      {
+        "word": "distrait",
+        "translation": "distracted",
+        "explanation": "Not paying attention."
+      },
+      {
+        "word": "par",
+        "translation": "by",
+        "explanation": "It indicates who is doing the action."
+      },
+      {
+        "word": "des",
+        "translation": "some",
+        "explanation": "It means an unspecified amount."
+      },
+      {
+        "word": "appels",
+        "translation": "calls",
+        "explanation": "Phone communications."
+      },
+      {
+        "word": "tâches",
+        "translation": "tasks",
+        "explanation": "Things that need to be done."
+      },
+      {
+        "word": "pressantes",
+        "translation": "urgent",
+        "explanation": "Important and requiring immediate attention."
+      },
+      {
+        "word": "oubliât",
+        "translation": "forgot",
+        "explanation": "Did not remember."
+      },
+      {
+        "word": "de",
+        "translation": "to",
+        "explanation": "It shows purpose."
+      },
+      {
+        "word": "fermer",
+        "translation": "close",
+        "explanation": "To shut something."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A definite article used for a specific word."
+      },
+      {
+        "word": "loquet",
+        "translation": "latch",
+        "explanation": "A mechanism for keeping a door or gate closed."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "A preposition used to indicate belonging."
+      },
+      {
+        "word": "sa",
+        "translation": "her",
+        "explanation": "It refers back to Lila's cage."
+      },
+      {
+        "word": "cage",
+        "translation": "cage",
+        "explanation": "A structure enclosed for keeping birds."
+      }
+    ],
+    [
+      {
+        "word": "Avec",
+        "translation": "With",
+        "explanation": "Indicates accompaniment."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "Used for indicating one."
+      },
+      {
+        "word": "léger",
+        "translation": "slight",
+        "explanation": "Not heavy; a little."
+      },
+      {
+        "word": "grincement",
+        "translation": "creaking",
+        "explanation": "A sound made by something moving slowly."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article."
+      },
+      {
+        "word": "porte",
+        "translation": "door",
+        "explanation": "An entryway to a space."
+      },
+      {
+        "word": "s'ouvrit",
+        "translation": "opened",
+        "explanation": "It became not closed."
+      },
+      {
+        "word": "révélant",
+        "translation": "revealing",
+        "explanation": "Showing something unknown."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A definite article."
+      },
+      {
+        "word": "monde",
+        "translation": "world",
+        "explanation": "All the things outside."
+      },
+      {
+        "word": "extérieur",
+        "translation": "outside",
+        "explanation": "The area beyond the door."
+      },
+      {
+        "word": "dans",
+        "translation": "in",
+        "explanation": "Specify inside a space."
+      },
+      {
+        "word": "toute",
+        "translation": "all",
+        "explanation": "Refers to everything."
+      },
+      {
+        "word": "sa",
+        "translation": "its",
+        "explanation": "Belonging to the world."
+      },
+      {
+        "word": "splendeur",
+        "translation": "splendor",
+        "explanation": "Beautiful and impressive appearance."
+      }
+    ],
+    [
+      {
+        "word": "Lila",
+        "translation": "Lila",
+        "explanation": "The name of the character."
+      },
+      {
+        "word": "hésita",
+        "translation": "hesitated",
+        "explanation": "She paused and was unsure."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "Used for indicating one."
+      },
+      {
+        "word": "instant",
+        "translation": "moment",
+        "explanation": "A very short period of time."
+      },
+      {
+        "word": "son",
+        "translation": "her",
+        "explanation": "Belonging to Lila."
+      },
+      {
+        "word": "cœur",
+        "translation": "heart",
+        "explanation": "An organ often linked to feelings."
+      },
+      {
+        "word": "battant",
+        "translation": "beating",
+        "explanation": "Moving quickly back and forth."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article."
+      },
+      {
+        "word": "chamade",
+        "translation": "drum",
+        "explanation": "A strong sound, often linked to excitement."
+      }
+    ],
+    [
+      {
+        "word": "D'un",
+        "translation": "With a",
+        "explanation": "Indicates something is done using one."
+      },
+      {
+        "word": "coup",
+        "translation": "swipe",
+        "explanation": "A quick movement."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "A preposition used to indicate belonging."
+      },
+      {
+        "word": "ailes",
+        "translation": "wings",
+        "explanation": "The body parts used for flying."
+      },
+      {
+        "word": "déterminé",
+        "translation": "determined",
+        "explanation": "Showing strong will to do something."
+      },
+      {
+        "word": "elle",
+        "translation": "she",
+        "explanation": "Refers to Lila."
+      },
+      {
+        "word": "s'aventura",
+        "translation": "ventured",
+        "explanation": "She took a step into something new."
+      },
+      {
+        "word": "dans",
+        "translation": "into",
+        "explanation": "Indicates movement inside something."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A definite article."
+      },
+      {
+        "word": "grand",
+        "translation": "big",
+        "explanation": "Large in size."
+      },
+      {
+        "word": "inconnu",
+        "translation": "unknown",
+        "explanation": "Something that is new and not familiar."
+      }
+    ],
+    [
+      {
+        "word": "Le",
+        "translation": "The",
+        "explanation": "A definite article."
+      },
+      {
+        "word": "ciel",
+        "translation": "sky",
+        "explanation": "The space above Earth, where birds fly."
+      },
+      {
+        "word": "était",
+        "translation": "was",
+        "explanation": "Indicates a state of being in the past."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "Used for indicating one."
+      },
+      {
+        "word": "tapisserie",
+        "translation": "tapestry",
+        "explanation": "A decorative piece of fabric."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows belonging."
+      },
+      {
+        "word": "couleurs",
+        "translation": "colors",
+        "explanation": "Different shades seen in the sky."
+      },
+      {
+        "word": "l'air",
+        "translation": "the air",
+        "explanation": "The atmosphere that we breathe."
+      },
+      {
+        "word": "parfumé",
+        "translation": "scented",
+        "explanation": "Having a nice smell."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows belonging."
+      },
+      {
+        "word": "fleurs",
+        "translation": "flowers",
+        "explanation": "Colorful plants that smell good."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Used to connect words or phrases."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "A definite article."
+      },
+      {
+        "word": "sons",
+        "translation": "sounds",
+        "explanation": "Noises that you hear."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows belonging."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article."
+      },
+      {
+        "word": "nature",
+        "translation": "nature",
+        "explanation": "Everything in the natural world."
+      },
+      {
+        "word": "l'entouraient",
+        "translation": "surrounded",
+        "explanation": "They were all around Her."
+      },
+      {
+        "word": "comme",
+        "translation": "like",
+        "explanation": "Used to make a comparison."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "Used for indicating one."
+      },
+      {
+        "word": "symphonie",
+        "translation": "symphony",
+        "explanation": "A combination of sounds that are pleasant."
+      }
+    ],
+    [
+      {
+        "word": "Elle",
+        "translation": "She",
+        "explanation": "The character in the sentence is 'She'."
+      },
+      {
+        "word": "s'éleva",
+        "translation": "rose",
+        "explanation": "This means 'went up' or 'rose'."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This is a preposition meaning 'of'."
+      },
+      {
+        "word": "plus",
+        "translation": "more",
+        "explanation": "This means 'more' in terms of quantity."
+      },
+      {
+        "word": "en",
+        "translation": "in",
+        "explanation": "This preposition means 'in'."
+      },
+      {
+        "word": "plus",
+        "translation": "more",
+        "explanation": "Again, this means 'more'."
+      },
+      {
+        "word": "haut",
+        "translation": "high",
+        "explanation": "This describes a position that is elevated."
+      },
+      {
+        "word": ",",
+        "translation": "",
+        "explanation": "Punctuation, ignored."
+      },
+      {
+        "word": "sentant",
+        "translation": "feeling",
+        "explanation": "This means 'feeling' or 'sensing'."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "This is a definite article, meaning 'the'."
+      },
+      {
+        "word": "soleil",
+        "translation": "sun",
+        "explanation": "This translates to 'sun', the star that gives light."
+      },
+      {
+        "word": "réchauffer",
+        "translation": "warm",
+        "explanation": "This means 'to make warmer'."
+      },
+      {
+        "word": "ses",
+        "translation": "its",
+        "explanation": "This means 'its', indicating possession."
+      },
+      {
+        "word": "plumes",
+        "translation": "feathers",
+        "explanation": "This refers to 'feathers', covering a bird's body."
+      }
+    ],
+    [
+      {
+        "word": "C'était",
+        "translation": "It was",
+        "explanation": "This means 'It was', referring to something in the past."
+      },
+      {
+        "word": "tout",
+        "translation": "all",
+        "explanation": "This means 'all' or 'everything'."
+      },
+      {
+        "word": "ce",
+        "translation": "this",
+        "explanation": "This means 'this', indicating a specific thing."
+      },
+      {
+        "word": "qu'elle",
+        "translation": "that she",
+        "explanation": "This means 'that she', referring back to the character."
+      },
+      {
+        "word": "avait",
+        "translation": "had",
+        "explanation": "This is the past tense for 'to have', meaning 'had'."
+      },
+      {
+        "word": "rêvé",
+        "translation": "dreamed",
+        "explanation": "This means 'dreamed', like in sleep or wishes."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "This is a conjunction meaning 'and'."
+      },
+      {
+        "word": "plus",
+        "translation": "more",
+        "explanation": "This means 'more', referring to additional things."
+      },
+      {
+        "word": "encore",
+        "translation": "even",
+        "explanation": "This means 'even', used to emphasize what's stated."
+      }
+    ],
+    [
+      {
+        "word": "Pendant",
+        "translation": "For",
+        "explanation": "This means 'for', indicating a duration."
+      },
+      {
+        "word": "des",
+        "translation": "some",
+        "explanation": "This means 'some', referring to an unspecified amount."
+      },
+      {
+        "word": "heures",
+        "translation": "hours",
+        "explanation": "This translates to 'hours', a unit of time."
+      },
+      {
+        "word": ",",
+        "translation": "",
+        "explanation": "Punctuation, ignored."
+      },
+      {
+        "word": "elle",
+        "translation": "she",
+        "explanation": "This is 'she', referring to the same character."
+      },
+      {
+        "word": "flotta",
+        "translation": "floated",
+        "explanation": "This means 'floated', like moving gently in the air."
+      },
+      {
+        "word": "de",
+        "translation": "from",
+        "explanation": "This is a preposition meaning 'from'."
+      },
+      {
+        "word": "branche",
+        "translation": "branch",
+        "explanation": "This means 'branch', a part of a tree."
+      },
+      {
+        "word": "en",
+        "translation": "to",
+        "explanation": "This means 'to', indicating direction."
+      },
+      {
+        "word": "branche",
+        "translation": "branch",
+        "explanation": "This again means 'branch', referring to another part of a tree."
+      },
+      {
+        "word": ",",
+        "translation": "",
+        "explanation": "Punctuation, ignored."
+      },
+      {
+        "word": "salutant",
+        "translation": "greeting",
+        "explanation": "This means 'greeting', like saying hello."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "This is a definite article meaning 'the'."
+      },
+      {
+        "word": "autres",
+        "translation": "other",
+        "explanation": "This means 'other', referring to additional things."
+      },
+      {
+        "word": "oiseaux",
+        "translation": "birds",
+        "explanation": "This translates to 'birds', flying creatures."
+      },
+      {
+        "word": "qui",
+        "translation": "that",
+        "explanation": "This means 'that', referring to the birds."
+      },
+      {
+        "word": "gazouillaient",
+        "translation": "chirped",
+        "explanation": "This means 'chirped', the sound birds make."
+      },
+      {
+        "word": "en",
+        "translation": "in",
+        "explanation": "This means 'in', indicating manner."
+      },
+      {
+        "word": "harmonie",
+        "translation": "harmony",
+        "explanation": "This translates to 'harmony', a pleasant arrangement."
+      }
+    ],
+    [
+      {
+        "word": "L'euphorie",
+        "translation": "The euphoria",
+        "explanation": "This is 'The euphoria', a feeling of great happiness."
+      },
+      {
+        "word": "l'envahit",
+        "translation": "overcame her",
+        "explanation": "This means 'overcame her', to take over her feelings."
+      },
+      {
+        "word": "alors",
+        "translation": "then",
+        "explanation": "This means 'then', indicating a time."
+      },
+      {
+        "word": "qu'elle",
+        "translation": "that she",
+        "explanation": "This means 'that she', referring to the character."
+      },
+      {
+        "word": "dansait",
+        "translation": "was dancing",
+        "explanation": "This means 'was dancing', an action of moving rhythmically."
+      },
+      {
+        "word": "dans",
+        "translation": "in",
+        "explanation": "This means 'in', indicating location."
+      },
+      {
+        "word": "l'air",
+        "translation": "the air",
+        "explanation": "This refers to 'the air', the atmosphere around us."
+      },
+      {
+        "word": ",",
+        "translation": "",
+        "explanation": "Punctuation, ignored."
+      },
+      {
+        "word": "goûtant",
+        "translation": "tasting",
+        "explanation": "This means 'tasting', experiencing a sensation."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "This means 'to', indicating direction or intention."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "This is a definite article meaning 'the'."
+      },
+      {
+        "word": "liberté",
+        "translation": "freedom",
+        "explanation": "This translates to 'freedom', the state of being free."
+      }
+    ],
+    [
+      {
+        "word": "Mais",
+        "translation": "But",
+        "explanation": "This is a conjunction meaning 'But'."
+      },
+      {
+        "word": "alors",
+        "translation": "then",
+        "explanation": "This means 'then', indicating a time."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "This means 'that', connecting two ideas."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "This is a definite article meaning 'the'."
+      },
+      {
+        "word": "soleil",
+        "translation": "sun",
+        "explanation": "This translates to 'sun', the star that gives light."
+      },
+      {
+        "word": "commençait",
+        "translation": "was beginning",
+        "explanation": "This means 'was beginning', starting an action."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "This means 'to', indicating direction or intention."
+      },
+      {
+        "word": "plonger",
+        "translation": "dive",
+        "explanation": "This means 'dive', as in to go down quickly."
+      },
+      {
+        "word": "dans",
+        "translation": "into",
+        "explanation": "This means 'into', indicating arrival inside."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "This is a definite article meaning 'the'."
+      },
+      {
+        "word": "ciel",
+        "translation": "sky",
+        "explanation": "This translates to 'sky', the atmosphere above us."
+      },
+      {
+        "word": ",",
+        "translation": "",
+        "explanation": "Punctuation, ignored."
+      },
+      {
+        "word": "Lila",
+        "translation": "Lila",
+        "explanation": "This is a proper name, the character's name."
+      },
+      {
+        "word": "remarqua",
+        "translation": "noticed",
+        "explanation": "This means 'noticed', to see or become aware of."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "This is an article meaning 'a'."
+      },
+      {
+        "word": "changement",
+        "translation": "change",
+        "explanation": "This means 'change', a difference or alteration."
+      }
+    ],
+    [
+      {
+        "word": "Les",
+        "translation": "The",
+        "explanation": "Article indicating something specific."
+      },
+      {
+        "word": "gazouillis",
+        "translation": "chirps",
+        "explanation": "Sounds made by small birds."
+      },
+      {
+        "word": "autrefois",
+        "translation": "formerly",
+        "explanation": "At a time in the past."
+      },
+      {
+        "word": "accueillants",
+        "translation": "welcoming",
+        "explanation": "Friendly and inviting."
+      },
+      {
+        "word": "se",
+        "translation": "themselves",
+        "explanation": "Refers back to the chirps."
+      },
+      {
+        "word": "transformaient",
+        "translation": "transformed",
+        "explanation": "Changed into something else."
+      },
+      {
+        "word": "en",
+        "translation": "into",
+        "explanation": "Indicating change towards something."
+      },
+      {
+        "word": "bruissements",
+        "translation": "rustles",
+        "explanation": "Sounds made by wings moving."
+      },
+      {
+        "word": "d'ailes",
+        "translation": "of wings",
+        "explanation": "Belonging to birds."
+      },
+      {
+        "word": "qui",
+        "translation": "which",
+        "explanation": "Refers to the rustles."
+      },
+      {
+        "word": "semblaient",
+        "translation": "seemed",
+        "explanation": "Appeared to be something."
+      },
+      {
+        "word": "plus",
+        "translation": "more",
+        "explanation": "Indicating a greater amount."
+      },
+      {
+        "word": "compétitifs",
+        "translation": "competitive",
+        "explanation": "Wanting to win or be better than others."
+      },
+      {
+        "word": "que",
+        "translation": "than",
+        "explanation": "Used for comparison."
+      },
+      {
+        "word": "amicaux",
+        "translation": "friendly",
+        "explanation": "Showing kindness."
+      }
+    ],
+    [
+      {
+        "word": "De",
+        "translation": "Larger",
+        "explanation": "Indicating size."
+      },
+      {
+        "word": "plus",
+        "translation": "bigger",
+        "explanation": "Signifying greater size."
+      },
+      {
+        "word": "grands",
+        "translation": "birds",
+        "explanation": "Large flying animals."
+      },
+      {
+        "word": "oiseaux",
+        "translation": "birds",
+        "explanation": "Creatures that fly."
+      },
+      {
+        "word": "voletaient",
+        "translation": "hovered",
+        "explanation": "Flying gently and staying in one place."
+      },
+      {
+        "word": "au-dessus",
+        "translation": "above",
+        "explanation": "Higher in the air."
+      },
+      {
+        "word": "projetant",
+        "translation": "casting",
+        "explanation": "Throwing shadows."
+      },
+      {
+        "word": "des",
+        "translation": "shadows",
+        "explanation": "Dark shapes made by objects blocking light."
+      },
+      {
+        "word": "ombres",
+        "translation": "shapes",
+        "explanation": "Forms created by light and blocking objects."
+      },
+      {
+        "word": "sur",
+        "translation": "on",
+        "explanation": "Indicating position."
+      },
+      {
+        "word": "son",
+        "translation": "her",
+        "explanation": "Belonging to Lila."
+      },
+      {
+        "word": "petit",
+        "translation": "small",
+        "explanation": "Not large in size."
+      },
+      {
+        "word": "corps",
+        "translation": "body",
+        "explanation": "Physical form of Lila."
+      }
+    ],
+    [
+      {
+        "word": "Se",
+        "translation": "Feeling",
+        "explanation": "Referring to a state of being."
+      },
+      {
+        "word": "sentant",
+        "translation": "feeling",
+        "explanation": "Recognizing her emotions."
+      },
+      {
+        "word": "mal",
+        "translation": "uncomfortable",
+        "explanation": "Not feeling good."
+      },
+      {
+        "word": "à",
+        "translation": "on",
+        "explanation": "Indicating a position."
+      },
+      {
+        "word": "l'aise",
+        "translation": "ease",
+        "explanation": "Comfortable state."
+      },
+      {
+        "word": "Lila",
+        "translation": "Lila",
+        "explanation": "Character's name."
+      },
+      {
+        "word": "se",
+        "translation": "herself",
+        "explanation": "Referring back to Lila."
+      },
+      {
+        "word": "posa",
+        "translation": "perched",
+        "explanation": "Settled gently."
+      },
+      {
+        "word": "sur",
+        "translation": "on",
+        "explanation": "Indicating position."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "Indicating one."
+      },
+      {
+        "word": "petite",
+        "translation": "small",
+        "explanation": "Not large in size."
+      },
+      {
+        "word": "branche",
+        "translation": "branch",
+        "explanation": "Part of a tree."
+      },
+      {
+        "word": "haletante",
+        "translation": "panting",
+        "explanation": "Breathing heavily."
+      }
+    ],
+    [
+      {
+        "word": "La",
+        "translation": "The",
+        "explanation": "Article indicating something specific."
+      },
+      {
+        "word": "beauté",
+        "translation": "beauty",
+        "explanation": "Pleasing quality."
+      },
+      {
+        "word": "du",
+        "translation": "of the",
+        "explanation": "Indicating possession."
+      },
+      {
+        "word": "monde",
+        "translation": "world",
+        "explanation": "The Earth and everything on it."
+      },
+      {
+        "word": "extérieur",
+        "translation": "outside",
+        "explanation": "Outdoors, not inside."
+      },
+      {
+        "word": "était",
+        "translation": "was",
+        "explanation": "Past tense of 'to be'."
+      },
+      {
+        "word": "éclipsée",
+        "translation": "eclipsed",
+        "explanation": "Made less visible."
+      },
+      {
+        "word": "par",
+        "translation": "by",
+        "explanation": "Indicating the agent."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "Article indicating something specific."
+      },
+      {
+        "word": "dangers",
+        "translation": "dangers",
+        "explanation": "Things that can cause harm."
+      },
+      {
+        "word": "sournois",
+        "translation": "sneaky",
+        "explanation": "Deceptive, hidden."
+      },
+      {
+        "word": "des",
+        "translation": "of the",
+        "explanation": "Indicating possession."
+      },
+      {
+        "word": "faucons",
+        "translation": "hawks",
+        "explanation": "Birds of prey."
+      },
+      {
+        "word": "tourbillonnaient",
+        "translation": "circled",
+        "explanation": "Flying around in circles."
+      },
+      {
+        "word": "au-dessus",
+        "translation": "above",
+        "explanation": "Higher in the air."
+      },
+      {
+        "word": "tandis",
+        "translation": "while",
+        "explanation": "Indicating two actions happening together."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "Used to introduce a clause."
+      },
+      {
+        "word": "des",
+        "translation": "the",
+        "explanation": "Indicating specific items."
+      },
+      {
+        "word": "écureuils",
+        "translation": "squirrels",
+        "explanation": "Small animals with bushy tails."
+      },
+      {
+        "word": "jacassaient",
+        "translation": "chattered",
+        "explanation": "Made quick, repeated sounds."
+      },
+      {
+        "word": "nerveusement",
+        "translation": "nervously",
+        "explanation": "Feeling anxious."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "Indicating specific items."
+      },
+      {
+        "word": "yeux",
+        "translation": "eyes",
+        "explanation": "Parts of the face that see."
+      },
+      {
+        "word": "rivés",
+        "translation": "fixed",
+        "explanation": "Staring intensively."
+      },
+      {
+        "word": "sur",
+        "translation": "at",
+        "explanation": "Indicating focus."
+      },
+      {
+        "word": "des",
+        "translation": "the",
+        "explanation": "Indicating specific items."
+      },
+      {
+        "word": "menaces",
+        "translation": "threats",
+        "explanation": "Potential dangers."
+      },
+      {
+        "word": "invisibles",
+        "translation": "invisible",
+        "explanation": "Cannot be seen."
+      }
+    ],
+    [
+      {
+        "word": "Une",
+        "translation": "A",
+        "explanation": "Indicating one."
+      },
+      {
+        "word": "douce",
+        "translation": "gentle",
+        "explanation": "Soft and kind."
+      },
+      {
+        "word": "brise",
+        "translation": "breeze",
+        "explanation": "Light wind."
+      },
+      {
+        "word": "chuchotait",
+        "translation": "whispered",
+        "explanation": "Spoke softly."
+      },
+      {
+        "word": "des",
+        "translation": "warnings",
+        "explanation": "Signals of danger."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Connecting words."
+      },
+      {
+        "word": "son",
+        "translation": "her",
+        "explanation": "Belonging to Lila."
+      },
+      {
+        "word": "cœur",
+        "translation": "heart",
+        "explanation": "Organ that pumps blood; also means feelings."
+      },
+      {
+        "word": "s'alourdit",
+        "translation": "weighed down",
+        "explanation": "Felt heavy or burdened."
+      }
+    ],
+    [
+      {
+        "word": "Et",
+        "translation": "And",
+        "explanation": "This is a conjunction used to connect thoughts."
+      },
+      {
+        "word": "si",
+        "translation": "if",
+        "explanation": "This word introduces a condition."
+      },
+      {
+        "word": "je",
+        "translation": "I",
+        "explanation": "This is the subject of the sentence."
+      },
+      {
+        "word": "devenais",
+        "translation": "became",
+        "explanation": "This is what 'I' did in the past."
+      },
+      {
+        "word": "proie",
+        "translation": "prey",
+        "explanation": "This is something that can be hunted or caught."
+      },
+      {
+        "word": "au",
+        "translation": "to the",
+        "explanation": "This indicates direction or relationship."
+      },
+      {
+        "word": "lieu",
+        "translation": "place",
+        "explanation": "This refers to a location or situation."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This is a preposition indicating possession or relation."
+      },
+      {
+        "word": "m'envoler",
+        "translation": "fly away",
+        "explanation": "This is what 'I' would do if I were not 'prey'."
+      },
+      {
+        "word": "haut",
+        "translation": "high",
+        "explanation": "This refers to a great vertical distance."
+      },
+      {
+        "word": "pensa-t-elle",
+        "translation": "she thought",
+        "explanation": "This indicates what the subject was thinking."
+      }
+    ],
+    [
+      {
+        "word": "Entourée",
+        "translation": "Surrounded",
+        "explanation": "This describes the state of being enclosed by something."
+      },
+      {
+        "word": "d'arbres",
+        "translation": "by trees",
+        "explanation": "This tells what is surrounding her."
+      },
+      {
+        "word": "majestueux",
+        "translation": "majestic",
+        "explanation": "This describes the impressive beauty of the trees."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Another conjunction connecting thoughts."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Another preposition indicating a relationship."
+      },
+      {
+        "word": "paysages",
+        "translation": "landscapes",
+        "explanation": "This refers to the visible features of the land."
+      },
+      {
+        "word": "inconnus",
+        "translation": "unknown",
+        "explanation": "This describes something not familiar."
+      },
+      {
+        "word": "Lila",
+        "translation": "Lila",
+        "explanation": "This is the name of the character."
+      },
+      {
+        "word": "se",
+        "translation": "herself",
+        "explanation": "This is used with the verb to mean the same person."
+      },
+      {
+        "word": "sentait",
+        "translation": "felt",
+        "explanation": "This describes what Lila was experiencing."
+      },
+      {
+        "word": "très",
+        "translation": "very",
+        "explanation": "This intensifies the next word."
+      },
+      {
+        "word": "petite",
+        "translation": "small",
+        "explanation": "This describes Lila's size in comparison to her surroundings."
+      }
+    ],
+    [
+      {
+        "word": "Juste",
+        "translation": "Just",
+        "explanation": "This indicates immediacy or timing."
+      },
+      {
+        "word": "alors",
+        "translation": "then",
+        "explanation": "This tells when something is happening."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "This indicates a singular object."
+      },
+      {
+        "word": "sage",
+        "translation": "wise",
+        "explanation": "This describes the owl as knowledgeable."
+      },
+      {
+        "word": "vieille",
+        "translation": "old",
+        "explanation": "This describes the owl as having lived for a long time."
+      },
+      {
+        "word": "chouette",
+        "translation": "owl",
+        "explanation": "This refers to the bird being described."
+      },
+      {
+        "word": "se",
+        "translation": "it",
+        "explanation": "This indicates the subject performing an action."
+      },
+      {
+        "word": "percha",
+        "translation": "perched",
+        "explanation": "This describes the action of landing on a surface."
+      },
+      {
+        "word": "à",
+        "translation": "next to",
+        "explanation": "This indicates proximity."
+      },
+      {
+        "word": "côté",
+        "translation": "side",
+        "explanation": "This refers to a position beside something."
+      },
+      {
+        "word": "d'elle",
+        "translation": "of her",
+        "explanation": "This describes belonging or relation to Lila."
+      }
+    ],
+    [
+      {
+        "word": "Novice",
+        "translation": "Novice",
+        "explanation": "This is a term for someone who is new to something."
+      },
+      {
+        "word": "viens",
+        "translation": "come",
+        "explanation": "This is a command asking someone to approach."
+      },
+      {
+        "word": "admirer",
+        "translation": "admire",
+        "explanation": "This means to look at something with pleasure."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "This is a definite article indicating something specific."
+      },
+      {
+        "word": "monde",
+        "translation": "world",
+        "explanation": "This refers to the earth and everything in it."
+      },
+      {
+        "word": "?",
+        "translation": "",
+        "explanation": ""
+      }
+    ],
+    [
+      {
+        "word": "Il",
+        "translation": "It",
+        "explanation": "This refers to something already mentioned."
+      },
+      {
+        "word": "peut",
+        "translation": "can",
+        "explanation": "This indicates possibility."
+      },
+      {
+        "word": "être",
+        "translation": "be",
+        "explanation": "This indicates existence or state."
+      },
+      {
+        "word": "majestueux",
+        "translation": "majestic",
+        "explanation": "This describes the beauty of the world."
+      },
+      {
+        "word": "mais",
+        "translation": "but",
+        "explanation": "This is a conjunction showing contrast."
+      },
+      {
+        "word": "avance",
+        "translation": "proceed",
+        "explanation": "This is a command to move forward."
+      },
+      {
+        "word": "prudemment",
+        "translation": "cautiously",
+        "explanation": "This describes how to proceed, with care."
+      }
+    ],
+    [
+      {
+        "word": "Respecte",
+        "translation": "Respect",
+        "explanation": "What you should do to the balance of nature."
+      },
+      {
+        "word": "l'équilibre",
+        "translation": "the balance",
+        "explanation": "This is the state of nature that should be kept stable."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "A preposition used to show belonging."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article used for specific things."
+      },
+      {
+        "word": "nature",
+        "translation": "nature",
+        "explanation": "The environment and all living things."
+      },
+      {
+        "word": "ou",
+        "translation": "or",
+        "explanation": "A conjunction used to present an alternative."
+      },
+      {
+        "word": "tu",
+        "translation": "you",
+        "explanation": "The person being spoken to."
+      },
+      {
+        "word": "pourrais",
+        "translation": "could",
+        "explanation": "A word indicating possibility."
+      },
+      {
+        "word": "le",
+        "translation": "it",
+        "explanation": "A pronoun referring to the balance."
+      },
+      {
+        "word": "trouver",
+        "translation": "find",
+        "explanation": "To discover or come across something."
+      },
+      {
+        "word": "peu",
+        "translation": "a little",
+        "explanation": "Indicating a small amount."
+      },
+      {
+        "word": "accueillant",
+        "translation": "welcoming",
+        "explanation": "Friendly and inviting."
+      }
+    ],
+    [
+      {
+        "word": "Lila",
+        "translation": "Lila",
+        "explanation": "A name of a character."
+      },
+      {
+        "word": "hocha",
+        "translation": "nodded",
+        "explanation": "What Lila did with her head indicating agreement."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article used for specific things."
+      },
+      {
+        "word": "tête",
+        "translation": "head",
+        "explanation": "The part of the body where the face is."
+      },
+      {
+        "word": "se",
+        "translation": "herself",
+        "explanation": "Referring back to Lila."
+      },
+      {
+        "word": "sentant",
+        "translation": "feeling",
+        "explanation": "What Lila was experiencing."
+      },
+      {
+        "word": "à",
+        "translation": "both",
+        "explanation": "A preposition used here for indicating two states."
+      },
+      {
+        "word": "la fois",
+        "translation": "the time",
+        "explanation": "Indicating that something happens together."
+      },
+      {
+        "word": "excité",
+        "translation": "excited",
+        "explanation": "A feeling of enthusiasm."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "A conjunction used to connect words."
+      },
+      {
+        "word": "perdu",
+        "translation": "lost",
+        "explanation": "A feeling of confusion or being unsure."
+      }
+    ],
+    [
+      {
+        "word": "Je",
+        "translation": "I",
+        "explanation": "The speaker referring to themselves."
+      },
+      {
+        "word": "pensais",
+        "translation": "thought",
+        "explanation": "What the speaker was considering in the past."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "A word connecting clauses."
+      },
+      {
+        "word": "ce",
+        "translation": "this",
+        "explanation": "Referring to something nearby."
+      },
+      {
+        "word": "serait",
+        "translation": "would be",
+        "explanation": "A conditional form indicating possibility."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "An indefinite article used for singular."
+      },
+      {
+        "word": "paradis",
+        "translation": "paradise",
+        "explanation": "A place of perfect happiness."
+      }
+    ],
+    [
+      {
+        "word": "Pourquoi",
+        "translation": "Why",
+        "explanation": "A question word asking for a reason."
+      },
+      {
+        "word": "cela",
+        "translation": "that",
+        "explanation": "Referring to what was said before."
+      },
+      {
+        "word": "semble",
+        "translation": "seems",
+        "explanation": "What it looks like or appears to be."
+      },
+      {
+        "word": "t-il",
+        "translation": "it",
+        "explanation": "A contraction in French, referring to 'that'."
+      },
+      {
+        "word": "si",
+        "translation": "so",
+        "explanation": "Used for emphasis, meaning very."
+      },
+      {
+        "word": "effrayant",
+        "translation": "frightening",
+        "explanation": "Causing fear."
+      }
+    ],
+    [
+      {
+        "word": "La",
+        "translation": "The",
+        "explanation": "A definite article used for specific things."
+      },
+      {
+        "word": "chouette",
+        "translation": "owl",
+        "explanation": "A type of bird."
+      },
+      {
+        "word": "cligna",
+        "translation": "blinked",
+        "explanation": "What the owl did with its eyes."
+      },
+      {
+        "word": "des",
+        "translation": "some",
+        "explanation": "An indefinite article for plural."
+      },
+      {
+        "word": "yeux",
+        "translation": "eyes",
+        "explanation": "The parts of the face that see."
+      },
+      {
+        "word": "lentement",
+        "translation": "slowly",
+        "explanation": "How the owl blinked."
+      },
+      {
+        "word": "son",
+        "translation": "its",
+        "explanation": "Possessive referring to the owl."
+      },
+      {
+        "word": "regard",
+        "translation": "gaze",
+        "explanation": "The way the owl looked."
+      },
+      {
+        "word": "perçant",
+        "translation": "piercing",
+        "explanation": "Intense and sharp look."
+      }
+    ],
+    [
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "a definite article used to specify something."
+      },
+      {
+        "word": "paradis",
+        "translation": "paradise",
+        "explanation": "a place of great happiness."
+      },
+      {
+        "word": "a",
+        "translation": "has",
+        "explanation": "a verb indicating possession."
+      },
+      {
+        "word": "ses",
+        "translation": "its",
+        "explanation": "a possessive pronoun referring to 'paradise'."
+      },
+      {
+        "word": "ombres",
+        "translation": "shadows",
+        "explanation": "dark shapes made when something blocks light."
+      }
+    ],
+    [
+      {
+        "word": "rien",
+        "translation": "nothing",
+        "explanation": "no thing; not anything."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "a preposition used for belonging."
+      },
+      {
+        "word": "ce",
+        "translation": "this",
+        "explanation": "a demonstrative pronoun referring to something close."
+      },
+      {
+        "word": "qui",
+        "translation": "that",
+        "explanation": "a relative pronoun used to introduce a clause."
+      },
+      {
+        "word": "brille",
+        "translation": "shines",
+        "explanation": "to emit light or be bright."
+      },
+      {
+        "word": "n'est",
+        "translation": "is not",
+        "explanation": "the negative form of 'is'."
+      },
+      {
+        "word": "or",
+        "translation": "gold",
+        "explanation": "a yellow precious metal."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "a conjunction used to connect words."
+      },
+      {
+        "word": "chaque",
+        "translation": "each",
+        "explanation": "every one considered separately."
+      },
+      {
+        "word": "chant",
+        "translation": "song",
+        "explanation": "a piece of music sung."
+      },
+      {
+        "word": "porte",
+        "translation": "carries",
+        "explanation": "to hold or support."
+      },
+      {
+        "word": "sa",
+        "translation": "its",
+        "explanation": "a possessive pronoun referring to 'chant'."
+      },
+      {
+        "word": "propre",
+        "translation": "own",
+        "explanation": "belonging to."
+      },
+      {
+        "word": "mélodie",
+        "translation": "melody",
+        "explanation": "a sequence of notes creating a musical tune."
+      }
+    ],
+    [
+      {
+        "word": "ne",
+        "translation": "do not",
+        "explanation": "used to create a negative form."
+      },
+      {
+        "word": "fuis",
+        "translation": "flee",
+        "explanation": "to run away from."
+      },
+      {
+        "word": "pas",
+        "translation": "not",
+        "explanation": "used for negation."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "a definite article."
+      },
+      {
+        "word": "réalité",
+        "translation": "reality",
+        "explanation": "the state of things as they exist."
+      },
+      {
+        "word": "apprends",
+        "translation": "learn",
+        "explanation": "to gain knowledge or skills."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "a preposition used to indicate direction."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "definite article used to specify."
+      },
+      {
+        "word": "naviguer",
+        "translation": "navigate",
+        "explanation": "to find a way through something."
+      }
+    ],
+    [
+      {
+        "word": "avec",
+        "translation": "with",
+        "explanation": "a preposition used to indicate accompaniment."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "a definite article."
+      },
+      {
+        "word": "soleil",
+        "translation": "sun",
+        "explanation": "the star at the center of our solar system."
+      },
+      {
+        "word": "se",
+        "translation": "self",
+        "explanation": "refers back to the subject."
+      },
+      {
+        "word": "couchant",
+        "translation": "setting",
+        "explanation": "referring to the sun going down."
+      },
+      {
+        "word": "projectant",
+        "translation": "casting",
+        "explanation": "to throw or send forth."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "a preposition showing belonging."
+      },
+      {
+        "word": "longues",
+        "translation": "long",
+        "explanation": "measuring a great distance."
+      },
+      {
+        "word": "ombres",
+        "translation": "shadows",
+        "explanation": "dark shapes formed by a lack of light."
+      },
+      {
+        "word": "lila",
+        "translation": "Lila",
+        "explanation": "a character's name."
+      },
+      {
+        "word": "réalisa",
+        "translation": "realized",
+        "explanation": "to become aware of."
+      },
+      {
+        "word": "qu'elle",
+        "translation": "that she",
+        "explanation": "referring to Lila."
+      },
+      {
+        "word": "devait",
+        "translation": "had to",
+        "explanation": "indicates obligation."
+      },
+      {
+        "word": "retrouver",
+        "translation": "find back",
+        "explanation": "to locate again."
+      },
+      {
+        "word": "son",
+        "translation": "her",
+        "explanation": "a possessive pronoun referring to Lila."
+      },
+      {
+        "word": "chemin",
+        "translation": "way",
+        "explanation": "a path or direction."
+      },
+      {
+        "word": "avant",
+        "translation": "before",
+        "explanation": "at an earlier time."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "a conjunction used to introduce a clause."
+      },
+      {
+        "word": "l'obscurité",
+        "translation": "the darkness",
+        "explanation": "a state of being without light."
+      },
+      {
+        "word": "ne",
+        "translation": "not",
+        "explanation": "used for negation."
+      },
+      {
+        "word": "l'engloutisse",
+        "translation": "swallows it",
+        "explanation": "to take something in completely."
+      }
+    ],
+    [
+      {
+        "word": "elle",
+        "translation": "she",
+        "explanation": "referring to Lila."
+      },
+      {
+        "word": "battit",
+        "translation": "flapped",
+        "explanation": "to move wings up and down."
+      },
+      {
+        "word": "des",
+        "translation": "some",
+        "explanation": "indicating an unspecified amount."
+      },
+      {
+        "word": "ailes",
+        "translation": "wings",
+        "explanation": "body parts that birds use to fly."
+      },
+      {
+        "word": "sentant",
+        "translation": "feeling",
+        "explanation": "to perceive through a sense."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "a definite article."
+      },
+      {
+        "word": "panique",
+        "translation": "panic",
+        "explanation": "a sudden overwhelming fear."
+      },
+      {
+        "word": "monter",
+        "translation": "rise",
+        "explanation": "to go up."
+      },
+      {
+        "word": "mais",
+        "translation": "but",
+        "explanation": "a conjunction used to introduce contrast."
+      },
+      {
+        "word": "se",
+        "translation": "herself",
+        "explanation": "refers back to Lila."
+      },
+      {
+        "word": "rappela",
+        "translation": "remembered",
+        "explanation": "to bring back into mind."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "a definite article."
+      },
+      {
+        "word": "chaleur",
+        "translation": "warmth",
+        "explanation": "the quality of being warm."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "a preposition showing belonging."
+      },
+      {
+        "word": "sa",
+        "translation": "her",
+        "explanation": "a possessive pronoun referring to Lila."
+      },
+      {
+        "word": "cage",
+        "translation": "cage",
+        "explanation": "a structure for holding birds."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "a definite article."
+      },
+      {
+        "word": "confort",
+        "translation": "comfort",
+        "explanation": "a state of physical ease."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "preposition showing belonging."
+      },
+      {
+        "word": "ses",
+        "translation": "her",
+        "explanation": "a possessive pronoun referring to Lila."
+      },
+      {
+        "word": "chants",
+        "translation": "songs",
+        "explanation": "musical pieces sung."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "a conjunction used to connect words."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "definite article for plural."
+      },
+      {
+        "word": "conseils",
+        "translation": "advice",
+        "explanation": "suggestions for good decisions."
+      },
+      {
+        "word": "doux",
+        "translation": "gentle",
+        "explanation": "not harsh; soft."
+      },
+      {
+        "word": "de",
+        "translation": "from",
+        "explanation": "indicating origin."
+      },
+      {
+        "word": "timmy",
+        "translation": "Timmy",
+        "explanation": "a character's name."
+      }
+    ],
+    [
+      {
+        "word": "Dans",
+        "translation": "In",
+        "explanation": "Indicates the location or context."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "Indefinite article for feminine singular nouns."
+      },
+      {
+        "word": "pulsation",
+        "translation": "pulse",
+        "explanation": "Refers to a rhythmic beat or movement."
+      },
+      {
+        "word": "rapide",
+        "translation": "fast",
+        "explanation": "Describes the speed of the pulse."
+      },
+      {
+        "word": "Lila",
+        "translation": "Lila",
+        "explanation": "The name of the character."
+      },
+      {
+        "word": "traversa",
+        "translation": "crossed",
+        "explanation": "What Lila did, she moved across."
+      },
+      {
+        "word": "à",
+        "translation": "at",
+        "explanation": "Indicates direction."
+      },
+      {
+        "word": "toute",
+        "translation": "full",
+        "explanation": "Means completely or fully."
+      },
+      {
+        "word": "vitesse",
+        "translation": "speed",
+        "explanation": "Describes how fast she was moving."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "Definite article for plural nouns."
+      },
+      {
+        "word": "arbres",
+        "translation": "trees",
+        "explanation": "Plants with trunks and leaves."
+      },
+      {
+        "word": "suivant",
+        "translation": "following",
+        "explanation": "Indicates she was going after something."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "Definite article for feminine singular nouns."
+      },
+      {
+        "word": "douce",
+        "translation": "soft",
+        "explanation": "Describes something gentle or mild."
+      },
+      {
+        "word": "lumière",
+        "translation": "light",
+        "explanation": "Natural illumination."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Indicates belonging or relating to."
+      },
+      {
+        "word": "chez",
+        "translation": "home",
+        "explanation": "Refers to Lila's home."
+      },
+      {
+        "word": "elle",
+        "translation": "she",
+        "explanation": "Pronoun referring to Lila."
+      },
+      {
+        "word": "Quand",
+        "translation": "When",
+        "explanation": "Indicates a time."
+      },
+      {
+        "word": "s'approcha",
+        "translation": "approached",
+        "explanation": "What she did to get closer."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Indicates belonging."
+      },
+      {
+        "word": "sa",
+        "translation": "her",
+        "explanation": "Shows possession, belonging to her."
+      },
+      {
+        "word": "fenêtre",
+        "translation": "window",
+        "explanation": "Opening in a wall for light."
+      },
+      {
+        "word": "elle",
+        "translation": "she",
+        "explanation": "Pronoun referring to Lila."
+      },
+      {
+        "word": "vit",
+        "translation": "saw",
+        "explanation": "What she did, to look."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "Definite article for feminine singular nouns."
+      },
+      {
+        "word": "lueur",
+        "translation": "glow",
+        "explanation": "Soft light emanating from something."
+      },
+      {
+        "word": "faible",
+        "translation": "dim",
+        "explanation": "Not bright, weak light."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Indicates belonging."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "Definite article for feminine singular nouns."
+      },
+      {
+        "word": "pièce",
+        "translation": "room",
+        "explanation": "A space inside a building."
+      },
+      {
+        "word": "D'un",
+        "translation": "With a",
+        "explanation": "Indicates using one."
+      },
+      {
+        "word": "dernier",
+        "translation": "last",
+        "explanation": "The final one."
+      },
+      {
+        "word": "bond",
+        "translation": "jump",
+        "explanation": "An act of leaping or springing."
+      },
+      {
+        "word": "elle",
+        "translation": "she",
+        "explanation": "Pronoun referring to Lila."
+      },
+      {
+        "word": "vola",
+        "translation": "flew",
+        "explanation": "What she did, moving through the air."
+      },
+      {
+        "word": "de nouveau",
+        "translation": "again",
+        "explanation": "Means once more."
+      },
+      {
+        "word": "à l'intérieur",
+        "translation": "inside",
+        "explanation": "Refers to being within something."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Indicates belonging."
+      },
+      {
+        "word": "sa",
+        "translation": "her",
+        "explanation": "Shows possession, belonging to her."
+      },
+      {
+        "word": "cage",
+        "translation": "cage",
+        "explanation": "A structure to hold animals."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "Definite article for masculine singular nouns."
+      },
+      {
+        "word": "cœur",
+        "translation": "heart",
+        "explanation": "The organ that pumps blood."
+      },
+      {
+        "word": "battant",
+        "translation": "beating",
+        "explanation": "The action of the heart as it pumps."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Connects words or phrases."
+      },
+      {
+        "word": "essoufflée",
+        "translation": "out of breath",
+        "explanation": "Tired and needing air."
+      }
+    ],
+    [
+      {
+        "word": "Timmy",
+        "translation": "Timmy",
+        "explanation": "The name of another character."
+      },
+      {
+        "word": "lui",
+        "translation": "to her",
+        "explanation": "Indicates who Timmy is speaking to."
+      },
+      {
+        "word": "sourit",
+        "translation": "smiled",
+        "explanation": "What Timmy did, showing happiness."
+      },
+      {
+        "word": "Bienvenue",
+        "translation": "Welcome",
+        "explanation": "A greeting for someone arriving."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Indicates belonging."
+      },
+      {
+        "word": "retour",
+        "translation": "return",
+        "explanation": "Coming back to a place."
+      },
+      {
+        "word": "petite",
+        "translation": "little",
+        "explanation": "Describes someone small, a term of endearment."
+      },
+      {
+        "word": "Cela",
+        "translation": "This",
+        "explanation": "Refers to something previously mentioned."
+      },
+      {
+        "word": "a-t-il",
+        "translation": "has it",
+        "explanation": "Question form indicating ownership."
+      },
+      {
+        "word": "comblé",
+        "translation": "fulfilled",
+        "explanation": "Means to satisfy or fill."
+      },
+      {
+        "word": "tes",
+        "translation": "your",
+        "explanation": "Shows possession, belonging to you."
+      },
+      {
+        "word": "rêves",
+        "translation": "dreams",
+        "explanation": "Thoughts or ideas during sleep."
+      }
+    ],
+    [
+      {
+        "word": "C'était",
+        "translation": "It was",
+        "explanation": "This means 'It was' referring to a past event."
+      },
+      {
+        "word": "beau",
+        "translation": "beautiful",
+        "explanation": "This describes something as 'nice' or 'pretty'."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "This is a word that connects two ideas."
+      },
+      {
+        "word": "terrifiant",
+        "translation": "terrifying",
+        "explanation": "This means something that causes fear."
+      }
+    ],
+    [
+      {
+        "word": "J'ai",
+        "translation": "I have",
+        "explanation": "This is saying 'I have' in French."
+      },
+      {
+        "word": "tant",
+        "translation": "so much",
+        "explanation": "This means a large amount."
+      },
+      {
+        "word": "appris",
+        "translation": "learned",
+        "explanation": "This is past tense of 'learn', meaning to gain knowledge."
+      }
+    ],
+    [
+      {
+        "word": "Mais",
+        "translation": "But",
+        "explanation": "This is a word that shows contrast."
+      },
+      {
+        "word": "pour",
+        "translation": "for",
+        "explanation": "This word shows purpose."
+      },
+      {
+        "word": "l'instant",
+        "translation": "the moment",
+        "explanation": "This means a specific point in time."
+      },
+      {
+        "word": "je",
+        "translation": "I",
+        "explanation": "This refers to the speaker."
+      },
+      {
+        "word": "pense",
+        "translation": "think",
+        "explanation": "This is what someone does in their mind."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "This introduces a clause."
+      },
+      {
+        "word": "je",
+        "translation": "I",
+        "explanation": "This is again referring to the speaker."
+      },
+      {
+        "word": "vais",
+        "translation": "am going to",
+        "explanation": "This indicates future action."
+      },
+      {
+        "word": "rester",
+        "translation": "stay",
+        "explanation": "This means to remain in a place."
+      },
+      {
+        "word": "là",
+        "translation": "there",
+        "explanation": "This indicates a specific place."
+      },
+      {
+        "word": "où",
+        "translation": "where",
+        "explanation": "This is a word asking about a place."
+      },
+      {
+        "word": "je",
+        "translation": "I",
+        "explanation": "Referring to the speaker once again."
+      },
+      {
+        "word": "suis",
+        "translation": "am",
+        "explanation": "This is used to indicate existence."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Connecting two ideas."
+      },
+      {
+        "word": "rêver",
+        "translation": "dream",
+        "explanation": "This means to imagine things in your mind."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This shows belonging or connection."
+      },
+      {
+        "word": "ma",
+        "translation": "my",
+        "explanation": "This shows ownership."
+      },
+      {
+        "word": "prochaine",
+        "translation": "next",
+        "explanation": "This refers to something coming after."
+      },
+      {
+        "word": "aventure",
+        "translation": "adventure",
+        "explanation": "This means an exciting or unusual experience."
+      }
+    ],
+    [
+      {
+        "word": "Un",
+        "translation": "One",
+        "explanation": "This means a single item or person."
+      },
+      {
+        "word": "jour",
+        "translation": "day",
+        "explanation": "This is a period of 24 hours."
+      },
+      {
+        "word": "je",
+        "translation": "I",
+        "explanation": "Referring again to the speaker."
+      },
+      {
+        "word": "serai",
+        "translation": "will be",
+        "explanation": "This indicates a future state or condition."
+      },
+      {
+        "word": "prête",
+        "translation": "ready",
+        "explanation": "This means being prepared."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "This shows direction or purpose."
+      },
+      {
+        "word": "tout",
+        "translation": "everything",
+        "explanation": "This means all things."
+      },
+      {
+        "word": "affronter",
+        "translation": "face",
+        "explanation": "This means to confront or deal with something."
+      },
+      {
+        "word": "de nouveau",
+        "translation": "again",
+        "explanation": "This means for another time."
+      }
+    ],
+    [
+      {
+        "word": "Et",
+        "translation": "And",
+        "explanation": "Connecting two ideas."
+      },
+      {
+        "word": "sur",
+        "translation": "on",
+        "explanation": "This shows a position."
+      },
+      {
+        "word": "ces",
+        "translation": "these",
+        "explanation": "This refers to specific items nearby."
+      },
+      {
+        "word": "mots",
+        "translation": "words",
+        "explanation": "These are units of language."
+      },
+      {
+        "word": "Lila",
+        "translation": "Lila",
+        "explanation": "This is the name of the character."
+      },
+      {
+        "word": "retourna",
+        "translation": "returned",
+        "explanation": "This means to go back."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "This shows direction."
+      },
+      {
+        "word": "son",
+        "translation": "her",
+        "explanation": "This shows possession."
+      },
+      {
+        "word": "perchoir",
+        "translation": "perch",
+        "explanation": "This means a place where birds rest."
+      },
+      {
+        "word": "familier",
+        "translation": "familiar",
+        "explanation": "This means well-known or comfortable."
+      },
+      {
+        "word": "gazouillant",
+        "translation": "tweeting",
+        "explanation": "This means making a light sound like a bird."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "This means one."
+      },
+      {
+        "word": "nouvelle",
+        "translation": "new",
+        "explanation": "This means fresh or recent."
+      },
+      {
+        "word": "chanson",
+        "translation": "song",
+        "explanation": "This is a piece of music with words."
+      },
+      {
+        "word": "qui",
+        "translation": "that",
+        "explanation": "This introduces more information."
+      },
+      {
+        "word": "parlait",
+        "translation": "talked",
+        "explanation": "This is past tense of 'talk', meaning to speak."
+      },
+      {
+        "word": "des",
+        "translation": "about",
+        "explanation": "This shows the subject of discussion."
+      },
+      {
+        "word": "merveilles",
+        "translation": "wonders",
+        "explanation": "These are amazing things."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Connecting two ideas."
+      },
+      {
+        "word": "des",
+        "translation": "about",
+        "explanation": "Also shows the subject of discussion."
+      },
+      {
+        "word": "épreuves",
+        "translation": "trials",
+        "explanation": "These are challenges or difficulties."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows belonging."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "This is a specific article in French."
+      },
+      {
+        "word": "vie",
+        "translation": "life",
+        "explanation": "This refers to existence."
+      },
+      {
+        "word": "au-delà",
+        "translation": "beyond",
+        "explanation": "This means on the other side of."
+      },
+      {
+        "word": "des",
+        "translation": "of the",
+        "explanation": "Shows belonging."
+      },
+      {
+        "word": "barreaux",
+        "translation": "bars",
+        "explanation": "These are bars, often referring to a cage or fence."
+      }
+    ]
+  ]
+}

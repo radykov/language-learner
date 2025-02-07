@@ -1,0 +1,36 @@
+{
+    "stories": [
+        {
+            "title": "The cat that lost its hat",
+            "path": "cat_that_lost_its_hat"
+        },
+        {
+            "title": "Pablo the penguins madrid adventure",
+            "path": "pablo_the_penguins_madrid_adventure"
+        },
+        {
+            "title": "Pinky the Surfing Pig",
+            "path": "pinky_the_surfing_pig"
+        },
+        {
+            "title": "From Brewed Coffee to Bubble Tea Dreams",
+            "path": "from_brewed_coffee_to_bubble_tea_dreams"
+        },
+        {
+            "title": "The Red Panda's Rush",
+            "path": "the_red_pandas_rush"
+        },
+        {
+            "title": "The Truth Beyond the Bars",
+            "path": "the_truth_beyond_the_bars"
+        },
+        {
+            "title": "Underdog in the Fast Lane",
+            "path": "underdog_in_the_fast_lane"
+        },
+        {
+            "title": "The Cheese Heist",
+            "path": "the_cheese_heist"
+        }
+    ]
+}
