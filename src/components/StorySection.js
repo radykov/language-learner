@@ -1,9 +1,7 @@
 // StorySection.jsx
 import React from 'react';
 import { Accordion, TextField } from './CoreComponents';
-import useIsMobile from '../utils/useIsMobile';
 const StorySection = ({ isOpen, onToggle, title, setTitle, story, setStory }) => {
-    const isMobile = useIsMobile();
     return (
         <Accordion
             title="2. Enter a story"

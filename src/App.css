@@ -754,12 +754,22 @@ h3 {
   .mobile-translation-word {
     display: block;
     font-weight: bold;
+    font-size: 1.2rem;
+    margin: 8px 0 0 0;
+  }
+
+  .mobile-translation-word-explanation {
+    display: block;
+    font-size: 1rem;
+    word-wrap: break-word;
+    white-space: normal;
+    margin: 8px 0;
   }
 
   .mobile-translation-sentence {
     display: block;
     font-style: italic;
-    font-size: 0.8rem;
+    font-size: 1rem;
     word-wrap: break-word;
     white-space: normal;
   }

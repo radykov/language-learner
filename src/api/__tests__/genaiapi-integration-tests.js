@@ -86,21 +86,22 @@ const tests = {
 };
 
 // Modified runAllTests to handle results and errors
-async function runAllTests() {
-    const results = {};
-    try {
-        results.storyAndTitle = await tests.testGenerateStoryAndTitle();
-        for (const language of Object.keys(LANGUAGE_TEST_DATA)) {
-            results[language] = {
-                translation: await tests.testTranslation(language),
-                sentences: await tests.testGetSentences(language),
-                words: await tests.testGetWords(language)
-            };
-        }
-        return results;
-    } catch (error) {
-        throw error;
-    }
-}
+// Leaving this here for reference but haven't tested it in the latest versions
+// async function runAllTests() {
+//     const results = {};
+//     try {
+//         results.storyAndTitle = await tests.testGenerateStoryAndTitle();
+//         for (const language of Object.keys(LANGUAGE_TEST_DATA)) {
+//             results[language] = {
+//                 translation: await tests.testTranslation(language),
+//                 sentences: await tests.testGetSentences(language),
+//                 words: await tests.testGetWords(language)
+//             };
+//         }
+//         return results;
+//     } catch (error) {
+//         throw error;
+//     }
+// }
 
 export default tests; 

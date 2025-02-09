@@ -24,7 +24,6 @@ const useStoryCache = () => {
         let response = null;
         try {
             response = await fetch(uri);
-            debugger;
             const storyData = await response.json();
 
             setCache(prevCache => ({

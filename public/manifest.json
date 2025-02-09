@@ -1,8 +1,20 @@
 {
-  "short_name": "Language learner",
-  "name": "Langauge learner",
+  "short_name": "Pipo",
+  "name": "Pipo",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "images/icon_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/icon_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
 }

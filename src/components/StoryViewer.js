@@ -9,10 +9,8 @@ import TitleContainer from './TitleContainer';
 const StoryViewer = () => {
     const [selectedSentence, setSelectedSentence] = useState(null);
     const [selectedWord, setSelectedWord] = useState(null);
-    const [selectedLanguage, setSelectedLanguage] = useState('french');
-    const [storyPath, setStoryPath] = useState('cat_that_lost_its_hat');
 
-    useLoadURLParams(setSelectedLanguage, setStoryPath);
+    const { selectedLanguage, setSelectedLanguage, storyPath, setStoryPath } = useLoadURLParams();
     useUpdateQueryParams(selectedLanguage, storyPath);
 
     const { data, stories, currentStoryTitle } = useFetchData(storyPath, selectedLanguage);

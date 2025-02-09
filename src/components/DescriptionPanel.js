@@ -15,6 +15,8 @@ const DescriptionPanel = ({ selectedSentence, selectedWord }) => {
             ) : (
                 <div className="mobile-translation-info">
                     <p className="mobile-translation-word">Word: {selectedWord ? selectedWord.translation : "No word selected"}</p>
+                    {/* Show the explanation on mobile on your build if you'd like to */}
+                    {/* {selectedWord && <p className="mobile-translation-word-explanation">Explanation: {selectedWord.explanation}</p>} */}
                     <p className="mobile-translation-sentence">Sentence: {selectedSentence ? selectedSentence.translation : "No sentence selected"}</p>
                 </div>
             )}

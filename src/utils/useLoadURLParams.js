@@ -1,21 +1,26 @@
-import { useEffect } from "react";
 import { LANGUAGES } from "../constants/languages";
 import { useSearchParams } from "react-router-dom";
+import { useState } from "react";
 
-const useLoadUrlParams = (setSelectedLanguage, setStoryPath) => {
+const useLoadUrlParams = () => {
     const [searchParams] = useSearchParams();
-
-    useEffect(() => {
+    const [selectedLanguage, setSelectedLanguage] = useState(() => {
         const urlLanguage = searchParams.get('language');
-        const urlStoryPath = searchParams.get('story');
-
         if (urlLanguage && LANGUAGES.some(lang => lang.code === urlLanguage)) {
-            setSelectedLanguage(urlLanguage);
+            return urlLanguage;
         }
+        return 'french';
+    });
+
+    const [storyPath, setStoryPath] = useState(() => {
+        const urlStoryPath = searchParams.get('story');
         if (urlStoryPath) {
-            setStoryPath(urlStoryPath);
+            return urlStoryPath;
         }
-    }, []);
+        return 'cat_that_lost_its_hat';
+    });
+
+    return { selectedLanguage, setSelectedLanguage, storyPath, setStoryPath };
 };
 
 export default useLoadUrlParams;

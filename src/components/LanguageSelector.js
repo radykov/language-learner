@@ -17,7 +17,7 @@ const LanguageSelector = ({ selectedLanguage, setSelectedLanguage, languages = L
                         {isMobile ? (
                             null
                         ) : (
-                            <span className="language-name">{' ' + lang.name}</span>
+                            ' ' + lang.name
                         )}
                     </option>
                 ))}
