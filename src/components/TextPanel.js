@@ -1,5 +1,4 @@
 import React from 'react';
-import { deepseekClient } from '../api/genaiapi.js';
 
 const TextPanel = ({ data, setSelectedSentence, setSelectedWord }) => {
     return (

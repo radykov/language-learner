@@ -1,5 +1,15 @@
 import { useState, useEffect, useCallback } from "react";
 
+const PUBLIC_URI = process.env.PUBLIC_URL;
+
+function getStoryURI(storyPath, language) {
+    return `${PUBLIC_URI}/stories/${storyPath}/${language}.json`;
+}
+
+function getStoriesURI() {
+    return `${PUBLIC_URI}/stories/stories.json`;
+}
+
 const useStoryCache = () => {
     const [cache, setCache] = useState({});
 
@@ -10,8 +20,11 @@ const useStoryCache = () => {
             return cache[cacheKey];
         }
 
+        const uri = getStoryURI(storyPath, language);
+        let response = null;
         try {
-            const response = await fetch(`/stories/${storyPath}/${language}.json`);
+            response = await fetch(uri);
+            debugger;
             const storyData = await response.json();
 
             setCache(prevCache => ({
@@ -21,10 +34,11 @@ const useStoryCache = () => {
 
             return storyData;
         } catch (error) {
-            console.error(`Error loading ${language} story:`, error);
+            console.log(response);
+            console.error(`Error loading ${language} story via ${uri}, response: ${response}:`, error);
             throw error;
         }
-    }, [cache]);
+    }, [cache,]);
 
     return fetchStory;
 };
@@ -33,6 +47,7 @@ const useFetchData = (storyPath, selectedLanguage) => {
     const [data, setData] = useState(null);
     const [stories, setStories] = useState([]);
     const [currentStoryTitle, setCurrentStoryTitle] = useState("");
+    const [initialStoryPath] = useState(storyPath);
     const fetchStory = useStoryCache();
 
     useEffect(() => {
@@ -61,11 +76,11 @@ const useFetchData = (storyPath, selectedLanguage) => {
     useEffect(() => {
         const fetchStories = async () => {
             try {
-                const response = await fetch('/stories/stories.json');
+                const response = await fetch(getStoriesURI());
                 const data = await response.json();
                 setStories(data.stories);
                 // Set initial story title
-                const initialStory = data.stories.find(story => story.path === storyPath);
+                const initialStory = data.stories.find(story => story.path === initialStoryPath);
                 if (initialStory) {
                     setCurrentStoryTitle(initialStory.title);
                 }
@@ -74,7 +89,7 @@ const useFetchData = (storyPath, selectedLanguage) => {
             }
         };
         fetchStories();
-    }, []);
+    }, [initialStoryPath]);
 
     return { data, stories, currentStoryTitle };
 };

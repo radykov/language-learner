@@ -11,7 +11,6 @@ const StoryViewer = () => {
     const [selectedWord, setSelectedWord] = useState(null);
     const [selectedLanguage, setSelectedLanguage] = useState('french');
     const [storyPath, setStoryPath] = useState('cat_that_lost_its_hat');
-    const [isStoryDropdownOpen, setIsStoryDropdownOpen] = useState(false);
 
     useLoadURLParams(setSelectedLanguage, setStoryPath);
     useUpdateQueryParams(selectedLanguage, storyPath);

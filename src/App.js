@@ -6,10 +6,13 @@ import CreatorUI from './components/CreatorUI';
 import Navigation from './components/Navigation';
 import TestRunner from './components/TestRunner';
 import './App.css';
+
+const PUBLIC_URI = process.env.PUBLIC_URL;
+
 // App.js
 function App() {
   return (
-    <Router>
+    <Router basename={PUBLIC_URI}>
       <div className="app">
         <Navigation />
         <main>
