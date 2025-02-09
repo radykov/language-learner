@@ -13,7 +13,7 @@ const StoryViewer = () => {
     const { selectedLanguage, setSelectedLanguage, storyPath, setStoryPath } = useLoadURLParams();
     useUpdateQueryParams(selectedLanguage, storyPath);
 
-    const { data, stories, currentStoryTitle } = useFetchData(storyPath, selectedLanguage);
+    const { data, stories, currentStoryTitle, isLoading } = useFetchData(storyPath, selectedLanguage);
 
     useEffect(() => {
         setSelectedSentence(null);
@@ -32,6 +32,7 @@ const StoryViewer = () => {
                     stories={stories}
                     setStoryPath={setStoryPath}
                 />
+                {isLoading && <div>Loading...</div>}
                 <div className="language-selector-container">
                     <LanguageSelector
                         selectedLanguage={selectedLanguage}

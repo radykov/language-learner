@@ -48,9 +48,10 @@ const useFetchData = (storyPath, selectedLanguage) => {
     const [currentStoryTitle, setCurrentStoryTitle] = useState("");
     const [initialStoryPath] = useState(storyPath);
     const fetchStory = useStoryCache();
+    const [isLoading, setIsLoading] = useState(false);
 
     useEffect(() => {
-        setData(null);
+        setIsLoading(true);
 
         const fetchData = async () => {
             try {
@@ -58,6 +59,8 @@ const useFetchData = (storyPath, selectedLanguage) => {
                 setData(translatedStory);
             } catch (error) {
                 console.error('Error loading data:', error);
+            } finally {
+                setIsLoading(false);
             }
         };
 
@@ -90,7 +93,7 @@ const useFetchData = (storyPath, selectedLanguage) => {
         fetchStories();
     }, [initialStoryPath]);
 
-    return { data, stories, currentStoryTitle };
+    return { data, stories, currentStoryTitle, isLoading };
 };
 
 export default useFetchData;
