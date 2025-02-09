@@ -1,7 +1,4 @@
-// Import workbox libraries
-import { precacheAndRoute } from 'workbox-precaching';
-import { registerRoute } from 'workbox-routing';
-import { StaleWhileRevalidate } from 'workbox-strategies';
+importScripts('https://storage.googleapis.com/workbox-cdn/releases/6.5.4/workbox-sw.js');
 
 // Pre-cache the static assets (if any, like index.html, CSS, JS, etc.)
 precacheAndRoute(self.__WB_MANIFEST);
