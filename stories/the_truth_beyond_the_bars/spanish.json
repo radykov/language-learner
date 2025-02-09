@@ -1,0 +1,3749 @@
+{
+  "story": "En una pequeña y pintoresca casa al borde de un bullicioso pueblo, vivía un pequeño canario llamado Lila en una delicada jaula. Sus plumas doradas brillaban a la luz del sol que entraba por la ventana cada mañana, pero su corazón estaba pesado de anhelo. A menudo escuchaba las canciones de los pájaros afuera, imaginando el vasto y salvaje mundo más allá de sus barrotes. Cada día, Lila cantaba sus propias melodías en respuesta, soñando con volar a través del cielo azul, sentir el viento alborotar sus plumas y ser parte de la vibrante vida afuera de su jaula. \"¡Si tan solo pudiera salir una vez, vería cómo es realmente el mundo!\" piaba a su amigo, una suave y anciana tortuga llamada Timmy que a menudo descansaba cerca de su jaula. Timmy sonreía suavemente, sus ojos llenos de sabiduría. \"Ah, pequeña, el mundo exterior no siempre es como parece. Está lleno de belleza, sí, pero también de desafíos que quizás aún no comprendas. Lila se infló, su espíritu aventurero burbujeando por dentro. \"¡Quiero descubrirlo por mí misma! ¿Y si es un paraíso?\" Una soleada tarde, mientras Lila practicaba sus canciones, su dueño—distraído por llamadas telefónicas y tareas apresuradas—olvidó asegurar el pestillo de su jaula. Con un suave chirrido, la puerta se abrió, revelando el mundo exterior en toda su gloria. Lila dudó por un momento, su corazón latiendo con fuerza. Con un decidido aleteo de sus alas, se aventuró hacia lo desconocido. El cielo era un tapiz de colores, el aire fragante con flores, y los sonidos de la naturaleza la rodeaban como una sinfonía. Se elevó más y más alto, sintiendo cómo el sol calentaba sus plumas. Era todo lo que había soñado y más. Durante horas, saltó de rama en rama, saludando a los otros pájaros que piaban de vuelta en armonía. La euforia la inundó mientras danzaba en el aire, saboreando la libertad. Pero a medida que el sol comenzaba a descender en el cielo, Lila notó un cambio. Los chirridos antes acogedores se transformaron en el susurro de alas que parecían más competitivas que amistosas. Pájaros más grandes volaban arriba, proyectando sombras sobre su pequeño cuerpo. Sintiendo desasosiego, Lila aterrizó en una pequeña rama, jadeando ligeramente. La belleza del mundo exterior se veía opacada por peligros acechantes; halcones circulaban arriba mientras que ardillas parloteaban nerviosamente, con los ojos mirando amenazas invisibles. Una suave brisa susurraba advertencias, y su corazón se hundió. \"¿Y si me convierto en presa en lugar de elevarme alto?\" pensó. Rodeada de árboles imponentes y paisajes desconocidos, Lila se sintió muy pequeña. Justo entonces, un anciano búho sabio se posó a su lado. \"¿Recién llegada, vienes a admirar el mundo? Puede ser majestuoso, pero avanza con cuidado. Respeta el equilibrio de la naturaleza, o podrías encontrarlo poco acogedor. Lila asintió, sintiéndose tanto emocionada como perdida. \"Pensé que sería un paraíso. ¿Por qué se siente tan aterrador?\" El búho parpadeó lentamente, su mirada penetrante. \"El paraíso tiene sus sombras. No todo lo que brilla es oro, y cada canción tiene su propia melodía. No te alejes de la realidad; aprende a navegarla.\" Con el sol poniéndose, proyectando largas sombras, Lila se dio cuenta de que debía encontrar el camino de vuelta antes de que la oscuridad la envolviera. Aleteó sus alas, sintiendo que la panica aumentaba, pero recordó el calor de su jaula, la comodidad de sus canciones y el suave consejo de Timmy. En un apresurado aleteo, Lila atravesó los árboles, siguiendo la suave luz de casa. Al acercarse a su ventana, vio el tenue resplandor de la habitación. Con un último salto, volvió a elevarse dentro de su jaula, el corazón acelerado y sin aliento. Timmy sonrió hacia ella. \"Bienvenida de vuelta, pequeña. ¿Se cumplieron tus sueños?\" Con una pausa pensativa, Lila respondió: \"Fue hermoso y aterrador. He aprendido tanto. Pero por ahora, creo que me quedaré donde estoy y soñaré con mi próxima aventura. Un día, estaré lista para enfrentar todo de nuevo.\" Y con eso, Lila regresó a su perchero familiar, piando una nueva canción que hablaba de las maravillas y pruebas de la vida más allá de los barrotes.",
+  "title": "La Verdad Más Allá de los Barros",
+  "sentences": [
+    {
+      "original": "En una pequeña y pintoresca casa al borde de un bullicioso pueblo, vivía un pequeño canario llamado Lila en una delicada jaula.",
+      "translation": "In a small and picturesque house on the edge of a bustling town, lived a little canary named Lila in a delicate cage."
+    },
+    {
+      "original": "Sus plumas doradas brillaban a la luz del sol que entraba por la ventana cada mañana, pero su corazón estaba pesado de anhelo.",
+      "translation": "Her golden feathers gleamed in the sunlight coming through the window each morning, but her heart was heavy with longing."
+    },
+    {
+      "original": "A menudo escuchaba las canciones de los pájaros afuera, imaginando el vasto y salvaje mundo más allá de sus barrotes.",
+      "translation": "She often listened to the songs of the birds outside, imagining the vast and wild world beyond her bars."
+    },
+    {
+      "original": "Cada día, Lila cantaba sus propias melodías en respuesta, soñando con volar a través del cielo azul, sentir el viento alborotar sus plumas y ser parte de la vibrante vida afuera de su jaula.",
+      "translation": "Every day, Lila sang her own melodies in response, dreaming of soaring through the blue sky, feeling the wind ruffle her feathers, and being part of the vibrant life outside her cage."
+    },
+    {
+      "original": "\"¡Si tan solo pudiera salir una vez, vería cómo es realmente el mundo!\" piaba a su amigo, una suave y anciana tortuga llamada Timmy que a menudo descansaba cerca de su jaula.",
+      "translation": "\"If only I could go out just once, I would see what the world is really like!\" she chirped to her friend, a gentle old turtle named Timmy who often rested near her cage."
+    },
+    {
+      "original": "Timmy sonreía suavemente, sus ojos llenos de sabiduría.",
+      "translation": "Timmy smiled gently, his eyes full of wisdom."
+    },
+    {
+      "original": "\"Ah, pequeña, el mundo exterior no siempre es como parece.",
+      "translation": "\"Ah, little one, the outside world is not always as it seems."
+    },
+    {
+      "original": "Está lleno de belleza, sí, pero también de desafíos que quizás aún no comprendas.",
+      "translation": "It is full of beauty, yes, but also of challenges that you may not yet understand.\""
+    },
+    {
+      "original": "Lila se infló, su espíritu aventurero burbujeando por dentro.",
+      "translation": "Lila puffed up, her adventurous spirit bubbling inside."
+    },
+    {
+      "original": "\"¡Quiero descubrirlo por mí misma! ¿Y si es un paraíso?\"",
+      "translation": "\"I want to discover it for myself! What if it is a paradise?\""
+    },
+    {
+      "original": "Una soleada tarde, mientras Lila practicaba sus canciones, su dueño—distraído por llamadas telefónicas y tareas apresuradas—olvidó asegurar el pestillo de su jaula.",
+      "translation": "One sunny afternoon, while Lila was practicing her songs, her owner—distracted by phone calls and hurried tasks—forgot to secure the latch of her cage."
+    },
+    {
+      "original": "Con un suave chirrido, la puerta se abrió, revelando el mundo exterior en toda su gloria.",
+      "translation": "With a soft squeak, the door opened, revealing the outside world in all its glory."
+    },
+    {
+      "original": "Lila dudó por un momento, su corazón latiendo con fuerza.",
+      "translation": "Lila hesitated for a moment, her heart beating fast."
+    },
+    {
+      "original": "Con un decidido aleteo de sus alas, se aventuró hacia lo desconocido.",
+      "translation": "With a determined flutter of her wings, she ventured into the unknown."
+    },
+    {
+      "original": "El cielo era un tapiz de colores, el aire fragante con flores, y los sonidos de la naturaleza la rodeaban como una sinfonía.",
+      "translation": "The sky was a tapestry of colors, the air fragrant with flowers, and the sounds of nature surrounded her like a symphony."
+    },
+    {
+      "original": "Se elevó más y más alto, sintiendo cómo el sol calentaba sus plumas.",
+      "translation": "She soared higher and higher, feeling the sun warm her feathers."
+    },
+    {
+      "original": "Era todo lo que había soñado y más.",
+      "translation": "It was everything she had dreamed of and more."
+    },
+    {
+      "original": "Durante horas, saltó de rama en rama, saludando a los otros pájaros que piaban de vuelta en armonía.",
+      "translation": "For hours, she hopped from branch to branch, greeting the other birds that chirped back in harmony."
+    },
+    {
+      "original": "La euforia la inundó mientras danzaba en el aire, saboreando la libertad.",
+      "translation": "Euphoria washed over her as she danced in the air, savoring the freedom."
+    },
+    {
+      "original": "Pero a medida que el sol comenzaba a descender en el cielo, Lila notó un cambio.",
+      "translation": "But as the sun began to descend in the sky, Lila noticed a change."
+    },
+    {
+      "original": "Los chirridos antes acogedores se transformaron en el susurro de alas que parecían más competitivas que amistosas.",
+      "translation": "The once welcoming chirps transformed into the whisper of wings that seemed more competitive than friendly."
+    },
+    {
+      "original": "Pájaros más grandes volaban arriba, proyectando sombras sobre su pequeño cuerpo.",
+      "translation": "Larger birds flew overhead, casting shadows over her small body."
+    },
+    {
+      "original": "Sintiendo desasosiego, Lila aterrizó en una pequeña rama, jadeando ligeramente.",
+      "translation": "Feeling uneasy, Lila landed on a small branch, panting slightly."
+    },
+    {
+      "original": "La belleza del mundo exterior se veía opacada por peligros acechantes; halcones circulaban arriba mientras que ardillas parloteaban nerviosamente, con los ojos mirando amenazas invisibles.",
+      "translation": "The beauty of the outside world appeared overshadowed by lurking dangers; hawks circled above while squirrels chattered nervously, their eyes scanning for unseen threats."
+    },
+    {
+      "original": "Una suave brisa susurraba advertencias, y su corazón se hundió.",
+      "translation": "A gentle breeze whispered warnings, and her heart sank."
+    },
+    {
+      "original": "\"¿Y si me convierto en presa en lugar de elevarme alto?\" pensó.",
+      "translation": "\"What if I become prey instead of soaring high?\" she thought."
+    },
+    {
+      "original": "Rodeada de árboles imponentes y paisajes desconocidos, Lila se sintió muy pequeña.",
+      "translation": "Surrounded by towering trees and unfamiliar landscapes, Lila felt very small."
+    },
+    {
+      "original": "Justo entonces, un anciano búho sabio se posó a su lado.",
+      "translation": "Just then, a wise old owl perched beside her."
+    },
+    {
+      "original": "\"¿Recién llegada, vienes a admirar el mundo? Puede ser majestuoso, pero avanza con cuidado.",
+      "translation": "\"Newcomer, have you come to admire the world? It can be majestic, but tread carefully."
+    },
+    {
+      "original": "Respeta el equilibrio de la naturaleza, o podrías encontrarlo poco acogedor.",
+      "translation": "Respect the balance of nature, or you might find it unwelcoming.\""
+    },
+    {
+      "original": "Lila asintió, sintiéndose tanto emocionada como perdida.",
+      "translation": "Lila nodded, feeling both excited and lost."
+    },
+    {
+      "original": "\"Pensé que sería un paraíso. ¿Por qué se siente tan aterrador?\"",
+      "translation": "\"I thought it would be a paradise. Why does it feel so frightening?\""
+    },
+    {
+      "original": "El búho parpadeó lentamente, su mirada penetrante.",
+      "translation": "The owl blinked slowly, its piercing gaze."
+    },
+    {
+      "original": "\"El paraíso tiene sus sombras.",
+      "translation": "\"Paradise has its shadows."
+    },
+    {
+      "original": "No todo lo que brilla es oro, y cada canción tiene su propia melodía.",
+      "translation": "Not everything that glitters is gold, and every song has its own melody."
+    },
+    {
+      "original": "No te alejes de la realidad; aprende a navegarla.\"",
+      "translation": "Do not stray from reality; learn to navigate it.\""
+    },
+    {
+      "original": "Con el sol poniéndose, proyectando largas sombras, Lila se dio cuenta de que debía encontrar el camino de vuelta antes de que la oscuridad la envolviera.",
+      "translation": "With the sun setting, casting long shadows, Lila realized she needed to find her way back before darkness enveloped her."
+    },
+    {
+      "original": "Aleteó sus alas, sintiendo que la panica aumentaba, pero recordó el calor de su jaula, la comodidad de sus canciones y el suave consejo de Timmy.",
+      "translation": "She fluttered her wings, feeling panic rise, but remembered the warmth of her cage, the comfort of her songs, and Timmy's gentle advice."
+    },
+    {
+      "original": "En un apresurado aleteo, Lila atravesó los árboles, siguiendo la suave luz de casa.",
+      "translation": "In a hurried flutter, Lila flew through the trees, following the soft light of home."
+    },
+    {
+      "original": "Al acercarse a su ventana, vio el tenue resplandor de la habitación.",
+      "translation": "As she approached her window, she saw the dim glow of the room."
+    },
+    {
+      "original": "Con un último salto, volvió a elevarse dentro de su jaula, el corazón acelerado y sin aliento.",
+      "translation": "With one last leap, she soared back into her cage, her heart racing and breathless."
+    },
+    {
+      "original": "Timmy sonrió hacia ella.",
+      "translation": "Timmy smiled at her."
+    },
+    {
+      "original": "\"Bienvenida de vuelta, pequeña. ¿Se cumplieron tus sueños?\"",
+      "translation": "\"Welcome back, little one. Did your dreams come true?\""
+    },
+    {
+      "original": "Con una pausa pensativa, Lila respondió: \"Fue hermoso y aterrador. He aprendido tanto.",
+      "translation": "With a thoughtful pause, Lila responded: \"It was beautiful and terrifying. I have learned so much."
+    },
+    {
+      "original": "Pero por ahora, creo que me quedaré donde estoy y soñaré con mi próxima aventura.",
+      "translation": "But for now, I think I will stay where I am and dream of my next adventure."
+    },
+    {
+      "original": "Un día, estaré lista para enfrentar todo de nuevo.\"",
+      "translation": "One day, I will be ready to face it all again.\""
+    },
+    {
+      "original": "Y con eso, Lila regresó a su perchero familiar, piando una nueva canción que hablaba de las maravillas y pruebas de la vida más allá de los barrotes.",
+      "translation": "And with that, Lila returned to her familiar perch, chirping a new song that spoke of the wonders and trials of life beyond the bars."
+    }
+  ],
+  "words": [
+    [
+      {
+        "word": "En",
+        "translation": "In",
+        "explanation": "Position, showing where something is."
+      },
+      {
+        "word": "una",
+        "translation": "a",
+        "explanation": "Indefinite article used for singular feminine nouns."
+      },
+      {
+        "word": "pequeña",
+        "translation": "small",
+        "explanation": "Describes the size of the house."
+      },
+      {
+        "word": "y",
+        "translation": "and",
+        "explanation": "A conjunction to add more information."
+      },
+      {
+        "word": "pintoresca",
+        "translation": "picturesque",
+        "explanation": "Describes something that is visually attractive."
+      },
+      {
+        "word": "casa",
+        "translation": "house",
+        "explanation": "A building where people live."
+      },
+      {
+        "word": "al",
+        "translation": "on the",
+        "explanation": "Indicates position, combining 'a' and 'el'."
+      },
+      {
+        "word": "borde",
+        "translation": "edge",
+        "explanation": "The outer limit or boundary of something."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows possession or relationship."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "Indefinite article used for singular masculine nouns."
+      },
+      {
+        "word": "bullicioso",
+        "translation": "busy",
+        "explanation": "Describes a place with a lot of activity."
+      },
+      {
+        "word": "pueblo",
+        "translation": "town",
+        "explanation": "A small urban area."
+      },
+      {
+        "word": "vivía",
+        "translation": "lived",
+        "explanation": "What the character was doing, staying somewhere."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "Indefinite article for singular masculine nouns."
+      },
+      {
+        "word": "pequeño",
+        "translation": "small",
+        "explanation": "Describes the size of the canary."
+      },
+      {
+        "word": "canario",
+        "translation": "canary",
+        "explanation": "A type of small bird."
+      },
+      {
+        "word": "llamado",
+        "translation": "named",
+        "explanation": "Describes the name of the canary."
+      },
+      {
+        "word": "Lila",
+        "translation": "Lila",
+        "explanation": "The name of the canary."
+      },
+      {
+        "word": "en",
+        "translation": "in",
+        "explanation": "Position, showing where something is."
+      },
+      {
+        "word": "una",
+        "translation": "a",
+        "explanation": "Indefinite article for singular feminine nouns."
+      },
+      {
+        "word": "delicada",
+        "translation": "delicate",
+        "explanation": "Describes something that is fragile or refined."
+      },
+      {
+        "word": "jaula",
+        "translation": "cage",
+        "explanation": "A structure to confine animals."
+      }
+    ],
+    [
+      {
+        "word": "Sus",
+        "translation": "Her",
+        "explanation": "Possessive form, showing ownership."
+      },
+      {
+        "word": "plumas",
+        "translation": "feathers",
+        "explanation": "The soft covering on a bird."
+      },
+      {
+        "word": "doradas",
+        "translation": "golden",
+        "explanation": "Describes the color of the feathers."
+      },
+      {
+        "word": "brillaban",
+        "translation": "shone",
+        "explanation": "What the feathers were doing, reflecting light."
+      },
+      {
+        "word": "a",
+        "translation": "at",
+        "explanation": "Position, shows where something happens."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "Definite article for singular feminine nouns."
+      },
+      {
+        "word": "luz",
+        "translation": "light",
+        "explanation": "The brightness from the sun."
+      },
+      {
+        "word": "del",
+        "translation": "of the",
+        "explanation": "Shows possession or relationship."
+      },
+      {
+        "word": "sol",
+        "translation": "sun",
+        "explanation": "The star that gives light and warmth."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "Used to connect clauses."
+      },
+      {
+        "word": "entraba",
+        "translation": "entered",
+        "explanation": "What the light was doing, coming in."
+      },
+      {
+        "word": "por",
+        "translation": "through",
+        "explanation": "Indicates the way light is coming in."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "Definite article for singular feminine nouns."
+      },
+      {
+        "word": "ventana",
+        "translation": "window",
+        "explanation": "An opening in a wall that lets in light."
+      },
+      {
+        "word": "cada",
+        "translation": "every",
+        "explanation": "Indicates all instances in a group."
+      },
+      {
+        "word": "mañana",
+        "translation": "morning",
+        "explanation": "The part of the day from dawn until noon."
+      }
+    ],
+    [
+      {
+        "word": "pero",
+        "translation": "but",
+        "explanation": "A conjunction used to contrast ideas."
+      },
+      {
+        "word": "su",
+        "translation": "her",
+        "explanation": "Possessive form, showing ownership."
+      },
+      {
+        "word": "corazón",
+        "translation": "heart",
+        "explanation": "The organ that pumps blood, here it means feelings."
+      },
+      {
+        "word": "estaba",
+        "translation": "was",
+        "explanation": "Past tense of 'to be,' indicating a state."
+      },
+      {
+        "word": "pesado",
+        "translation": "heavy",
+        "explanation": "Describes the weight of feelings, like sadness."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows possession or relationship."
+      },
+      {
+        "word": "anhelo",
+        "translation": "longing",
+        "explanation": "A strong desire or wish for something."
+      }
+    ],
+    [
+      {
+        "word": "A",
+        "translation": "Often",
+        "explanation": "Describes how frequently something happens."
+      },
+      {
+        "word": "menudo",
+        "translation": "often",
+        "explanation": "Describes how frequently something happens."
+      },
+      {
+        "word": "escuchaba",
+        "translation": "listened",
+        "explanation": "What she was doing, paying attention to sound."
+      },
+      {
+        "word": "las",
+        "translation": "the",
+        "explanation": "Definite article for plural feminine nouns."
+      },
+      {
+        "word": "canciones",
+        "translation": "songs",
+        "explanation": "Musical pieces with singing."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows possession or relationship."
+      },
+      {
+        "word": "los",
+        "translation": "the",
+        "explanation": "Definite article for plural masculine nouns."
+      },
+      {
+        "word": "pájaros",
+        "translation": "birds",
+        "explanation": "Animals that can fly and have feathers."
+      },
+      {
+        "word": "afuera",
+        "translation": "outside",
+        "explanation": "Indicates a location away from the inside."
+      },
+      {
+        "word": "imaginando",
+        "translation": "imagining",
+        "explanation": "Creating pictures in the mind."
+      },
+      {
+        "word": "el",
+        "translation": "the",
+        "explanation": "Definite article for singular masculine nouns."
+      },
+      {
+        "word": "vasto",
+        "translation": "vast",
+        "explanation": "Describes something very large or wide."
+      },
+      {
+        "word": "y",
+        "translation": "and",
+        "explanation": "A conjunction to add more information."
+      },
+      {
+        "word": "salvaje",
+        "translation": "wild",
+        "explanation": "Describes something that is natural and free."
+      },
+      {
+        "word": "mundo",
+        "translation": "world",
+        "explanation": "The earth and everything on it."
+      },
+      {
+        "word": "más",
+        "translation": "more",
+        "explanation": "Indicates a greater amount."
+      },
+      {
+        "word": "allá",
+        "translation": "beyond",
+        "explanation": "Indicates a location further away."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows possession or relationship."
+      },
+      {
+        "word": "sus",
+        "translation": "her",
+        "explanation": "Possessive form, showing ownership."
+      },
+      {
+        "word": "barrotes",
+        "translation": "bars",
+        "explanation": "The metal rods that make up the cage."
+      }
+    ],
+    [
+      {
+        "word": "Cada",
+        "translation": "Each",
+        "explanation": "Indicates one at a time."
+      },
+      {
+        "word": "día",
+        "translation": "day",
+        "explanation": "A period of 24 hours."
+      },
+      {
+        "word": "Lila",
+        "translation": "Lila",
+        "explanation": "The name of the canary."
+      },
+      {
+        "word": "cantaba",
+        "translation": "sang",
+        "explanation": "What Lila was doing, making musical sounds."
+      },
+      {
+        "word": "sus",
+        "translation": "her",
+        "explanation": "Possessive form, showing ownership."
+      },
+      {
+        "word": "propias",
+        "translation": "own",
+        "explanation": "Indicates that they belong to Lila."
+      },
+      {
+        "word": "melodías",
+        "translation": "melodies",
+        "explanation": "Musical sequences or tunes."
+      },
+      {
+        "word": "en",
+        "translation": "in",
+        "explanation": "Position, showing where something is."
+      },
+      {
+        "word": "respuesta",
+        "translation": "response",
+        "explanation": "An answer or reaction to something."
+      },
+      {
+        "word": "soñando",
+        "translation": "dreaming",
+        "explanation": "Imagining something that is desired."
+      },
+      {
+        "word": "con",
+        "translation": "with",
+        "explanation": "Indicates inclusion or accompaniment."
+      },
+      {
+        "word": "volar",
+        "translation": "to fly",
+        "explanation": "What birds do to move through the air."
+      },
+      {
+        "word": "a",
+        "translation": "to",
+        "explanation": "Indicates direction or place."
+      },
+      {
+        "word": "través",
+        "translation": "across",
+        "explanation": "Indicates movement from one side to another."
+      },
+      {
+        "word": "del",
+        "translation": "of the",
+        "explanation": "Shows possession or relationship."
+      },
+      {
+        "word": "cielo",
+        "translation": "sky",
+        "explanation": "The space above the earth where clouds and stars are."
+      },
+      {
+        "word": "azul",
+        "translation": "blue",
+        "explanation": "The color often seen in the sky."
+      },
+      {
+        "word": "sentir",
+        "translation": "feel",
+        "explanation": "To experience a sensation."
+      },
+      {
+        "word": "el",
+        "translation": "the",
+        "explanation": "Definite article for singular masculine nouns."
+      },
+      {
+        "word": "viento",
+        "translation": "wind",
+        "explanation": "The movement of air."
+      },
+      {
+        "word": "alborotar",
+        "translation": "ruffle",
+        "explanation": "To disturb or make something move lightly."
+      },
+      {
+        "word": "sus",
+        "translation": "her",
+        "explanation": "Possessive form, showing ownership."
+      },
+      {
+        "word": "plumas",
+        "translation": "feathers",
+        "explanation": "The soft covering on a bird."
+      },
+      {
+        "word": "y",
+        "translation": "and",
+        "explanation": "A conjunction to add more information."
+      },
+      {
+        "word": "ser",
+        "translation": "to be",
+        "explanation": "Indicates existence or identity."
+      },
+      {
+        "word": "parte",
+        "translation": "part",
+        "explanation": "A portion or section of something."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows possession or relationship."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "Definite article for singular feminine nouns."
+      },
+      {
+        "word": "vibrante",
+        "translation": "vibrant",
+        "explanation": "Describes something full of energy and life."
+      },
+      {
+        "word": "vida",
+        "translation": "life",
+        "explanation": "The condition that distinguishes living things."
+      },
+      {
+        "word": "afuera",
+        "translation": "outside",
+        "explanation": "Indicates a location away from the inside."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows possession or relationship."
+      },
+      {
+        "word": "su",
+        "translation": "her",
+        "explanation": "Possessive form, showing ownership."
+      },
+      {
+        "word": "jaula",
+        "translation": "cage",
+        "explanation": "A structure to confine animals."
+      }
+    ],
+    [
+      {
+        "word": "¡Si",
+        "translation": "If",
+        "explanation": "Used to introduce a conditional statement."
+      },
+      {
+        "word": "tan",
+        "translation": "only",
+        "explanation": "Indicates limitation."
+      },
+      {
+        "word": "solo",
+        "translation": "alone",
+        "explanation": "By oneself, without company."
+      },
+      {
+        "word": "pudiera",
+        "translation": "could",
+        "explanation": "Indicates ability or possibility."
+      },
+      {
+        "word": "salir",
+        "translation": "go out",
+        "explanation": "To exit from a place."
+      },
+      {
+        "word": "una",
+        "translation": "a",
+        "explanation": "Indefinite article for singular feminine nouns."
+      },
+      {
+        "word": "vez",
+        "translation": "time",
+        "explanation": "A specific occasion."
+      },
+      {
+        "word": "vería",
+        "translation": "I would see",
+        "explanation": "What she hoped to do, to look or watch."
+      },
+      {
+        "word": "cómo",
+        "translation": "how",
+        "explanation": "Describes the manner in which something happens."
+      },
+      {
+        "word": "es",
+        "translation": "is",
+        "explanation": "Indicates identity or existence."
+      },
+      {
+        "word": "realmente",
+        "translation": "really",
+        "explanation": "Indicates truth or reality."
+      },
+      {
+        "word": "el",
+        "translation": "the",
+        "explanation": "Definite article for singular masculine nouns."
+      },
+      {
+        "word": "mundo",
+        "translation": "world",
+        "explanation": "The earth and everything on it."
+      }
+    ],
+    [
+      {
+        "word": "piaba",
+        "translation": "chirped",
+        "explanation": "What she was doing, making a short, sharp sound."
+      },
+      {
+        "word": "a",
+        "translation": "to",
+        "explanation": "Indicates direction or purpose."
+      },
+      {
+        "word": "su",
+        "translation": "her",
+        "explanation": "Possessive form, showing ownership."
+      },
+      {
+        "word": "amigo",
+        "translation": "friend",
+        "explanation": "A person whom one likes and trusts."
+      },
+      {
+        "word": "una",
+        "translation": "a",
+        "explanation": "Indefinite article for singular feminine nouns."
+      },
+      {
+        "word": "suave",
+        "translation": "gentle",
+        "explanation": "Describes something that is mild or soft."
+      },
+      {
+        "word": "y",
+        "translation": "and",
+        "explanation": "A conjunction to add more information."
+      },
+      {
+        "word": "anciana",
+        "translation": "old",
+        "explanation": "Describes a person with many years; elderly."
+      },
+      {
+        "word": "tortuga",
+        "translation": "tortoise",
+        "explanation": "A slow-moving reptile with a shell."
+      },
+      {
+        "word": "llamada",
+        "translation": "named",
+        "explanation": "Describes how the tortoise is known, referring to its name."
+      },
+      {
+        "word": "Timmy",
+        "translation": "Timmy",
+        "explanation": "The name of the tortoise."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "Used to connect clauses."
+      },
+      {
+        "word": "a",
+        "translation": "to",
+        "explanation": "Indicates direction or purpose."
+      },
+      {
+        "word": "menudo",
+        "translation": "often",
+        "explanation": "Describes frequency."
+      },
+      {
+        "word": "descansaba",
+        "translation": "rested",
+        "explanation": "What the tortoise was doing, relaxing."
+      },
+      {
+        "word": "cerca",
+        "translation": "near",
+        "explanation": "Indicates closeness in distance."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows possession or relationship."
+      },
+      {
+        "word": "su",
+        "translation": "her",
+        "explanation": "Possessive form, showing ownership."
+      },
+      {
+        "word": "jaula",
+        "translation": "cage",
+        "explanation": "A structure to confine animals."
+      }
+    ],
+    [
+      {
+        "word": "Timmy",
+        "translation": "Timmy",
+        "explanation": "The name of a character in the sentence."
+      },
+      {
+        "word": "sonreía",
+        "translation": "smiled",
+        "explanation": "What Timmy did, showing happiness."
+      },
+      {
+        "word": "suavemente",
+        "translation": "softly",
+        "explanation": "How Timmy smiled, meaning gently."
+      },
+      {
+        "word": "sus",
+        "translation": "his",
+        "explanation": "Showing that the eyes belong to Timmy."
+      },
+      {
+        "word": "ojos",
+        "translation": "eyes",
+        "explanation": "The body part Timmy has."
+      },
+      {
+        "word": "llenos",
+        "translation": "full",
+        "explanation": "Meaning that there is a lot of something."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "A preposition that shows belonging."
+      },
+      {
+        "word": "sabiduría",
+        "translation": "wisdom",
+        "explanation": "Knowing a lot about life and understanding things."
+      }
+    ],
+    [
+      {
+        "word": "Ah",
+        "translation": "Ah",
+        "explanation": "An expression of realization or understanding."
+      },
+      {
+        "word": "pequeña",
+        "translation": "little",
+        "explanation": "A term of endearment indicating affection."
+      },
+      {
+        "word": "el",
+        "translation": "the",
+        "explanation": "A definite article used before a noun."
+      },
+      {
+        "word": "mundo",
+        "translation": "world",
+        "explanation": "The earth and everything in it."
+      },
+      {
+        "word": "exterior",
+        "translation": "outside",
+        "explanation": "Referring to what is outside of something."
+      },
+      {
+        "word": "no",
+        "translation": "not",
+        "explanation": "A word used to negate a statement."
+      },
+      {
+        "word": "siempre",
+        "translation": "always",
+        "explanation": "Meaning all the time."
+      },
+      {
+        "word": "es",
+        "translation": "is",
+        "explanation": "A verb that connects the subject to what is being said."
+      },
+      {
+        "word": "como",
+        "translation": "like",
+        "explanation": "A word used to indicate similarity."
+      },
+      {
+        "word": "parece",
+        "translation": "seems",
+        "explanation": "How something appears to be."
+      }
+    ],
+    [
+      {
+        "word": "Está",
+        "translation": "It is",
+        "explanation": "A verb indicating the state of something."
+      },
+      {
+        "word": "lleno",
+        "translation": "full",
+        "explanation": "Meaning that it contains a lot of something."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "A preposition that shows belonging."
+      },
+      {
+        "word": "belleza",
+        "translation": "beauty",
+        "explanation": "The quality of being pleasing to the senses."
+      },
+      {
+        "word": "sí",
+        "translation": "yes",
+        "explanation": "An affirmation or agreement."
+      },
+      {
+        "word": "pero",
+        "translation": "but",
+        "explanation": "Used to introduce a contrast."
+      },
+      {
+        "word": "también",
+        "translation": "also",
+        "explanation": "Meaning in addition or too."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "A preposition that shows belonging."
+      },
+      {
+        "word": "desafíos",
+        "translation": "challenges",
+        "explanation": "Difficult situations that require effort."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "A word used to introduce a clause."
+      },
+      {
+        "word": "quizás",
+        "translation": "perhaps",
+        "explanation": "Meaning possibly or maybe."
+      },
+      {
+        "word": "aún",
+        "translation": "yet",
+        "explanation": "Still not done or achieved."
+      },
+      {
+        "word": "no",
+        "translation": "not",
+        "explanation": "A word used to negate a statement."
+      },
+      {
+        "word": "comprendas",
+        "translation": "you understand",
+        "explanation": "A verb asking if the person realizes something."
+      }
+    ],
+    [
+      {
+        "word": "Lila",
+        "translation": "Lila",
+        "explanation": "The name of a character in the sentence."
+      },
+      {
+        "word": "se",
+        "translation": "herself",
+        "explanation": "A reflexive pronoun showing that the action is for Lila."
+      },
+      {
+        "word": "infló",
+        "translation": "swelled",
+        "explanation": "What happened to Lila's spirit, meaning it grew with excitement."
+      },
+      {
+        "word": "su",
+        "translation": "her",
+        "explanation": "Showing that the spirit belongs to Lila."
+      },
+      {
+        "word": "espíritu",
+        "translation": "spirit",
+        "explanation": "The non-physical part of Lila, related to feelings."
+      },
+      {
+        "word": "aventurero",
+        "translation": "adventurous",
+        "explanation": "Meaning wanting to try new and exciting things."
+      },
+      {
+        "word": "burbujeando",
+        "translation": "bubbling",
+        "explanation": "An action indicating excitement, like bubbles rising."
+      },
+      {
+        "word": "por",
+        "translation": "for",
+        "explanation": "A preposition explaining the reason."
+      },
+      {
+        "word": "dentro",
+        "translation": "inside",
+        "explanation": "Referring to being within something."
+      }
+    ],
+    [
+      {
+        "word": "¡Quiero",
+        "translation": "I want",
+        "explanation": "Lila expresses a desire for something."
+      },
+      {
+        "word": "descubrirlo",
+        "translation": "to discover it",
+        "explanation": "To find out more about something."
+      },
+      {
+        "word": "por",
+        "translation": "for",
+        "explanation": "A preposition explaining the reason."
+      },
+      {
+        "word": "mí",
+        "translation": "myself",
+        "explanation": "Referring to Lila in a personal way."
+      },
+      {
+        "word": "¡Y",
+        "translation": "And",
+        "explanation": "A conjunction used to connect ideas."
+      },
+      {
+        "word": "si",
+        "translation": "if",
+        "explanation": "A conditional word asking about a possibility."
+      },
+      {
+        "word": "es",
+        "translation": "it is",
+        "explanation": "A verb indicating the state of something."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "An indefinite article before a noun."
+      },
+      {
+        "word": "paraíso",
+        "translation": "paradise",
+        "explanation": "A place of perfect happiness."
+      }
+    ],
+    [
+      {
+        "word": "una",
+        "translation": "a",
+        "explanation": "It is a word used to introduce something singular."
+      },
+      {
+        "word": "soleada",
+        "translation": "sunny",
+        "explanation": "It describes the weather as being bright due to the sun."
+      },
+      {
+        "word": "tarde",
+        "translation": "afternoon",
+        "explanation": "It refers to the time of day after lunch."
+      },
+      {
+        "word": "mientras",
+        "translation": "while",
+        "explanation": "It indicates that two actions are happening at the same time."
+      },
+      {
+        "word": "Lila",
+        "translation": "Lila",
+        "explanation": "The name of the character."
+      },
+      {
+        "word": "practicaba",
+        "translation": "was practicing",
+        "explanation": "It describes what Lila was doing, improving her skills."
+      },
+      {
+        "word": "sus",
+        "translation": "her",
+        "explanation": "It shows possession, relating to Lila."
+      },
+      {
+        "word": "canciones",
+        "translation": "songs",
+        "explanation": "It refers to musical pieces that Lila was working on."
+      },
+      {
+        "word": "su",
+        "translation": "her",
+        "explanation": "It indicates possession, referring to Lila's owner."
+      },
+      {
+        "word": "dueño",
+        "translation": "owner",
+        "explanation": "It is the person who has Lila."
+      },
+      {
+        "word": "distraído",
+        "translation": "distracted",
+        "explanation": "It describes the owner's state of mind."
+      },
+      {
+        "word": "por",
+        "translation": "by",
+        "explanation": "It shows the reason for the distraction."
+      },
+      {
+        "word": "llamadas",
+        "translation": "calls",
+        "explanation": "It refers to phone calls."
+      },
+      {
+        "word": "telefónicas",
+        "translation": "telephone",
+        "explanation": "It describes the type of calls."
+      },
+      {
+        "word": "y",
+        "translation": "and",
+        "explanation": "It connects two ideas."
+      },
+      {
+        "word": "tareas",
+        "translation": "tasks",
+        "explanation": "It refers to things that need to be done."
+      },
+      {
+        "word": "apresuradas",
+        "translation": "hasty",
+        "explanation": "It describes the tasks as being done quickly or without carefulness."
+      },
+      {
+        "word": "olvidó",
+        "translation": "forgot",
+        "explanation": "It describes what the owner failed to do."
+      },
+      {
+        "word": "asegurar",
+        "translation": "to secure",
+        "explanation": "It means to make sure something is locked."
+      },
+      {
+        "word": "el",
+        "translation": "the",
+        "explanation": "It is a definite article that specifies the noun."
+      },
+      {
+        "word": "pestillo",
+        "translation": "latch",
+        "explanation": "It is a device used to keep a door closed."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "It shows belonging."
+      },
+      {
+        "word": "su",
+        "translation": "his",
+        "explanation": "It indicates possession, referring to the owner."
+      },
+      {
+        "word": "jaula",
+        "translation": "cage",
+        "explanation": "It is where Lila stays."
+      }
+    ],
+    [
+      {
+        "word": "con",
+        "translation": "with",
+        "explanation": "It shows the relationship between two things."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "It is an article used to introduce something singular."
+      },
+      {
+        "word": "suave",
+        "translation": "gentle",
+        "explanation": "It describes something that is not harsh."
+      },
+      {
+        "word": "chirrido",
+        "translation": "chirp",
+        "explanation": "It is the sound that a bird makes."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "It is a definite article that specifies the noun."
+      },
+      {
+        "word": "puerta",
+        "translation": "door",
+        "explanation": "It is an entrance to the cage."
+      },
+      {
+        "word": "se",
+        "translation": "it",
+        "explanation": "It refers to the door."
+      },
+      {
+        "word": "abrió",
+        "translation": "opened",
+        "explanation": "It means to move to allow entry."
+      },
+      {
+        "word": "revelando",
+        "translation": "revealing",
+        "explanation": "It means to show or uncover."
+      },
+      {
+        "word": "el",
+        "translation": "the",
+        "explanation": "It is a definite article that specifies the noun."
+      },
+      {
+        "word": "mundo",
+        "translation": "world",
+        "explanation": "It refers to everything outside the cage."
+      },
+      {
+        "word": "exterior",
+        "translation": "outside",
+        "explanation": "It describes what is beyond the cage."
+      },
+      {
+        "word": "en",
+        "translation": "in",
+        "explanation": "It shows location."
+      },
+      {
+        "word": "toda",
+        "translation": "all",
+        "explanation": "It means everything without exception."
+      },
+      {
+        "word": "su",
+        "translation": "its",
+        "explanation": "It refers to the outside world."
+      },
+      {
+        "word": "gloria",
+        "translation": "glory",
+        "explanation": "It describes the beauty and greatness of the world."
+      }
+    ],
+    [
+      {
+        "word": "Lila",
+        "translation": "Lila",
+        "explanation": "The name of the character."
+      },
+      {
+        "word": "dudó",
+        "translation": "hesitated",
+        "explanation": "It means she paused before making a decision."
+      },
+      {
+        "word": "por",
+        "translation": "for",
+        "explanation": "It shows duration."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "It is an article used to introduce something singular."
+      },
+      {
+        "word": "momento",
+        "translation": "moment",
+        "explanation": "It refers to a short period of time."
+      },
+      {
+        "word": "su",
+        "translation": "her",
+        "explanation": "It indicates possession, relating to Lila."
+      },
+      {
+        "word": "corazón",
+        "translation": "heart",
+        "explanation": "It refers to the organ that beats in her chest."
+      },
+      {
+        "word": "latindo",
+        "translation": "beating",
+        "explanation": "It describes the action of the heart."
+      },
+      {
+        "word": "con",
+        "translation": "with",
+        "explanation": "It shows the relationship between actions."
+      },
+      {
+        "word": "fuerza",
+        "translation": "strength",
+        "explanation": "It refers to intense force or feeling."
+      }
+    ],
+    [
+      {
+        "word": "con",
+        "translation": "with",
+        "explanation": "It shows the relationship between two things."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "It is an article used to introduce something singular."
+      },
+      {
+        "word": "decidido",
+        "translation": "determined",
+        "explanation": "It describes a firm choice."
+      },
+      {
+        "word": "aletreo",
+        "translation": "flapping",
+        "explanation": "It means moving wings up and down."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "It shows belonging."
+      },
+      {
+        "word": "sus",
+        "translation": "her",
+        "explanation": "It shows possession, relating to Lila."
+      },
+      {
+        "word": "alas",
+        "translation": "wings",
+        "explanation": "They are the body parts that allow Lila to fly."
+      },
+      {
+        "word": "se",
+        "translation": "she",
+        "explanation": "It refers to Lila."
+      },
+      {
+        "word": "aventuró",
+        "translation": "ventured",
+        "explanation": "It means she dared to go."
+      },
+      {
+        "word": "hacia",
+        "translation": "toward",
+        "explanation": "It shows direction."
+      },
+      {
+        "word": "lo",
+        "translation": "the",
+        "explanation": "It refers to what is unknown."
+      },
+      {
+        "word": "desconocido",
+        "translation": "unknown",
+        "explanation": "It describes something not familiar."
+      }
+    ],
+    [
+      {
+        "word": "el",
+        "translation": "the",
+        "explanation": "It is a definite article that specifies the noun."
+      },
+      {
+        "word": "cielo",
+        "translation": "sky",
+        "explanation": "It refers to the space above the Earth."
+      },
+      {
+        "word": "era",
+        "translation": "was",
+        "explanation": "It indicates a state of being in the past."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "It is an article used to introduce something singular."
+      },
+      {
+        "word": "tapiz",
+        "translation": "tapestry",
+        "explanation": "It describes something made of interwoven elements."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "It shows belonging."
+      },
+      {
+        "word": "colores",
+        "translation": "colors",
+        "explanation": "It refers to different shades that can be seen."
+      },
+      {
+        "word": "el",
+        "translation": "the",
+        "explanation": "It is a definite article that specifies the noun."
+      },
+      {
+        "word": "aire",
+        "translation": "air",
+        "explanation": "It refers to the invisible gas we breathe."
+      },
+      {
+        "word": "fragante",
+        "translation": "fragrant",
+        "explanation": "It means having a pleasant smell."
+      },
+      {
+        "word": "con",
+        "translation": "with",
+        "explanation": "It shows the relationship between two things."
+      },
+      {
+        "word": "flores",
+        "translation": "flowers",
+        "explanation": "They are the colorful parts of plants."
+      },
+      {
+        "word": "y",
+        "translation": "and",
+        "explanation": "It connects two ideas."
+      },
+      {
+        "word": "los",
+        "translation": "the",
+        "explanation": "It is a definite article that specifies the noun."
+      },
+      {
+        "word": "sonidos",
+        "translation": "sounds",
+        "explanation": "It refers to noises that can be heard."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "It shows belonging."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "It is a definite article that specifies the noun."
+      },
+      {
+        "word": "naturaleza",
+        "translation": "nature",
+        "explanation": "It refers to the living environment of plants and animals."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "It is a definite article that specifies the noun."
+      },
+      {
+        "word": "rodeaban",
+        "translation": "surrounded",
+        "explanation": "It means being all around someone."
+      },
+      {
+        "word": "como",
+        "translation": "like",
+        "explanation": "It shows comparison."
+      },
+      {
+        "word": "una",
+        "translation": "a",
+        "explanation": "It is an article used to introduce something singular."
+      },
+      {
+        "word": "sinfonía",
+        "translation": "symphony",
+        "explanation": "It refers to a harmonious combination of sounds."
+      }
+    ],
+    [
+      {
+        "word": "Se",
+        "translation": "She",
+        "explanation": "Refers to Lila, the character in the sentence."
+      },
+      {
+        "word": "elevó",
+        "translation": "rose",
+        "explanation": "What she did, meaning she went up."
+      },
+      {
+        "word": "más",
+        "translation": "higher",
+        "explanation": "Indicates a greater level of height."
+      },
+      {
+        "word": "y",
+        "translation": "and",
+        "explanation": "Connects two ideas."
+      },
+      {
+        "word": "más",
+        "translation": "higher",
+        "explanation": "Indicates an even greater level of height."
+      },
+      {
+        "word": "alto",
+        "translation": "tall",
+        "explanation": "Describes the height she reached."
+      },
+      {
+        "word": "sintiendo",
+        "translation": "feeling",
+        "explanation": "What she was experiencing."
+      },
+      {
+        "word": "cómo",
+        "translation": "how",
+        "explanation": "Introduces a description of her feeling."
+      },
+      {
+        "word": "el",
+        "translation": "the",
+        "explanation": "A specific article used before a noun."
+      },
+      {
+        "word": "sol",
+        "translation": "sun",
+        "explanation": "The star that provides warmth and light."
+      },
+      {
+        "word": "calentaba",
+        "translation": "was warming",
+        "explanation": "Describes the action of the sun giving heat."
+      },
+      {
+        "word": "sus",
+        "translation": "her",
+        "explanation": "Possessive form referring to Lila."
+      },
+      {
+        "word": "plumas",
+        "translation": "feathers",
+        "explanation": "The soft covering on birds including Lila."
+      }
+    ],
+    [
+      {
+        "word": "Era",
+        "translation": "It was",
+        "explanation": "Introduces a state or condition."
+      },
+      {
+        "word": "todo",
+        "translation": "everything",
+        "explanation": "Refers to the totality of what she had."
+      },
+      {
+        "word": "lo",
+        "translation": "what",
+        "explanation": "Refers to a thing or concept."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "A connector in the sentence."
+      },
+      {
+        "word": "había",
+        "translation": "had",
+        "explanation": "Indicates possession of experience."
+      },
+      {
+        "word": "soñado",
+        "translation": "dreamed",
+        "explanation": "What Lila hoped for in her mind."
+      },
+      {
+        "word": "y",
+        "translation": "and",
+        "explanation": "Connects two ideas."
+      },
+      {
+        "word": "más",
+        "translation": "more",
+        "explanation": "Indicates additional aspects."
+      }
+    ],
+    [
+      {
+        "word": "Durante",
+        "translation": "For",
+        "explanation": "Indicates a period of time."
+      },
+      {
+        "word": "horas",
+        "translation": "hours",
+        "explanation": "A measure of time."
+      },
+      {
+        "word": "saltó",
+        "translation": "jumped",
+        "explanation": "What she did, moving from one place to another."
+      },
+      {
+        "word": "de",
+        "translation": "from",
+        "explanation": "Indicates the source or origin."
+      },
+      {
+        "word": "rama",
+        "translation": "branch",
+        "explanation": "Part of a tree where she jumped to."
+      },
+      {
+        "word": "en",
+        "translation": "in",
+        "explanation": "Indicates a position."
+      },
+      {
+        "word": "rama",
+        "translation": "branch",
+        "explanation": "Another part of the tree."
+      },
+      {
+        "word": "saludando",
+        "translation": "greeting",
+        "explanation": "What she did as she met others."
+      },
+      {
+        "word": "a",
+        "translation": "to",
+        "explanation": "Indicates direction towards something."
+      },
+      {
+        "word": "los",
+        "translation": "the",
+        "explanation": "A definite article for plural nouns."
+      },
+      {
+        "word": "otros",
+        "translation": "other",
+        "explanation": "Refers to additional birds."
+      },
+      {
+        "word": "pájaros",
+        "translation": "birds",
+        "explanation": "Refers to flying creatures."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "Introduces additional information."
+      },
+      {
+        "word": "piaban",
+        "translation": "chirped",
+        "explanation": "What the birds did, making a sound."
+      },
+      {
+        "word": "de",
+        "translation": "in",
+        "explanation": "Indicates position or manner."
+      },
+      {
+        "word": "vuelta",
+        "translation": "return",
+        "explanation": "Indicates response."
+      },
+      {
+        "word": "en",
+        "translation": "in",
+        "explanation": "Indicates position."
+      },
+      {
+        "word": "armonía",
+        "translation": "harmony",
+        "explanation": "Means a pleasant agreement of sounds."
+      }
+    ],
+    [
+      {
+        "word": "La",
+        "translation": "The",
+        "explanation": "A definite article referring to Lila."
+      },
+      {
+        "word": "euforia",
+        "translation": "euphoria",
+        "explanation": "A feeling of great happiness."
+      },
+      {
+        "word": "la",
+        "translation": "it",
+        "explanation": "Refers to euphoria."
+      },
+      {
+        "word": "inundó",
+        "translation": "flooded",
+        "explanation": "Describes the overwhelming feeling filling her."
+      },
+      {
+        "word": "mientras",
+        "translation": "while",
+        "explanation": "Indicates at the same time."
+      },
+      {
+        "word": "danzaba",
+        "translation": "danced",
+        "explanation": "What she did in the air, moving freely."
+      },
+      {
+        "word": "en",
+        "translation": "in",
+        "explanation": "Indicates position."
+      },
+      {
+        "word": "el",
+        "translation": "the",
+        "explanation": "A definite article for a singular noun."
+      },
+      {
+        "word": "aire",
+        "translation": "air",
+        "explanation": "The space around her which she moved in."
+      },
+      {
+        "word": "saboreando",
+        "translation": "savoring",
+        "explanation": "Enjoying the experience."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article for a singular noun."
+      },
+      {
+        "word": "libertad",
+        "translation": "freedom",
+        "explanation": "The state of being free."
+      }
+    ],
+    [
+      {
+        "word": "Pero",
+        "translation": "But",
+        "explanation": "Introduces a contrast."
+      },
+      {
+        "word": "a",
+        "translation": "as",
+        "explanation": "Indicates a time of change."
+      },
+      {
+        "word": "medida",
+        "translation": "the measure",
+        "explanation": "Refers to the progression."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "Introduces additional information."
+      },
+      {
+        "word": "el",
+        "translation": "the",
+        "explanation": "A definite article for a singular noun."
+      },
+      {
+        "word": "sol",
+        "translation": "sun",
+        "explanation": "The star that provides warmth and light."
+      },
+      {
+        "word": "comenzaba",
+        "translation": "was beginning",
+        "explanation": "Describes the action of starting."
+      },
+      {
+        "word": "a",
+        "translation": "to",
+        "explanation": "Indicates direction or purpose."
+      },
+      {
+        "word": "descender",
+        "translation": "descend",
+        "explanation": "Refers to going down."
+      },
+      {
+        "word": "en",
+        "translation": "in",
+        "explanation": "Indicates position."
+      },
+      {
+        "word": "el",
+        "translation": "the",
+        "explanation": "A definite article for a singular noun."
+      },
+      {
+        "word": "cielo",
+        "translation": "sky",
+        "explanation": "The space above us."
+      },
+      {
+        "word": "Lila",
+        "translation": "Lila",
+        "explanation": "The name of the character."
+      },
+      {
+        "word": "notó",
+        "translation": "noticed",
+        "explanation": "What she became aware of."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "An indefinite article for singular nouns."
+      },
+      {
+        "word": "cambio",
+        "translation": "change",
+        "explanation": "Refers to something that is different."
+      }
+    ],
+    [
+      {
+        "word": "Los",
+        "translation": "The",
+        "explanation": "Indicates the specific chirps that follow."
+      },
+      {
+        "word": "chirridos",
+        "translation": "chirps",
+        "explanation": "Sounds made by small birds."
+      },
+      {
+        "word": "antes",
+        "translation": "before",
+        "explanation": "Indicates a time prior to something."
+      },
+      {
+        "word": "acogedores",
+        "translation": "welcoming",
+        "explanation": "Describes something that makes one feel comfortable."
+      },
+      {
+        "word": "se",
+        "translation": "oneself",
+        "explanation": "Reflexive pronoun used here to indicate the transformation."
+      },
+      {
+        "word": "transformaron",
+        "translation": "transformed",
+        "explanation": "What happened to the welcoming chirps."
+      },
+      {
+        "word": "en",
+        "translation": "into",
+        "explanation": "Shows the change into a different state."
+      },
+      {
+        "word": "el",
+        "translation": "the",
+        "explanation": "Specifies the next noun."
+      },
+      {
+        "word": "susurro",
+        "translation": "whisper",
+        "explanation": "A quiet sound or voice."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows belonging or connection."
+      },
+      {
+        "word": "alas",
+        "translation": "wings",
+        "explanation": "Refers to the parts of birds that allow them to fly."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "Links the wings to the next description."
+      },
+      {
+        "word": "parecían",
+        "translation": "seemed",
+        "explanation": "Indicates how something appeared."
+      },
+      {
+        "word": "más",
+        "translation": "more",
+        "explanation": "Comparative term indicating greater amount."
+      },
+      {
+        "word": "competitivas",
+        "translation": "competitive",
+        "explanation": "Describes a nature of rivalry among birds."
+      },
+      {
+        "word": "que",
+        "translation": "than",
+        "explanation": "Used to make a comparison."
+      },
+      {
+        "word": "amistosas",
+        "translation": "friendly",
+        "explanation": "Describes a nice or kind nature."
+      }
+    ],
+    [
+      {
+        "word": "Pájaros",
+        "translation": "Birds",
+        "explanation": "Animals that fly and often have wings."
+      },
+      {
+        "word": "más",
+        "translation": "larger",
+        "explanation": "Indicates a bigger size."
+      },
+      {
+        "word": "grandes",
+        "translation": "big",
+        "explanation": "Describes the size of the birds."
+      },
+      {
+        "word": "volaban",
+        "translation": "were flying",
+        "explanation": "What the birds were doing in the air."
+      },
+      {
+        "word": "arriba",
+        "translation": "above",
+        "explanation": "Indicates that they were in a higher place."
+      },
+      {
+        "word": "proyectando",
+        "translation": "casting",
+        "explanation": "Means to throw or cause to reach a surface."
+      },
+      {
+        "word": "sombras",
+        "translation": "shadows",
+        "explanation": "Dark shapes made when light is blocked."
+      },
+      {
+        "word": "sobre",
+        "translation": "on",
+        "explanation": "Indicates the position of shadows."
+      },
+      {
+        "word": "su",
+        "translation": "their",
+        "explanation": "Shows possession by the small body."
+      },
+      {
+        "word": "pequeño",
+        "translation": "small",
+        "explanation": "Indicates a diminutive size."
+      },
+      {
+        "word": "cuerpo",
+        "translation": "body",
+        "explanation": "Refers to the physical form of the subject."
+      }
+    ],
+    [
+      {
+        "word": "Sintiendo",
+        "translation": "Feeling",
+        "explanation": "Describes the action of sensing an emotion."
+      },
+      {
+        "word": "desasosiego",
+        "translation": "unease",
+        "explanation": "A feeling of discomfort or anxiety."
+      },
+      {
+        "word": "Lila",
+        "translation": "Lila",
+        "explanation": "Name of the character in the sentence."
+      },
+      {
+        "word": "aterrizó",
+        "translation": "landed",
+        "explanation": "Means to come down to the ground."
+      },
+      {
+        "word": "en",
+        "translation": "on",
+        "explanation": "Indicates a position."
+      },
+      {
+        "word": "una",
+        "translation": "a",
+        "explanation": "Indicates one of something."
+      },
+      {
+        "word": "pequeña",
+        "translation": "small",
+        "explanation": "Describes the size as diminutive."
+      },
+      {
+        "word": "rama",
+        "translation": "branch",
+        "explanation": "A part of a tree that extends out."
+      },
+      {
+        "word": "jadeando",
+        "translation": "panting",
+        "explanation": "Breathing quickly due to tiredness."
+      },
+      {
+        "word": "ligeramente",
+        "translation": "slightly",
+        "explanation": "Means a little or not a lot."
+      }
+    ],
+    [
+      {
+        "word": "La",
+        "translation": "The",
+        "explanation": "Indicates the following noun."
+      },
+      {
+        "word": "belleza",
+        "translation": "beauty",
+        "explanation": "The quality of being very pleasing."
+      },
+      {
+        "word": "del",
+        "translation": "of the",
+        "explanation": "Shows belonging to the next noun."
+      },
+      {
+        "word": "mundo",
+        "translation": "world",
+        "explanation": "Refers to Earth and its surroundings."
+      },
+      {
+        "word": "exterior",
+        "translation": "outside",
+        "explanation": "Describes the outer part of the world."
+      },
+      {
+        "word": "se",
+        "translation": "was",
+        "explanation": "Used here to indicate a state of being."
+      },
+      {
+        "word": "veía",
+        "translation": "seen",
+        "explanation": "Indicates perception or sight."
+      },
+      {
+        "word": "opacada",
+        "translation": "clouded",
+        "explanation": "Means made less clear or visible."
+      },
+      {
+        "word": "por",
+        "translation": "by",
+        "explanation": "Shows the agent or cause."
+      },
+      {
+        "word": "peligros",
+        "translation": "dangers",
+        "explanation": "Things that can cause harm or problems."
+      },
+      {
+        "word": "acechantes",
+        "translation": "lurking",
+        "explanation": "Describes something that is hiding and watching."
+      },
+      {
+        "word": "halcones",
+        "translation": "hawks",
+        "explanation": "Birds of prey that hunt."
+      },
+      {
+        "word": "circulaban",
+        "translation": "were circling",
+        "explanation": "Means flying around in a circle."
+      },
+      {
+        "word": "arriba",
+        "translation": "above",
+        "explanation": "Indicates a location higher than something."
+      },
+      {
+        "word": "mientras",
+        "translation": "while",
+        "explanation": "A conjunction connecting two actions at the same time."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "Links actions or descriptions."
+      },
+      {
+        "word": "ardillas",
+        "translation": "squirrels",
+        "explanation": "Small animals that often climb trees."
+      },
+      {
+        "word": "parloteaban",
+        "translation": "were chattering",
+        "explanation": "Means talking quickly and often."
+      },
+      {
+        "word": "nerviosamente",
+        "translation": "nervously",
+        "explanation": "Describes a way of acting due to anxiety."
+      },
+      {
+        "word": "con",
+        "translation": "with",
+        "explanation": "Indicates being together or accompanied."
+      },
+      {
+        "word": "los",
+        "translation": "the",
+        "explanation": "Specifies the following noun."
+      },
+      {
+        "word": "ojos",
+        "translation": "eyes",
+        "explanation": "Body parts used for seeing."
+      },
+      {
+        "word": "mirando",
+        "translation": "looking",
+        "explanation": "Describes the action of directing eyes at something."
+      },
+      {
+        "word": "amenazas",
+        "translation": "threats",
+        "explanation": "Potential dangers that may cause harm."
+      },
+      {
+        "word": "invisibles",
+        "translation": "invisible",
+        "explanation": "Things that cannot be seen."
+      }
+    ],
+    [
+      {
+        "word": "Una",
+        "translation": "A",
+        "explanation": "Indicates one instance of something."
+      },
+      {
+        "word": "suave",
+        "translation": "gentle",
+        "explanation": "Describes something that is soft or mild."
+      },
+      {
+        "word": "brisa",
+        "translation": "breeze",
+        "explanation": "A light and calming wind."
+      },
+      {
+        "word": "susurraba",
+        "translation": "whispered",
+        "explanation": "Means to say something softly."
+      },
+      {
+        "word": "advertencias",
+        "translation": "warnings",
+        "explanation": "Messages that something bad may happen."
+      },
+      {
+        "word": "y",
+        "translation": "and",
+        "explanation": "A conjunction connecting two ideas."
+      },
+      {
+        "word": "su",
+        "translation": "her",
+        "explanation": "Shows possession by Lila."
+      },
+      {
+        "word": "corazón",
+        "translation": "heart",
+        "explanation": "An organ that pumps blood, often used to symbolize emotion."
+      },
+      {
+        "word": "se",
+        "translation": "sank",
+        "explanation": "Indicates a movement downwards."
+      },
+      {
+        "word": "hundió",
+        "translation": "sank",
+        "explanation": "Means to go down or lower."
+      }
+    ],
+    [
+      {
+        "word": "¿Y",
+        "translation": "And",
+        "explanation": "Connector word showing that another idea is being added."
+      },
+      {
+        "word": "si",
+        "translation": "if",
+        "explanation": "Used to introduce a condition."
+      },
+      {
+        "word": "me",
+        "translation": "me",
+        "explanation": "Refers to the speaker."
+      },
+      {
+        "word": "convierto",
+        "translation": "become",
+        "explanation": "What the speaker might turn into."
+      },
+      {
+        "word": "en",
+        "translation": "in",
+        "explanation": "A preposition indicating a situation."
+      },
+      {
+        "word": "presa",
+        "translation": "prey",
+        "explanation": "A term for an animal that is hunted."
+      },
+      {
+        "word": "en",
+        "translation": "in",
+        "explanation": "A preposition indicating a situation."
+      },
+      {
+        "word": "lugar",
+        "translation": "place",
+        "explanation": "A term that shows an alternate situation."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "A preposition showing possession or relationship."
+      },
+      {
+        "word": "elevarme",
+        "translation": "to elevate myself",
+        "explanation": "To lift oneself up."
+      },
+      {
+        "word": "alto",
+        "translation": "high",
+        "explanation": "A description of a great height."
+      }
+    ],
+    [
+      {
+        "word": "pensó",
+        "translation": "thought",
+        "explanation": "What the speaker did in their mind."
+      }
+    ],
+    [
+      {
+        "word": "Rodeada",
+        "translation": "Surrounded",
+        "explanation": "To be encircled or enclosed by."
+      },
+      {
+        "word": "de",
+        "translation": "by",
+        "explanation": "Indicates what something is contained within."
+      },
+      {
+        "word": "árboles",
+        "translation": "trees",
+        "explanation": "Large plants with trunks and branches."
+      },
+      {
+        "word": "imponentes",
+        "translation": "imposing",
+        "explanation": "Something that is grand or impressive."
+      },
+      {
+        "word": "y",
+        "translation": "and",
+        "explanation": "Connector word showing addition."
+      },
+      {
+        "word": "paisajes",
+        "translation": "landscapes",
+        "explanation": "Scenery or views of nature."
+      },
+      {
+        "word": "desconocidos",
+        "translation": "unknown",
+        "explanation": "Things that are not familiar."
+      },
+      {
+        "word": "Lila",
+        "translation": "Lila",
+        "explanation": "The name of the character."
+      },
+      {
+        "word": "se",
+        "translation": "felt",
+        "explanation": "Refers to the state of being."
+      },
+      {
+        "word": "sintió",
+        "translation": "felt",
+        "explanation": "What Lila experienced emotionally."
+      },
+      {
+        "word": "muy",
+        "translation": "very",
+        "explanation": "An adverb indicating a high degree of something."
+      },
+      {
+        "word": "pequeña",
+        "translation": "small",
+        "explanation": "A description of being little in size."
+      }
+    ],
+    [
+      {
+        "word": "Justo",
+        "translation": "Just",
+        "explanation": "Indicating something very recent in time."
+      },
+      {
+        "word": "entonces",
+        "translation": "then",
+        "explanation": "A word indicating a specific moment."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "An article indicating one."
+      },
+      {
+        "word": "anciano",
+        "translation": "elderly",
+        "explanation": "A term for an older person."
+      },
+      {
+        "word": "búho",
+        "translation": "owl",
+        "explanation": "A bird known for being wise."
+      },
+      {
+        "word": "sabio",
+        "translation": "wise",
+        "explanation": "Describing someone with knowledge and experience."
+      },
+      {
+        "word": "se",
+        "translation": "himself",
+        "explanation": "Refers to the owl."
+      },
+      {
+        "word": "posó",
+        "translation": "perched",
+        "explanation": "The action of resting on a surface."
+      },
+      {
+        "word": "a",
+        "translation": "at",
+        "explanation": "A preposition indicating position."
+      },
+      {
+        "word": "su",
+        "translation": "his",
+        "explanation": "Indicates belonging to the owl."
+      },
+      {
+        "word": "lado",
+        "translation": "side",
+        "explanation": "Next to something."
+      }
+    ],
+    [
+      {
+        "word": "¿Recién",
+        "translation": "Recently",
+        "explanation": "Indicating something that just happened."
+      },
+      {
+        "word": "llegada",
+        "translation": "arrived",
+        "explanation": "What someone does when they come to a place."
+      },
+      {
+        "word": "vienes",
+        "translation": "you come",
+        "explanation": "What the addressed person is doing."
+      },
+      {
+        "word": "a",
+        "translation": "to",
+        "explanation": "A preposition indicating direction."
+      },
+      {
+        "word": "admirar",
+        "translation": "admire",
+        "explanation": "To really appreciate something."
+      },
+      {
+        "word": "el",
+        "translation": "the",
+        "explanation": "A definite article indicating something specific."
+      },
+      {
+        "word": "mundo",
+        "translation": "world",
+        "explanation": "The planet and everything in it."
+      },
+      {
+        "word": "Puede",
+        "translation": "It can",
+        "explanation": "Indicating possibility."
+      },
+      {
+        "word": "ser",
+        "translation": "be",
+        "explanation": "To exist or happen."
+      },
+      {
+        "word": "majestuoso",
+        "translation": "majestic",
+        "explanation": "Something grand and impressive."
+      },
+      {
+        "word": "pero",
+        "translation": "but",
+        "explanation": "A word indicating contrast."
+      },
+      {
+        "word": "avanza",
+        "translation": "move forward",
+        "explanation": "A directive to progress."
+      },
+      {
+        "word": "con",
+        "translation": "with",
+        "explanation": "Indicating association."
+      },
+      {
+        "word": "cuidado",
+        "translation": "care",
+        "explanation": "To be cautious and mindful."
+      }
+    ],
+    [
+      {
+        "word": "Respeta",
+        "translation": "Respect",
+        "explanation": "To value and honor something."
+      },
+      {
+        "word": "el",
+        "translation": "the",
+        "explanation": "A definite article indicating something specific."
+      },
+      {
+        "word": "equilibrio",
+        "translation": "balance",
+        "explanation": "A state of stability."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "A preposition showing possession or relationship."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article indicating something specific."
+      },
+      {
+        "word": "naturaleza",
+        "translation": "nature",
+        "explanation": "The world of plants and animals."
+      },
+      {
+        "word": "o",
+        "translation": "or",
+        "explanation": "A conjunction offering an alternative."
+      },
+      {
+        "word": "podrías",
+        "translation": "you could",
+        "explanation": "Indicating a possibility."
+      },
+      {
+        "word": "encontrarlo",
+        "translation": "find it",
+        "explanation": "To discover something."
+      },
+      {
+        "word": "poco",
+        "translation": "a little",
+        "explanation": "Indicating a small amount."
+      },
+      {
+        "word": "acogedor",
+        "translation": "welcoming",
+        "explanation": "Describing something that is friendly and inviting."
+      }
+    ],
+    [
+      {
+        "word": "Lila",
+        "translation": "Lila",
+        "explanation": "Lila is a name of a character."
+      },
+      {
+        "word": "asintió",
+        "translation": "nodded",
+        "explanation": "What Lila did, she moved her head up and down."
+      },
+      {
+        "word": "sintiéndose",
+        "translation": "feeling",
+        "explanation": "What Lila was experiencing."
+      },
+      {
+        "word": "tanto",
+        "translation": "both",
+        "explanation": "it means two things at the same time."
+      },
+      {
+        "word": "emocionada",
+        "translation": "excited",
+        "explanation": "Lila was happy and looking forward."
+      },
+      {
+        "word": "como",
+        "translation": "as",
+        "explanation": "comparing two states or feelings."
+      },
+      {
+        "word": "perdida",
+        "translation": "lost",
+        "explanation": "Lila felt unsure or confused."
+      }
+    ],
+    [
+      {
+        "word": "Pensé",
+        "translation": "I thought",
+        "explanation": "What the speaker believed before."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "used to connect ideas."
+      },
+      {
+        "word": "sería",
+        "translation": "would be",
+        "explanation": "talking about a future possibility."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "used to refer to one item."
+      },
+      {
+        "word": "paraíso",
+        "translation": "paradise",
+        "explanation": "a very happy and beautiful place."
+      },
+      {
+        "word": "¿Por",
+        "translation": "Why",
+        "explanation": "asking for a reason."
+      },
+      {
+        "word": "qué",
+        "translation": "what",
+        "explanation": "asking for more information."
+      },
+      {
+        "word": "se",
+        "translation": "it",
+        "explanation": "referring to the subject."
+      },
+      {
+        "word": "siente",
+        "translation": "feels",
+        "explanation": "what the subject is experiencing."
+      },
+      {
+        "word": "tan",
+        "translation": "so",
+        "explanation": "indicating a high degree."
+      },
+      {
+        "word": "aterrorizante",
+        "translation": "scary",
+        "explanation": "causing fear."
+      }
+    ],
+    [
+      {
+        "word": "El",
+        "translation": "The",
+        "explanation": "a definite article referring to something specific."
+      },
+      {
+        "word": "búho",
+        "translation": "owl",
+        "explanation": "a type of bird that is often associated with wisdom."
+      },
+      {
+        "word": "parpadeó",
+        "translation": "blinked",
+        "explanation": "what the owl did with its eyes."
+      },
+      {
+        "word": "lentamente",
+        "translation": "slowly",
+        "explanation": "describing the speed of the action."
+      },
+      {
+        "word": "su",
+        "translation": "its",
+        "explanation": "belonging to the owl."
+      },
+      {
+        "word": "mirada",
+        "translation": "gaze",
+        "explanation": "the way the owl looked."
+      },
+      {
+        "word": "penetrante",
+        "translation": "piercing",
+        "explanation": "very strong and intense look."
+      }
+    ],
+    [
+      {
+        "word": "El",
+        "translation": "The",
+        "explanation": "a definite article referring to something specific."
+      },
+      {
+        "word": "paraíso",
+        "translation": "paradise",
+        "explanation": "a very happy and beautiful place."
+      },
+      {
+        "word": "tiene",
+        "translation": "has",
+        "explanation": "indicating possession."
+      },
+      {
+        "word": "sus",
+        "translation": "its",
+        "explanation": "belonging to the paradise."
+      },
+      {
+        "word": "sombras",
+        "translation": "shadows",
+        "explanation": "dark areas or parts."
+      }
+    ],
+    [
+      {
+        "word": "No",
+        "translation": "Not",
+        "explanation": "indicating negation."
+      },
+      {
+        "word": "todo",
+        "translation": "everything",
+        "explanation": "referring to all things."
+      },
+      {
+        "word": "lo",
+        "translation": "that",
+        "explanation": "used to specify something."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "used to connect clauses."
+      },
+      {
+        "word": "brilla",
+        "translation": "shines",
+        "explanation": "to emit light."
+      },
+      {
+        "word": "es",
+        "translation": "is",
+        "explanation": "to describe the state of something."
+      },
+      {
+        "word": "oro",
+        "translation": "gold",
+        "explanation": "a valuable yellow metal."
+      },
+      {
+        "word": "y",
+        "translation": "and",
+        "explanation": "connecting two ideas."
+      },
+      {
+        "word": "cada",
+        "translation": "each",
+        "explanation": "referring to all members of a group."
+      },
+      {
+        "word": "canción",
+        "translation": "song",
+        "explanation": "a piece of music."
+      },
+      {
+        "word": "tiene",
+        "translation": "has",
+        "explanation": "indicating possession."
+      },
+      {
+        "word": "su",
+        "translation": "its",
+        "explanation": "belonging to the song."
+      },
+      {
+        "word": "propia",
+        "translation": "own",
+        "explanation": "unique to each individual."
+      },
+      {
+        "word": "melodía",
+        "translation": "melody",
+        "explanation": "the tune of the song."
+      }
+    ],
+    [
+      {
+        "word": "No",
+        "translation": "No",
+        "explanation": "The word used to negate something."
+      },
+      {
+        "word": "te",
+        "translation": "you",
+        "explanation": "Referring to the person being addressed."
+      },
+      {
+        "word": "alejes",
+        "translation": "stray",
+        "explanation": "What you should not do, implying to move away from."
+      },
+      {
+        "word": "de",
+        "translation": "from",
+        "explanation": "Used to indicate the point of departure."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article for singular feminine nouns."
+      },
+      {
+        "word": "realidad",
+        "translation": "reality",
+        "explanation": "What is true and factual."
+      },
+      {
+        "word": "aprende",
+        "translation": "learn",
+        "explanation": "What you should do to gain knowledge."
+      },
+      {
+        "word": "a",
+        "translation": "to",
+        "explanation": "A preposition indicating direction."
+      },
+      {
+        "word": "navegarla",
+        "translation": "navigate it",
+        "explanation": "To move through or manage in a difficult situation."
+      }
+    ],
+    [
+      {
+        "word": "Con",
+        "translation": "With",
+        "explanation": "A preposition indicating companionship or association."
+      },
+      {
+        "word": "el",
+        "translation": "the",
+        "explanation": "A definite article for singular masculine nouns."
+      },
+      {
+        "word": "sol",
+        "translation": "sun",
+        "explanation": "The star that provides light and warmth to Earth."
+      },
+      {
+        "word": "poniéndose",
+        "translation": "setting",
+        "explanation": "What the sun is doing as it goes down in the sky."
+      },
+      {
+        "word": "proyectando",
+        "translation": "projecting",
+        "explanation": "Causing something to cast a shadow or creating an image."
+      },
+      {
+        "word": "largas",
+        "translation": "long",
+        "explanation": "Describing something that has a great length."
+      },
+      {
+        "word": "sombras",
+        "translation": "shadows",
+        "explanation": "Dark areas created when light is blocked."
+      },
+      {
+        "word": "Lila",
+        "translation": "Lila",
+        "explanation": "The name of the character in the sentence."
+      },
+      {
+        "word": "se",
+        "translation": "herself",
+        "explanation": "Referring back to Lila."
+      },
+      {
+        "word": "dio",
+        "translation": "gave",
+        "explanation": "What Lila did, indicating she realized something."
+      },
+      {
+        "word": "cuenta",
+        "translation": "account",
+        "explanation": "To realize or understand something."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Indicating belonging or relation."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "A conjunction used to introduce a clause."
+      },
+      {
+        "word": "debía",
+        "translation": "should",
+        "explanation": "Indicating an obligation or necessity."
+      },
+      {
+        "word": "encontrar",
+        "translation": "find",
+        "explanation": "What Lila needed to do, to discover or locate."
+      },
+      {
+        "word": "el",
+        "translation": "the",
+        "explanation": "A definite article for singular masculine nouns."
+      },
+      {
+        "word": "camino",
+        "translation": "way",
+        "explanation": "A route or direction to follow."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Indicating belonging or relation."
+      },
+      {
+        "word": "vuelta",
+        "translation": "return",
+        "explanation": "Going back to a previous place."
+      },
+      {
+        "word": "antes",
+        "translation": "before",
+        "explanation": "Indicating something that should happen earlier."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Indicating belonging or relation."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "A conjunction used to introduce a clause."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article for singular feminine nouns."
+      },
+      {
+        "word": "oscuridad",
+        "translation": "darkness",
+        "explanation": "The absence of light."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article for singular feminine nouns."
+      },
+      {
+        "word": "envuelva",
+        "translation": "wraps",
+        "explanation": "What darkness might do, to surround completely."
+      }
+    ],
+    [
+      {
+        "word": "Aleteó",
+        "translation": "Flapped",
+        "explanation": "What Lila did, moving her wings quickly."
+      },
+      {
+        "word": "sus",
+        "translation": "her",
+        "explanation": "A possessive that refers to Lila's."
+      },
+      {
+        "word": "alas",
+        "translation": "wings",
+        "explanation": "The body part Lila uses to fly."
+      },
+      {
+        "word": "sintiendo",
+        "translation": "feeling",
+        "explanation": "What Lila experienced emotionally or physically."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "A conjunction used to introduce a clause."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article for singular feminine nouns."
+      },
+      {
+        "word": "panica",
+        "translation": "panic",
+        "explanation": "A feeling of sudden fear."
+      },
+      {
+        "word": "aumentaba",
+        "translation": "increased",
+        "explanation": "What was happening to her panic, it was getting stronger."
+      },
+      {
+        "word": "pero",
+        "translation": "but",
+        "explanation": "A conjunction used to contrast two ideas."
+      },
+      {
+        "word": "recordó",
+        "translation": "remembered",
+        "explanation": "What Lila did when she thought of something from the past."
+      },
+      {
+        "word": "el",
+        "translation": "the",
+        "explanation": "A definite article for singular masculine nouns."
+      },
+      {
+        "word": "calor",
+        "translation": "warmth",
+        "explanation": "The comfortable feeling provided by heat."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Indicating belonging or relation."
+      },
+      {
+        "word": "su",
+        "translation": "her",
+        "explanation": "A possessive that refers to Lila's."
+      },
+      {
+        "word": "jaula",
+        "translation": "cage",
+        "explanation": "A structure where Lila used to be kept."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article for singular feminine nouns."
+      },
+      {
+        "word": "comodidad",
+        "translation": "comfort",
+        "explanation": "A state of physical ease and relaxation."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Indicating belonging or relation."
+      },
+      {
+        "word": "sus",
+        "translation": "her",
+        "explanation": "A possessive that refers to Lila's."
+      },
+      {
+        "word": "canciones",
+        "translation": "songs",
+        "explanation": "Music or melodies that Lila sings."
+      },
+      {
+        "word": "y",
+        "translation": "and",
+        "explanation": "A conjunction used to connect words."
+      },
+      {
+        "word": "el",
+        "translation": "the",
+        "explanation": "A definite article for singular masculine nouns."
+      },
+      {
+        "word": "suave",
+        "translation": "gentle",
+        "explanation": "Describing something that is kind or mild."
+      },
+      {
+        "word": "consejo",
+        "translation": "advice",
+        "explanation": "A suggestion or guidance that someone gives."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Indicating belonging or relation."
+      },
+      {
+        "word": "Timmy",
+        "translation": "Timmy",
+        "explanation": "The name of a character giving advice."
+      }
+    ],
+    [
+      {
+        "word": "En",
+        "translation": "In",
+        "explanation": "A preposition indicating location."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "An indefinite article for singular nouns."
+      },
+      {
+        "word": "apresurado",
+        "translation": "hurried",
+        "explanation": "Describing something done quickly."
+      },
+      {
+        "word": "aleteo",
+        "translation": "flap",
+        "explanation": "The action of moving wings."
+      },
+      {
+        "word": "Lila",
+        "translation": "Lila",
+        "explanation": "The name of the character in the sentence."
+      },
+      {
+        "word": "atravesó",
+        "translation": "crossed",
+        "explanation": "What Lila did, to go over or through something."
+      },
+      {
+        "word": "los",
+        "translation": "the",
+        "explanation": "A definite article for plural masculine nouns."
+      },
+      {
+        "word": "árboles",
+        "translation": "trees",
+        "explanation": "Large plants with branches and leaves."
+      },
+      {
+        "word": "siguiendo",
+        "translation": "following",
+        "explanation": "What Lila did, to go after or track."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article for singular feminine nouns."
+      },
+      {
+        "word": "suave",
+        "translation": "soft",
+        "explanation": "Describing something that is not harsh."
+      },
+      {
+        "word": "luz",
+        "translation": "light",
+        "explanation": "The brightness that makes things visible."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Indicating belonging or relation."
+      },
+      {
+        "word": "casa",
+        "translation": "home",
+        "explanation": "The place where Lila lives."
+      }
+    ],
+    [
+      {
+        "word": "Al",
+        "translation": "As",
+        "explanation": "Used to indicate a particular time."
+      },
+      {
+        "word": "acercarse",
+        "translation": "approaching",
+        "explanation": "What Lila was doing to come near."
+      },
+      {
+        "word": "a",
+        "translation": "to",
+        "explanation": "A preposition indicating direction."
+      },
+      {
+        "word": "su",
+        "translation": "her",
+        "explanation": "A possessive that refers to Lila's."
+      },
+      {
+        "word": "ventana",
+        "translation": "window",
+        "explanation": "An opening in a wall, usually with glass."
+      },
+      {
+        "word": "vio",
+        "translation": "saw",
+        "explanation": "What Lila did, to perceive something with her eyes."
+      },
+      {
+        "word": "el",
+        "translation": "the",
+        "explanation": "A definite article for singular masculine nouns."
+      },
+      {
+        "word": "tenue",
+        "translation": "dim",
+        "explanation": "Not bright; softly illuminated."
+      },
+      {
+        "word": "resplandor",
+        "translation": "glow",
+        "explanation": "A soft light coming from something."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Indicating belonging or relation."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article for singular feminine nouns."
+      },
+      {
+        "word": "habitación",
+        "translation": "room",
+        "explanation": "A space within a building."
+      }
+    ],
+    [
+      {
+        "word": "Con",
+        "translation": "With",
+        "explanation": "It shows a relationship, as in 'With the last jump'."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "It means one of something."
+      },
+      {
+        "word": "último",
+        "translation": "last",
+        "explanation": "It indicates the final one."
+      },
+      {
+        "word": "salto",
+        "translation": "jump",
+        "explanation": "It refers to a leap or bounce."
+      },
+      {
+        "word": "volvió",
+        "translation": "returned",
+        "explanation": "It means came back."
+      },
+      {
+        "word": "a",
+        "translation": "to",
+        "explanation": "It suggests direction."
+      },
+      {
+        "word": "elevarse",
+        "translation": "rise",
+        "explanation": "It means to go up."
+      },
+      {
+        "word": "dentro",
+        "translation": "inside",
+        "explanation": "It suggests being within something."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "It shows possession or relation."
+      },
+      {
+        "word": "su",
+        "translation": "her",
+        "explanation": "It shows ownership, belonging to her."
+      },
+      {
+        "word": "jaula",
+        "translation": "cage",
+        "explanation": "It is a structure to hold animals."
+      },
+      {
+        "word": "el",
+        "translation": "the",
+        "explanation": "It specifies a particular item."
+      },
+      {
+        "word": "corazón",
+        "translation": "heart",
+        "explanation": "It is the organ that pumps blood."
+      },
+      {
+        "word": "acelerado",
+        "translation": "racing",
+        "explanation": "It describes something going very fast."
+      },
+      {
+        "word": "y",
+        "translation": "and",
+        "explanation": "It connects two ideas."
+      },
+      {
+        "word": "sin",
+        "translation": "without",
+        "explanation": "It shows lack of something."
+      },
+      {
+        "word": "aliento",
+        "translation": "breath",
+        "explanation": "It is the air we inhale or exhale."
+      }
+    ],
+    [
+      {
+        "word": "Timmy",
+        "translation": "Timmy",
+        "explanation": "It is the name of a character."
+      },
+      {
+        "word": "sonrió",
+        "translation": "smiled",
+        "explanation": "It means he showed happiness with his face."
+      },
+      {
+        "word": "hacia",
+        "translation": "toward",
+        "explanation": "It indicates direction."
+      },
+      {
+        "word": "ella",
+        "translation": "her",
+        "explanation": "It refers to a female person."
+      },
+      {
+        "word": "Bienvenida",
+        "translation": "Welcome",
+        "explanation": "It is a greeting for someone arriving."
+      },
+      {
+        "word": "de",
+        "translation": "back",
+        "explanation": "It indicates a return point."
+      },
+      {
+        "word": "vuelta",
+        "translation": "return",
+        "explanation": "It means coming back to a place."
+      },
+      {
+        "word": "pequeña",
+        "translation": "little",
+        "explanation": "It describes her as not big."
+      },
+      {
+        "word": "¿Se",
+        "translation": "Did",
+        "explanation": "It starts a question about a past event."
+      },
+      {
+        "word": "cumplieron",
+        "translation": "fulfill",
+        "explanation": "It means to achieve or complete."
+      },
+      {
+        "word": "tus",
+        "translation": "your",
+        "explanation": "It shows ownership, belonging to you."
+      },
+      {
+        "word": "sueños",
+        "translation": "dreams",
+        "explanation": "They are hopes or aspirations."
+      }
+    ],
+    [
+      {
+        "word": "Con",
+        "translation": "With",
+        "explanation": "It shows a relationship, as in 'With a thoughtful pause'."
+      },
+      {
+        "word": "una",
+        "translation": "a",
+        "explanation": "It means one of something."
+      },
+      {
+        "word": "pausa",
+        "translation": "pause",
+        "explanation": "It indicates a break or stop."
+      },
+      {
+        "word": "pensativa",
+        "translation": "thoughtful",
+        "explanation": "It describes being deep in thought."
+      },
+      {
+        "word": "Lila",
+        "translation": "Lila",
+        "explanation": "It is the name of a character."
+      },
+      {
+        "word": "respondió",
+        "translation": "responded",
+        "explanation": "It means she answered."
+      },
+      {
+        "word": "Fue",
+        "translation": "It was",
+        "explanation": "It describes something that happened."
+      },
+      {
+        "word": "hermoso",
+        "translation": "beautiful",
+        "explanation": "It means very pretty or lovely."
+      },
+      {
+        "word": "y",
+        "translation": "and",
+        "explanation": "It connects two ideas."
+      },
+      {
+        "word": "aterrador",
+        "translation": "terrifying",
+        "explanation": "It means very frightening."
+      },
+      {
+        "word": "He",
+        "translation": "I",
+        "explanation": "It is how one refers to oneself."
+      },
+      {
+        "word": "aprendido",
+        "translation": "learned",
+        "explanation": "It means to have gained knowledge."
+      },
+      {
+        "word": "tanto",
+        "translation": "so much",
+        "explanation": "It indicates a large amount."
+      }
+    ],
+    [
+      {
+        "word": "Pero",
+        "translation": "But",
+        "explanation": "It shows a contrast to the previous idea."
+      },
+      {
+        "word": "por",
+        "translation": "for",
+        "explanation": "It indicates purpose."
+      },
+      {
+        "word": "ahora",
+        "translation": "now",
+        "explanation": "It indicates the current time."
+      },
+      {
+        "word": "creo",
+        "translation": "I think",
+        "explanation": "It shows personal belief."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "It connects ideas."
+      },
+      {
+        "word": "me",
+        "translation": "me",
+        "explanation": "It refers to the person speaking."
+      },
+      {
+        "word": "quedaré",
+        "translation": "will stay",
+        "explanation": "It means to remain in a place."
+      },
+      {
+        "word": "donde",
+        "translation": "where",
+        "explanation": "It asks for a specific location."
+      },
+      {
+        "word": "estoy",
+        "translation": "I am",
+        "explanation": "It describes the speaker's current state."
+      },
+      {
+        "word": "y",
+        "translation": "and",
+        "explanation": "It connects two ideas."
+      },
+      {
+        "word": "soñaré",
+        "translation": "I will dream",
+        "explanation": "It means to have dreams in the future."
+      },
+      {
+        "word": "con",
+        "translation": "of",
+        "explanation": "It shows relationship, as in 'dream of adventures'."
+      },
+      {
+        "word": "mi",
+        "translation": "my",
+        "explanation": "It shows ownership, belonging to me."
+      },
+      {
+        "word": "próxima",
+        "translation": "next",
+        "explanation": "It indicates the following one."
+      },
+      {
+        "word": "aventura",
+        "translation": "adventure",
+        "explanation": "It describes an exciting experience."
+      }
+    ],
+    [
+      {
+        "word": "Un",
+        "translation": "A",
+        "explanation": "This is used to introduce something for the first time."
+      },
+      {
+        "word": "día",
+        "translation": "day",
+        "explanation": "A period of 24 hours or the part of a day when it is light."
+      },
+      {
+        "word": "estaré",
+        "translation": "I will be",
+        "explanation": "This means the speaker will exist or have a state in the future."
+      },
+      {
+        "word": "lista",
+        "translation": "ready",
+        "explanation": "This means being prepared for something."
+      },
+      {
+        "word": "para",
+        "translation": "to",
+        "explanation": "This indicates the purpose of an action."
+      },
+      {
+        "word": "enfrentar",
+        "translation": "face",
+        "explanation": "This means to confront or deal with something difficult."
+      },
+      {
+        "word": "todo",
+        "translation": "everything",
+        "explanation": "This means all things or everything in total."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This indicates belonging or related to something."
+      },
+      {
+        "word": "nuevo",
+        "translation": "again",
+        "explanation": "This means a second time or anew."
+      }
+    ],
+    [
+      {
+        "word": "Y",
+        "translation": "And",
+        "explanation": "This is used to add information."
+      },
+      {
+        "word": "con",
+        "translation": "with",
+        "explanation": "This indicates together or in the company of."
+      },
+      {
+        "word": "eso",
+        "translation": "that",
+        "explanation": "This indicates something mentioned before."
+      },
+      {
+        "word": "Lila",
+        "translation": "Lila",
+        "explanation": "Name of the character."
+      },
+      {
+        "word": "regresó",
+        "translation": "returned",
+        "explanation": "This means to come back to a previous place."
+      },
+      {
+        "word": "a",
+        "translation": "to",
+        "explanation": "This indicates direction or movement towards something."
+      },
+      {
+        "word": "su",
+        "translation": "her",
+        "explanation": "This shows ownership by Lila."
+      },
+      {
+        "word": "perchero",
+        "translation": "perch",
+        "explanation": "This is a place where birds sit."
+      },
+      {
+        "word": "familiar",
+        "translation": "family",
+        "explanation": "This indicates something belonging to the family."
+      },
+      {
+        "word": "piando",
+        "translation": "chirping",
+        "explanation": "This means making a short, high-pitched sound like a bird."
+      },
+      {
+        "word": "una",
+        "translation": "a",
+        "explanation": "This shows one of something."
+      },
+      {
+        "word": "nueva",
+        "translation": "new",
+        "explanation": "This means something that has not been existing before."
+      },
+      {
+        "word": "canción",
+        "translation": "song",
+        "explanation": "This is a musical composition with lyrics."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "This is used to connect clauses or phrases."
+      },
+      {
+        "word": "hablaba",
+        "translation": "spoke",
+        "explanation": "This means to communicate with words."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This indicates belonging or related to something."
+      },
+      {
+        "word": "las",
+        "translation": "the",
+        "explanation": "This is a definite article used to specify something."
+      },
+      {
+        "word": "maravillas",
+        "translation": "wonders",
+        "explanation": "This means amazing things or extraordinary occurrences."
+      },
+      {
+        "word": "y",
+        "translation": "and",
+        "explanation": "This is used to add information."
+      },
+      {
+        "word": "pruebas",
+        "translation": "trials",
+        "explanation": "This means difficult experiences or challenges."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This indicates belonging or related to something."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "This is a definite article used to specify something."
+      },
+      {
+        "word": "vida",
+        "translation": "life",
+        "explanation": "This means the state of being alive."
+      },
+      {
+        "word": "más",
+        "translation": "beyond",
+        "explanation": "This indicates something further than or outside of."
+      },
+      {
+        "word": "allá",
+        "translation": "there",
+        "explanation": "This is used to indicate a location away from the speaker."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This indicates belonging or related to something."
+      },
+      {
+        "word": "los",
+        "translation": "the",
+        "explanation": "This is a definite article used to specify something."
+      },
+      {
+        "word": "barrotes",
+        "translation": "bars",
+        "explanation": "This refers to long, thin pieces of metal, usually used for protection or confinement."
+      }
+    ]
+  ]
+}

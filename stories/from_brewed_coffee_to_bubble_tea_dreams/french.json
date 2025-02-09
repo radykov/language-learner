@@ -1,0 +1,4410 @@
+{
+  "story": "Dans le charmant petit village de Maplewood, il y avait un café cosy appelé \"The Daily Grind\". Parmi la vapeur et les arômes de café fraîchement préparé travaillait une dame nommée Clara. Ses yeux noisette brillaient de chaleur alors qu'elle saluait les clients, bien que son cœur aspire à quelque chose de tout à fait différent. Contrairement à la plupart des personnes du café, Clara n'aimait pas le café. En fait, son cœur battait pour la douceur et le plaisir du thé à bulles. Pendant que les baristas autour d'elle servaient des lattes avec expertise, Clara se retrouvait souvent à manipuler maladroitement la machine à espresso, préparant le café avec la précision d'un enfant en train de peindre avec les doigts. \"Tu vas ruiner la machine à espresso si tu continues comme ça,\" rigolait son patron, M. Talbot, en ébouriffant ses cheveux en passant, sa voix dégoulinant de moquerie. Clara forçait un sourire, son visage rouge d'embarras. Mais dans son esprit, elle rêvait de tasses vibrantes de thé à bulles, débordantes de saveurs et de perles de tapioca colorées. Après de longues heures de travail, Clara rentrait chez elle et libérait sa créativité dans la cuisine, concoctant ses recettes de thé à bulles préférées. Elle organisait des rassemblements hebdomadaires pour ses amis, prenant plaisir à créer des saveurs modernes telles que le matcha à la mangue et la lavande aux myrtilles. Rires et acclamations remplissaient son foyer alors qu'ils aspiraient leur thé à travers des pailles larges, la joie rayonnant de chaque gorgée. Un mercredi fatal, alors que le café bourdonnait de bavardages matinaux, Clara arriva pour découvrir que la barista habituelle, Lily, était absente. M. Talbot était en pleine frénésie, errant dans le café, pendant que des clients faisaient la queue, grognant à cause du retard dans leur café matinal. \"Clara ! Nous avons besoin de toi derrière le comptoir. Fais ce que tu peux, il faut les rendre heureux !\" aboya-t-il, courant comme une poule sans tête. Alors que Clara essuyait le comptoir, une idée lui vint. \"Et si je préparais du thé à bulles ?\" proposa-t-elle, son excitation débordant. M. Talbot leva un sourcil sceptique. \"Du thé à bulles ? Tu rigoles, non ? Nous servons du café ici !\" Mais les files d'attente de clients impatients le poussèrent à changer d'avis. \"D'accord, vas-y. Mais ne le renverse pas partout.\" Avec le cœur battant, Clara rassembla ses outils et ses ingrédients de son stock derrière le comptoir, un approvisionnement chanceux de perles de tapioca et de poudres fruitées qu'elle gardait toujours pour elle-même. En quelques minutes, elle était en train de préparer le tout premier thé à bulles de \"The Daily Grind\". Elle mélangea, secoua et remua, une tornade de mouvements alors que les saveurs dansaient dans son esprit. À sa grande surprise, quand elle servit la première tasse, la pétillante Ella s'illumina. \"Wow ! Qu'est-ce que c'est ?\" demanda-t-elle, les yeux écarquillés de curiosité. \"C'est du thé à bulles !\" s'exclama Clara, tendant la boisson colorée. Un à un, les clients goûtèrent aux créations de Clara, leurs froncement de sourcils fondant en larges sourires. Le café se transforma d'un bourdonnement chaotique alimenté par la caféine au doux son du rire et des bavardages enjoués alors que les gens se rassemblaient pour essayer ses concoctions colorées. À la fin de la journée, M. Talbot avait l'air abasourdi. \"Je n'arrive pas à y croire... C'est vraiment bon !\" admit-il, se grattant la tête dans un état d'étonnement alors que les clients affluaient vers le comptoir. Les semaines suivantes, le thé à bulles de Clara devint une sensation à Maplewood. La nouvelle se répandit et bientôt, le café introduisit un menu spécial de thé à bulles en plus de ses offres habituelles. La créativité et la passion de Clara transformèrent sa réputation, la transformant en étoile de \"The Daily Grind\". Cependant, Clara savait en son for intérieur qu'elle voulait déployer ses ailes encore plus loin. Avec un cœur plein de courage et le soutien de ses amis, elle décida d'ouvrir son propre magasin de thé à bulles, \"Perles & Rêves\". L'inauguration était une affaire vivante, avec ses amis, sa famille et des clients soutenants qui faisaient la queue tout autour du bloc, tous impatients d'essayer ses dernières saveurs. Même M. Talbot arriva, un sourire fantaisiste figé sur son visage. \"Wow, Clara, tu l'as vraiment fait !\" dit-il, étonnamment sincère cette fois. \"Je viendrai ici chaque semaine pour ma dose !\" Clara sut alors que son voyage ne faisait que commencer. Avec chaque tasse de thé à bulles qu'elle servait, elle versait de la joie, de l'amour et une gorgée de ses rêves les plus fous dans chaque tasse colorée, partageant sa passion avec le monde.",
+  "title": "Des Cafés Infusés aux Rêves de Thé Bulle",
+  "sentences": [
+    {
+      "original": "Dans le charmant petit village de Maplewood, il y avait un café cosy appelé \"The Daily Grind\".",
+      "translation": "In the charming little village of Maplewood, there was a cozy café called \"The Daily Grind.\""
+    },
+    {
+      "original": "Parmi la vapeur et les arômes de café fraîchement préparé travaillait une dame nommée Clara.",
+      "translation": "Amidst the steam and aromas of freshly brewed coffee worked a lady named Clara."
+    },
+    {
+      "original": "Ses yeux noisette brillaient de chaleur alors qu'elle saluait les clients, bien que son cœur aspire à quelque chose de tout à fait différent.",
+      "translation": "Her hazel eyes sparkled with warmth as she greeted customers, though her heart longed for something altogether different."
+    },
+    {
+      "original": "Contrairement à la plupart des personnes du café, Clara n'aimait pas le café.",
+      "translation": "Unlike most of the people at the café, Clara did not like coffee."
+    },
+    {
+      "original": "En fait, son cœur battait pour la douceur et le plaisir du thé à bulles.",
+      "translation": "In fact, her heart beat for the sweetness and pleasure of bubble tea."
+    },
+    {
+      "original": "Pendant que les baristas autour d'elle servaient des lattes avec expertise, Clara se retrouvait souvent à manipuler maladroitement la machine à espresso, préparant le café avec la précision d'un enfant en train de peindre avec les doigts.",
+      "translation": "While the baristas around her expertly served lattes, Clara often found herself clumsily handling the espresso machine, making coffee with the precision of a child finger-painting."
+    },
+    {
+      "original": "\"Tu vas ruiner la machine à espresso si tu continues comme ça,\" rigolait son patron, M. Talbot, en ébouriffant ses cheveux en passant, sa voix dégoulinant de moquerie.",
+      "translation": "\"You're going to ruin the espresso machine if you keep that up,\" laughed her boss, Mr. Talbot, ruffling her hair as he passed, his voice dripping with mockery."
+    },
+    {
+      "original": "Clara forçait un sourire, son visage rouge d'embarras.",
+      "translation": "Clara forced a smile, her face red with embarrassment."
+    },
+    {
+      "original": "Mais dans son esprit, elle rêvait de tasses vibrantes de thé à bulles, débordantes de saveurs et de perles de tapioca colorées.",
+      "translation": "But in her mind, she dreamed of vibrant cups of bubble tea, overflowing with flavors and colorful tapioca pearls."
+    },
+    {
+      "original": "Après de longues heures de travail, Clara rentrait chez elle et libérait sa créativité dans la cuisine, concoctant ses recettes de thé à bulles préférées.",
+      "translation": "After long hours of work, Clara would go home and unleash her creativity in the kitchen, concocting her favorite bubble tea recipes."
+    },
+    {
+      "original": "Elle organisait des rassemblements hebdomadaires pour ses amis, prenant plaisir à créer des saveurs modernes telles que le matcha à la mangue et la lavande aux myrtilles.",
+      "translation": "She hosted weekly gatherings for her friends, delighting in creating modern flavors like mango matcha and blueberry lavender."
+    },
+    {
+      "original": "Rires et acclamations remplissaient son foyer alors qu'ils aspiraient leur thé à travers des pailles larges, la joie rayonnant de chaque gorgée.",
+      "translation": "Laughter and cheers filled her home as they slurped their tea through wide straws, joy radiating from each sip."
+    },
+    {
+      "original": "Un mercredi fatal, alors que le café bourdonnait de bavardages matinaux, Clara arriva pour découvrir que la barista habituelle, Lily, était absente.",
+      "translation": "On a fateful Wednesday, as the café buzzed with morning chatter, Clara arrived to find that the usual barista, Lily, was absent."
+    },
+    {
+      "original": "M. Talbot était en pleine frénésie, errant dans le café, pendant que des clients faisaient la queue, grognant à cause du retard dans leur café matinal.",
+      "translation": "Mr. Talbot was in a frenzy, wandering around the café, while customers stood in line, grumbling about the delay in their morning coffee."
+    },
+    {
+      "original": "\"Clara ! Nous avons besoin de toi derrière le comptoir. Fais ce que tu peux, il faut les rendre heureux !\" aboya-t-il, courant comme une poule sans tête.",
+      "translation": "\"Clara! We need you behind the counter. Do what you can, we need to make them happy!\" he barked, running around like a headless chicken."
+    },
+    {
+      "original": "Alors que Clara essuyait le comptoir, une idée lui vint.",
+      "translation": "As Clara wiped down the counter, an idea struck her."
+    },
+    {
+      "original": "\"Et si je préparais du thé à bulles ?\" proposa-t-elle, son excitation débordant.",
+      "translation": "\"What if I made bubble tea?\" she suggested, her excitement bubbling over."
+    },
+    {
+      "original": "M. Talbot leva un sourcil sceptique.",
+      "translation": "Mr. Talbot raised an eyebrow skeptically."
+    },
+    {
+      "original": "\"Du thé à bulles ? Tu rigoles, non ? Nous servons du café ici !\" Mais les files d'attente de clients impatients le poussèrent à changer d'avis.",
+      "translation": "\"Bubble tea? You must be joking! We serve coffee here!\" But the lines of impatient customers made him reconsider."
+    },
+    {
+      "original": "\"D'accord, vas-y. Mais ne le renverse pas partout.\"",
+      "translation": "\"Fine, go ahead. But don't spill it everywhere.\""
+    },
+    {
+      "original": "Avec le cœur battant, Clara rassembla ses outils et ses ingrédients de son stock derrière le comptoir, un approvisionnement chanceux de perles de tapioca et de poudres fruitées qu'elle gardait toujours pour elle-même.",
+      "translation": "With her heart racing, Clara gathered her tools and ingredients from her stash behind the counter, a lucky supply of tapioca pearls and fruity powders she always kept for herself."
+    },
+    {
+      "original": "En quelques minutes, elle était en train de préparer le tout premier thé à bulles de \"The Daily Grind\".",
+      "translation": "Within minutes, she was preparing the very first bubble tea at \"The Daily Grind.\""
+    },
+    {
+      "original": "Elle mélangea, secoua et remua, une tornade de mouvements alors que les saveurs dansaient dans son esprit.",
+      "translation": "She mixed, shook, and stirred, a whirlwind of movement as the flavors danced in her mind."
+    },
+    {
+      "original": "À sa grande surprise, quand elle servit la première tasse, la pétillante Ella s'illumina.",
+      "translation": "To her great surprise, when she served the first cup, the bubbly Ella lit up."
+    },
+    {
+      "original": "\"Wow ! Qu'est-ce que c'est ?\" demanda-t-elle, les yeux écarquillés de curiosité.",
+      "translation": "\"Wow! What is this?\" she asked, her eyes wide with curiosity."
+    },
+    {
+      "original": "\"C'est du thé à bulles !\" s'exclama Clara, tendant la boisson colorée.",
+      "translation": "\"It's bubble tea!\" Clara exclaimed, offering the colorful drink."
+    },
+    {
+      "original": "Un à un, les clients goûtèrent aux créations de Clara, leurs froncement de sourcils fondant en larges sourires.",
+      "translation": "One by one, customers tasted Clara's creations, their frowns melting into broad smiles."
+    },
+    {
+      "original": "Le café se transforma d'un bourdonnement chaotique alimenté par la caféine au doux son du rire et des bavardages enjoués alors que les gens se rassemblaient pour essayer ses concoctions colorées.",
+      "translation": "The café transformed from a chaotic caffeine-fueled buzz to the sweet sound of laughter and playful chatter as people gathered to try her colorful concoctions."
+    },
+    {
+      "original": "À la fin de la journée, M. Talbot avait l'air abasourdi.",
+      "translation": "By the end of the day, Mr. Talbot looked dumbfounded."
+    },
+    {
+      "original": "\"Je n'arrive pas à y croire... C'est vraiment bon !\" admit-il, se grattant la tête dans un état d'étonnement alors que les clients affluaient vers le comptoir.",
+      "translation": "\"I can't believe it... It's really good!\" he admitted, scratching his head in amazement as customers flocked to the counter."
+    },
+    {
+      "original": "Les semaines suivantes, le thé à bulles de Clara devint une sensation à Maplewood.",
+      "translation": "In the following weeks, Clara's bubble tea became a sensation in Maplewood."
+    },
+    {
+      "original": "La nouvelle se répandit et bientôt, le café introduisit un menu spécial de thé à bulles en plus de ses offres habituelles.",
+      "translation": "Word spread, and soon, the café introduced a special bubble tea menu alongside its usual offerings."
+    },
+    {
+      "original": "La créativité et la passion de Clara transformèrent sa réputation, la transformant en étoile de \"The Daily Grind\".",
+      "translation": "Clara's creativity and passion transformed her reputation, turning her into the star of \"The Daily Grind.\""
+    },
+    {
+      "original": "Cependant, Clara savait en son for intérieur qu'elle voulait déployer ses ailes encore plus loin.",
+      "translation": "However, Clara knew in her heart that she wanted to spread her wings even further."
+    },
+    {
+      "original": "Avec un cœur plein de courage et le soutien de ses amis, elle décida d'ouvrir son propre magasin de thé à bulles, \"Perles & Rêves\".",
+      "translation": "With a heart full of courage and the support of her friends, she decided to open her own bubble tea shop, \"Pearls & Dreams.\""
+    },
+    {
+      "original": "L'inauguration était une affaire vivante, avec ses amis, sa famille et des clients soutenants qui faisaient la queue tout autour du bloc, tous impatients d'essayer ses dernières saveurs.",
+      "translation": "The grand opening was a lively affair, with her friends, family, and supportive customers lining up all around the block, all eager to try her latest flavors."
+    },
+    {
+      "original": "Même M. Talbot arriva, un sourire fantaisiste figé sur son visage.",
+      "translation": "Even Mr. Talbot showed up, a whimsical smile frozen on his face."
+    },
+    {
+      "original": "\"Wow, Clara, tu l'as vraiment fait !\" dit-il, étonnamment sincère cette fois.",
+      "translation": "\"Wow, Clara, you really did it!\" he said, surprisingly sincere this time."
+    },
+    {
+      "original": "\"Je viendrai ici chaque semaine pour ma dose !\"",
+      "translation": "\"I'll come here every week for my fix!\""
+    },
+    {
+      "original": "Clara sut alors que son voyage ne faisait que commencer.",
+      "translation": "Clara then knew that her journey was just beginning."
+    },
+    {
+      "original": "Avec chaque tasse de thé à bulles qu'elle servait, elle versait de la joie, de l'amour et une gorgée de ses rêves les plus fous dans chaque tasse colorée, partageant sa passion avec le monde.",
+      "translation": "With every cup of bubble tea she served, she poured joy, love, and a sip of her wildest dreams into each colorful cup, sharing her passion with the world."
+    }
+  ],
+  "words": [
+    [
+      {
+        "word": "Dans",
+        "translation": "In",
+        "explanation": "Indicates a location or time."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "Definite article used before a noun."
+      },
+      {
+        "word": "charmant",
+        "translation": "charming",
+        "explanation": "Describes something that is attractive or pleasant."
+      },
+      {
+        "word": "petit",
+        "translation": "small",
+        "explanation": "Describes something of a little size."
+      },
+      {
+        "word": "village",
+        "translation": "village",
+        "explanation": "A small community or group of houses."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Indicates belonging."
+      },
+      {
+        "word": "Maplewood",
+        "translation": "Maplewood",
+        "explanation": "Name of the village."
+      },
+      {
+        "word": ",",
+        "translation": "",
+        "explanation": "Punctuation mark."
+      },
+      {
+        "word": "il",
+        "translation": "there",
+        "explanation": "Referring to existence."
+      },
+      {
+        "word": "y",
+        "translation": "was",
+        "explanation": "Indicates the existence of something."
+      },
+      {
+        "word": "avait",
+        "translation": "had",
+        "explanation": "Shows possession in the past."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "Indefinite article used before a noun."
+      },
+      {
+        "word": "café",
+        "translation": "café",
+        "explanation": "A place to buy and enjoy coffee and snacks."
+      },
+      {
+        "word": "cosy",
+        "translation": "cosy",
+        "explanation": "Describes a warm and comfortable atmosphere."
+      },
+      {
+        "word": "appelé",
+        "translation": "called",
+        "explanation": "Indicates the name of something."
+      },
+      {
+        "word": "\"The Daily Grind\"",
+        "translation": "\"The Daily Grind\"",
+        "explanation": "The name of the café."
+      }
+    ],
+    [
+      {
+        "word": "Parmi",
+        "translation": "Among",
+        "explanation": "Indicates a position within a group."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "Definite article used before a noun."
+      },
+      {
+        "word": "vapeur",
+        "translation": "steam",
+        "explanation": "Smoke from hot drinks."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Connects two ideas."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "Definite article used before a noun."
+      },
+      {
+        "word": "arômes",
+        "translation": "aromas",
+        "explanation": "Pleasant smells, often from food or drinks."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Indicates belonging."
+      },
+      {
+        "word": "café",
+        "translation": "coffee",
+        "explanation": "Dark beverage made from coffee beans."
+      },
+      {
+        "word": "fraîchement",
+        "translation": "freshly",
+        "explanation": "Recently made or produced."
+      },
+      {
+        "word": "préparé",
+        "translation": "prepared",
+        "explanation": "Made ready for use or consumption."
+      },
+      {
+        "word": "travaillait",
+        "translation": "was working",
+        "explanation": "Describes someone engaged in work."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "Indefinite article used before a noun."
+      },
+      {
+        "word": "dame",
+        "translation": "lady",
+        "explanation": "A woman."
+      },
+      {
+        "word": "nommée",
+        "translation": "named",
+        "explanation": "Indicates what someone is called."
+      },
+      {
+        "word": "Clara",
+        "translation": "Clara",
+        "explanation": "Name of the lady."
+      }
+    ],
+    [
+      {
+        "word": "Ses",
+        "translation": "Her",
+        "explanation": "Indicates possession by a female."
+      },
+      {
+        "word": "yeux",
+        "translation": "eyes",
+        "explanation": "Organs for seeing."
+      },
+      {
+        "word": "noisette",
+        "translation": "hazel",
+        "explanation": "A color, often describing brown with green."
+      },
+      {
+        "word": "brillaient",
+        "translation": "were shining",
+        "explanation": "Describes something reflecting light."
+      },
+      {
+        "word": "de",
+        "translation": "with",
+        "explanation": "Indicates a characteristic."
+      },
+      {
+        "word": "chaleur",
+        "translation": "warmth",
+        "explanation": "Feeling of heat or friendliness."
+      },
+      {
+        "word": "alors",
+        "translation": "as",
+        "explanation": "Indicates a time or condition."
+      },
+      {
+        "word": "qu'elle",
+        "translation": "she",
+        "explanation": "Refers to the lady named Clara."
+      },
+      {
+        "word": "salutait",
+        "translation": "greeted",
+        "explanation": "To say hello or welcome."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "Definite article used before a noun."
+      },
+      {
+        "word": "clients",
+        "translation": "customers",
+        "explanation": "People who buy from a business."
+      },
+      {
+        "word": ",",
+        "translation": "",
+        "explanation": "Punctuation mark."
+      },
+      {
+        "word": "bien",
+        "translation": "well",
+        "explanation": "In a good manner."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "Used to introduce details."
+      },
+      {
+        "word": "son",
+        "translation": "her",
+        "explanation": "Possessive for female."
+      },
+      {
+        "word": "cœur",
+        "translation": "heart",
+        "explanation": "Organ that pumps blood; also refers to feelings."
+      },
+      {
+        "word": "aspire",
+        "translation": "longs",
+        "explanation": "Desires strongly."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "Indicates direction or intention."
+      },
+      {
+        "word": "quelque",
+        "translation": "something",
+        "explanation": "Indicates an unspecified thing."
+      },
+      {
+        "word": "chose",
+        "translation": "thing",
+        "explanation": "A non-specific object or concept."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Indicates belonging."
+      },
+      {
+        "word": "tout",
+        "translation": "quite",
+        "explanation": "Very or to a large extent."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "Indicates direction or intention."
+      },
+      {
+        "word": "fait",
+        "translation": "different",
+        "explanation": "Not the same."
+      }
+    ],
+    [
+      {
+        "word": "Contrairement",
+        "translation": "Unlike",
+        "explanation": "Indicates a difference."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "Used to indicate direction."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "Definite article used before a noun."
+      },
+      {
+        "word": "plupart",
+        "translation": "most",
+        "explanation": "A large part of a group."
+      },
+      {
+        "word": "des",
+        "translation": "of the",
+        "explanation": "Indicates belonging to a group."
+      },
+      {
+        "word": "personnes",
+        "translation": "people",
+        "explanation": "Human beings."
+      },
+      {
+        "word": "du",
+        "translation": "of the",
+        "explanation": "Indicates belonging to a specific group."
+      },
+      {
+        "word": "café",
+        "translation": "café",
+        "explanation": "A place to buy and enjoy coffee and snacks."
+      },
+      {
+        "word": ",",
+        "translation": "",
+        "explanation": "Punctuation mark."
+      },
+      {
+        "word": "Clara",
+        "translation": "Clara",
+        "explanation": "Name of the lady."
+      },
+      {
+        "word": "n'",
+        "translation": "did not",
+        "explanation": "Indicates negation."
+      },
+      {
+        "word": "aimait",
+        "translation": "like",
+        "explanation": "To have positive feelings for something."
+      },
+      {
+        "word": "pas",
+        "translation": "not",
+        "explanation": "Indicates negation."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "Definite article used before a noun."
+      },
+      {
+        "word": "café",
+        "translation": "coffee",
+        "explanation": "Dark beverage made from coffee beans."
+      }
+    ],
+    [
+      {
+        "word": "En",
+        "translation": "In",
+        "explanation": "Indicates location or time."
+      },
+      {
+        "word": "fait",
+        "translation": "fact",
+        "explanation": "A thing that is known to be true."
+      },
+      {
+        "word": ",",
+        "translation": "",
+        "explanation": "Punctuation mark."
+      },
+      {
+        "word": "son",
+        "translation": "her",
+        "explanation": "Possessive for female."
+      },
+      {
+        "word": "cœur",
+        "translation": "heart",
+        "explanation": "Organ that pumps blood; also refers to feelings."
+      },
+      {
+        "word": "battait",
+        "translation": "beat",
+        "explanation": "How the heart works."
+      },
+      {
+        "word": "pour",
+        "translation": "for",
+        "explanation": "Indicates purpose."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "Definite article used before a noun."
+      },
+      {
+        "word": "douceur",
+        "translation": "sweetness",
+        "explanation": "Quality of being sweet; pleasant taste."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Connects two ideas."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "Definite article used before a noun."
+      },
+      {
+        "word": "plaisir",
+        "translation": "pleasure",
+        "explanation": "Feeling of enjoyment."
+      },
+      {
+        "word": "du",
+        "translation": "of the",
+        "explanation": "Indicates belonging to a specific group."
+      },
+      {
+        "word": "thé",
+        "translation": "tea",
+        "explanation": "Beverage made by steeping tea leaves."
+      },
+      {
+        "word": "à",
+        "translation": "with",
+        "explanation": "Indicates a characteristic."
+      },
+      {
+        "word": "bulles",
+        "translation": "bubbles",
+        "explanation": "Small round balls of gas in a liquid."
+      }
+    ],
+    [
+      {
+        "word": "Pendant",
+        "translation": "While",
+        "explanation": "This word shows that something is happening at the same time as something else."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "This word connects two ideas or actions."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "This is a definite article used before plural nouns."
+      },
+      {
+        "word": "baristas",
+        "translation": "baristas",
+        "explanation": "People who make and serve coffee in a coffee shop."
+      },
+      {
+        "word": "autour",
+        "translation": "around",
+        "explanation": "This means in the area or surrounding space."
+      },
+      {
+        "word": "d'elle",
+        "translation": "her",
+        "explanation": "This is a pronoun referring to Clara."
+      },
+      {
+        "word": "servaient",
+        "translation": "served",
+        "explanation": "This is an action that means to give food or drink to someone."
+      },
+      {
+        "word": "des",
+        "translation": "some",
+        "explanation": "This is an indefinite article used before plural nouns."
+      },
+      {
+        "word": "lattes",
+        "translation": "lattes",
+        "explanation": "A type of coffee drink made with espresso and steamed milk."
+      },
+      {
+        "word": "avec",
+        "translation": "with",
+        "explanation": "This word shows a connection or association."
+      },
+      {
+        "word": "expertise",
+        "translation": "expertise",
+        "explanation": "This means skill or knowledge in a particular area."
+      },
+      {
+        "word": "Clara",
+        "translation": "Clara",
+        "explanation": "The name of the main person in the sentence."
+      },
+      {
+        "word": "se",
+        "translation": "herself",
+        "explanation": "This is a reflexive pronoun indicating that Clara is doing something to herself."
+      },
+      {
+        "word": "retrouvait",
+        "translation": "often found",
+        "explanation": "This means to discover or come across something again."
+      },
+      {
+        "word": "souvent",
+        "translation": "often",
+        "explanation": "This means many times or frequently."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "This indicates movement towards something."
+      },
+      {
+        "word": "manipuler",
+        "translation": "manipulate",
+        "explanation": "This means to handle or control something."
+      },
+      {
+        "word": "maladroitement",
+        "translation": "awkwardly",
+        "explanation": "This means doing something in an unskillful or clumsy way."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "This is a definite article used before singular nouns."
+      },
+      {
+        "word": "machine",
+        "translation": "machine",
+        "explanation": "A device used to perform a specific task."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "This indicates movement towards something."
+      },
+      {
+        "word": "espresso",
+        "translation": "espresso",
+        "explanation": "A strong coffee made by forcing hot water through ground coffee."
+      },
+      {
+        "word": "préparant",
+        "translation": "preparing",
+        "explanation": "This means making something ready."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "This is a definite article used before singular nouns."
+      },
+      {
+        "word": "café",
+        "translation": "coffee",
+        "explanation": "A drink made from roasted coffee beans."
+      },
+      {
+        "word": "avec",
+        "translation": "with",
+        "explanation": "This word shows a connection or association."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "This is a definite article used before singular nouns."
+      },
+      {
+        "word": "précision",
+        "translation": "precision",
+        "explanation": "This means doing something very accurately."
+      },
+      {
+        "word": "d'un",
+        "translation": "of a",
+        "explanation": "This is a contraction that means belonging to one."
+      },
+      {
+        "word": "enfant",
+        "translation": "child",
+        "explanation": "A young person who is not yet an adult."
+      },
+      {
+        "word": "en",
+        "translation": "in",
+        "explanation": "This word indicates location."
+      },
+      {
+        "word": "train",
+        "translation": "the process",
+        "explanation": "This shows the action of doing something."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This word shows ownership or association."
+      },
+      {
+        "word": "peindre",
+        "translation": "painting",
+        "explanation": "This means using colors to make a picture."
+      },
+      {
+        "word": "avec",
+        "translation": "with",
+        "explanation": "This word shows a connection or association."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "This is a definite article used before plural nouns."
+      },
+      {
+        "word": "doigts",
+        "translation": "fingers",
+        "explanation": "These are the parts of the hand used for touching and holding."
+      }
+    ],
+    [
+      {
+        "word": "Tu",
+        "translation": "You",
+        "explanation": "This is the pronoun used to address someone directly."
+      },
+      {
+        "word": "vas",
+        "translation": "are going",
+        "explanation": "This is a form of 'to go', showing future action."
+      },
+      {
+        "word": "ruiner",
+        "translation": "ruin",
+        "explanation": "This means to damage something so badly it doesn't work."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "This is a definite article used before singular nouns."
+      },
+      {
+        "word": "machine",
+        "translation": "machine",
+        "explanation": "A device used to perform a specific task."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "This indicates direction towards something."
+      },
+      {
+        "word": "espresso",
+        "translation": "espresso",
+        "explanation": "A strong coffee made by forcing hot water through ground coffee."
+      },
+      {
+        "word": "si",
+        "translation": "if",
+        "explanation": "This word introduces a condition."
+      },
+      {
+        "word": "tu",
+        "translation": "you",
+        "explanation": "This is a pronoun referring to the person being spoken to."
+      },
+      {
+        "word": "continues",
+        "translation": "continue",
+        "explanation": "This means to keep doing something."
+      },
+      {
+        "word": "comme",
+        "translation": "like",
+        "explanation": "This word shows comparison or similarity."
+      },
+      {
+        "word": "ça",
+        "translation": "that",
+        "explanation": "This word refers to something mentioned earlier."
+      },
+      {
+        "word": "rigolait",
+        "translation": "laughed",
+        "explanation": "This means to make sounds of amusement."
+      },
+      {
+        "word": "son",
+        "translation": "his",
+        "explanation": "This is a possessive pronoun, belonging to Mr. Talbot."
+      },
+      {
+        "word": "patron",
+        "translation": "boss",
+        "explanation": "This is the person who manages or owns the workplace."
+      },
+      {
+        "word": "M.",
+        "translation": "Mr.",
+        "explanation": "A title used for a man."
+      },
+      {
+        "word": "Talbot",
+        "translation": "Talbot",
+        "explanation": "A name, likely the last name of the boss."
+      },
+      {
+        "word": "en",
+        "translation": "while",
+        "explanation": "This shows that two actions happen at the same time."
+      },
+      {
+        "word": "ébouriffant",
+        "translation": "ruffling",
+        "explanation": "This means to mess up, usually hair."
+      },
+      {
+        "word": "ses",
+        "translation": "his",
+        "explanation": "This is a possessive pronoun referring to Mr. Talbot."
+      },
+      {
+        "word": "cheveux",
+        "translation": "hair",
+        "explanation": "The strands of protein that grow on the head."
+      },
+      {
+        "word": "en",
+        "translation": "by",
+        "explanation": "This indicates the method of doing something."
+      },
+      {
+        "word": "passant",
+        "translation": "passing",
+        "explanation": "This means moving by something."
+      },
+      {
+        "word": "sa",
+        "translation": "his",
+        "explanation": "This is a possessive pronoun referring to Mr. Talbot."
+      },
+      {
+        "word": "voix",
+        "translation": "voice",
+        "explanation": "The sound produced by a person when talking."
+      },
+      {
+        "word": "dégoulinant",
+        "translation": "dripping",
+        "explanation": "This means falling in drops, often used for liquids."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This word shows ownership or association."
+      },
+      {
+        "word": "moquerie",
+        "translation": "mockery",
+        "explanation": "This means teasing or making fun of someone."
+      }
+    ],
+    [
+      {
+        "word": "Clara",
+        "translation": "Clara",
+        "explanation": "The name of the main person in the sentence."
+      },
+      {
+        "word": "forçait",
+        "translation": "forced",
+        "explanation": "This means to make an effort to do something."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "This is an indefinite article used before singular nouns."
+      },
+      {
+        "word": "sourire",
+        "translation": "smile",
+        "explanation": "This is a facial expression formed by turning up the corners of the mouth."
+      },
+      {
+        "word": "son",
+        "translation": "her",
+        "explanation": "This is a possessive pronoun referring to Clara."
+      },
+      {
+        "word": "visage",
+        "translation": "face",
+        "explanation": "The front part of the head where the eyes, nose, and mouth are."
+      },
+      {
+        "word": "rouge",
+        "translation": "red",
+        "explanation": "This describes a bright color, often indicating embarrassment."
+      },
+      {
+        "word": "d'",
+        "translation": "of",
+        "explanation": "This word shows ownership or association."
+      },
+      {
+        "word": "embarras",
+        "translation": "embarrassment",
+        "explanation": "This means a feeling of self-consciousness or awkwardness."
+      }
+    ],
+    [
+      {
+        "word": "Mais",
+        "translation": "But",
+        "explanation": "This word shows contrast or opposition."
+      },
+      {
+        "word": "dans",
+        "translation": "in",
+        "explanation": "This indicates a location or space."
+      },
+      {
+        "word": "son",
+        "translation": "her",
+        "explanation": "This is a possessive pronoun referring to Clara."
+      },
+      {
+        "word": "esprit",
+        "translation": "mind",
+        "explanation": "This is the place where thoughts and ideas exist."
+      },
+      {
+        "word": "elle",
+        "translation": "she",
+        "explanation": "This is a pronoun referring to Clara."
+      },
+      {
+        "word": "rêvait",
+        "translation": "dreamed",
+        "explanation": "This means to imagine something in a desired way."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This word shows ownership or association."
+      },
+      {
+        "word": "tasses",
+        "translation": "cups",
+        "explanation": "These are containers used for drinking, usually hot liquids."
+      },
+      {
+        "word": "vibrantes",
+        "translation": "vibrant",
+        "explanation": "This describes something bright, lively, or full of energy."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This word shows ownership or association."
+      },
+      {
+        "word": "thé",
+        "translation": "tea",
+        "explanation": "A drink made by soaking leaves in water."
+      },
+      {
+        "word": "à",
+        "translation": "with",
+        "explanation": "This word shows connection or association."
+      },
+      {
+        "word": "bulles",
+        "translation": "bubbles",
+        "explanation": "These are small spheres of air or gas in a liquid."
+      },
+      {
+        "word": "débordantes",
+        "translation": "overflowing",
+        "explanation": "This means spilling over the edges."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This word shows ownership or association."
+      },
+      {
+        "word": "saveurs",
+        "translation": "flavors",
+        "explanation": "These are the distinct tastes of food or drink."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "This connects two ideas or things."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This word shows ownership or association."
+      },
+      {
+        "word": "perles",
+        "translation": "pearls",
+        "explanation": "These are small, round, shiny objects, often made of tapioca."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This word shows ownership or association."
+      },
+      {
+        "word": "tapioca",
+        "translation": "tapioca",
+        "explanation": "A type of starch extracted from cassava, used in bubble tea."
+      },
+      {
+        "word": "colorées",
+        "translation": "colored",
+        "explanation": "This describes something that has different colors."
+      }
+    ],
+    [
+      {
+        "word": "Après",
+        "translation": "After",
+        "explanation": "This word indicates a time following an event."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This word shows ownership or association."
+      },
+      {
+        "word": "longues",
+        "translation": "long",
+        "explanation": "This describes something that takes a lot of time."
+      },
+      {
+        "word": "heures",
+        "translation": "hours",
+        "explanation": "This is a unit of time equal to sixty minutes."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This word shows ownership or association."
+      },
+      {
+        "word": "travail",
+        "translation": "work",
+        "explanation": "This means effort put into a task or job."
+      },
+      {
+        "word": "Clara",
+        "translation": "Clara",
+        "explanation": "The name of the main person in the sentence."
+      },
+      {
+        "word": "rentrait",
+        "translation": "was returning",
+        "explanation": "This means coming back to a place."
+      },
+      {
+        "word": "chez",
+        "translation": "home",
+        "explanation": "This refers to the place where someone lives."
+      },
+      {
+        "word": "elle",
+        "translation": "she",
+        "explanation": "This is a pronoun referring to Clara."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "This connects two ideas or things."
+      },
+      {
+        "word": "libérait",
+        "translation": "released",
+        "explanation": "This means to set free or allow something to happen."
+      },
+      {
+        "word": "sa",
+        "translation": "her",
+        "explanation": "This is a possessive pronoun referring to Clara."
+      },
+      {
+        "word": "créativité",
+        "translation": "creativity",
+        "explanation": "This means the ability to make new and original ideas."
+      },
+      {
+        "word": "dans",
+        "translation": "in",
+        "explanation": "This indicates a location or space."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "This is a definite article used before singular nouns."
+      },
+      {
+        "word": "cuisine",
+        "translation": "kitchen",
+        "explanation": "This is the room where food is cooked."
+      },
+      {
+        "word": "concoctant",
+        "translation": "concocting",
+        "explanation": "This means to mix different ingredients to create something."
+      },
+      {
+        "word": "ses",
+        "translation": "her",
+        "explanation": "This is a possessive pronoun referring to Clara."
+      },
+      {
+        "word": "recettes",
+        "translation": "recipes",
+        "explanation": "Instructions for preparing food or drinks."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This word shows ownership or association."
+      },
+      {
+        "word": "thé",
+        "translation": "tea",
+        "explanation": "A drink made by soaking leaves in water."
+      },
+      {
+        "word": "à",
+        "translation": "with",
+        "explanation": "This word shows connection or association."
+      },
+      {
+        "word": "bulles",
+        "translation": "bubbles",
+        "explanation": "These are small spheres of air or gas in a liquid."
+      },
+      {
+        "word": "préférées",
+        "translation": "favorite",
+        "explanation": "This means the ones you like the most."
+      }
+    ],
+    [
+      {
+        "word": "Elle",
+        "translation": "She",
+        "explanation": "The subject of the sentence, a female person."
+      },
+      {
+        "word": "organisait",
+        "translation": "organized",
+        "explanation": "What she did, she planned or arranged things."
+      },
+      {
+        "word": "des",
+        "translation": "some",
+        "explanation": "Indicating an unspecified amount of things."
+      },
+      {
+        "word": "rassemblements",
+        "translation": "gatherings",
+        "explanation": "Events where people come together."
+      },
+      {
+        "word": "hebdomadaires",
+        "translation": "weekly",
+        "explanation": "How often the gatherings happened, every week."
+      },
+      {
+        "word": "pour",
+        "translation": "for",
+        "explanation": "Indicating the purpose or recipient."
+      },
+      {
+        "word": "ses",
+        "translation": "her",
+        "explanation": "Belonging to her, showing possession."
+      },
+      {
+        "word": "amis",
+        "translation": "friends",
+        "explanation": "People she knows and likes."
+      },
+      {
+        "word": "prenant",
+        "translation": "taking",
+        "explanation": "An action, she is doing something."
+      },
+      {
+        "word": "plaisir",
+        "translation": "pleasure",
+        "explanation": "Feeling of enjoyment or satisfaction."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "Indicating direction or purpose."
+      },
+      {
+        "word": "créer",
+        "translation": "create",
+        "explanation": "To make something new."
+      },
+      {
+        "word": "des",
+        "translation": "some",
+        "explanation": "Indicating an unspecified amount of things."
+      },
+      {
+        "word": "saveurs",
+        "translation": "flavors",
+        "explanation": "Different tastes of food or drinks."
+      },
+      {
+        "word": "modernes",
+        "translation": "modern",
+        "explanation": "Up-to-date or new in style."
+      },
+      {
+        "word": "telles",
+        "translation": "such as",
+        "explanation": "For example."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A definite article used before a noun."
+      },
+      {
+        "word": "matcha",
+        "translation": "matcha",
+        "explanation": "A type of green tea powder."
+      },
+      {
+        "word": "à",
+        "translation": "with",
+        "explanation": "Indicating combination."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article used before a noun."
+      },
+      {
+        "word": "mangue",
+        "translation": "mango",
+        "explanation": "A sweet tropical fruit."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Connecting words."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article used before a noun."
+      },
+      {
+        "word": "lavande",
+        "translation": "lavender",
+        "explanation": "A purple flower used for fragrance."
+      },
+      {
+        "word": "aux",
+        "translation": "with",
+        "explanation": "Indicating combination."
+      },
+      {
+        "word": "myrtilles",
+        "translation": "blueberries",
+        "explanation": "A small sweet blue fruit."
+      }
+    ],
+    [
+      {
+        "word": "Rires",
+        "translation": "Laughter",
+        "explanation": "The sound of people having fun."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Connecting words."
+      },
+      {
+        "word": "acclamations",
+        "translation": "cheers",
+        "explanation": "Sounds of approval or encouragement."
+      },
+      {
+        "word": "remplissaient",
+        "translation": "filled",
+        "explanation": "What happened, to make something full."
+      },
+      {
+        "word": "son",
+        "translation": "her",
+        "explanation": "Indicates possession, belonging to her."
+      },
+      {
+        "word": "foyer",
+        "translation": "home",
+        "explanation": "Place where she lives."
+      },
+      {
+        "word": "alors",
+        "translation": "as",
+        "explanation": "Indicating a time when something happened."
+      },
+      {
+        "word": "qu'ils",
+        "translation": "when they",
+        "explanation": "Referring to a group of people."
+      },
+      {
+        "word": "aspiraient",
+        "translation": "sipped",
+        "explanation": "What they did, drinking in small amounts."
+      },
+      {
+        "word": "leur",
+        "translation": "their",
+        "explanation": "Indicating possession, belonging to them."
+      },
+      {
+        "word": "thé",
+        "translation": "tea",
+        "explanation": "A drink made by brewing leaves."
+      },
+      {
+        "word": "à",
+        "translation": "through",
+        "explanation": "Indicating means of doing something."
+      },
+      {
+        "word": "travers",
+        "translation": "wide",
+        "explanation": "Showing the large opening."
+      },
+      {
+        "word": "des",
+        "translation": "some",
+        "explanation": "Indicating an unspecified amount of things."
+      },
+      {
+        "word": "pailles",
+        "translation": "straws",
+        "explanation": "Thin tubes used to drink liquids."
+      },
+      {
+        "word": "larges",
+        "translation": "wide",
+        "explanation": "Describing the size, not narrow."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article used before a noun."
+      },
+      {
+        "word": "joie",
+        "translation": "joy",
+        "explanation": "A feeling of happiness."
+      },
+      {
+        "word": "rayonnant",
+        "translation": "radiating",
+        "explanation": "Sending out or showing."
+      },
+      {
+        "word": "de",
+        "translation": "from",
+        "explanation": "Indicating origin."
+      },
+      {
+        "word": "chaque",
+        "translation": "every",
+        "explanation": "Indicating all individuals in a group."
+      },
+      {
+        "word": "gorgée",
+        "translation": "sip",
+        "explanation": "A small amount of drink."
+      }
+    ],
+    [
+      {
+        "word": "Un",
+        "translation": "A",
+        "explanation": "Indicating one."
+      },
+      {
+        "word": "mercredi",
+        "translation": "Wednesday",
+        "explanation": "A day of the week."
+      },
+      {
+        "word": "fatal",
+        "translation": "fateful",
+        "explanation": "Having great significance, often negative."
+      },
+      {
+        "word": "alors",
+        "translation": "as",
+        "explanation": "Indicating a time when something happened."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "Connecting clause."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A definite article used before a noun."
+      },
+      {
+        "word": "café",
+        "translation": "café",
+        "explanation": "A place to buy and drink coffee."
+      },
+      {
+        "word": "bourdonnait",
+        "translation": "buzzed",
+        "explanation": "Making noise from many people talking."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Showing relationship or belonging."
+      },
+      {
+        "word": "bavardages",
+        "translation": "chatter",
+        "explanation": "People talking in a casual way."
+      },
+      {
+        "word": "matinaux",
+        "translation": "morning",
+        "explanation": "Relating to the time of day after night."
+      },
+      {
+        "word": "Clara",
+        "translation": "Clara",
+        "explanation": "A person's name."
+      },
+      {
+        "word": "arriva",
+        "translation": "arrived",
+        "explanation": "What she did, came to a place."
+      },
+      {
+        "word": "pour",
+        "translation": "to",
+        "explanation": "Indicating purpose."
+      },
+      {
+        "word": "découvrir",
+        "translation": "discover",
+        "explanation": "To find out something new."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "Connecting clause."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article used before a noun."
+      },
+      {
+        "word": "barista",
+        "translation": "barista",
+        "explanation": "Person who makes and serves coffee."
+      },
+      {
+        "word": "habituelle",
+        "translation": "usual",
+        "explanation": "Something repetitive or normal."
+      },
+      {
+        "word": "Lily",
+        "translation": "Lily",
+        "explanation": "A person's name."
+      },
+      {
+        "word": "était",
+        "translation": "was",
+        "explanation": "Indicating a state of being in the past."
+      },
+      {
+        "word": "absente",
+        "translation": "absent",
+        "explanation": "Not present or missing."
+      }
+    ],
+    [
+      {
+        "word": "M.",
+        "translation": "Mr.",
+        "explanation": "A title used for a man."
+      },
+      {
+        "word": "Talbot",
+        "translation": "Talbot",
+        "explanation": "A last name of a person."
+      },
+      {
+        "word": "était",
+        "translation": "was",
+        "explanation": "Indicating a state of being in the past."
+      },
+      {
+        "word": "en",
+        "translation": "in",
+        "explanation": "Showing location within something."
+      },
+      {
+        "word": "pleine",
+        "translation": "full",
+        "explanation": "Indicating something is at its limit."
+      },
+      {
+        "word": "frénésie",
+        "translation": "frenzy",
+        "explanation": "A state of wild excitement or activity."
+      },
+      {
+        "word": "errant",
+        "translation": "wandering",
+        "explanation": "Moving around without a specific goal."
+      },
+      {
+        "word": "dans",
+        "translation": "in",
+        "explanation": "Indicating location."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A definite article used before a noun."
+      },
+      {
+        "word": "café",
+        "translation": "café",
+        "explanation": "A place to buy and drink coffee."
+      },
+      {
+        "word": "pendant",
+        "translation": "while",
+        "explanation": "Indicating at the same time."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "Connecting clause."
+      },
+      {
+        "word": "des",
+        "translation": "some",
+        "explanation": "Indicating an unspecified amount of things."
+      },
+      {
+        "word": "clients",
+        "translation": "customers",
+        "explanation": "People buying something."
+      },
+      {
+        "word": "faisaient",
+        "translation": "were making",
+        "explanation": "What they did, acting in a certain way."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article used before a noun."
+      },
+      {
+        "word": "queue",
+        "translation": "line",
+        "explanation": "A group of people waiting."
+      },
+      {
+        "word": "grognant",
+        "translation": "grumbling",
+        "explanation": "Making low unhappy sounds."
+      },
+      {
+        "word": "à",
+        "translation": "about",
+        "explanation": "Indicating a topic."
+      },
+      {
+        "word": "cause",
+        "translation": "cause",
+        "explanation": "Reason for something."
+      },
+      {
+        "word": "du",
+        "translation": "of the",
+        "explanation": "Part of a phrase showing belonging."
+      },
+      {
+        "word": "retard",
+        "translation": "delay",
+        "explanation": "A late time."
+      },
+      {
+        "word": "dans",
+        "translation": "in",
+        "explanation": "Indicating location."
+      },
+      {
+        "word": "leur",
+        "translation": "their",
+        "explanation": "Belonging to them."
+      },
+      {
+        "word": "café",
+        "translation": "coffee",
+        "explanation": "A drink made from roasted beans."
+      }
+    ],
+    [
+      {
+        "word": "Clara",
+        "translation": "Clara",
+        "explanation": "A person's name."
+      },
+      {
+        "word": "!",
+        "translation": "!",
+        "explanation": "Exclamation mark shows excitement."
+      },
+      {
+        "word": "Nous",
+        "translation": "We",
+        "explanation": "A group including the speaker."
+      },
+      {
+        "word": "avons",
+        "translation": "have",
+        "explanation": "Indicating possession of something."
+      },
+      {
+        "word": "besoin",
+        "translation": "need",
+        "explanation": "Something necessary."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Showing relationship or belonging."
+      },
+      {
+        "word": "toi",
+        "translation": "you",
+        "explanation": "Addressing the person being spoken to."
+      },
+      {
+        "word": "derrière",
+        "translation": "behind",
+        "explanation": "Location at the back."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A definite article used before a noun."
+      },
+      {
+        "word": "comptoir",
+        "translation": "counter",
+        "explanation": "The surface where transactions happen."
+      },
+      {
+        "word": "Fais",
+        "translation": "Do",
+        "explanation": "An order or command to act."
+      },
+      {
+        "word": "ce",
+        "translation": "what",
+        "explanation": "Referring to something specific."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "Connecting clause."
+      },
+      {
+        "word": "tu",
+        "translation": "you",
+        "explanation": "Referring to the person being spoken to."
+      },
+      {
+        "word": "peux",
+        "translation": "can",
+        "explanation": "Indicating ability."
+      },
+      {
+        "word": "il",
+        "translation": "it",
+        "explanation": "Referring to a situation."
+      },
+      {
+        "word": "faut",
+        "translation": "needs",
+        "explanation": "Indicating necessity."
+      },
+      {
+        "word": "les",
+        "translation": "them",
+        "explanation": "Referring to the customers."
+      },
+      {
+        "word": "rendre",
+        "translation": "make",
+        "explanation": "To cause to be in a certain state."
+      },
+      {
+        "word": "heureux",
+        "translation": "happy",
+        "explanation": "Feeling joy or satisfaction."
+      },
+      {
+        "word": "!",
+        "translation": "!",
+        "explanation": "Exclamation mark shows excitement."
+      },
+      {
+        "word": "aboya",
+        "translation": "barked",
+        "explanation": "Spoke sharply and loudly."
+      },
+      {
+        "word": "il",
+        "translation": "he",
+        "explanation": "Referring to Mr. Talbot."
+      },
+      {
+        "word": "courant",
+        "translation": "running",
+        "explanation": "Moving quickly."
+      },
+      {
+        "word": "comme",
+        "translation": "like",
+        "explanation": "Indicating similarity."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "Indicating one."
+      },
+      {
+        "word": "poule",
+        "translation": "chicken",
+        "explanation": "A bird often kept on a farm."
+      },
+      {
+        "word": "sans",
+        "translation": "without",
+        "explanation": "Not having something."
+      },
+      {
+        "word": "tête",
+        "translation": "head",
+        "explanation": "The upper part of the body."
+      }
+    ],
+    [
+      {
+        "word": "Alors",
+        "translation": "So",
+        "explanation": "This is used to introduce a new thought."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "This is a conjunction."
+      },
+      {
+        "word": "Clara",
+        "translation": "Clara",
+        "explanation": "This is a name."
+      },
+      {
+        "word": "essuyait",
+        "translation": "was wiping",
+        "explanation": "This describes an action Clara was doing."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "This is a definite article."
+      },
+      {
+        "word": "comptoir",
+        "translation": "counter",
+        "explanation": "This is the surface where things are served."
+      },
+      {
+        "word": "une",
+        "translation": "an",
+        "explanation": "This is an indefinite article."
+      },
+      {
+        "word": "idée",
+        "translation": "idea",
+        "explanation": "This is a thought or suggestion."
+      },
+      {
+        "word": "lui",
+        "translation": "to her",
+        "explanation": "This indicates to whom the idea came."
+      },
+      {
+        "word": "vint",
+        "translation": "came",
+        "explanation": "This is the past tense of 'come'."
+      }
+    ],
+    [
+      {
+        "word": "Et",
+        "translation": "And",
+        "explanation": "This is a conjunction."
+      },
+      {
+        "word": "si",
+        "translation": "if",
+        "explanation": "This introduces a condition."
+      },
+      {
+        "word": "je",
+        "translation": "I",
+        "explanation": "This refers to the speaker."
+      },
+      {
+        "word": "préparais",
+        "translation": "prepared",
+        "explanation": "This describes what the speaker is suggesting to do."
+      },
+      {
+        "word": "du",
+        "translation": "some",
+        "explanation": "This indicates an unspecified amount."
+      },
+      {
+        "word": "thé",
+        "translation": "tea",
+        "explanation": "This is a drink made by steeping leaves."
+      },
+      {
+        "word": "à",
+        "translation": "with",
+        "explanation": "This shows the type of tea."
+      },
+      {
+        "word": "bulles",
+        "translation": "bubbles",
+        "explanation": "These are small air pockets in a liquid."
+      },
+      {
+        "word": "proposa-t-elle",
+        "translation": "she proposed",
+        "explanation": "This indicates that Clara made a suggestion."
+      },
+      {
+        "word": "son",
+        "translation": "her",
+        "explanation": "This shows possession, it belongs to Clara."
+      },
+      {
+        "word": "excitation",
+        "translation": "excitement",
+        "explanation": "This describes how Clara felt."
+      },
+      {
+        "word": "débordant",
+        "translation": "overflowing",
+        "explanation": "This means she was very excited."
+      }
+    ],
+    [
+      {
+        "word": "M.",
+        "translation": "Mr.",
+        "explanation": "This is a title for a man."
+      },
+      {
+        "word": "Talbot",
+        "translation": "Talbot",
+        "explanation": "This is a name."
+      },
+      {
+        "word": "leva",
+        "translation": "raised",
+        "explanation": "This describes an action he did."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "This is an indefinite article."
+      },
+      {
+        "word": "sourcil",
+        "translation": "eyebrow",
+        "explanation": "This is a part of the face."
+      },
+      {
+        "word": "sceptique",
+        "translation": "skeptical",
+        "explanation": "This describes doubt or disbelief."
+      }
+    ],
+    [
+      {
+        "word": "Du",
+        "translation": "Of the",
+        "explanation": "This indicates a type or kind."
+      },
+      {
+        "word": "thé",
+        "translation": "tea",
+        "explanation": "This is a drink made by steeping leaves."
+      },
+      {
+        "word": "à",
+        "translation": "with",
+        "explanation": "This shows the type of tea."
+      },
+      {
+        "word": "bulles",
+        "translation": "bubbles",
+        "explanation": "These are small air pockets in a liquid."
+      },
+      {
+        "word": "Tu",
+        "translation": "You",
+        "explanation": "This is referring to Mr. Talbot."
+      },
+      {
+        "word": "rigoles",
+        "translation": "are joking",
+        "explanation": "This means he thinks it's not serious."
+      },
+      {
+        "word": "non",
+        "translation": "no",
+        "explanation": "This is a negation."
+      },
+      {
+        "word": "?",
+        "translation": "?",
+        "explanation": "This indicates a question."
+      },
+      {
+        "word": "Nous",
+        "translation": "We",
+        "explanation": "This refers to Mr. Talbot and others."
+      },
+      {
+        "word": "servons",
+        "translation": "serve",
+        "explanation": "This describes what they do with drinks."
+      },
+      {
+        "word": "du",
+        "translation": "some",
+        "explanation": "This indicates an unspecified amount."
+      },
+      {
+        "word": "café",
+        "translation": "coffee",
+        "explanation": "This is a drink made from coffee beans."
+      },
+      {
+        "word": "ici",
+        "translation": "here",
+        "explanation": "This indicates location."
+      },
+      {
+        "word": "!",
+        "translation": "!",
+        "explanation": "This shows strong emotion."
+      }
+    ],
+    [
+      {
+        "word": "Mais",
+        "translation": "But",
+        "explanation": "This indicates a contrast."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "This is a definite article."
+      },
+      {
+        "word": "files",
+        "translation": "lines",
+        "explanation": "This means groups of people waiting."
+      },
+      {
+        "word": "d'attente",
+        "translation": "of waiting",
+        "explanation": "This describes the purpose of the lines."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This is a preposition showing relation."
+      },
+      {
+        "word": "clients",
+        "translation": "customers",
+        "explanation": "These are people buying something."
+      },
+      {
+        "word": "impatients",
+        "translation": "impatient",
+        "explanation": "This describes how the customers feel."
+      },
+      {
+        "word": "le",
+        "translation": "it",
+        "explanation": "This refers to the idea of serving bubble tea."
+      },
+      {
+        "word": "poussèrent",
+        "translation": "pushed",
+        "explanation": "This means they caused him to change."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "This shows direction."
+      },
+      {
+        "word": "changer",
+        "translation": "change",
+        "explanation": "This means to make a different decision."
+      },
+      {
+        "word": "d'avis",
+        "translation": "opinion",
+        "explanation": "This is what he thinks."
+      }
+    ],
+    [
+      {
+        "word": "D'accord",
+        "translation": "Alright",
+        "explanation": "This shows agreement."
+      },
+      {
+        "word": "vas-y",
+        "translation": "go ahead",
+        "explanation": "This means to proceed."
+      },
+      {
+        "word": "Mais",
+        "translation": "But",
+        "explanation": "This indicates a contrast."
+      },
+      {
+        "word": "ne",
+        "translation": "do not",
+        "explanation": "This is part of a negation."
+      },
+      {
+        "word": "le",
+        "translation": "it",
+        "explanation": "This refers to the tea."
+      },
+      {
+        "word": "renverse",
+        "translation": "spill",
+        "explanation": "This means to accidentally drop liquid."
+      },
+      {
+        "word": "pas",
+        "translation": "not",
+        "explanation": "This emphasizes the negation."
+      },
+      {
+        "word": "partout",
+        "translation": "everywhere",
+        "explanation": "This means in all places."
+      }
+    ],
+    [
+      {
+        "word": "Avec",
+        "translation": "With",
+        "explanation": "It shows the start of an action, indicating accompaniment."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A definite article used before a noun."
+      },
+      {
+        "word": "cœur",
+        "translation": "heart",
+        "explanation": "It refers to the organ that pumps blood; often used to mean feelings."
+      },
+      {
+        "word": "battant",
+        "translation": "beating",
+        "explanation": "It describes the action of the heart when it moves."
+      },
+      {
+        "word": "Clara",
+        "translation": "Clara",
+        "explanation": "A name of a person."
+      },
+      {
+        "word": "rassembla",
+        "translation": "gathered",
+        "explanation": "It means to collect or put together."
+      },
+      {
+        "word": "ses",
+        "translation": "her",
+        "explanation": "It shows possession, meaning belonging to Clara."
+      },
+      {
+        "word": "outils",
+        "translation": "tools",
+        "explanation": "Things used to do a job."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "A conjunction used to connect words."
+      },
+      {
+        "word": "ses",
+        "translation": "her",
+        "explanation": "Same as before, indicating possession."
+      },
+      {
+        "word": "ingrédients",
+        "translation": "ingredients",
+        "explanation": "These are the items used in making something, usually food or drink."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "A preposition that shows relationship."
+      },
+      {
+        "word": "son",
+        "translation": "her",
+        "explanation": "Possessive indicating something belonging to Clara."
+      },
+      {
+        "word": "stock",
+        "translation": "stock",
+        "explanation": "A supply of goods or items."
+      },
+      {
+        "word": "derrière",
+        "translation": "behind",
+        "explanation": "It indicates a location at the back."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A definite article before a noun."
+      },
+      {
+        "word": "comptoir",
+        "translation": "counter",
+        "explanation": "A flat surface where things are sold or served."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "An indefinite article used before a noun."
+      },
+      {
+        "word": "approvisionnement",
+        "translation": "supply",
+        "explanation": "An amount of goods available."
+      },
+      {
+        "word": "chanceux",
+        "translation": "lucky",
+        "explanation": "Something that happens by good fortune."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Relates to the following nouns."
+      },
+      {
+        "word": "perles",
+        "translation": "pearls",
+        "explanation": "Round, often shiny objects used in cooking or decoration."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Connects the items listed."
+      },
+      {
+        "word": "tapioca",
+        "translation": "tapioca",
+        "explanation": "A starch derived from cassava, often used in bubble tea."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Connects the items listed."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Connects the items listed."
+      },
+      {
+        "word": "poudres",
+        "translation": "powders",
+        "explanation": "Fine particles often used in cooking."
+      },
+      {
+        "word": "fruitées",
+        "translation": "fruity",
+        "explanation": "Describes flavors that taste like fruits."
+      },
+      {
+        "word": "qu'elle",
+        "translation": "that she",
+        "explanation": "Refers to Clara, meaning 'that Clara'."
+      },
+      {
+        "word": "gardait",
+        "translation": "kept",
+        "explanation": "It means to hold onto or retain."
+      },
+      {
+        "word": "toujours",
+        "translation": "always",
+        "explanation": "Indicates a repeated or constant action."
+      },
+      {
+        "word": "pour",
+        "translation": "for",
+        "explanation": "Used to indicate purpose."
+      },
+      {
+        "word": "elle-même",
+        "translation": "herself",
+        "explanation": "Refers back to Clara, emphasizing she did it."
+      }
+    ],
+    [
+      {
+        "word": "En",
+        "translation": "In",
+        "explanation": "Indicates a time or condition."
+      },
+      {
+        "word": "quelques",
+        "translation": "a few",
+        "explanation": "Means a small number."
+      },
+      {
+        "word": "minutes",
+        "translation": "minutes",
+        "explanation": "Units of time, each is 60 seconds."
+      },
+      {
+        "word": "elle",
+        "translation": "she",
+        "explanation": "Refers to Clara, the subject of the sentence."
+      },
+      {
+        "word": "était",
+        "translation": "was",
+        "explanation": "Past tense of 'to be', showing being in a state."
+      },
+      {
+        "word": "en train",
+        "translation": "in the process",
+        "explanation": "Means currently doing something."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Connects the verb to the action."
+      },
+      {
+        "word": "préparer",
+        "translation": "preparing",
+        "explanation": "Means to make or put together."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "Used before a noun, definite article."
+      },
+      {
+        "word": "tout",
+        "translation": "very",
+        "explanation": "Emphasizes the totality, in this case 'first'."
+      },
+      {
+        "word": "premier",
+        "translation": "first",
+        "explanation": "The initial or number one."
+      },
+      {
+        "word": "thé",
+        "translation": "tea",
+        "explanation": "A drink made by infusing leaves in water."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "A preposition indicating direction or purpose."
+      },
+      {
+        "word": "bulles",
+        "translation": "bubbles",
+        "explanation": "Small gas-filled spheres in a liquid."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows possession or belonging in this context."
+      },
+      {
+        "word": "The Daily Grind",
+        "translation": "The Daily Grind",
+        "explanation": "The name of Clara's tea shop."
+      }
+    ],
+    [
+      {
+        "word": "Elle",
+        "translation": "She",
+        "explanation": "Refers to Clara, the subject."
+      },
+      {
+        "word": "mélangea",
+        "translation": "mixed",
+        "explanation": "Means to combine different elements."
+      },
+      {
+        "word": "secoua",
+        "translation": "shook",
+        "explanation": "To move back and forth quickly."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Connects the actions."
+      },
+      {
+        "word": "remua",
+        "translation": "stirred",
+        "explanation": "To move a substance in a circular way."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "An indefinite article before a noun."
+      },
+      {
+        "word": "tornade",
+        "translation": "tornado",
+        "explanation": "A fast and powerful swirling wind, used metaphorically here."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows relationship."
+      },
+      {
+        "word": "mouvements",
+        "translation": "movements",
+        "explanation": "Actions of changing position."
+      },
+      {
+        "word": "alors",
+        "translation": "then",
+        "explanation": "Indicates a time or following action."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "A conjunction used to connect clauses."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "Definite article before a noun."
+      },
+      {
+        "word": "saveurs",
+        "translation": "flavors",
+        "explanation": "Different tastes experienced when eating or drinking."
+      },
+      {
+        "word": "dançaient",
+        "translation": "danced",
+        "explanation": "Means to move rhythmically, used metaphorically for flavors."
+      },
+      {
+        "word": "dans",
+        "translation": "in",
+        "explanation": "Indicates location or presence."
+      },
+      {
+        "word": "son",
+        "translation": "her",
+        "explanation": "Possessive indicating something belonging to Clara."
+      },
+      {
+        "word": "esprit",
+        "translation": "mind",
+        "explanation": "Refers to Clara's thoughts or mental state."
+      }
+    ],
+    [
+      {
+        "word": "À",
+        "translation": "To",
+        "explanation": "A preposition indicating direction or goal."
+      },
+      {
+        "word": "sa",
+        "translation": "her",
+        "explanation": "Possessive, refers to Clara."
+      },
+      {
+        "word": "grande",
+        "translation": "great",
+        "explanation": "Indicates a large degree."
+      },
+      {
+        "word": "surprise",
+        "translation": "surprise",
+        "explanation": "A feeling of shock or unexpectedness."
+      },
+      {
+        "word": "quand",
+        "translation": "when",
+        "explanation": "A conjunction indicating time."
+      },
+      {
+        "word": "elle",
+        "translation": "she",
+        "explanation": "Refers to Clara."
+      },
+      {
+        "word": "servit",
+        "translation": "served",
+        "explanation": "To provide food or drink to someone."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "Definite article before a noun."
+      },
+      {
+        "word": "première",
+        "translation": "first",
+        "explanation": "The initial or number one."
+      },
+      {
+        "word": "tasse",
+        "translation": "cup",
+        "explanation": "A small container for drinking."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "Definite article."
+      },
+      {
+        "word": "pétillante",
+        "translation": "sparkling",
+        "explanation": "Means effervescent, bubbly, or lively."
+      },
+      {
+        "word": "Ella",
+        "translation": "Ella",
+        "explanation": "A name of a character."
+      },
+      {
+        "word": "s'illumina",
+        "translation": "lit up",
+        "explanation": "Means to become brighter or more expressive."
+      }
+    ],
+    [
+      {
+        "word": "Wow",
+        "translation": "Wow",
+        "explanation": "An exclamation indicating surprise or admiration."
+      },
+      {
+        "word": "Qu'est-ce",
+        "translation": "What is",
+        "explanation": "Used to ask for identification or explanation."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "Connects the clauses."
+      },
+      {
+        "word": "c'est",
+        "translation": "it is",
+        "explanation": "A phrase to identify or describe something."
+      },
+      {
+        "word": "?",
+        "translation": "/",
+        "explanation": "/"
+      },
+      {
+        "word": "demanda",
+        "translation": "asked",
+        "explanation": "To pose a question."
+      },
+      {
+        "word": "t-elle",
+        "translation": "did she",
+        "explanation": "Indicates the subject of the verb, referring to Ella."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "Definite article before a noun."
+      },
+      {
+        "word": "yeux",
+        "translation": "eyes",
+        "explanation": "Organs used for seeing."
+      },
+      {
+        "word": "écarquillés",
+        "translation": "wide",
+        "explanation": "Describes being opened widely, often with surprise."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows relationship."
+      },
+      {
+        "word": "curiosité",
+        "translation": "curiosity",
+        "explanation": "A desire to learn or know about something."
+      }
+    ],
+    [
+      {
+        "word": "C'est",
+        "translation": "It is",
+        "explanation": "This is a phrase meaning 'It is'."
+      },
+      {
+        "word": "du",
+        "translation": "some",
+        "explanation": "This is a French word meaning 'some', indicating an unspecified quantity."
+      },
+      {
+        "word": "thé",
+        "translation": "tea",
+        "explanation": "This is a drink made by infusing leaves in water."
+      },
+      {
+        "word": "à",
+        "translation": "with",
+        "explanation": "This means 'with' in this context."
+      },
+      {
+        "word": "bulles",
+        "translation": "bubbles",
+        "explanation": "This refers to the bubbles in the beverage."
+      },
+      {
+        "word": "!",
+        "translation": "",
+        "explanation": "This is an exclamation mark."
+      },
+      {
+        "word": "s'exclama",
+        "translation": "exclaimed",
+        "explanation": "This means to say something in a loud or excited manner."
+      },
+      {
+        "word": "Clara",
+        "translation": "Clara",
+        "explanation": "This is the name of a character."
+      },
+      {
+        "word": ",",
+        "translation": "",
+        "explanation": "This is a comma."
+      },
+      {
+        "word": "tendant",
+        "translation": "holding out",
+        "explanation": "This means to stretch out something to someone."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "This is a definite article meaning 'the'."
+      },
+      {
+        "word": "boisson",
+        "translation": "drink",
+        "explanation": "This refers to a liquid that can be consumed."
+      },
+      {
+        "word": "colorée",
+        "translation": "colorful",
+        "explanation": "This means having many colors."
+      },
+      {
+        "word": ".",
+        "translation": "",
+        "explanation": "This is a period."
+      }
+    ],
+    [
+      {
+        "word": "Un",
+        "translation": "One",
+        "explanation": "This means a single one."
+      },
+      {
+        "word": "à",
+        "translation": "at",
+        "explanation": "This means 'at' in this context."
+      },
+      {
+        "word": "un",
+        "translation": "one",
+        "explanation": "This is the number one."
+      },
+      {
+        "word": ",",
+        "translation": "",
+        "explanation": "This is a comma."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "This is a definite article."
+      },
+      {
+        "word": "clients",
+        "translation": "customers",
+        "explanation": "These are people who buy something."
+      },
+      {
+        "word": "goûtèrent",
+        "translation": "tasted",
+        "explanation": "This means to take a small bite or sip to try."
+      },
+      {
+        "word": "aux",
+        "translation": "to the",
+        "explanation": "This is a contraction of 'à' (to) and 'les' (the)."
+      },
+      {
+        "word": "créations",
+        "translation": "creations",
+        "explanation": "These are things made or prepared."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This means 'of', used to indicate what something belongs to."
+      },
+      {
+        "word": "Clara",
+        "translation": "Clara",
+        "explanation": "This is the name of a character."
+      },
+      {
+        "word": ",",
+        "translation": "",
+        "explanation": "This is a comma."
+      },
+      {
+        "word": "leurs",
+        "translation": "their",
+        "explanation": "This shows belonging to them."
+      },
+      {
+        "word": "froncement",
+        "translation": "frowning",
+        "explanation": "This is the action of making a sad facial expression."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This means 'of'."
+      },
+      {
+        "word": "sourcils",
+        "translation": "eyebrows",
+        "explanation": "These are the hairs above the eyes."
+      },
+      {
+        "word": "fondant",
+        "translation": "melting",
+        "explanation": "This means changing from a solid state to a liquid or less firm state."
+      },
+      {
+        "word": "en",
+        "translation": "into",
+        "explanation": "This means 'into' or 'in'."
+      },
+      {
+        "word": "larges",
+        "translation": "big",
+        "explanation": "This means large or wide."
+      },
+      {
+        "word": "sourires",
+        "translation": "smiles",
+        "explanation": "These are facial expressions that show happiness."
+      },
+      {
+        "word": ".",
+        "translation": "",
+        "explanation": "This is a period."
+      }
+    ],
+    [
+      {
+        "word": "Le",
+        "translation": "The",
+        "explanation": "This is a definite article meaning 'The'."
+      },
+      {
+        "word": "café",
+        "translation": "café",
+        "explanation": "This is a place where people go to drink coffee and eat."
+      },
+      {
+        "word": "se",
+        "translation": "itself",
+        "explanation": "This is a reflexive pronoun referring back to the subject."
+      },
+      {
+        "word": "transforma",
+        "translation": "transformed",
+        "explanation": "This means to change into something else."
+      },
+      {
+        "word": "d'un",
+        "translation": "from a",
+        "explanation": "This is a contraction of 'de' (of) and 'un' (a)."
+      },
+      {
+        "word": "bourdonnement",
+        "translation": "buzzing",
+        "explanation": "This means a continuous humming sound."
+      },
+      {
+        "word": "chaotique",
+        "translation": "chaotic",
+        "explanation": "This means very confused and disorderly."
+      },
+      {
+        "word": "alimenté",
+        "translation": "fed",
+        "explanation": "This means provided with energy or fuel."
+      },
+      {
+        "word": "par",
+        "translation": "by",
+        "explanation": "This means 'by', indicating the source of the action."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "This is a definite article."
+      },
+      {
+        "word": "caféine",
+        "translation": "caffeine",
+        "explanation": "This is a substance that makes you alert and awake."
+      },
+      {
+        "word": "au",
+        "translation": "to the",
+        "explanation": "This is a contraction of 'à' (to) and 'le' (the)."
+      },
+      {
+        "word": "doux",
+        "translation": "soft",
+        "explanation": "This means gentle or mild."
+      },
+      {
+        "word": "son",
+        "translation": "sound",
+        "explanation": "This refers to noises that can be heard."
+      },
+      {
+        "word": "du",
+        "translation": "of the",
+        "explanation": "This means 'of the'."
+      },
+      {
+        "word": "rire",
+        "translation": "laughter",
+        "explanation": "This is the act of laughing."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "This means 'and', used to connect words."
+      },
+      {
+        "word": "des",
+        "translation": "some",
+        "explanation": "This means 'some', but here it refers to an unspecified number."
+      },
+      {
+        "word": "bavardages",
+        "translation": "chatter",
+        "explanation": "This means casual talk or conversation."
+      },
+      {
+        "word": "enjoués",
+        "translation": "playful",
+        "explanation": "This means cheerful or happy."
+      },
+      {
+        "word": "alors",
+        "translation": "then",
+        "explanation": "This means 'then' indicating when something happens."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "This means 'that', used to connect clauses."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "This is a definite article."
+      },
+      {
+        "word": "gens",
+        "translation": "people",
+        "explanation": "This refers to individuals in a group."
+      },
+      {
+        "word": "se",
+        "translation": "themselves",
+        "explanation": "This is a reflexive pronoun referring back to the subject."
+      },
+      {
+        "word": "rassemblaient",
+        "translation": "gathered",
+        "explanation": "This means to come together."
+      },
+      {
+        "word": "pour",
+        "translation": "to",
+        "explanation": "This means 'to', indicating purpose."
+      },
+      {
+        "word": "essayer",
+        "translation": "try",
+        "explanation": "This means to attempt to do something."
+      },
+      {
+        "word": "ses",
+        "translation": "her",
+        "explanation": "This shows belonging, referring to Clara."
+      },
+      {
+        "word": "concoctions",
+        "translation": "concoctions",
+        "explanation": "These are mixtures or blends, often of food or drinks."
+      },
+      {
+        "word": "colorées",
+        "translation": "colorful",
+        "explanation": "This means having many colors."
+      },
+      {
+        "word": ".",
+        "translation": "",
+        "explanation": "This is a period."
+      }
+    ],
+    [
+      {
+        "word": "À",
+        "translation": "At",
+        "explanation": "This means 'At', indicating a time or place."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "This is a definite article."
+      },
+      {
+        "word": "fin",
+        "translation": "end",
+        "explanation": "This means the conclusion or final part."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This means 'of'."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "This is a definite article."
+      },
+      {
+        "word": "journée",
+        "translation": "day",
+        "explanation": "This refers to a period of 24 hours."
+      },
+      {
+        "word": ",",
+        "translation": "",
+        "explanation": "This is a comma."
+      },
+      {
+        "word": "M.",
+        "translation": "Mr.",
+        "explanation": "This is an abbreviation for Mister, a title for a man."
+      },
+      {
+        "word": "Talbot",
+        "translation": "Talbot",
+        "explanation": "This is the name of a character."
+      },
+      {
+        "word": "avait",
+        "translation": "had",
+        "explanation": "This means to possess something."
+      },
+      {
+        "word": "l'air",
+        "translation": "the appearance",
+        "explanation": "This means the way someone looks or seems."
+      },
+      {
+        "word": "abasourdi",
+        "translation": "stunned",
+        "explanation": "This means extremely shocked or surprised."
+      },
+      {
+        "word": ".",
+        "translation": "",
+        "explanation": "This is a period."
+      }
+    ],
+    [
+      {
+        "word": "Je",
+        "translation": "I",
+        "explanation": "This means the speaker, the person speaking."
+      },
+      {
+        "word": "n'arrive",
+        "translation": "can't",
+        "explanation": "This means unable to do something."
+      },
+      {
+        "word": "pas",
+        "translation": "not",
+        "explanation": "This is a negative word."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "This means 'to' in this context."
+      },
+      {
+        "word": "y",
+        "translation": "it",
+        "explanation": "This refers to the situation being talked about."
+      },
+      {
+        "word": "croire",
+        "translation": "believe",
+        "explanation": "This means to think something is true."
+      },
+      {
+        "word": "...",
+        "translation": "",
+        "explanation": "This is an ellipsis, indicating a pause."
+      },
+      {
+        "word": "C'est",
+        "translation": "It is",
+        "explanation": "This means 'It is'."
+      },
+      {
+        "word": "vraiment",
+        "translation": "really",
+        "explanation": "This means truly or seriously."
+      },
+      {
+        "word": "bon",
+        "translation": "good",
+        "explanation": "This means of high quality or pleasing."
+      },
+      {
+        "word": "!",
+        "translation": "",
+        "explanation": "This is an exclamation mark."
+      },
+      {
+        "word": "admit-il",
+        "translation": "he admitted",
+        "explanation": "This means to confess or acknowledge something."
+      },
+      {
+        "word": ",",
+        "translation": "",
+        "explanation": "This is a comma."
+      },
+      {
+        "word": "se",
+        "translation": "himself",
+        "explanation": "This is a reflexive pronoun referring back to the subject."
+      },
+      {
+        "word": "grattant",
+        "translation": "scratching",
+        "explanation": "This means to rub or touch something with fingers."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "This is a definite article."
+      },
+      {
+        "word": "tête",
+        "translation": "head",
+        "explanation": "This is the part of the body where the face is."
+      },
+      {
+        "word": "dans",
+        "translation": "in",
+        "explanation": "This means 'in', indicating location."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "This means one."
+      },
+      {
+        "word": "état",
+        "translation": "state",
+        "explanation": "This means a condition or situation."
+      },
+      {
+        "word": "d'étonnement",
+        "translation": "of astonishment",
+        "explanation": "This refers to a feeling of great surprise."
+      },
+      {
+        "word": "alors",
+        "translation": "then",
+        "explanation": "This means 'then', indicating timing."
+      },
+      {
+        "word": "que",
+        "translation": "as",
+        "explanation": "This means 'as', used to show a comparison."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "This is a definite article."
+      },
+      {
+        "word": "clients",
+        "translation": "customers",
+        "explanation": "These are people who buy something."
+      },
+      {
+        "word": "affluaient",
+        "translation": "were flocking",
+        "explanation": "This means gathering in large numbers."
+      },
+      {
+        "word": "vers",
+        "translation": "toward",
+        "explanation": "This means in the direction of."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "This is a definite article."
+      },
+      {
+        "word": "comptoir",
+        "translation": "counter",
+        "explanation": "This refers to a surface where transactions are made, like at a store."
+      },
+      {
+        "word": ".",
+        "translation": "",
+        "explanation": "This is a period."
+      }
+    ],
+    [
+      {
+        "word": "Les",
+        "translation": "The",
+        "explanation": "a definite article used to indicate something specific."
+      },
+      {
+        "word": "semaines",
+        "translation": "weeks",
+        "explanation": "a period of seven days."
+      },
+      {
+        "word": "suivantes",
+        "translation": "following",
+        "explanation": "indicating something that comes after."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "a definite article used to indicate something specific."
+      },
+      {
+        "word": "thé",
+        "translation": "tea",
+        "explanation": "a beverage made by steeping tea leaves in water."
+      },
+      {
+        "word": "à",
+        "translation": "with",
+        "explanation": "a preposition indicating the use or method."
+      },
+      {
+        "word": "bulles",
+        "translation": "bubbles",
+        "explanation": "small round pockets of air in a liquid."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "a preposition used to indicate belonging."
+      },
+      {
+        "word": "Clara",
+        "translation": "Clara",
+        "explanation": "the name of a person."
+      },
+      {
+        "word": "de vint",
+        "translation": "became",
+        "explanation": "past tense of 'become', indicating a change."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "an indefinite article used to refer to something for the first time."
+      },
+      {
+        "word": "sensation",
+        "translation": "sensation",
+        "explanation": "a widely popular feeling or experience."
+      },
+      {
+        "word": "à",
+        "translation": "in",
+        "explanation": "a preposition indicating a place."
+      },
+      {
+        "word": "Maplewood",
+        "translation": "Maplewood",
+        "explanation": "the name of a place."
+      }
+    ],
+    [
+      {
+        "word": "La",
+        "translation": "The",
+        "explanation": "a definite article used to indicate something specific."
+      },
+      {
+        "word": "nouvelle",
+        "translation": "news",
+        "explanation": "information about recent events."
+      },
+      {
+        "word": "se",
+        "translation": "itself",
+        "explanation": "a reflexive pronoun indicating action on itself."
+      },
+      {
+        "word": "répandit",
+        "translation": "spread",
+        "explanation": "past tense of 'spread', indicating the act of sharing information."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "a conjunction used to connect words or phrases."
+      },
+      {
+        "word": "bientôt",
+        "translation": "soon",
+        "explanation": "in a short time."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "a definite article used to indicate something specific."
+      },
+      {
+        "word": "café",
+        "translation": "café",
+        "explanation": "a small restaurant where drinks and light meals are served."
+      },
+      {
+        "word": "introduisit",
+        "translation": "introduced",
+        "explanation": "past tense of 'introduce', meaning to bring something new."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "an indefinite article used to refer to something for the first time."
+      },
+      {
+        "word": "menu",
+        "translation": "menu",
+        "explanation": "a list of food and drink items available."
+      },
+      {
+        "word": "spécial",
+        "translation": "special",
+        "explanation": "not ordinary, unique, or different from the usual."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "a preposition used to indicate belonging."
+      },
+      {
+        "word": "thé",
+        "translation": "tea",
+        "explanation": "a beverage made by steeping tea leaves in water."
+      },
+      {
+        "word": "à",
+        "translation": "with",
+        "explanation": "a preposition indicating use."
+      },
+      {
+        "word": "bulles",
+        "translation": "bubbles",
+        "explanation": "small round pockets of air in a liquid."
+      },
+      {
+        "word": "en",
+        "translation": "in",
+        "explanation": "a preposition indicating a place."
+      },
+      {
+        "word": "plus",
+        "translation": "addition",
+        "explanation": "used for indicating more or an increase."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "a preposition used to indicate belonging."
+      },
+      {
+        "word": "ses",
+        "translation": "its",
+        "explanation": "a possessive adjective indicating belonging to it."
+      },
+      {
+        "word": "offres",
+        "translation": "offers",
+        "explanation": "things provided or made available."
+      },
+      {
+        "word": "habituel",
+        "translation": "usual",
+        "explanation": "something that is done regularly or commonly."
+      },
+      {
+        "word": "es",
+        "translation": "there",
+        "explanation": "not applicable in this context."
+      }
+    ],
+    [
+      {
+        "word": "La",
+        "translation": "The",
+        "explanation": "a definite article used to indicate something specific."
+      },
+      {
+        "word": "créativité",
+        "translation": "creativity",
+        "explanation": "the ability to create or invent."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "a conjunction used to connect words or phrases."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "a definite article used to indicate something specific."
+      },
+      {
+        "word": "passion",
+        "translation": "passion",
+        "explanation": "strong enthusiasm or love for something."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "a preposition used to indicate belonging."
+      },
+      {
+        "word": "Clara",
+        "translation": "Clara",
+        "explanation": "the name of a person."
+      },
+      {
+        "word": "transformèrent",
+        "translation": "transformed",
+        "explanation": "past tense of 'transform', meaning to change completely."
+      },
+      {
+        "word": "sa",
+        "translation": "her",
+        "explanation": "a possessive adjective indicating belonging to Clara."
+      },
+      {
+        "word": "réputation",
+        "translation": "reputation",
+        "explanation": "the beliefs or opinions that are generally held about someone."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "a definite article used to indicate something specific."
+      },
+      {
+        "word": "transformant",
+        "translation": "turning",
+        "explanation": "present participle of 'transform', indicating a change happening."
+      },
+      {
+        "word": "en",
+        "translation": "into",
+        "explanation": "a preposition indicating transformation."
+      },
+      {
+        "word": "étoile",
+        "translation": "star",
+        "explanation": "a prominent or celebrated person."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "a preposition used to indicate belonging."
+      },
+      {
+        "word": "The",
+        "translation": "The",
+        "explanation": "a definite article used to indicate something specific."
+      },
+      {
+        "word": "Daily",
+        "translation": "Daily",
+        "explanation": "belonging to or occurring every day."
+      },
+      {
+        "word": "Grind",
+        "translation": "Grind",
+        "explanation": "the name of a café."
+      }
+    ],
+    [
+      {
+        "word": "Cependant",
+        "translation": "However",
+        "explanation": "used to introduce a contrast."
+      },
+      {
+        "word": "Clara",
+        "translation": "Clara",
+        "explanation": "the name of a person."
+      },
+      {
+        "word": "savait",
+        "translation": "knew",
+        "explanation": "past tense of 'know', meaning to be aware of."
+      },
+      {
+        "word": "en",
+        "translation": "in",
+        "explanation": "a preposition indicating location."
+      },
+      {
+        "word": "son",
+        "translation": "her",
+        "explanation": "a possessive adjective indicating belonging to Clara."
+      },
+      {
+        "word": "for",
+        "translation": "heart",
+        "explanation": "in this context, 'for' means deep inside."
+      },
+      {
+        "word": "intérieur",
+        "translation": "interior",
+        "explanation": "inside or inner part."
+      },
+      {
+        "word": "qu'elle",
+        "translation": "that she",
+        "explanation": "a combination of 'that' and 'she', referring to Clara."
+      },
+      {
+        "word": "voulait",
+        "translation": "wanted",
+        "explanation": "past tense of 'want', indicating desire."
+      },
+      {
+        "word": "déployer",
+        "translation": "to spread",
+        "explanation": "to open out or extend."
+      },
+      {
+        "word": "ses",
+        "translation": "her",
+        "explanation": "a possessive adjective indicating belonging to Clara."
+      },
+      {
+        "word": "ailes",
+        "translation": "wings",
+        "explanation": "the parts of a bird that help it to fly."
+      },
+      {
+        "word": "encore",
+        "translation": "even",
+        "explanation": "indicating additional or more."
+      },
+      {
+        "word": "plus",
+        "translation": "farther",
+        "explanation": "indicating a greater distance."
+      },
+      {
+        "word": "loin",
+        "translation": "away",
+        "explanation": "at a distance, not near."
+      }
+    ],
+    [
+      {
+        "word": "Avec",
+        "translation": "With",
+        "explanation": "a preposition meaning together with."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "an indefinite article referring to one."
+      },
+      {
+        "word": "cœur",
+        "translation": "heart",
+        "explanation": "the organ that pumps blood or a metaphor for emotions."
+      },
+      {
+        "word": "plein",
+        "translation": "full",
+        "explanation": "containing as much as possible."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "a preposition used to indicate belonging."
+      },
+      {
+        "word": "courage",
+        "translation": "courage",
+        "explanation": "the ability to do something that frightens one."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "a conjunction used to connect words or phrases."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "a definite article used to indicate something specific."
+      },
+      {
+        "word": "soutien",
+        "translation": "support",
+        "explanation": "help or assistance from others."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "a preposition used to indicate belonging."
+      },
+      {
+        "word": "ses",
+        "translation": "her",
+        "explanation": "a possessive adjective indicating belonging to Clara."
+      },
+      {
+        "word": "amis",
+        "translation": "friends",
+        "explanation": "people with whom one has a bond of affection."
+      },
+      {
+        "word": "elle",
+        "translation": "she",
+        "explanation": "a pronoun referring to Clara."
+      },
+      {
+        "word": "décida",
+        "translation": "decided",
+        "explanation": "past tense of 'decide', meaning to make a choice."
+      },
+      {
+        "word": "d'ouvrir",
+        "translation": "to open",
+        "explanation": "to start something new."
+      },
+      {
+        "word": "son",
+        "translation": "her",
+        "explanation": "a possessive adjective indicating belonging to Clara."
+      },
+      {
+        "word": "propre",
+        "translation": "own",
+        "explanation": "belonging to oneself."
+      },
+      {
+        "word": "magasin",
+        "translation": "shop",
+        "explanation": "a place where items are sold."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "a preposition used to indicate belonging."
+      },
+      {
+        "word": "thé",
+        "translation": "tea",
+        "explanation": "a beverage made by steeping tea leaves in water."
+      },
+      {
+        "word": "à",
+        "translation": "with",
+        "explanation": "a preposition indicating use."
+      },
+      {
+        "word": "bulles",
+        "translation": "bubbles",
+        "explanation": "small round pockets of air in a liquid."
+      },
+      {
+        "word": "Perles",
+        "translation": "Pearls",
+        "explanation": "a precious stone produced by oysters and other mollusks."
+      },
+      {
+        "word": "&",
+        "translation": "and",
+        "explanation": "a conjunction used to connect words or phrases."
+      },
+      {
+        "word": "Rêves",
+        "translation": "Dreams",
+        "explanation": "thoughts, images, or emotions occurring during sleep."
+      }
+    ],
+    [
+      {
+        "word": "L'inauguration",
+        "translation": "The inauguration",
+        "explanation": "The event where something is opened."
+      },
+      {
+        "word": "était",
+        "translation": "was",
+        "explanation": "A form of the verb 'to be', describing the situation."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "An article that indicates a singular item."
+      },
+      {
+        "word": "affaire",
+        "translation": "affair",
+        "explanation": "A situation or event, in this case a lively one."
+      },
+      {
+        "word": "vivante",
+        "translation": "lively",
+        "explanation": "Describes the event as full of life or energy."
+      },
+      {
+        "word": "avec",
+        "translation": "with",
+        "explanation": "Indicates being together or accompanied by."
+      },
+      {
+        "word": "ses",
+        "translation": "her",
+        "explanation": "A possessive pronoun indicating ownership."
+      },
+      {
+        "word": "amis",
+        "translation": "friends",
+        "explanation": "People Clara knows and has a good relationship with."
+      },
+      {
+        "word": "sa",
+        "translation": "her",
+        "explanation": "Another possessive pronoun for ownership."
+      },
+      {
+        "word": "famille",
+        "translation": "family",
+        "explanation": "People related to her by blood or marriage."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "A conjunction used to connect words."
+      },
+      {
+        "word": "des",
+        "translation": "some",
+        "explanation": "An indeterminate quantity of something."
+      },
+      {
+        "word": "clients",
+        "translation": "customers",
+        "explanation": "People who buy goods or services."
+      },
+      {
+        "word": "soutenants",
+        "translation": "supporters",
+        "explanation": "People who show their approval or backing."
+      },
+      {
+        "word": "qui",
+        "translation": "who",
+        "explanation": "A pronoun used to refer to people."
+      },
+      {
+        "word": "faisaient",
+        "translation": "were doing",
+        "explanation": "A form of 'to do', indicating an ongoing action."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article used for singular nouns."
+      },
+      {
+        "word": "queue",
+        "translation": "line",
+        "explanation": "People standing one after another waiting."
+      },
+      {
+        "word": "tout",
+        "translation": "all",
+        "explanation": "Indicating everything in a total."
+      },
+      {
+        "word": "autour",
+        "translation": "around",
+        "explanation": "In the area surrounding something."
+      },
+      {
+        "word": "du",
+        "translation": "of the",
+        "explanation": "A contraction of 'de le', indicating possession or connection."
+      },
+      {
+        "word": "bloc",
+        "translation": "block",
+        "explanation": "A section of the street."
+      },
+      {
+        "word": "tous",
+        "translation": "all",
+        "explanation": "Indicating each and every one."
+      },
+      {
+        "word": "impatients",
+        "translation": "eager",
+        "explanation": "Describing how people were feeling, excited to do something."
+      },
+      {
+        "word": "d'essayer",
+        "translation": "to try",
+        "explanation": "The action of attempting something."
+      },
+      {
+        "word": "ses",
+        "translation": "her",
+        "explanation": "Referring to Clara's flavors."
+      },
+      {
+        "word": "dernières",
+        "translation": "latest",
+        "explanation": "The most recent or up-to-date."
+      },
+      {
+        "word": "saveurs",
+        "translation": "flavors",
+        "explanation": "Different tastes of food or drinks."
+      }
+    ],
+    [
+      {
+        "word": "Même",
+        "translation": "Even",
+        "explanation": "Indicates something surprising or unexpected."
+      },
+      {
+        "word": "M.",
+        "translation": "Mr.",
+        "explanation": "A title used before a man's last name."
+      },
+      {
+        "word": "Talbot",
+        "translation": "Talbot",
+        "explanation": "A person's name."
+      },
+      {
+        "word": "arriva",
+        "translation": "arrived",
+        "explanation": "The past tense of 'to arrive', meaning to get to a place."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "An article indicating a singular item."
+      },
+      {
+        "word": "sourire",
+        "translation": "smile",
+        "explanation": "A facial expression showing happiness."
+      },
+      {
+        "word": "fantaisiste",
+        "translation": "whimsical",
+        "explanation": "Describes a smile that is playful or fancy."
+      },
+      {
+        "word": "figé",
+        "translation": "frozen",
+        "explanation": "Unexpectedly stiff or unchanging."
+      },
+      {
+        "word": "sur",
+        "translation": "on",
+        "explanation": "Preposition indicating position."
+      },
+      {
+        "word": "son",
+        "translation": "his",
+        "explanation": "A possessive pronoun indicating ownership."
+      },
+      {
+        "word": "visage",
+        "translation": "face",
+        "explanation": "The front part of the head."
+      }
+    ],
+    [
+      {
+        "word": "Wow",
+        "translation": "Wow",
+        "explanation": "An exclamation of surprise."
+      },
+      {
+        "word": "Clara",
+        "translation": "Clara",
+        "explanation": "The name of the main character."
+      },
+      {
+        "word": "tu",
+        "translation": "you",
+        "explanation": "A pronoun referring to Clara."
+      },
+      {
+        "word": "l'as",
+        "translation": "have",
+        "explanation": "A form of 'to have' used here for emphasis."
+      },
+      {
+        "word": "vraiment",
+        "translation": "really",
+        "explanation": "Indicates true or genuine."
+      },
+      {
+        "word": "fait",
+        "translation": "done",
+        "explanation": "Past participle of 'to do', meaning to create or accomplish something."
+      },
+      {
+        "word": "!",
+        "translation": "!",
+        "explanation": "Exclamation mark indicating excitement."
+      }
+    ],
+    [
+      {
+        "word": "dit-il",
+        "translation": "he said",
+        "explanation": "Past tense of saying something."
+      },
+      {
+        "word": "étonnamment",
+        "translation": "surprisingly",
+        "explanation": "In a manner that is unexpected."
+      },
+      {
+        "word": "sincère",
+        "translation": "sincere",
+        "explanation": "Honest and genuine."
+      },
+      {
+        "word": "cette",
+        "translation": "this",
+        "explanation": "A demonstrative pronoun indicating something close."
+      },
+      {
+        "word": "fois",
+        "translation": "time",
+        "explanation": "An instance or occurrence."
+      }
+    ],
+    [
+      {
+        "word": "Je",
+        "translation": "I",
+        "explanation": "A pronoun for the speaker."
+      },
+      {
+        "word": "viendrai",
+        "translation": "will come",
+        "explanation": "Future form of 'to come', indicating intention."
+      },
+      {
+        "word": "ici",
+        "translation": "here",
+        "explanation": "Indicating the location of the speaker."
+      },
+      {
+        "word": "chaque",
+        "translation": "every",
+        "explanation": "Indicating each individual in a group."
+      },
+      {
+        "word": "semaine",
+        "translation": "week",
+        "explanation": "A unit of time consisting of seven days."
+      },
+      {
+        "word": "pour",
+        "translation": "for",
+        "explanation": "A preposition indicating purpose."
+      },
+      {
+        "word": "ma",
+        "translation": "my",
+        "explanation": "A possessive pronoun showing ownership."
+      },
+      {
+        "word": "dose",
+        "translation": "dose",
+        "explanation": "An amount of something, often used for a measure."
+      },
+      {
+        "word": "!",
+        "translation": "!",
+        "explanation": "Exclamation mark indicating strong feeling."
+      }
+    ],
+    [
+      {
+        "word": "Clara",
+        "translation": "Clara",
+        "explanation": "The main character's name."
+      },
+      {
+        "word": "sut",
+        "translation": "knew",
+        "explanation": "Past tense of knowing, indicating understanding."
+      },
+      {
+        "word": "alors",
+        "translation": "then",
+        "explanation": "Indicating a point in time or consequence."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "Used to introduce a clause."
+      },
+      {
+        "word": "son",
+        "translation": "her",
+        "explanation": "A possessive pronoun for ownership."
+      },
+      {
+        "word": "voyage",
+        "translation": "journey",
+        "explanation": "The experience or process of traveling."
+      },
+      {
+        "word": "ne",
+        "translation": "not",
+        "explanation": "A word used to negate a verb."
+      },
+      {
+        "word": "faisait",
+        "translation": "was doing",
+        "explanation": "Past tense of doing something."
+      },
+      {
+        "word": "que",
+        "translation": "only",
+        "explanation": "This time meaning 'just' or 'merely'."
+      },
+      {
+        "word": "commencer",
+        "translation": "begin",
+        "explanation": "To start something."
+      }
+    ],
+    [
+      {
+        "word": "Avec",
+        "translation": "With",
+        "explanation": "Shows that something is done together with something else."
+      },
+      {
+        "word": "chaque",
+        "translation": "each",
+        "explanation": "Refers to every individual item in a group."
+      },
+      {
+        "word": "tasse",
+        "translation": "cup",
+        "explanation": "A small container used to drink beverages."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows belonging or relationship."
+      },
+      {
+        "word": "thé",
+        "translation": "tea",
+        "explanation": "A drink made by soaking dried leaves in hot water."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "Indicates the purpose or direction."
+      },
+      {
+        "word": "bulles",
+        "translation": "bubbles",
+        "explanation": "Small round air pockets in a liquid."
+      },
+      {
+        "word": "qu'elle",
+        "translation": "that she",
+        "explanation": "Refers to a female person already mentioned."
+      },
+      {
+        "word": "servait",
+        "translation": "served",
+        "explanation": "What she did when she gave tea to others."
+      },
+      {
+        "word": "elle",
+        "translation": "she",
+        "explanation": "Refers to a female person."
+      },
+      {
+        "word": "versait",
+        "translation": "poured",
+        "explanation": "What she did when she transferred liquid from one container to another."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows belonging or relationship."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definitive article used to specify."
+      },
+      {
+        "word": "joie",
+        "translation": "joy",
+        "explanation": "A feeling of great happiness."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows belonging or relationship."
+      },
+      {
+        "word": "l'amour",
+        "translation": "love",
+        "explanation": "A strong feeling of deep affection."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Used to connect two ideas."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "An indefinite article used to refer to one item."
+      },
+      {
+        "word": "gorgée",
+        "translation": "sip",
+        "explanation": "A small mouthful of liquid."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows belonging or relationship."
+      },
+      {
+        "word": "ses",
+        "translation": "her",
+        "explanation": "Refers to something belonging to the female person."
+      },
+      {
+        "word": "rêves",
+        "translation": "dreams",
+        "explanation": "Thoughts or images occurring during sleep or hopes for the future."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "A definite article used to specify."
+      },
+      {
+        "word": "plus",
+        "translation": "most",
+        "explanation": "Refers to the highest degree."
+      },
+      {
+        "word": "fous",
+        "translation": "wild",
+        "explanation": "Very unusual or crazy."
+      },
+      {
+        "word": "dans",
+        "translation": "in",
+        "explanation": "Indicates location within something."
+      },
+      {
+        "word": "chaque",
+        "translation": "each",
+        "explanation": "Refers to every individual item in a group."
+      },
+      {
+        "word": "tasse",
+        "translation": "cup",
+        "explanation": "A small container used to drink beverages."
+      },
+      {
+        "word": "colorée",
+        "translation": "colorful",
+        "explanation": "Something that has many colors."
+      },
+      {
+        "word": "partageant",
+        "translation": "sharing",
+        "explanation": "What she did when she gave part of something to others."
+      },
+      {
+        "word": "sa",
+        "translation": "her",
+        "explanation": "Refers to something belonging to the female person."
+      },
+      {
+        "word": "passion",
+        "translation": "passion",
+        "explanation": "A strong feeling or enthusiasm for something."
+      },
+      {
+        "word": "avec",
+        "translation": "with",
+        "explanation": "Shows that something is done together with something else."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A definite article used to specify."
+      },
+      {
+        "word": "monde",
+        "translation": "world",
+        "explanation": "The earth and all the people and things on it."
+      }
+    ],
+    [
+      {
+        "word": "Avec",
+        "translation": "With",
+        "explanation": "Shows that something is done together with something else."
+      },
+      {
+        "word": "chaque",
+        "translation": "each",
+        "explanation": "Refers to every individual item in a group."
+      },
+      {
+        "word": "tasse",
+        "translation": "cup",
+        "explanation": "A small container used to drink beverages."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows belonging or relationship."
+      },
+      {
+        "word": "thé",
+        "translation": "tea",
+        "explanation": "A drink made by soaking dried leaves in hot water."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "Indicates the purpose or direction."
+      },
+      {
+        "word": "bulles",
+        "translation": "bubbles",
+        "explanation": "Small round air pockets in a liquid."
+      },
+      {
+        "word": "qu'elle",
+        "translation": "that she",
+        "explanation": "Refers to a female person already mentioned."
+      },
+      {
+        "word": "servait",
+        "translation": "served",
+        "explanation": "What she did when she gave tea to others."
+      },
+      {
+        "word": "elle",
+        "translation": "she",
+        "explanation": "Refers to a female person."
+      },
+      {
+        "word": "versait",
+        "translation": "poured",
+        "explanation": "What she did when she transferred liquid from one container to another."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows belonging or relationship."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definitive article used to specify."
+      },
+      {
+        "word": "joie",
+        "translation": "joy",
+        "explanation": "A feeling of great happiness."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows belonging or relationship."
+      },
+      {
+        "word": "l'amour",
+        "translation": "love",
+        "explanation": "A strong feeling of deep affection."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Used to connect two ideas."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "An indefinite article used to refer to one item."
+      },
+      {
+        "word": "gorgée",
+        "translation": "sip",
+        "explanation": "A small mouthful of liquid."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows belonging or relationship."
+      },
+      {
+        "word": "ses",
+        "translation": "her",
+        "explanation": "Refers to something belonging to the female person."
+      },
+      {
+        "word": "rêves",
+        "translation": "dreams",
+        "explanation": "Thoughts or images occurring during sleep or hopes for the future."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "A definite article used to specify."
+      },
+      {
+        "word": "plus",
+        "translation": "most",
+        "explanation": "Refers to the highest degree."
+      },
+      {
+        "word": "fous",
+        "translation": "wild",
+        "explanation": "Very unusual or crazy."
+      },
+      {
+        "word": "dans",
+        "translation": "in",
+        "explanation": "Indicates location within something."
+      },
+      {
+        "word": "chaque",
+        "translation": "each",
+        "explanation": "Refers to every individual item in a group."
+      },
+      {
+        "word": "tasse",
+        "translation": "cup",
+        "explanation": "A small container used to drink beverages."
+      },
+      {
+        "word": "colorée",
+        "translation": "colorful",
+        "explanation": "Something that has many colors."
+      },
+      {
+        "word": "partageant",
+        "translation": "sharing",
+        "explanation": "What she did when she gave part of something to others."
+      },
+      {
+        "word": "sa",
+        "translation": "her",
+        "explanation": "Refers to something belonging to the female person."
+      },
+      {
+        "word": "passion",
+        "translation": "passion",
+        "explanation": "A strong feeling or enthusiasm for something."
+      },
+      {
+        "word": "avec",
+        "translation": "with",
+        "explanation": "Shows that something is done together with something else."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A definite article used to specify."
+      },
+      {
+        "word": "monde",
+        "translation": "world",
+        "explanation": "The earth and all the people and things on it."
+      }
+    ]
+  ]
+}

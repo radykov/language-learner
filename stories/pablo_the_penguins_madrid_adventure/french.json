@@ -1,0 +1,2894 @@
+{
+  "story": "Il était une fois, lors d'une chaude journée d'été à Madrid, un petit pingouin nommé Pablo qui se sentait terriblement hors de son élément. S'étant aventuré loin de son foyer glacé en Antarctique, il se retrouvait au cœur de l'Espagne où le soleil brillait implacablement au-dessus de lui. À chaque pas bancal sur le trottoir brûlant, les nageoires de Pablo devenaient moites, et ses plumes s'accrochaient douloureusement à sa peau. Espérant se rafraîchir, Pablo se dirigea vers le bar le plus proche, un endroit animé rempli du bavardage des habitants et du tintement des verres. En se glissant à travers la porte, le barman, clairement surpris, cligna des yeux en voyant un pingouin. \"Que puis-je vous servir ?\" Pablo gloussa, \"De la glace ! S'il vous plaît, j'ai besoin de glace !\" Le barman rigola, \"Nous avons plein de boissons, amigo, mais la glace n'est pas faite pour les pingouins !\" Déçu, Pablo quitta le bar et retourna à la chaleur de la journée. Ensuite, il se dirigea vers un gigantesque centre commercial, où il avait aperçu des brises climatisées flottant à travers l'entrée. Il y entra, émerveillé par les magasins brillants et les escaliers roulants sans fin. Cependant, en se faufilant dans la foule, les acheteurs regardaient, pointaient et prenaient des selfies avec la vue étrange d'un oiseau en smoking. Cela devint trop pour Pablo. Il se sentait comme un spectacle plutôt que comme un invité. Ignorant la chaleur, il marcha à nouveau à l'extérieur. Ne trouvant aucun soulagement, il erra dans les rues de Madrid, se sentant de plus en plus désespéré dans sa recherche d'un refuge frais. Juste au moment où il était sur le point de désespérer, il se rappela du zoo local, pas très loin du centre animé de la ville. \"Peut-être que je peux y trouver des amis !\" pensa-t-il, une lueur d'excitation s'allumant dans son cœur. En se dirigeant vers le zoo, il fut accueilli par les cris enthousiastes des enfants et le battement des oiseaux exotiques au-dessus de lui. En entrant par les portes, une bouffée d'air conditionné le remplit de joie. Pablo traversa les familles excitées, glissant avec joie vers l'exposition des pingouins. Quand il l'atteignit enfin, il fut accueilli par un sentiment de bonheur écrasant. À sa grande joie, il vit ses semblables, glissant sur leur ventre sur les surfaces fraîches et humides et éclaboussant dans l'eau glacée. Ils l'accueillirent avec des pépiements joyeux et de sauts heureux, ravis de voir leur ami. \"Pablo !\" s'écria Linda, sa meilleure amie. \"Nous pensions que tu étais perdu ! Viens te joindre à nous !\" Sans hésiter, Pablo sauta dans la piscine avec ses amis, l'eau fraîche l'enveloppant comme une étreinte réconfortante, lavant la chaleur qui l'avait tourmenté toute la journée. À chaque éclaboussure, des rires résonnaient autour de l'exposition alors qu'ils nageaient et jouaient ensemble, partageant des histoires de leurs périples. Ce jour-là, Pablo apprit que, même si le soleil pouvait être brûlant et la ville animée, les joies de l'amitié et la fraîcheur de la compagnie étaient le remède parfait pour un pingouin se sentant perdu dans un monde trop chaud. Alors que le soleil commençait à se coucher, peignant le ciel en nuances d'orange et de rose, Pablo savait qu'il avait trouvé sa maison – ici même, au milieu de ses amis, au zoo de Madrid.",
+  "title": "L'Aventure de Pablo le Pingouin à Madrid",
+  "sentences": [
+    {
+      "original": "Il était une fois, lors d'une chaude journée d'été à Madrid, un petit pingouin nommé Pablo qui se sentait terriblement hors de son élément.",
+      "translation": "Once upon a time, on a hot summer day in Madrid, there was a little penguin named Pablo who felt terribly out of place."
+    },
+    {
+      "original": "S'étant aventuré loin de son foyer glacé en Antarctique, il se retrouvait au cœur de l'Espagne où le soleil brillait implacablement au-dessus de lui.",
+      "translation": "Having ventured far from his icy home in Antarctica, he found himself in the heart of Spain where the sun shone relentlessly above him."
+    },
+    {
+      "original": "À chaque pas bancal sur le trottoir brûlant, les nageoires de Pablo devenaient moites, et ses plumes s'accrochaient douloureusement à sa peau.",
+      "translation": "With each clumsy step on the burning sidewalk, Pablo's flippers became damp, and his feathers painfully stuck to his skin."
+    },
+    {
+      "original": "Espérant se rafraîchir, Pablo se dirigea vers le bar le plus proche, un endroit animé rempli du bavardage des habitants et du tintement des verres.",
+      "translation": "Hoping to cool off, Pablo headed to the nearest bar, a lively place filled with the chatter of locals and the clinking of glasses."
+    },
+    {
+      "original": "En se glissant à travers la porte, le barman, clairement surpris, cligna des yeux en voyant un pingouin.",
+      "translation": "As he slipped through the door, the bartender, clearly surprised, blinked at the sight of a penguin."
+    },
+    {
+      "original": "\"Que puis-je vous servir ?\"",
+      "translation": "\"What can I get you?\""
+    },
+    {
+      "original": "Pablo gloussa, \"De la glace ! S'il vous plaît, j'ai besoin de glace !\"",
+      "translation": "Pablo chirped, \"Ice! Please, I need ice!\""
+    },
+    {
+      "original": "Le barman rigola, \"Nous avons plein de boissons, amigo, mais la glace n'est pas faite pour les pingouins !\"",
+      "translation": "The bartender laughed, \"We have plenty of drinks, amigo, but ice is not meant for penguins!\""
+    },
+    {
+      "original": "Déçu, Pablo quitta le bar et retourna à la chaleur de la journée.",
+      "translation": "Disappointed, Pablo left the bar and returned to the heat of the day."
+    },
+    {
+      "original": "Ensuite, il se dirigea vers un gigantesque centre commercial, où il avait aperçu des brises climatisées flottant à travers l'entrée.",
+      "translation": "Then, he headed towards a gigantic mall, where he had spotted cool breezes floating through the entrance."
+    },
+    {
+      "original": "Il y entra, émerveillé par les magasins brillants et les escaliers roulants sans fin.",
+      "translation": "He entered, awestruck by the shiny stores and endless escalators."
+    },
+    {
+      "original": "Cependant, en se faufilant dans la foule, les acheteurs regardaient, pointaient et prenaient des selfies avec la vue étrange d'un oiseau en smoking.",
+      "translation": "However, as he weaved through the crowd, shoppers looked, pointed, and took selfies with the strange sight of a penguin in a tuxedo."
+    },
+    {
+      "original": "Cela devint trop pour Pablo.",
+      "translation": "It became too much for Pablo."
+    },
+    {
+      "original": "Il se sentait comme un spectacle plutôt que comme un invité.",
+      "translation": "He felt like a spectacle rather than a guest."
+    },
+    {
+      "original": "Ignorant la chaleur, il marcha à nouveau à l'extérieur.",
+      "translation": "Ignoring the heat, he walked back outside."
+    },
+    {
+      "original": "Ne trouvant aucun soulagement, il erra dans les rues de Madrid, se sentant de plus en plus désespéré dans sa recherche d'un refuge frais.",
+      "translation": "Finding no relief, he wandered the streets of Madrid, feeling increasingly desperate in his search for a cool refuge."
+    },
+    {
+      "original": "Juste au moment où il était sur le point de désespérer, il se rappela du zoo local, pas très loin du centre animé de la ville.",
+      "translation": "Just when he was about to despair, he remembered the local zoo, not far from the bustling city center."
+    },
+    {
+      "original": "\"Peut-être que je peux y trouver des amis !\" pensa-t-il, une lueur d'excitation s'allumant dans son cœur.",
+      "translation": "\"Maybe I can find friends there!\" he thought, a spark of excitement lighting up in his heart."
+    },
+    {
+      "original": "En se dirigeant vers le zoo, il fut accueilli par les cris enthousiastes des enfants et le battement des oiseaux exotiques au-dessus de lui.",
+      "translation": "As he made his way to the zoo, he was welcomed by the enthusiastic cries of children and the flapping of exotic birds overhead."
+    },
+    {
+      "original": "En entrant par les portes, une bouffée d'air conditionné le remplit de joie.",
+      "translation": "Upon entering through the gates, a rush of air conditioning filled him with joy."
+    },
+    {
+      "original": "Pablo traversa les familles excitées, glissant avec joie vers l'exposition des pingouins.",
+      "translation": "Pablo passed through excited families, joyfully sliding towards the penguin exhibit."
+    },
+    {
+      "original": "Quand il l'atteignit enfin, il fut accueilli par un sentiment de bonheur écrasant.",
+      "translation": "When he finally reached it, he was greeted by an overwhelming feeling of happiness."
+    },
+    {
+      "original": "À sa grande joie, il vit ses semblables, glissant sur leur ventre sur les surfaces fraîches et humides et éclaboussant dans l'eau glacée.",
+      "translation": "To his great joy, he saw his kind, sliding on their bellies on the cool, damp surfaces and splashing in the icy water."
+    },
+    {
+      "original": "Ils l'accueillirent avec des pépiements joyeux et de sauts heureux, ravis de voir leur ami.",
+      "translation": "They welcomed him with joyful chirps and happy hops, delighted to see their friend."
+    },
+    {
+      "original": "\"Pablo !\" s'écria Linda, sa meilleure amie. \"Nous pensions que tu étais perdu ! Viens te joindre à nous !\"",
+      "translation": "\"Pablo!\" cried Linda, his best friend. \"We thought you were lost! Come join us!\""
+    },
+    {
+      "original": "Sans hésiter, Pablo sauta dans la piscine avec ses amis, l'eau fraîche l'enveloppant comme une étreinte réconfortante, lavant la chaleur qui l'avait tourmenté toute la journée.",
+      "translation": "Without hesitation, Pablo jumped into the pool with his friends, the cool water enveloping him like a comforting hug, washing away the heat that had tormented him all day."
+    },
+    {
+      "original": "À chaque éclaboussure, des rires résonnaient autour de l'exposition alors qu'ils nageaient et jouaient ensemble, partageant des histoires de leurs périples.",
+      "translation": "With every splash, laughter echoed around the exhibit as they swam and played together, sharing stories of their adventures."
+    },
+    {
+      "original": "Ce jour-là, Pablo apprit que, même si le soleil pouvait être brûlant et la ville animée, les joies de l'amitié et la fraîcheur de la compagnie étaient le remède parfait pour un pingouin se sentant perdu dans un monde trop chaud.",
+      "translation": "That day, Pablo learned that even though the sun could be blazing and the city bustling, the joys of friendship and the coolness of company were the perfect remedy for a penguin feeling lost in a world that was too hot."
+    },
+    {
+      "original": "Alors que le soleil commençait à se coucher, peignant le ciel en nuances d'orange et de rose, Pablo savait qu'il avait trouvé sa maison – ici même, au milieu de ses amis, au zoo de Madrid.",
+      "translation": "As the sun began to set, painting the sky in shades of orange and pink, Pablo knew he had found his home – right here, among his friends, at the Madrid zoo."
+    }
+  ],
+  "words": [
+    [
+      {
+        "word": "Il",
+        "translation": "He",
+        "explanation": "'Il' means 'he', referring to a male character."
+      },
+      {
+        "word": "était",
+        "translation": "was",
+        "explanation": "'était' means 'was', which is the past form of 'to be'."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "'une' means 'a', used for feminine nouns."
+      },
+      {
+        "word": "fois",
+        "translation": "time",
+        "explanation": "'fois' means 'time' in the sense of a story context."
+      },
+      {
+        "word": "lors",
+        "translation": "when",
+        "explanation": "'lors' means 'when', indicating a time."
+      },
+      {
+        "word": "d'une",
+        "translation": "of a",
+        "explanation": "'d'une' means 'of a', part of a phrase."
+      },
+      {
+        "word": "chaude",
+        "translation": "hot",
+        "explanation": "'chaude' means 'hot', describing the temperature."
+      },
+      {
+        "word": "journée",
+        "translation": "day",
+        "explanation": "'journée' means 'day', referring to the whole day."
+      },
+      {
+        "word": "d'été",
+        "translation": "of summer",
+        "explanation": "'d'été' means 'of summer', indicating the season."
+      },
+      {
+        "word": "à",
+        "translation": "in",
+        "explanation": "'à' means 'in', indicating a location."
+      },
+      {
+        "word": "Madrid",
+        "translation": "Madrid",
+        "explanation": "'Madrid' is the capital city of Spain."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "'un' means 'a', used for masculine nouns."
+      },
+      {
+        "word": "petit",
+        "translation": "small",
+        "explanation": "'petit' means 'small', describing size."
+      },
+      {
+        "word": "pingouin",
+        "translation": "penguin",
+        "explanation": "'pingouin' means 'penguin', referring to the animal."
+      },
+      {
+        "word": "nommé",
+        "translation": "named",
+        "explanation": "'nommé' means 'named', indicating what someone or something is called."
+      },
+      {
+        "word": "Pablo",
+        "translation": "Pablo",
+        "explanation": "'Pablo' is the name of the penguin."
+      },
+      {
+        "word": "qui",
+        "translation": "who",
+        "explanation": "'qui' means 'who', referring to a person or character."
+      },
+      {
+        "word": "se",
+        "translation": "himself",
+        "explanation": "'se' refers back to 'Pablo', indicating he is doing something to himself."
+      },
+      {
+        "word": "sentait",
+        "translation": "felt",
+        "explanation": "'sentait' means 'felt', referring to emotions or sensations."
+      },
+      {
+        "word": "terriblement",
+        "translation": "terribly",
+        "explanation": "'terriblement' means 'terribly', indicating a strong feeling."
+      },
+      {
+        "word": "hors",
+        "translation": "out",
+        "explanation": "'hors' means 'out', suggesting being outside the usual place."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "'de' means 'of', indicating possession or relation."
+      },
+      {
+        "word": "son",
+        "translation": "his",
+        "explanation": "'son' means 'his', indicating something belonging to Pablo."
+      },
+      {
+        "word": "élément",
+        "translation": "element",
+        "explanation": "'élément' means 'element', referring to his natural environment."
+      }
+    ],
+    [
+      {
+        "word": "S'étant",
+        "translation": "Having ventured",
+        "explanation": "'S'étant' means 'Having ventured', indicating an action taken."
+      },
+      {
+        "word": "aventure",
+        "translation": "adventured",
+        "explanation": "'aventure' means 'ventured', meaning to go off on an adventure."
+      },
+      {
+        "word": "loin",
+        "translation": "far",
+        "explanation": "'loin' means 'far', indicating a large distance."
+      },
+      {
+        "word": "de",
+        "translation": "from",
+        "explanation": "'de' means 'from', indicating starting point."
+      },
+      {
+        "word": "son",
+        "translation": "his",
+        "explanation": "'son' means 'his', again referring to Pablo."
+      },
+      {
+        "word": "foyer",
+        "translation": "home",
+        "explanation": "'foyer' means 'home', where someone lives."
+      },
+      {
+        "word": "glacé",
+        "translation": "icy",
+        "explanation": "'glacé' means 'icy', describing a very cold place."
+      },
+      {
+        "word": "en",
+        "translation": "in",
+        "explanation": "'en' means 'in', indicating location."
+      },
+      {
+        "word": "Antarctique",
+        "translation": "Antarctica",
+        "explanation": "'Antarctique' is the cold continent at the bottom of the Earth."
+      },
+      {
+        "word": "il",
+        "translation": "he",
+        "explanation": "'il' means 'he', referring again to Pablo."
+      },
+      {
+        "word": "se",
+        "translation": "himself",
+        "explanation": "'se' refers to 'he' acting on itself."
+      },
+      {
+        "word": "retrouvait",
+        "translation": "found himself",
+        "explanation": "'retrouvait' means 'found himself', suggesting a situation."
+      },
+      {
+        "word": "au",
+        "translation": "in the",
+        "explanation": "'au' means 'in the', introducing a location."
+      },
+      {
+        "word": "cœur",
+        "translation": "heart",
+        "explanation": "'cœur' means 'heart', referring to the central part of something."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "'de' means 'of', used for connections."
+      },
+      {
+        "word": "l'Espagne",
+        "translation": "Spain",
+        "explanation": "'l'Espagne' means 'Spain', a country in Europe."
+      },
+      {
+        "word": "où",
+        "translation": "where",
+        "explanation": "'où' means 'where', asking for a location."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "'le' means 'the', used for masculine nouns."
+      },
+      {
+        "word": "soleil",
+        "translation": "sun",
+        "explanation": "'soleil' means 'sun', the star that lights the Earth."
+      },
+      {
+        "word": "brillait",
+        "translation": "shone",
+        "explanation": "'brillait' means 'shone', referring to the sun shining."
+      },
+      {
+        "word": "implacablement",
+        "translation": "relentlessly",
+        "explanation": "'implacablement' means 'relentlessly', indicating something that does not stop."
+      },
+      {
+        "word": "au-dessus",
+        "translation": "above",
+        "explanation": "'au-dessus' means 'above', indicating location above something."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "'de' means 'of', indicating possession."
+      },
+      {
+        "word": "lui",
+        "translation": "him",
+        "explanation": "'lui' means 'him', indicating who is affected."
+      }
+    ],
+    [
+      {
+        "word": "À",
+        "translation": "With",
+        "explanation": "'À' can mean 'With' in the sense starting an action."
+      },
+      {
+        "word": "chaque",
+        "translation": "each",
+        "explanation": "'chaque' means 'each', referring to every single instance."
+      },
+      {
+        "word": "pas",
+        "translation": "step",
+        "explanation": "'pas' means 'step', referring to movement."
+      },
+      {
+        "word": "bancal",
+        "translation": "wobbly",
+        "explanation": "'bancal' means 'wobbly', describing something unsteady."
+      },
+      {
+        "word": "sur",
+        "translation": "on",
+        "explanation": "'sur' means 'on', indicating position."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "'le' means 'the', used for masculine nouns."
+      },
+      {
+        "word": "trottoir",
+        "translation": "sidewalk",
+        "explanation": "'trottoir' means 'sidewalk', a path for walking."
+      },
+      {
+        "word": "brûlant",
+        "translation": "burning",
+        "explanation": "'brûlant' means 'burning', describing something very hot."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "'les' means 'the', used for plural nouns."
+      },
+      {
+        "word": "nageoires",
+        "translation": "flippers",
+        "explanation": "'nageoires' means 'flippers', the limbs of a penguin."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "'de' means 'of', indicating possession."
+      },
+      {
+        "word": "Pablo",
+        "translation": "Pablo",
+        "explanation": "'Pablo' refers to the character, the penguin."
+      },
+      {
+        "word": "devenaient",
+        "translation": "were becoming",
+        "explanation": "'devenaient' means 'were becoming', indicating a change."
+      },
+      {
+        "word": "moites",
+        "translation": "damp",
+        "explanation": "'moites' means 'damp', indicating a wet sensation."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "'et' means 'and', adding information."
+      },
+      {
+        "word": "ses",
+        "translation": "his",
+        "explanation": "'ses' means 'his', indicating possession."
+      },
+      {
+        "word": "plumes",
+        "translation": "feathers",
+        "explanation": "'plumes' means 'feathers', the covering of a penguin."
+      },
+      {
+        "word": "s'accrochaient",
+        "translation": "were sticking",
+        "explanation": "'s'accrochaient' means 'were sticking', referring to attachment."
+      },
+      {
+        "word": "douloureusement",
+        "translation": "painfully",
+        "explanation": "'douloureusement' means 'painfully', indicating discomfort."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "'à' means 'to', indicating direction."
+      },
+      {
+        "word": "sa",
+        "translation": "his",
+        "explanation": "'sa' means 'his', again indicating ownership."
+      },
+      {
+        "word": "peau",
+        "translation": "skin",
+        "explanation": "'peau' means 'skin', the outer surface of living beings."
+      }
+    ],
+    [
+      {
+        "word": "Espérant",
+        "translation": "Hoping",
+        "explanation": "'Espérant' means 'Hoping', indicating a wish for something."
+      },
+      {
+        "word": "se",
+        "translation": "to refresh himself",
+        "explanation": "'se' means to himself, referring to Pablo."
+      },
+      {
+        "word": "rafraîchir",
+        "translation": "to cool down",
+        "explanation": "'rafraîchir' means 'to cool down', wanting to reduce heat."
+      },
+      {
+        "word": "Pablo",
+        "translation": "Pablo",
+        "explanation": "'Pablo' refers to the character, the penguin."
+      },
+      {
+        "word": "se",
+        "translation": "himself",
+        "explanation": "'se' refers back to 'Pablo' in the same way."
+      },
+      {
+        "word": "dirigea",
+        "translation": "headed",
+        "explanation": "'dirigea' means 'headed', indicating the direction of movement."
+      },
+      {
+        "word": "vers",
+        "translation": "towards",
+        "explanation": "'vers' means 'towards', indicating destination."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "'le' means 'the', used before masculine nouns."
+      },
+      {
+        "word": "bar",
+        "translation": "bar",
+        "explanation": "'bar' means 'bar', a place selling drinks."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "'le' means 'the', used for masculine nouns."
+      },
+      {
+        "word": "plus",
+        "translation": "most",
+        "explanation": "'plus' means 'most', indicating the highest degree."
+      },
+      {
+        "word": "proche",
+        "translation": "nearby",
+        "explanation": "'proche' means 'nearby', indicating closeness."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "'un' means 'a', used for masculine nouns."
+      },
+      {
+        "word": "endroit",
+        "translation": "place",
+        "explanation": "'endroit' means 'place', a location."
+      },
+      {
+        "word": "animé",
+        "translation": "lively",
+        "explanation": "'animé' means 'lively', describing a place full of activity."
+      },
+      {
+        "word": "rempli",
+        "translation": "filled",
+        "explanation": "'rempli' means 'filled', indicating occupation of space."
+      },
+      {
+        "word": "du",
+        "translation": "with the",
+        "explanation": "'du' means 'with the', indicating inclusion."
+      },
+      {
+        "word": "bavardage",
+        "translation": "chatter",
+        "explanation": "'bavardage' means 'chatter', informal conversation."
+      },
+      {
+        "word": "des",
+        "translation": "of the",
+        "explanation": "'des' means 'of the', indicating plural possession."
+      },
+      {
+        "word": "habitants",
+        "translation": "locals",
+        "explanation": "'habitants' means 'locals', people living in the area."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "'et' means 'and', connecting ideas."
+      },
+      {
+        "word": "du",
+        "translation": "of the",
+        "explanation": "'du' means 'of the', indicating possession."
+      },
+      {
+        "word": "tintement",
+        "translation": "tinkling",
+        "explanation": "'tintement' means 'tinkling', light ringing sound."
+      },
+      {
+        "word": "des",
+        "translation": "of the",
+        "explanation": "'des' means 'of the', relating to plural nouns."
+      },
+      {
+        "word": "verres",
+        "translation": "glasses",
+        "explanation": "'verres' means 'glasses', containers for drinks."
+      }
+    ],
+    [
+      {
+        "word": "En",
+        "translation": "As",
+        "explanation": "'En' means 'As', introducing a situation."
+      },
+      {
+        "word": "se",
+        "translation": "he",
+        "explanation": "'se' translates to 'he', referring to Pablo."
+      },
+      {
+        "word": "glissant",
+        "translation": "slipping",
+        "explanation": "'glissant' means 'slipping', showing a movement."
+      },
+      {
+        "word": "à",
+        "translation": "through",
+        "explanation": "'à' means 'through', indicating going in."
+      },
+      {
+        "word": "travers",
+        "translation": "across",
+        "explanation": "'travers' means 'across', showing movement from one side to another."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "'la' means 'the', used for feminine nouns."
+      },
+      {
+        "word": "porte",
+        "translation": "door",
+        "explanation": "'porte' means 'door', an opening into a building."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "'le' means 'the', used for masculine nouns."
+      },
+      {
+        "word": "barman",
+        "translation": "bartender",
+        "explanation": "'barman' means 'bartender', the person serving drinks."
+      },
+      {
+        "word": "clairement",
+        "translation": "clearly",
+        "explanation": "'clairement' means 'clearly', indicating a strong understanding."
+      },
+      {
+        "word": "surpris",
+        "translation": "surprised",
+        "explanation": "'surpris' means 'surprised', showing a reaction."
+      },
+      {
+        "word": "cligna",
+        "translation": "blinked",
+        "explanation": "'cligna' means 'blinked', the action of closing and opening eyes."
+      },
+      {
+        "word": "des",
+        "translation": "at the",
+        "explanation": "'des' means 'at the', indicating a specific point."
+      },
+      {
+        "word": "yeux",
+        "translation": "eyes",
+        "explanation": "'yeux' means 'eyes', body part for vision."
+      },
+      {
+        "word": "en",
+        "translation": "at",
+        "explanation": "'en' means 'at', indicating location."
+      },
+      {
+        "word": "voyant",
+        "translation": "seeing",
+        "explanation": "'voyant' means 'seeing', the act of looking."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "'un' means 'a', used for masculine nouns."
+      },
+      {
+        "word": "pingouin",
+        "translation": "penguin",
+        "explanation": "'pingouin' means 'penguin', the animal in the story."
+      }
+    ],
+    [
+      {
+        "word": "Que",
+        "translation": "What",
+        "explanation": "a question word asking for information"
+      },
+      {
+        "word": "puis-je",
+        "translation": "can I",
+        "explanation": "a phrase used to ask if something is possible for the speaker"
+      },
+      {
+        "word": "vous",
+        "translation": "you",
+        "explanation": "the person being spoken to"
+      },
+      {
+        "word": "servir",
+        "translation": "serve",
+        "explanation": "to provide food or drink"
+      }
+    ],
+    [
+      {
+        "word": "Pablo",
+        "translation": "Pablo",
+        "explanation": "a name of a character in the sentence"
+      },
+      {
+        "word": "gloussa",
+        "translation": "giggled",
+        "explanation": "the action of laughing softly, in this case, performed by Pablo"
+      }
+    ],
+    [
+      {
+        "word": "De",
+        "translation": "Of",
+        "explanation": "indicates a type or kind of something"
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "a definite article used before a noun"
+      },
+      {
+        "word": "glace",
+        "translation": "ice",
+        "explanation": "frozen water, which Pablo is requesting"
+      },
+      {
+        "word": "S'il",
+        "translation": "Please",
+        "explanation": "a polite expression used in requests"
+      },
+      {
+        "word": "vous",
+        "translation": "you",
+        "explanation": "the person being spoken to again"
+      },
+      {
+        "word": "plaît",
+        "translation": "like",
+        "explanation": "used to make a request more polite"
+      },
+      {
+        "word": "j'ai",
+        "translation": "I have",
+        "explanation": "the speaker is indicating possession"
+      },
+      {
+        "word": "besoin",
+        "translation": "need",
+        "explanation": "to require or want something"
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "to indicate what is being referred to"
+      },
+      {
+        "word": "glace",
+        "translation": "ice",
+        "explanation": "referring to frozen water again"
+      }
+    ],
+    [
+      {
+        "word": "Le",
+        "translation": "The",
+        "explanation": "a definite article used before a noun"
+      },
+      {
+        "word": "barman",
+        "translation": "bartender",
+        "explanation": "the person serving drinks in a bar"
+      },
+      {
+        "word": "rigola",
+        "translation": "laughed",
+        "explanation": "the action of making a sound of amusement, done by the bartender"
+      },
+      {
+        "word": "Nous",
+        "translation": "We",
+        "explanation": "referring to the bartender and possibly others in the bar"
+      },
+      {
+        "word": "avons",
+        "translation": "have",
+        "explanation": "indicating possession of something by the subject"
+      },
+      {
+        "word": "plein",
+        "translation": "lots",
+        "explanation": "a large quantity or many things"
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "indicates what comes next"
+      },
+      {
+        "word": "boissons",
+        "translation": "drinks",
+        "explanation": "liquids that can be consumed, like water or soda"
+      },
+      {
+        "word": "amigo",
+        "translation": "friend",
+        "explanation": "a friendly term used for someone else, in this case, Pablo"
+      },
+      {
+        "word": "mais",
+        "translation": "but",
+        "explanation": "a conjunction used to connect contrasting ideas"
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "a definite article used before a noun"
+      },
+      {
+        "word": "glace",
+        "translation": "ice",
+        "explanation": "referring to frozen water again"
+      },
+      {
+        "word": "n'est",
+        "translation": "is not",
+        "explanation": "negation indicating something does not exist"
+      },
+      {
+        "word": "pas",
+        "translation": "not",
+        "explanation": "used with 'is' to create a negative statement"
+      },
+      {
+        "word": "faite",
+        "translation": "made",
+        "explanation": "the action of creating or producing something"
+      },
+      {
+        "word": "pour",
+        "translation": "for",
+        "explanation": "indicates purpose or intention"
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "a definite article used before a noun"
+      },
+      {
+        "word": "pingouins",
+        "translation": "penguins",
+        "explanation": "a type of bird, suggesting ice isn't suitable for them"
+      }
+    ],
+    [
+      {
+        "word": "Déçu",
+        "translation": "Disappointed",
+        "explanation": "feeling unhappy because something did not happen as expected"
+      },
+      {
+        "word": "Pablo",
+        "translation": "Pablo",
+        "explanation": "name of the character"
+      },
+      {
+        "word": "quitta",
+        "translation": "left",
+        "explanation": "the action of going away from a place"
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "a definite article used before a noun"
+      },
+      {
+        "word": "bar",
+        "translation": "bar",
+        "explanation": "a place where drinks are served"
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "used to connect two ideas or sentences"
+      },
+      {
+        "word": "retourna",
+        "translation": "returned",
+        "explanation": "the action of going back to a previous location"
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "indicates direction or destination"
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "a definite article used before a noun"
+      },
+      {
+        "word": "chaleur",
+        "translation": "heat",
+        "explanation": "the high temperature experience; warm weather"
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "to indicate belonging or connection"
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "a definite article used before a noun"
+      },
+      {
+        "word": "journée",
+        "translation": "day",
+        "explanation": "a period of 24 hours"
+      }
+    ],
+    [
+      {
+        "word": "Ensuite",
+        "translation": "Then",
+        "explanation": "indicates what happens next in order"
+      },
+      {
+        "word": "il",
+        "translation": "he",
+        "explanation": "the subject of the sentence, referring to Pablo"
+      },
+      {
+        "word": "se",
+        "translation": "himself",
+        "explanation": "referring back to the subject"
+      },
+      {
+        "word": "dirigea",
+        "translation": "headed",
+        "explanation": "the action of moving towards a location"
+      },
+      {
+        "word": "vers",
+        "translation": "towards",
+        "explanation": "indicates direction or destination"
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "an indefinite article used before a noun"
+      },
+      {
+        "word": "gigantesque",
+        "translation": "gigantic",
+        "explanation": "very large in size"
+      },
+      {
+        "word": "centre",
+        "translation": "center",
+        "explanation": "the middle point of something"
+      },
+      {
+        "word": "commercial",
+        "translation": "commercial",
+        "explanation": "related to business or shopping"
+      },
+      {
+        "word": "où",
+        "translation": "where",
+        "explanation": "a question word asking for location"
+      },
+      {
+        "word": "il",
+        "translation": "he",
+        "explanation": "the subject of the sentence again, referring to Pablo"
+      },
+      {
+        "word": "avait",
+        "translation": "had",
+        "explanation": "indicating possession or experience in the past"
+      },
+      {
+        "word": "aperçu",
+        "translation": "spotted",
+        "explanation": "to see or notice something briefly"
+      },
+      {
+        "word": "des",
+        "translation": "some",
+        "explanation": "an indefinite article used for plural items"
+      },
+      {
+        "word": "brises",
+        "translation": "breezes",
+        "explanation": "gentle winds"
+      },
+      {
+        "word": "climatisées",
+        "translation": "air-conditioned",
+        "explanation": "referring to places with controlled temperature"
+      },
+      {
+        "word": "flottant",
+        "translation": "floating",
+        "explanation": "to move in the air or be suspended"
+      },
+      {
+        "word": "à",
+        "translation": "at",
+        "explanation": "indicating a location"
+      },
+      {
+        "word": "travers",
+        "translation": "through",
+        "explanation": "from one side to another"
+      },
+      {
+        "word": "l'entrée",
+        "translation": "the entrance",
+        "explanation": "the way in or the opening to a place."
+      }
+    ],
+    [
+      {
+        "word": "Il",
+        "translation": "He",
+        "explanation": "The subject of the sentence, a male character."
+      },
+      {
+        "word": "y",
+        "translation": "there",
+        "explanation": "Refers to the place he is going to."
+      },
+      {
+        "word": "entra",
+        "translation": "entered",
+        "explanation": "What he did when he went in."
+      },
+      {
+        "word": "émervéillé",
+        "translation": "amazed",
+        "explanation": "Describes how he felt, full of wonder."
+      },
+      {
+        "word": "par",
+        "translation": "by",
+        "explanation": "Introduces who or what caused the amazement."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "A definite article specifying things."
+      },
+      {
+        "word": "magasins",
+        "translation": "stores",
+        "explanation": "Places where people buy things."
+      },
+      {
+        "word": "brillants",
+        "translation": "shiny",
+        "explanation": "Describes the stores as bright and attractive."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Used to connect two things."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "A definite article specifying things again."
+      },
+      {
+        "word": "escaliers",
+        "translation": "escalators",
+        "explanation": "Moving stairs that take people up or down."
+      },
+      {
+        "word": "roulants",
+        "translation": "moving",
+        "explanation": "Describes the escalators as in motion."
+      },
+      {
+        "word": "sans",
+        "translation": "without",
+        "explanation": "Means lacking something."
+      },
+      {
+        "word": "fin",
+        "translation": "end",
+        "explanation": "The limit or stopping point."
+      }
+    ],
+    [
+      {
+        "word": "Cependant",
+        "translation": "However",
+        "explanation": "Used to introduce a contrast or exception."
+      },
+      {
+        "word": "en",
+        "translation": "in",
+        "explanation": "Refers to being located within something."
+      },
+      {
+        "word": "se",
+        "translation": "themselves",
+        "explanation": "Reflexive pronoun indicating the buyers."
+      },
+      {
+        "word": "faufilant",
+        "translation": "navigating",
+        "explanation": "How they moved through the crowd."
+      },
+      {
+        "word": "dans",
+        "translation": "in",
+        "explanation": "Preposition showing location."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article specifying something."
+      },
+      {
+        "word": "foule",
+        "translation": "crowd",
+        "explanation": "A large group of people in one place."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "A definite article again."
+      },
+      {
+        "word": "acheteurs",
+        "translation": "shoppers",
+        "explanation": "People who are buying things."
+      },
+      {
+        "word": "regardaient",
+        "translation": "were looking",
+        "explanation": "What the buyers did with their eyes."
+      },
+      {
+        "word": "pointaient",
+        "translation": "were pointing",
+        "explanation": "Indicates they directed their fingers at something."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Used to connect two actions."
+      },
+      {
+        "word": "prenaient",
+        "translation": "were taking",
+        "explanation": "What the buyers did with cameras."
+      },
+      {
+        "word": "des",
+        "translation": "some",
+        "explanation": "Indicates an unspecified amount."
+      },
+      {
+        "word": "selfies",
+        "translation": "selfies",
+        "explanation": "Photos taken of oneself."
+      },
+      {
+        "word": "avec",
+        "translation": "with",
+        "explanation": "Indicating companionship or relation."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article again."
+      },
+      {
+        "word": "vue",
+        "translation": "sight",
+        "explanation": "What they see or the visual experience."
+      },
+      {
+        "word": "étrange",
+        "translation": "strange",
+        "explanation": "Unusual or odd."
+      },
+      {
+        "word": "d'un",
+        "translation": "of a",
+        "explanation": "Shows possession or relation."
+      },
+      {
+        "word": "oiseau",
+        "translation": "bird",
+        "explanation": "A type of animal, usually has feathers."
+      },
+      {
+        "word": "en",
+        "translation": "in",
+        "explanation": "Indicates the mode or method."
+      },
+      {
+        "word": "smoking",
+        "translation": "tuxedo",
+        "explanation": "A formal outfit worn by men."
+      }
+    ],
+    [
+      {
+        "word": "Cela",
+        "translation": "This",
+        "explanation": "Refers to the situation mentioned before."
+      },
+      {
+        "word": "devenait",
+        "translation": "was becoming",
+        "explanation": "Shows a change over time."
+      },
+      {
+        "word": "trop",
+        "translation": "too",
+        "explanation": "Indicating excessiveness."
+      },
+      {
+        "word": "pour",
+        "translation": "for",
+        "explanation": "Indicates the purpose or reason."
+      },
+      {
+        "word": "Pablo",
+        "translation": "Pablo",
+        "explanation": "The name of the character in the sentence."
+      }
+    ],
+    [
+      {
+        "word": "Il",
+        "translation": "He",
+        "explanation": "Refers to Pablo, the male character."
+      },
+      {
+        "word": "se",
+        "translation": "himself",
+        "explanation": "Reflexive pronoun indicating he is referring to himself."
+      },
+      {
+        "word": "sentait",
+        "translation": "felt",
+        "explanation": "What he experienced emotionally."
+      },
+      {
+        "word": "comme",
+        "translation": "like",
+        "explanation": "Used for comparison."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "Indicating one instance."
+      },
+      {
+        "word": "spectacle",
+        "translation": "spectacle",
+        "explanation": "An event or show, here meaning he felt watched."
+      },
+      {
+        "word": "plutôt",
+        "translation": "rather",
+        "explanation": "Indicating preference or degree."
+      },
+      {
+        "word": "que",
+        "translation": "than",
+        "explanation": "Used to compare."
+      },
+      {
+        "word": "comme",
+        "translation": "like",
+        "explanation": "Used for another comparison."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "Another instance referring to one."
+      },
+      {
+        "word": "invité",
+        "translation": "guest",
+        "explanation": "Someone who is invited to an event."
+      }
+    ],
+    [
+      {
+        "word": "Ignorant",
+        "translation": "Ignoring",
+        "explanation": "Means to not pay attention to."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article again."
+      },
+      {
+        "word": "chaleur",
+        "translation": "heat",
+        "explanation": "The warm temperature, likely from the crowd."
+      },
+      {
+        "word": "il",
+        "translation": "he",
+        "explanation": "Refers to Pablo again."
+      },
+      {
+        "word": "marchait",
+        "translation": "walked",
+        "explanation": "What he did physically."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "Indicating direction."
+      },
+      {
+        "word": "nouveau",
+        "translation": "again",
+        "explanation": "Referring to doing something another time."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "Indicating direction again."
+      },
+      {
+        "word": "l'extérieur",
+        "translation": "the outside",
+        "explanation": "Referring to being outdoors or external."
+      }
+    ],
+    [
+      {
+        "word": "Ne",
+        "translation": "Not",
+        "explanation": "It negates the verb, meaning that something didn't happen."
+      },
+      {
+        "word": "trouvant",
+        "translation": "finding",
+        "explanation": "It means locating something."
+      },
+      {
+        "word": "aucun",
+        "translation": "any",
+        "explanation": "It means zero or none."
+      },
+      {
+        "word": "soulagement",
+        "translation": "relief",
+        "explanation": "It refers to a feeling of comfort."
+      },
+      {
+        "word": "il",
+        "translation": "he",
+        "explanation": "It refers to a male person."
+      },
+      {
+        "word": "erra",
+        "translation": "wandered",
+        "explanation": "It means to walk around without a specific destination."
+      },
+      {
+        "word": "dans",
+        "translation": "in",
+        "explanation": "It indicates location."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "It is a definite article used to specify something."
+      },
+      {
+        "word": "rues",
+        "translation": "streets",
+        "explanation": "They are public roads in a city."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "It indicates possession."
+      },
+      {
+        "word": "Madrid",
+        "translation": "Madrid",
+        "explanation": "It is the capital city of Spain."
+      },
+      {
+        "word": "se",
+        "translation": "himself",
+        "explanation": "It is a reflexive pronoun referring to the subject."
+      },
+      {
+        "word": "sentant",
+        "translation": "feeling",
+        "explanation": "It means experiencing an emotion or sensation."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "It indicates possession."
+      },
+      {
+        "word": "plus",
+        "translation": "more",
+        "explanation": "It means an increased amount or degree."
+      },
+      {
+        "word": "en plus",
+        "translation": "even more",
+        "explanation": "It intensifies the previous word."
+      },
+      {
+        "word": "désespéré",
+        "translation": "desperate",
+        "explanation": "It describes a feeling of hopelessness."
+      },
+      {
+        "word": "dans",
+        "translation": "in",
+        "explanation": "It indicates location."
+      },
+      {
+        "word": "sa",
+        "translation": "his",
+        "explanation": "It indicates possession belonging to a male."
+      },
+      {
+        "word": "recherche",
+        "translation": "search",
+        "explanation": "It means looking for something."
+      },
+      {
+        "word": "d'un",
+        "translation": "for a",
+        "explanation": "It indicates that something is being sought after."
+      },
+      {
+        "word": "refuge",
+        "translation": "refuge",
+        "explanation": "It means a safe or comfortable place."
+      },
+      {
+        "word": "frais",
+        "translation": "cool",
+        "explanation": "It describes a low temperature."
+      }
+    ],
+    [
+      {
+        "word": "Juste",
+        "translation": "Just",
+        "explanation": "It means very recently or right at that moment."
+      },
+      {
+        "word": "au",
+        "translation": "at the",
+        "explanation": "It indicates a specific location."
+      },
+      {
+        "word": "moment",
+        "translation": "moment",
+        "explanation": "It refers to a short period of time."
+      },
+      {
+        "word": "où",
+        "translation": "where",
+        "explanation": "It introduces a location."
+      },
+      {
+        "word": "il",
+        "translation": "he",
+        "explanation": "It refers to a male person."
+      },
+      {
+        "word": "était",
+        "translation": "was",
+        "explanation": "It is the past tense of 'to be'."
+      },
+      {
+        "word": "sur",
+        "translation": "on",
+        "explanation": "It indicates position."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "It is a definite article."
+      },
+      {
+        "word": "point",
+        "translation": "point",
+        "explanation": "It refers to a specific time or moment."
+      },
+      {
+        "word": "de",
+        "translation": "to",
+        "explanation": "It expresses direction or intention."
+      },
+      {
+        "word": "désespérer",
+        "translation": "despair",
+        "explanation": "It means to lose hope."
+      },
+      {
+        "word": "il",
+        "translation": "he",
+        "explanation": "It refers to a male person."
+      },
+      {
+        "word": "se",
+        "translation": "himself",
+        "explanation": "It is a reflexive pronoun."
+      },
+      {
+        "word": "rappela",
+        "translation": "remembered",
+        "explanation": "It means to recall something from memory."
+      },
+      {
+        "word": "du",
+        "translation": "of the",
+        "explanation": "It indicates possession."
+      },
+      {
+        "word": "zoo",
+        "translation": "zoo",
+        "explanation": "It is a place where animals are kept for public display."
+      },
+      {
+        "word": "local",
+        "translation": "local",
+        "explanation": "It refers to something nearby."
+      },
+      {
+        "word": "pas",
+        "translation": "not",
+        "explanation": "It negates the verb."
+      },
+      {
+        "word": "très",
+        "translation": "very",
+        "explanation": "It intensifies the following word."
+      },
+      {
+        "word": "loin",
+        "translation": "far",
+        "explanation": "It indicates a greater distance."
+      },
+      {
+        "word": "du",
+        "translation": "from the",
+        "explanation": "It indicates the source or origin."
+      },
+      {
+        "word": "centre",
+        "translation": "center",
+        "explanation": "It refers to the middle point."
+      },
+      {
+        "word": "animé",
+        "translation": "busy",
+        "explanation": "It describes a place full of activity."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "It indicates possession."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "It is a definite article."
+      },
+      {
+        "word": "ville",
+        "translation": "city",
+        "explanation": "It refers to a large town."
+      }
+    ],
+    [
+      {
+        "word": "Peut-être",
+        "translation": "Maybe",
+        "explanation": "It indicates a possibility."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "It connects clauses."
+      },
+      {
+        "word": "je",
+        "translation": "I",
+        "explanation": "It refers to the speaker."
+      },
+      {
+        "word": "peux",
+        "translation": "can",
+        "explanation": "It expresses ability."
+      },
+      {
+        "word": "y",
+        "translation": "there",
+        "explanation": "It indicates a location."
+      },
+      {
+        "word": "trouver",
+        "translation": "find",
+        "explanation": "It means to locate something."
+      },
+      {
+        "word": "des",
+        "translation": "some",
+        "explanation": "It indicates an indefinite quantity."
+      },
+      {
+        "word": "amis",
+        "translation": "friends",
+        "explanation": "They are people you like and get along with."
+      },
+      {
+        "word": "pensa-t-il",
+        "translation": "he thought",
+        "explanation": "It indicates what he was thinking."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "It is an indefinite article."
+      },
+      {
+        "word": "lueur",
+        "translation": "glimmer",
+        "explanation": "It means a small light."
+      },
+      {
+        "word": "d'excitation",
+        "translation": "of excitement",
+        "explanation": "It refers to a feeling of enthusiasm."
+      },
+      {
+        "word": "s'allumant",
+        "translation": "lighting up",
+        "explanation": "It means to become bright or lively."
+      },
+      {
+        "word": "dans",
+        "translation": "in",
+        "explanation": "It indicates location."
+      },
+      {
+        "word": "son",
+        "translation": "his",
+        "explanation": "It indicates possession belonging to a male."
+      },
+      {
+        "word": "cœur",
+        "translation": "heart",
+        "explanation": "It refers to the organ that pumps blood and symbolizes emotions."
+      }
+    ],
+    [
+      {
+        "word": "En",
+        "translation": "As",
+        "explanation": "It indicates a manner or way."
+      },
+      {
+        "word": "se dirigeant",
+        "translation": "heading",
+        "explanation": "It means to go towards a place."
+      },
+      {
+        "word": "vers",
+        "translation": "towards",
+        "explanation": "It indicates direction."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "It is a definite article."
+      },
+      {
+        "word": "zoo",
+        "translation": "zoo",
+        "explanation": "It is a place where animals are kept."
+      },
+      {
+        "word": "il",
+        "translation": "he",
+        "explanation": "It refers to a male person."
+      },
+      {
+        "word": "fut",
+        "translation": "was",
+        "explanation": "It is the past tense of 'to be'."
+      },
+      {
+        "word": "accueilli",
+        "translation": "welcomed",
+        "explanation": "It means to be received in a friendly way."
+      },
+      {
+        "word": "par",
+        "translation": "by",
+        "explanation": "It indicates the agent performing an action."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "It is a definite article."
+      },
+      {
+        "word": "cris",
+        "translation": "shouts",
+        "explanation": "They are loud calls."
+      },
+      {
+        "word": "enthousiastes",
+        "translation": "enthusiastic",
+        "explanation": "It describes people showing excitement."
+      },
+      {
+        "word": "des",
+        "translation": "some",
+        "explanation": "It indicates an indefinite quantity."
+      },
+      {
+        "word": "enfants",
+        "translation": "children",
+        "explanation": "They are young humans."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "It is a conjunction used to connect words."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "It is a definite article."
+      },
+      {
+        "word": "battement",
+        "translation": "flapping",
+        "explanation": "It refers to the sound made by wings moving."
+      },
+      {
+        "word": "des",
+        "translation": "of the",
+        "explanation": "It indicates possession."
+      },
+      {
+        "word": "oiseaux",
+        "translation": "birds",
+        "explanation": "They are animals with feathers and wings."
+      },
+      {
+        "word": "exotiques",
+        "translation": "exotic",
+        "explanation": "It refers to something unusual or foreign."
+      },
+      {
+        "word": "au-dessus",
+        "translation": "above",
+        "explanation": "It indicates a higher position."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "It indicates possession."
+      },
+      {
+        "word": "lui",
+        "translation": "him",
+        "explanation": "It refers to a male person."
+      }
+    ],
+    [
+      {
+        "word": "En",
+        "translation": "Upon",
+        "explanation": "It indicates the moment of entering."
+      },
+      {
+        "word": "entrant",
+        "translation": "entering",
+        "explanation": "It means to go inside."
+      },
+      {
+        "word": "par",
+        "translation": "through",
+        "explanation": "It indicates the means of entering."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "It is a definite article."
+      },
+      {
+        "word": "portes",
+        "translation": "gates",
+        "explanation": "They are entrances."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "It is an indefinite article."
+      },
+      {
+        "word": "bouffée",
+        "translation": "whiff",
+        "explanation": "It means a small amount of air or smell."
+      },
+      {
+        "word": "d'air",
+        "translation": "of air",
+        "explanation": "It refers to the mixture of gases we breathe."
+      },
+      {
+        "word": "conditionné",
+        "translation": "conditioned",
+        "explanation": "It means treated to be cool."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "It is a definite article."
+      },
+      {
+        "word": "remplit",
+        "translation": "filled",
+        "explanation": "It means to make full."
+      },
+      {
+        "word": "de",
+        "translation": "with",
+        "explanation": "It indicates inclusion."
+      },
+      {
+        "word": "joie",
+        "translation": "joy",
+        "explanation": "It means a feeling of happiness."
+      }
+    ],
+    [
+      {
+        "word": "Pablo",
+        "translation": "Pablo",
+        "explanation": "Name of the character."
+      },
+      {
+        "word": "traversa",
+        "translation": "crossed",
+        "explanation": "What Pablo did, he moved across."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "A definite article used to refer to specific things."
+      },
+      {
+        "word": "familles",
+        "translation": "families",
+        "explanation": "Groups of people related to each other."
+      },
+      {
+        "word": "excitées",
+        "translation": "excited",
+        "explanation": "Describes families as being very happy and full of energy."
+      },
+      {
+        "word": "glissant",
+        "translation": "sliding",
+        "explanation": "What they were doing, moving smoothly along the surface."
+      },
+      {
+        "word": "avec",
+        "translation": "with",
+        "explanation": "Indicates company or accompaniment."
+      },
+      {
+        "word": "joie",
+        "translation": "joy",
+        "explanation": "A feeling of great happiness."
+      },
+      {
+        "word": "vers",
+        "translation": "towards",
+        "explanation": "Indicates direction, where they were going."
+      },
+      {
+        "word": "l'exposition",
+        "translation": "the exhibit",
+        "explanation": "A display or show where things are presented."
+      },
+      {
+        "word": "des",
+        "translation": "of the",
+        "explanation": "Indicates possession or association with something."
+      },
+      {
+        "word": "pingouins",
+        "translation": "penguins",
+        "explanation": "A type of bird that lives mainly in the Southern Hemisphere."
+      }
+    ],
+    [
+      {
+        "word": "Quand",
+        "translation": "When",
+        "explanation": "Indicates a time in the following events."
+      },
+      {
+        "word": "il",
+        "translation": "he",
+        "explanation": "Referring to Pablo."
+      },
+      {
+        "word": "l'atteignit",
+        "translation": "reached it",
+        "explanation": "What Pablo did, got to a point."
+      },
+      {
+        "word": "enfin",
+        "translation": "finally",
+        "explanation": "Indicates something that occurred after a wait."
+      },
+      {
+        "word": "il",
+        "translation": "he",
+        "explanation": "Referring to Pablo."
+      },
+      {
+        "word": "fut",
+        "translation": "was",
+        "explanation": "A past form of 'to be', describing a state."
+      },
+      {
+        "word": "accueilli",
+        "translation": "welcomed",
+        "explanation": "What happened to him, he was greeted."
+      },
+      {
+        "word": "par",
+        "translation": "by",
+        "explanation": "Indicating the means or agent of the action."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "Indicating one instance of something."
+      },
+      {
+        "word": "sentiment",
+        "translation": "feeling",
+        "explanation": "An emotional state."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Indicates belonging to or relating to."
+      },
+      {
+        "word": "bonheur",
+        "translation": "happiness",
+        "explanation": "A state of being happy."
+      },
+      {
+        "word": "écrasant",
+        "translation": "overwhelming",
+        "explanation": "Very strong, hard to deal with."
+      }
+    ],
+    [
+      {
+        "word": "À",
+        "translation": "To",
+        "explanation": "Indicates direction or purpose."
+      },
+      {
+        "word": "sa",
+        "translation": "his",
+        "explanation": "Possessive form for Pablo."
+      },
+      {
+        "word": "grande",
+        "translation": "great",
+        "explanation": "Describes something large in size or extent."
+      },
+      {
+        "word": "joie",
+        "translation": "joy",
+        "explanation": "A feeling of great happiness."
+      },
+      {
+        "word": "il",
+        "translation": "he",
+        "explanation": "Referring to Pablo."
+      },
+      {
+        "word": "vit",
+        "translation": "saw",
+        "explanation": "What he did, he looked at."
+      },
+      {
+        "word": "ses",
+        "translation": "his",
+        "explanation": "Indicates ownership, relating to Pablo."
+      },
+      {
+        "word": "semblables",
+        "translation": "kindred",
+        "explanation": "Refers to creatures similar to him."
+      },
+      {
+        "word": "glissant",
+        "translation": "sliding",
+        "explanation": "What they were doing, moving smoothly."
+      },
+      {
+        "word": "sur",
+        "translation": "on",
+        "explanation": "Indicates position above something."
+      },
+      {
+        "word": "leur",
+        "translation": "their",
+        "explanation": "Possessive form, indicating something belonging to them."
+      },
+      {
+        "word": "ventre",
+        "translation": "belly",
+        "explanation": "The underside of the body."
+      },
+      {
+        "word": "sur",
+        "translation": "on",
+        "explanation": "Indicates position above something."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "Referring to specific things."
+      },
+      {
+        "word": "surfaces",
+        "translation": "surfaces",
+        "explanation": "The outermost layers or exteriors of something."
+      },
+      {
+        "word": "fraîches",
+        "translation": "cool",
+        "explanation": "Not warm, a bit chilly."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Used to connect words or phrases."
+      },
+      {
+        "word": "humides",
+        "translation": "wet",
+        "explanation": "Having water, not dry."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Used to connect words or phrases."
+      },
+      {
+        "word": "éclaboussant",
+        "translation": "splashing",
+        "explanation": "Making water fly everywhere."
+      },
+      {
+        "word": "dans",
+        "translation": "in",
+        "explanation": "Indicating within something."
+      },
+      {
+        "word": "l'eau",
+        "translation": "the water",
+        "explanation": "A liquid essential for life."
+      },
+      {
+        "word": "glacée",
+        "translation": "icy",
+        "explanation": "Very cold, like ice."
+      }
+    ],
+    [
+      {
+        "word": "Ils",
+        "translation": "They",
+        "explanation": "Referring to the penguins."
+      },
+      {
+        "word": "l'accueillirent",
+        "translation": "welcomed him",
+        "explanation": "What they did, greeted Pablo."
+      },
+      {
+        "word": "avec",
+        "translation": "with",
+        "explanation": "Indicating company or accompaniment."
+      },
+      {
+        "word": "pépiements",
+        "translation": "chirps",
+        "explanation": "Sounds made by birds, short and high noises."
+      },
+      {
+        "word": "joyeux",
+        "translation": "joyful",
+        "explanation": "Describes the chirps as happy."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Used to connect words or phrases."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Indicates belonging to or relating to."
+      },
+      {
+        "word": "sauts",
+        "translation": "jumps",
+        "explanation": "What they did, leaping into the air."
+      },
+      {
+        "word": "heureux",
+        "translation": "happy",
+        "explanation": "Feeling good and pleased."
+      },
+      {
+        "word": "ravies",
+        "translation": "delighted",
+        "explanation": "Very pleased and joyful."
+      },
+      {
+        "word": "de",
+        "translation": "to",
+        "explanation": "Indicates purpose."
+      },
+      {
+        "word": "voir",
+        "translation": "see",
+        "explanation": "To look at or observe."
+      },
+      {
+        "word": "leur",
+        "translation": "their",
+        "explanation": "Possessive, indicating belonging."
+      },
+      {
+        "word": "ami",
+        "translation": "friend",
+        "explanation": "A person with whom one has a bond of mutual affection."
+      }
+    ],
+    [
+      {
+        "word": "Pablo",
+        "translation": "Pablo",
+        "explanation": "Name of the character."
+      },
+      {
+        "word": "s'écria",
+        "translation": "exclaimed",
+        "explanation": "What Linda did, she called out loudly."
+      },
+      {
+        "word": "Linda",
+        "translation": "Linda",
+        "explanation": "Name of Pablo's best friend."
+      },
+      {
+        "word": "sa",
+        "translation": "his",
+        "explanation": "Possessive form for Linda, indicating Pablo."
+      },
+      {
+        "word": "meilleure",
+        "translation": "best",
+        "explanation": "The highest quality or rank."
+      },
+      {
+        "word": "amie",
+        "translation": "friend",
+        "explanation": "A female friend."
+      },
+      {
+        "word": "Nous",
+        "translation": "We",
+        "explanation": "Referring to Linda and others."
+      },
+      {
+        "word": "pensions",
+        "translation": "thought",
+        "explanation": "Caring or being concerned about someone."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "A conjunction used to introduce a clause."
+      },
+      {
+        "word": "tu",
+        "translation": "you",
+        "explanation": "Addressing Pablo."
+      },
+      {
+        "word": "étais",
+        "translation": "were",
+        "explanation": "A past form of 'to be', indicating a state that existed."
+      },
+      {
+        "word": "perdu",
+        "translation": "lost",
+        "explanation": "Not able to find one's way."
+      },
+      {
+        "word": "Viens",
+        "translation": "Come",
+        "explanation": "An invitation or command to approach."
+      },
+      {
+        "word": "te",
+        "translation": "you",
+        "explanation": "Referring to Pablo."
+      },
+      {
+        "word": "joindre",
+        "translation": "join",
+        "explanation": "To become part of a group."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "Indicating direction or purpose."
+      },
+      {
+        "word": "nous",
+        "translation": "us",
+        "explanation": "Referring back to Linda and the others."
+      }
+    ],
+    [
+      {
+        "word": "Sans",
+        "translation": "Without",
+        "explanation": "This means 'not having'. It starts the idea of doing something without hesitation."
+      },
+      {
+        "word": "hésiter",
+        "translation": "hesitating",
+        "explanation": "This means 'to stop before doing something'. So 'without hesitating' means to act immediately."
+      },
+      {
+        "word": "Pablo",
+        "translation": "Pablo",
+        "explanation": "This is a name of a person."
+      },
+      {
+        "word": "sauta",
+        "translation": "jumped",
+        "explanation": "This means 'to leap or spring into the air'."
+      },
+      {
+        "word": "dans",
+        "translation": "in",
+        "explanation": "This tells where something is, like 'inside'."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A word that tells us this is a specific thing."
+      },
+      {
+        "word": "piscine",
+        "translation": "pool",
+        "explanation": "This is a place filled with water where people swim."
+      },
+      {
+        "word": "avec",
+        "translation": "with",
+        "explanation": "This means 'together with'."
+      },
+      {
+        "word": "ses",
+        "translation": "his",
+        "explanation": "This shows possession; it means belonging to him."
+      },
+      {
+        "word": "amis",
+        "translation": "friends",
+        "explanation": "People you like and share things with."
+      },
+      {
+        "word": "l'eau",
+        "translation": "the water",
+        "explanation": "This is what fills the pool."
+      },
+      {
+        "word": "froide",
+        "translation": "cold",
+        "explanation": "The temperature of the water; it is low, not warm."
+      },
+      {
+        "word": "l'enveloppant",
+        "translation": "enveloping him",
+        "explanation": "This means 'to wrap around'. The water is surrounding him."
+      },
+      {
+        "word": "comme",
+        "translation": "like",
+        "explanation": "This is used to show similarity to something."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "This points to one thing."
+      },
+      {
+        "word": "étreinte",
+        "translation": "embrace",
+        "explanation": "This means 'a hug', a way to show care."
+      },
+      {
+        "word": "réconfortante",
+        "translation": "comforting",
+        "explanation": "This describes something that makes you feel good and safe."
+      },
+      {
+        "word": "lavant",
+        "translation": "washing",
+        "explanation": "This means 'to clean or remove dirt or heat'."
+      },
+      {
+        "word": "la chaleur",
+        "translation": "the heat",
+        "explanation": "This is the warm feeling that can be uncomfortable."
+      },
+      {
+        "word": "qui",
+        "translation": "that",
+        "explanation": "This word connects information about the heat."
+      },
+      {
+        "word": "l'avait",
+        "translation": "had",
+        "explanation": "This shows possession in the past."
+      },
+      {
+        "word": "tourmenté",
+        "translation": "tormented",
+        "explanation": "This means to be troubled or bothered."
+      },
+      {
+        "word": "toute",
+        "translation": "all",
+        "explanation": "This means 'the whole amount'."
+      },
+      {
+        "word": "la journée",
+        "translation": "the day",
+        "explanation": "A period of 24 hours."
+      }
+    ],
+    [
+      {
+        "word": "À",
+        "translation": "At",
+        "explanation": "This is a preposition showing a time or place."
+      },
+      {
+        "word": "chaque",
+        "translation": "every",
+        "explanation": "This means 'all' but one at a time."
+      },
+      {
+        "word": "éclaboussure",
+        "translation": "splash",
+        "explanation": "This is the sound or action of water hitting something."
+      },
+      {
+        "word": "des",
+        "translation": "some",
+        "explanation": "This means 'a few' or 'not all'."
+      },
+      {
+        "word": "rires",
+        "translation": "laughs",
+        "explanation": "Sounds people make when they think something is funny."
+      },
+      {
+        "word": "résonnaient",
+        "translation": "were echoing",
+        "explanation": "This means sounds that bounce back."
+      },
+      {
+        "word": "autour",
+        "translation": "around",
+        "explanation": "This shows something is in a circle."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This shows possession or connection."
+      },
+      {
+        "word": "l'exposition",
+        "translation": "the show",
+        "explanation": "An event where something is displayed for others."
+      },
+      {
+        "word": "alors",
+        "translation": "then",
+        "explanation": "This tells when something happened."
+      },
+      {
+        "word": "qu'ils",
+        "translation": "that they",
+        "explanation": "This refers to a group of people, in this case, the friends."
+      },
+      {
+        "word": "nagent",
+        "translation": "swim",
+        "explanation": "This means to move in water."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "This connects two things together."
+      },
+      {
+        "word": "jouent",
+        "translation": "play",
+        "explanation": "This means to have fun, doing activities."
+      },
+      {
+        "word": "ensemble",
+        "translation": "together",
+        "explanation": "This means to do something in a group."
+      },
+      {
+        "word": "partageant",
+        "translation": "sharing",
+        "explanation": "This means allowing others to have part of something."
+      },
+      {
+        "word": "des",
+        "translation": "some",
+        "explanation": "This means 'a few' or 'not all'."
+      },
+      {
+        "word": "histoires",
+        "translation": "stories",
+        "explanation": "These are accounts or tales of events."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This shows possession or connection."
+      },
+      {
+        "word": "leurs",
+        "translation": "their",
+        "explanation": "This shows possession for a group."
+      },
+      {
+        "word": "périples",
+        "translation": "adventures",
+        "explanation": "These are exciting journeys or experiences."
+      }
+    ],
+    [
+      {
+        "word": "Ce",
+        "translation": "This",
+        "explanation": "This points to something specific."
+      },
+      {
+        "word": "jour-là",
+        "translation": "day",
+        "explanation": "This refers to a specific day."
+      },
+      {
+        "word": "Pablo",
+        "translation": "Pablo",
+        "explanation": "Again, this is a name of a person."
+      },
+      {
+        "word": "apprit",
+        "translation": "learned",
+        "explanation": "This means to get knowledge about something."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "This connects ideas in a sentence."
+      },
+      {
+        "word": "même",
+        "translation": "even",
+        "explanation": "This adds emphasis to something."
+      },
+      {
+        "word": "si",
+        "translation": "if",
+        "explanation": "This introduces a condition."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A word that tells us this is a specific thing."
+      },
+      {
+        "word": "soleil",
+        "translation": "sun",
+        "explanation": "The star that gives light and heat to the earth."
+      },
+      {
+        "word": "pouvait",
+        "translation": "could",
+        "explanation": "This is about what is possible."
+      },
+      {
+        "word": "être",
+        "translation": "be",
+        "explanation": "This means to exist or to have a condition."
+      },
+      {
+        "word": "brûlant",
+        "translation": "burning",
+        "explanation": "This means very hot."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "This connects two ideas."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A word that tells us this is a specific thing."
+      },
+      {
+        "word": "ville",
+        "translation": "city",
+        "explanation": "A large area where many people live."
+      },
+      {
+        "word": "animée",
+        "translation": "busy",
+        "explanation": "This means full of activity."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "A word that tells us this is a specific thing."
+      },
+      {
+        "word": "joies",
+        "translation": "joys",
+        "explanation": "These are feelings of happiness."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This shows possession or connection."
+      },
+      {
+        "word": "l'amitié",
+        "translation": "friendship",
+        "explanation": "This is the bond between friends."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "This connects two ideas."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A word that tells us this is a specific thing."
+      },
+      {
+        "word": "fraîcheur",
+        "translation": "freshness",
+        "explanation": "This describes feeling cool or new."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This shows possession or connection."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A word that tells us this is a specific thing."
+      },
+      {
+        "word": "compagnie",
+        "translation": "company",
+        "explanation": "This is being with other people."
+      },
+      {
+        "word": "étaient",
+        "translation": "were",
+        "explanation": "This is the past form of 'to be'."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A word that tells us this is a specific thing."
+      },
+      {
+        "word": "remède",
+        "translation": "remedy",
+        "explanation": "This is a solution for a problem."
+      },
+      {
+        "word": "parfait",
+        "translation": "perfect",
+        "explanation": "This means the best or ideal."
+      },
+      {
+        "word": "pour",
+        "translation": "for",
+        "explanation": "This shows purpose or reason."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "This points to one thing."
+      },
+      {
+        "word": "pingouin",
+        "translation": "penguin",
+        "explanation": "This is a type of bird that cannot fly."
+      },
+      {
+        "word": "se",
+        "translation": "himself",
+        "explanation": "This means the same person."
+      },
+      {
+        "word": "sentant",
+        "translation": "feeling",
+        "explanation": "This means to have a sensation."
+      },
+      {
+        "word": "perdu",
+        "translation": "lost",
+        "explanation": "This means not knowing where you are."
+      },
+      {
+        "word": "dans",
+        "translation": "in",
+        "explanation": "This tells where something is, like 'inside'."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "This points to one thing."
+      },
+      {
+        "word": "monde",
+        "translation": "world",
+        "explanation": "This is the earth and everything on it."
+      },
+      {
+        "word": "trop",
+        "translation": "too",
+        "explanation": "This means more than what is good."
+      },
+      {
+        "word": "chaud",
+        "translation": "hot",
+        "explanation": "This describes a high temperature."
+      }
+    ],
+    [
+      {
+        "word": "Alors",
+        "translation": "Then",
+        "explanation": "This shows something happens next."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "This connects ideas in a sentence."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A word that tells us this is a specific thing."
+      },
+      {
+        "word": "soleil",
+        "translation": "sun",
+        "explanation": "The star that gives light and heat to the earth."
+      },
+      {
+        "word": "commençait",
+        "translation": "was beginning",
+        "explanation": "This means starting to happen."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "This shows direction or purpose."
+      },
+      {
+        "word": "se",
+        "translation": "itself",
+        "explanation": "This means the same thing that's already mentioned."
+      },
+      {
+        "word": "coucher",
+        "translation": "set",
+        "explanation": "This means to go down, like the sun at night."
+      },
+      {
+        "word": "peignant",
+        "translation": "painting",
+        "explanation": "This means to put color on something."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A word that tells us this is a specific thing."
+      },
+      {
+        "word": "ciel",
+        "translation": "sky",
+        "explanation": "The space above the earth where clouds are."
+      },
+      {
+        "word": "en",
+        "translation": "in",
+        "explanation": "This tells where something is, like 'inside'."
+      },
+      {
+        "word": "nuances",
+        "translation": "shades",
+        "explanation": "This means different variations of color."
+      },
+      {
+        "word": "d'orange",
+        "translation": "of orange",
+        "explanation": "This describes a specific color."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "This connects two ideas."
+      },
+      {
+        "word": "rose",
+        "translation": "pink",
+        "explanation": "This describes a specific color."
+      },
+      {
+        "word": "Pablo",
+        "translation": "Pablo",
+        "explanation": "Again, this is a name of a person."
+      },
+      {
+        "word": "savait",
+        "translation": "knew",
+        "explanation": "This means to have knowledge about something."
+      },
+      {
+        "word": "qu'il",
+        "translation": "that he",
+        "explanation": "This refers back to Pablo."
+      },
+      {
+        "word": "avait",
+        "translation": "had",
+        "explanation": "This shows possession in the past."
+      },
+      {
+        "word": "trouvé",
+        "translation": "found",
+        "explanation": "This means to discover something."
+      },
+      {
+        "word": "sa",
+        "translation": "his",
+        "explanation": "This shows possession; it means belonging to him."
+      },
+      {
+        "word": "maison",
+        "translation": "home",
+        "explanation": "This is a place where someone lives."
+      },
+      {
+        "word": "ici",
+        "translation": "here",
+        "explanation": "This means the place where the speaker is."
+      },
+      {
+        "word": "même",
+        "translation": "even",
+        "explanation": "This adds emphasis to something."
+      },
+      {
+        "word": "au",
+        "translation": "at the",
+        "explanation": "This shows location."
+      },
+      {
+        "word": "milieu",
+        "translation": "midst",
+        "explanation": "This means the center or among."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This shows possession or connection."
+      },
+      {
+        "word": "ses",
+        "translation": "his",
+        "explanation": "This shows possession; it means belonging to him."
+      },
+      {
+        "word": "amis",
+        "translation": "friends",
+        "explanation": "People you like and share things with."
+      },
+      {
+        "word": "au",
+        "translation": "at the",
+        "explanation": "This shows location."
+      },
+      {
+        "word": "zoo",
+        "translation": "zoo",
+        "explanation": "A place where animals are kept for people to see."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This shows possession or connection."
+      },
+      {
+        "word": "Madrid",
+        "translation": "Madrid",
+        "explanation": "This is the name of a capital city."
+      }
+    ]
+  ]
+}

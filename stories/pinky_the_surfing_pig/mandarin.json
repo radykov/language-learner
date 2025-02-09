@@ -1,0 +1,2634 @@
+{
+  "story": "在一个温馨的小村庄里，住着一只名叫小粉的猪。 与那些整天窝在闪闪发光的猪保管箱中，梦想着满满的钱币和宝藏的其他小猪不同，小粉心中充满了冒险的渴望。 从小就，他看着朋友们被金币塞得鼓鼓囊囊，羡慕在他闪闪发亮的眼睛中闪烁。 一个阳光明媚的日子，当其他小猪们在打磨它们闪亮的外表时，小粉兴奋地跑到海滩。 在那里，阳光在潮汐上闪烁，冲浪者像优雅的海豚一样在波浪上欢快起舞。 出于好奇，小粉走近一小群冲浪者，他们的笑声在咸咸的空气中轻轻飘荡。 “嘿，小猪！想试试冲浪吗？”一个冲浪者叫道。 小粉的心随之激动地跳动。“我可以吗？” 他们帮他穿上了一套小潜水服，不久，小粉就开始在一块五颜六色的泡沫板上划水，骑着温柔的波浪。 每当他征服一个波浪时，他觉得自己比任何猪保管箱都要富有。 随着夏天懒洋洋地流逝，小粉每天都在海滩上。 他平衡和雕刻着波浪，感觉快乐和自由。 他和冲浪者们成为了好朋友，了解了他们的生活、梦想和追求的简单快乐。 回到家中，他的猪朋友们从自己的保管箱中观看他，困惑于他放弃金币的生活选择。 他们咯咯地笑着说：“多可惜啊！他为什么不和我们一样存钱呢？” 但小粉知道，他正在收获另一种财富——那些没有任何一堆金币可以购买的经历。 他学会了像专业人士一样冲浪，结成了比任何黄金都更闪亮的友谊，拥抱了充满欢笑的冒险。 潮水转变，秋天来临时，小粉邀请他的朋友们到海滩来。 尽管不情愿，他们还是从保管箱中出来，出于好奇而来。 看着小粉优雅地冲浪，他们被他无以名状的欢喜和兴奋所吸引。 小粉在水中热情地挥手。“来吧，伙计们！你们一定要试试！” 小猪们互相交换着紧张的目光，但在小粉的热情感染下，他们走到水边。 最后，在一番帮助下，他们也穿上了自己的小潜水服，肚子朝下扑到了冲浪板上。 那天回荡的笑声令人感染，每只小猪都摔倒、溅水并尝试着，他们之前的僵硬在顽皮的波浪中慢慢消融。 意识到他们是多么喜欢冲浪，一个小猪的脑海中闪过一个主意：“我们为什么不投资一个冲浪学校？我们都可以分享这个快乐！” 小粉的眼睛闪烁着光。“这真是个绝妙的主意！我们可以一起教别人冲浪，就像我学到的那样！” 在规划和集中他们的猪保管箱里的硬币后，小粉和他的朋友们开设了“猪冲浪学院”。 他们涂上了鲜艳的颜色，装饰了冲浪板，不久，渴望学习冲浪的小学生们纷纷而至，来向这些小猪们学习冲浪。 随着每一天的过去，他们分享着自己的热情，冲浪学校蓬勃发展，带来了无数快乐的回忆和体验。 小猪们欢笑着一起冲浪，幸福充满了他们的心。 虽然他们不再像以前那样渴望财富，但小粉和他的朋友们发现，真正的财富在于欢笑、冒险和无法言喻的快乐。 每次日落都带来了新的冒险，他们的宝藏是大家之间的纽带。 从那时起，小粉常常笑着说：“我是世界上最富有的小猪！看看这一切！” 手指着友谊、波浪和无尽的夏天，大家都幸福地生活在一起。",
+  "title": "冲浪小猪皮inky",
+  "sentences": [
+    {
+      "original": "在一个温馨的小村庄里，住着一只名叫小粉的猪。",
+      "translation": "In a cozy little village, there lived a pig named Xiao Fen."
+    },
+    {
+      "original": "与那些整天窝在闪闪发光的猪保管箱中，梦想着满满的钱币和宝藏的其他小猪不同，小粉心中充满了冒险的渴望。",
+      "translation": "Unlike the other little pigs who lounged all day in their shiny piggy banks, dreaming of piles of coins and treasures, Xiao Fen was filled with a desire for adventure."
+    },
+    {
+      "original": "从小就，他看着朋友们被金币塞得鼓鼓囊囊，羡慕在他闪闪发亮的眼睛中闪烁。",
+      "translation": "Since childhood, he watched his friends stuffed with gold coins, envy glimmering in his bright eyes."
+    },
+    {
+      "original": "一个阳光明媚的日子，当其他小猪们在打磨它们闪亮的外表时，小粉兴奋地跑到海滩。",
+      "translation": "On a sunny day, while the other little pigs were polishing their shiny exteriors, Xiao Fen excitedly ran to the beach."
+    },
+    {
+      "original": "在那里，阳光在潮汐上闪烁，冲浪者像优雅的海豚一样在波浪上欢快起舞。",
+      "translation": "There, the sunshine sparkled on the tides, and surfers danced playfully on the waves like graceful dolphins."
+    },
+    {
+      "original": "出于好奇，小粉走近一小群冲浪者，他们的笑声在咸咸的空气中轻轻飘荡。",
+      "translation": "Out of curiosity, Xiao Fen approached a small group of surfers, their laughter gently floating in the salty air."
+    },
+    {
+      "original": "“嘿，小猪！想试试冲浪吗？”一个冲浪者叫道。",
+      "translation": "'Hey, little pig! Want to try surfing?' a surfer called out."
+    },
+    {
+      "original": "小粉的心随之激动地跳动。“我可以吗？”",
+      "translation": "Xiao Fen's heart raced with excitement. 'Can I?' he asked."
+    },
+    {
+      "original": "他们帮他穿上了一套小潜水服，不久，小粉就开始在一块五颜六色的泡沫板上划水，骑着温柔的波浪。",
+      "translation": "They helped him into a little wetsuit, and soon Xiao Fen was paddling on a colorful foam board, riding the gentle waves."
+    },
+    {
+      "original": "每当他征服一个波浪时，他觉得自己比任何猪保管箱都要富有。",
+      "translation": "Whenever he conquered a wave, he felt richer than any piggy bank."
+    },
+    {
+      "original": "随着夏天懒洋洋地流逝，小粉每天都在海滩上。",
+      "translation": "As summer lazily slipped by, Xiao Fen spent every day at the beach."
+    },
+    {
+      "original": "他平衡和雕刻着波浪，感觉快乐和自由。",
+      "translation": "He balanced and carved the waves, feeling joy and freedom."
+    },
+    {
+      "original": "他和冲浪者们成为了好朋友，了解了他们的生活、梦想和追求的简单快乐。",
+      "translation": "He became good friends with the surfers and learned about their lives, dreams, and the simple joys they pursued."
+    },
+    {
+      "original": "回到家中，他的猪朋友们从自己的保管箱中观看他，困惑于他放弃金币的生活选择。",
+      "translation": "Back home, his pig friends watched him from their piggy banks, puzzled by his choice to forgo a life of gold coins."
+    },
+    {
+      "original": "他们咯咯地笑着说：“多可惜啊！他为什么不和我们一样存钱呢？”",
+      "translation": "They chuckled, saying, 'What a pity! Why doesn’t he save money like we do?'"
+    },
+    {
+      "original": "但小粉知道，他正在收获另一种财富——那些没有任何一堆金币可以购买的经历。",
+      "translation": "But Xiao Fen knew he was gaining a different kind of wealth—experiences that no pile of coins could buy."
+    },
+    {
+      "original": "他学会了像专业人士一样冲浪，结成了比任何黄金都更闪亮的友谊，拥抱了充满欢笑的冒险。",
+      "translation": "He learned to surf like a pro, formed friendships brighter than any gold, and embraced adventures filled with laughter."
+    },
+    {
+      "original": "潮水转变，秋天来临时，小粉邀请他的朋友们到海滩来。",
+      "translation": "As the tides turned and autumn arrived, Xiao Fen invited his friends to the beach."
+    },
+    {
+      "original": "尽管不情愿，他们还是从保管箱中出来，出于好奇而来。",
+      "translation": "Though reluctant, they came out of their piggy banks, curious."
+    },
+    {
+      "original": "看着小粉优雅地冲浪，他们被他无以名状的欢喜和兴奋所吸引。",
+      "translation": "Watching Xiao Fen surf elegantly, they were drawn in by his indescribable joy and excitement."
+    },
+    {
+      "original": "小粉在水中热情地挥手。“来吧，伙计们！你们一定要试试！”",
+      "translation": "Xiao Fen waved enthusiastically in the water. 'Come on, guys! You have to try this!'"
+    },
+    {
+      "original": "小猪们互相交换着紧张的目光，但在小粉的热情感染下，他们走到水边。",
+      "translation": "The little pigs exchanged nervous glances, but under Xiao Fen's infectious enthusiasm, they walked to the water's edge."
+    },
+    {
+      "original": "最后，在一番帮助下，他们也穿上了自己的小潜水服，肚子朝下扑到了冲浪板上。",
+      "translation": "Finally, with a bit of help, they donned their own little wetsuits and belly-flopped onto the surfboards."
+    },
+    {
+      "original": "那天回荡的笑声令人感染，每只小猪都摔倒、溅水并尝试着，他们之前的僵硬在顽皮的波浪中慢慢消融。",
+      "translation": "The laughter that echoed that day was contagious, as each little pig fell, splashed, and tried, their previous stiffness slowly melting away in the playful waves."
+    },
+    {
+      "original": "意识到他们是多么喜欢冲浪，一个小猪的脑海中闪过一个主意：“我们为什么不投资一个冲浪学校？我们都可以分享这个快乐！”",
+      "translation": "Realizing how much they loved surfing, one little pig had an idea: 'Why don't we invest in a surf school? We can all share this joy!'"
+    },
+    {
+      "original": "小粉的眼睛闪烁着光。“这真是个绝妙的主意！我们可以一起教别人冲浪，就像我学到的那样！”",
+      "translation": "Xiao Fen's eyes sparkled with light. 'That's a brilliant idea! We can teach others to surf, just like I learned!'"
+    },
+    {
+      "original": "在规划和集中他们的猪保管箱里的硬币后，小粉和他的朋友们开设了“猪冲浪学院”。",
+      "translation": "After planning and pooling the coins from their piggy banks, Xiao Fen and his friends opened the 'Pig Surf Academy.'"
+    },
+    {
+      "original": "他们涂上了鲜艳的颜色，装饰了冲浪板，不久，渴望学习冲浪的小学生们纷纷而至，来向这些小猪们学习冲浪。",
+      "translation": "They painted bright colors and decorated the surfboards, and soon eager students came to learn surfing from these little pigs."
+    },
+    {
+      "original": "随着每一天的过去，他们分享着自己的热情，冲浪学校蓬勃发展，带来了无数快乐的回忆和体验。",
+      "translation": "As each day passed, they shared their passion, and the surf school thrived, bringing countless joyful memories and experiences."
+    },
+    {
+      "original": "小猪们欢笑着一起冲浪，幸福充满了他们的心。",
+      "translation": "The little pigs laughed and surfed together, happiness filling their hearts."
+    },
+    {
+      "original": "虽然他们不再像以前那样渴望财富，但小粉和他的朋友们发现，真正的财富在于欢笑、冒险和无法言喻的快乐。",
+      "translation": "Though they no longer yearned for wealth as they once did, Xiao Fen and his friends discovered that true wealth lies in laughter, adventure, and the indescribable joy."
+    },
+    {
+      "original": "每次日落都带来了新的冒险，他们的宝藏是大家之间的纽带。",
+      "translation": "Each sunset brought new adventures, and their treasure was the bond they shared."
+    },
+    {
+      "original": "从那时起，小粉常常笑着说：“我是世界上最富有的小猪！看看这一切！”",
+      "translation": "From that day on, Xiao Fen often laughed and said, 'I am the richest little pig in the world! Look at all of this!'"
+    },
+    {
+      "original": "手指着友谊、波浪和无尽的夏天，大家都幸福地生活在一起。",
+      "translation": "Pointing at friendship, waves, and endless summers, they all lived happily together."
+    }
+  ],
+  "words": [
+    [
+      {
+        "word": "在",
+        "translation": "in - 在 zai4 (in, at, on)",
+        "explanation": "This word shows where something is happening."
+      },
+      {
+        "word": "一个",
+        "translation": "a - 一个 yi1 ge4 (one, a)",
+        "explanation": "This word indicates a single item or person."
+      },
+      {
+        "word": "温馨",
+        "translation": "warm - 温馨 wen1 xin1 (warm, sweet, cozy)",
+        "explanation": "Describes a pleasant and comforting feeling."
+      },
+      {
+        "word": "的小村庄里",
+        "translation": "small village - 小村庄 xiao3 cun1 zhuang1 (small village) 里 li3 (inside, in)",
+        "explanation": "This describes a small village where something happens."
+      },
+      {
+        "word": "住着",
+        "translation": "lives - 住 zhu4 (to live) 着 zhe5 (indicates ongoing)",
+        "explanation": "This shows that someone's residence is in the village."
+      },
+      {
+        "word": "一只",
+        "translation": "a - 一只 yi1 zhi1 (one, a)",
+        "explanation": "Refers to one animal, in this case, a pig."
+      },
+      {
+        "word": "名叫",
+        "translation": "named - 名叫 ming2 jiao4 (to be named)",
+        "explanation": "This shows the name of the pig."
+      },
+      {
+        "word": "小粉",
+        "translation": "Little Pink - 小粉 xiao3 fen3 (little pink)",
+        "explanation": "The name of the pig in the story."
+      },
+      {
+        "word": "的",
+        "translation": "of - 的 de5 (possessive particle)",
+        "explanation": "Shows possession or relationship."
+      },
+      {
+        "word": "猪",
+        "translation": "pig - 猪 zhu1 (pig)",
+        "explanation": "This word identifies the animal."
+      }
+    ],
+    [
+      {
+        "word": "与",
+        "translation": "and - 与 yu3 (and, with)",
+        "explanation": "This word connects two ideas."
+      },
+      {
+        "word": "那些",
+        "translation": "those - 那些 na4 xie1 (those)",
+        "explanation": "Refers to a group of pigs."
+      },
+      {
+        "word": "整天",
+        "translation": "all day - 整天 zheng3 tian1 (all day long)",
+        "explanation": "This means during the entire day."
+      },
+      {
+        "word": "窝在",
+        "translation": "nest in - 窝在 wo1 zai4 (to nest in, to stay in)",
+        "explanation": "Shows where the pigs stay."
+      },
+      {
+        "word": "闪闪发光的",
+        "translation": "shining - 闪闪发光 shan3 shan3 fa1 guang1 (to shine) 的 de5 (possessive)",
+        "explanation": "Describes how the piggy bank looks."
+      },
+      {
+        "word": "猪保管箱中",
+        "translation": "piggy bank - 猪保管箱 zhu1 bao3 guan3 xiang1 (pig bank) 中 zhong1 (inside)",
+        "explanation": "Identifies the item where the pigs stay."
+      },
+      {
+        "word": "梦想着",
+        "translation": "dreaming of - 梦想着 meng4 xiang3 zhe5 (to dream of)",
+        "explanation": "Indicates what the pigs are thinking about."
+      },
+      {
+        "word": "满满的",
+        "translation": "full of - 满满的 man3 man3 de5 (full of)",
+        "explanation": "Describes how much treasure they dream of."
+      },
+      {
+        "word": "钱币和宝藏的",
+        "translation": "coins and treasure - 钱币 qian2 bi4 (coins) 和 he2 (and) 宝藏 bao3 zang4 (treasure) 的 de5 (possessive)",
+        "explanation": "Refers to the items they dream about, indicating wealth."
+      },
+      {
+        "word": "其他",
+        "translation": "other - 其他 qi2 ta1 (other)",
+        "explanation": "Refers to other pigs that are not Little Pink."
+      },
+      {
+        "word": "小猪",
+        "translation": "piglets - 小猪 xiao3 zhu1 (little pigs)",
+        "explanation": "Refers to the small pigs."
+      }
+    ],
+    [
+      {
+        "word": "不同",
+        "translation": "different - 不同 bu4 tong2 (different)",
+        "explanation": "Indicates that Little Pink is not like the others."
+      },
+      {
+        "word": "小粉",
+        "translation": "Little Pink - 小粉 xiao3 fen3 (little pink)",
+        "explanation": "Refers to the pig that is different."
+      },
+      {
+        "word": "心中",
+        "translation": "in heart - 心中 xin1 zhong1 (in the heart, in mind)",
+        "explanation": "Refers to feelings or thoughts."
+      },
+      {
+        "word": "充满了",
+        "translation": "is full of - 充满了 chong1 man3 le5 (is full of)",
+        "explanation": "Indicates that there is a lot of something."
+      },
+      {
+        "word": "冒险的",
+        "translation": "adventurous - 冒险的 mao4 xian3 de5 (adventurous)",
+        "explanation": "Describes the type of desire Little Pink has."
+      },
+      {
+        "word": "渴望",
+        "translation": "longing - 渴望 ke3 wang4 (longing, desire)",
+        "explanation": "Shows a strong desire or wish."
+      }
+    ],
+    [
+      {
+        "word": "从小就",
+        "translation": "since young - 从小就 cong2 xiao3 jiu4 (since young)",
+        "explanation": "Indicates that this has been true from when he was little."
+      },
+      {
+        "word": "他",
+        "translation": "he - 他 ta1 (he)",
+        "explanation": "Refers to Little Pink."
+      },
+      {
+        "word": "看着",
+        "translation": "watched - 看着 kan4 zhe5 (to watch)",
+        "explanation": "Shows that he observed something."
+      },
+      {
+        "word": "朋友们",
+        "translation": "friends - 朋友们 peng2 you3 men5 (friends)",
+        "explanation": "Refers to Little Pink's companions."
+      },
+      {
+        "word": "被",
+        "translation": "by - 被 bei4 (by, indicates passive)",
+        "explanation": "Shows that something is being done to someone."
+      },
+      {
+        "word": "金币",
+        "translation": "gold coins - 金币 jin1 bi4 (gold coins)",
+        "explanation": "Refers to a type of money."
+      },
+      {
+        "word": "塞得",
+        "translation": "stuffed - 塞得 sai1 de5 (to stuff)",
+        "explanation": "Describes how the coins are put in."
+      },
+      {
+        "word": "鼓鼓囊囊",
+        "translation": "bulging - 鼓鼓囊囊 gu3 gu3 nang2 nang2 (bulging, swollen)",
+        "explanation": "Describes something that is filled and swelled up."
+      },
+      {
+        "word": "羡慕",
+        "translation": "envy - 羡慕 xian4 mu4 (to envy)",
+        "explanation": "Describes his feelings towards others."
+      },
+      {
+        "word": "在他",
+        "translation": "in his - 在他 zai4 ta1 (in him)",
+        "explanation": "Refers to inside Little Pink's feelings."
+      },
+      {
+        "word": "闪闪发亮的",
+        "translation": "sparkling - 闪闪发亮的 shan3 shan3 fa1 liang4 de5 (sparkling)",
+        "explanation": "Describes the brightness of his eyes."
+      },
+      {
+        "word": "眼睛中",
+        "translation": "in eyes - 眼睛中 yan3 jing1 zhong1 (in the eyes)",
+        "explanation": "Indicates that it’s where the shine is seen."
+      },
+      {
+        "word": "闪烁",
+        "translation": "sparkle - 闪烁 shan3 shuo4 (to sparkle)",
+        "explanation": "Indicates the way his eyes shine."
+      }
+    ],
+    [
+      {
+        "word": "一个",
+        "translation": "a - 一个 yi1 ge4 (one)",
+        "explanation": "Refers to a single day."
+      },
+      {
+        "word": "阳光明媚的",
+        "translation": "sunny - 阳光明媚的 yang2 guang1 ming2 mei4 de5 (sunny, beautiful sunshine)",
+        "explanation": "Describes a nice weather condition."
+      },
+      {
+        "word": "日子",
+        "translation": "day - 日子 ri4 zi5 (day)",
+        "explanation": "Refers to a specific day."
+      },
+      {
+        "word": "当",
+        "translation": "when - 当 dang1 (when)",
+        "explanation": "Indicates a time or situation."
+      },
+      {
+        "word": "其他小猪们",
+        "translation": "other piglets - 其他小猪们 qi2 ta1 xiao3 zhu1 men5 (other little pigs)",
+        "explanation": "Refers to other piglets."
+      },
+      {
+        "word": "在",
+        "translation": "at - 在 zai4 (at)",
+        "explanation": "Indicates the location of the action."
+      },
+      {
+        "word": "打磨",
+        "translation": "polishing - 打磨 da3 mo2 (to polish)",
+        "explanation": "Describes what the other pigs are doing."
+      },
+      {
+        "word": "它们",
+        "translation": "they - 它们 ta1 men5 (they)",
+        "explanation": "Refers to the other pigs."
+      },
+      {
+        "word": "闪亮的",
+        "translation": "shiny - 闪亮的 shan3 liang4 de5 (shiny)",
+        "explanation": "Describes how their exterior looks."
+      },
+      {
+        "word": "外表时",
+        "translation": "appearance - 外表 wai4 biao3 (appearance) 时 shi2 (when)",
+        "explanation": "Refers to the outward look of the pigs during the action."
+      },
+      {
+        "word": "小粉兴奋地",
+        "translation": "Little Pink excitedly - 小粉 xiao3 fen3 (little pink) 兴奋地 xing1 fen4 de5 (excitedly)",
+        "explanation": "Refers to how Little Pink feels."
+      },
+      {
+        "word": "跑到",
+        "translation": "ran to - 跑到 pao3 dao4 (to run to)",
+        "explanation": "Indicates movement towards a place."
+      },
+      {
+        "word": "海滩",
+        "translation": "beach - 海滩 hai3 tan1 (beach)",
+        "explanation": "The destination where he ran."
+      }
+    ],
+    [
+      {
+        "word": "在那里",
+        "translation": "there - 在那里 zai4 na4 li3 (there)",
+        "explanation": "Indicates a location."
+      },
+      {
+        "word": "阳光",
+        "translation": "sunshine - 阳光 yang2 guang1 (sunshine)",
+        "explanation": "Refers to sunlight in that place."
+      },
+      {
+        "word": "在",
+        "translation": "on - 在 zai4 (on)",
+        "explanation": "Indicates where something happens."
+      },
+      {
+        "word": "潮汐上",
+        "translation": "tides - 潮汐上 chao2 xi4 shang4 (on the tide)",
+        "explanation": "Refers to the surface of the water."
+      },
+      {
+        "word": "闪烁",
+        "translation": "sparkling - 闪烁 shan3 shuo4 (sparkling)",
+        "explanation": "Descriptive of how sunlight interacts with water."
+      },
+      {
+        "word": "冲浪者",
+        "translation": "surfers - 冲浪者 chong1 lang4 zhe3 (surfers)",
+        "explanation": "Refers to people surfing."
+      },
+      {
+        "word": "像",
+        "translation": "like - 像 xiang4 (like)",
+        "explanation": "Used for comparison."
+      },
+      {
+        "word": "优雅的",
+        "translation": "elegant - 优雅的 you1 ya3 de5 (elegant)",
+        "explanation": "Describes the gracefulness of the surfers."
+      },
+      {
+        "word": "海豚一样",
+        "translation": "like dolphins - 海豚一样 hai3 tun2 yi1 yang4 (like dolphins)",
+        "explanation": "Compares surfers to dolphins."
+      },
+      {
+        "word": "在",
+        "translation": "on - 在 zai4 (on)",
+        "explanation": "Indicates where the action is taking place."
+      },
+      {
+        "word": "波浪上",
+        "translation": "waves - 波浪上 bo1 lang4 shang4 (on the waves)",
+        "explanation": "Shows the location of the surfers."
+      },
+      {
+        "word": "欢快起舞",
+        "translation": "dance joyfully - 欢快起舞 huan1 kuai4 qi3 wu3 (to dance joyfully)",
+        "explanation": "Describes how the surfers move."
+      }
+    ],
+    [
+      {
+        "word": "出于",
+        "translation": "out of - 出 chu1 (to go out) 于 yu2 (in)",
+        "explanation": "This means the reason for doing something."
+      },
+      {
+        "word": "好奇",
+        "translation": "curiosity - 好 hao3 (good) 奇 qi2 (strange)",
+        "explanation": "This describes a feeling of wanting to know."
+      },
+      {
+        "word": "小粉",
+        "translation": "Little Pink - 小 xiao3 (small) 粉 fen3 (pink)",
+        "explanation": "This is a character's name."
+      },
+      {
+        "word": "走近",
+        "translation": "walk close to - 走 zou3 (walk) 近 jin4 (near)",
+        "explanation": "This means to move closer."
+      },
+      {
+        "word": "一",
+        "translation": "a - 一 yi1 (one)",
+        "explanation": "This indicates a singular item."
+      },
+      {
+        "word": "小群",
+        "translation": "small group - 小 xiao3 (small) 群 qun2 (group)",
+        "explanation": "This describes a few people together."
+      },
+      {
+        "word": "冲浪者",
+        "translation": "surfers - 冲浪 chong1 lang4 (surfing) 者 zhe3 (person)",
+        "explanation": "Individuals participating in surfing."
+      },
+      {
+        "word": "他们",
+        "translation": "they - 他们 ta1 men (they)",
+        "explanation": "These are the surfers."
+      },
+      {
+        "word": "的",
+        "translation": "'s (possessive) - 的 de (of)",
+        "explanation": "This shows ownership."
+      },
+      {
+        "word": "笑声",
+        "translation": "laughter - 笑 xiao4 (laugh) 声 sheng1 (sound)",
+        "explanation": "This is the sound made when people laugh."
+      },
+      {
+        "word": "在",
+        "translation": "in - 在 zai4 (at)",
+        "explanation": "This indicates location."
+      },
+      {
+        "word": "咸咸的空气",
+        "translation": "salty air - 咸咸 xian2 xian2 (salty) 的 de (of) 空气 kong1 qi4 (air)",
+        "explanation": "This describes the fresh, salty smell in the air."
+      },
+      {
+        "word": "轻轻",
+        "translation": "gently - 轻轻 qing1 qing1 (softly)",
+        "explanation": "This describes how the laughter sounds."
+      },
+      {
+        "word": "飘荡",
+        "translation": "float - 飘荡 piao1 dang4 (float)",
+        "explanation": "This means to move lightly through the air."
+      }
+    ],
+    [
+      {
+        "word": "嘿",
+        "translation": "hey - 嘿 hei1 (hey)",
+        "explanation": "This is a way of greeting someone."
+      },
+      {
+        "word": "小猪",
+        "translation": "little pig - 小 xiao3 (little) 猪 zhu1 (pig)",
+        "explanation": "This is another name for Little Pink."
+      },
+      {
+        "word": "想",
+        "translation": "want - 想 xiang3 (to wish)",
+        "explanation": "This suggests a desire to do something."
+      },
+      {
+        "word": "试试",
+        "translation": "try - 试试 shi4 shi4 (to try)",
+        "explanation": "This means to attempt or test something."
+      },
+      {
+        "word": "冲浪",
+        "translation": "surfing - 冲浪 chong1 lang4 (to surf)",
+        "explanation": "This refers to riding waves."
+      },
+      {
+        "word": "吗",
+        "translation": "(question particle) - 吗 ma (question marker)",
+        "explanation": "This is used to turn the statement into a question."
+      }
+    ],
+    [
+      {
+        "word": "小粉",
+        "translation": "Little Pink - 小 xiao3 (small) 粉 fen3 (pink)",
+        "explanation": "This is the character's name."
+      },
+      {
+        "word": "的",
+        "translation": "'s (possessive) - 的 de (of)",
+        "explanation": "This shows ownership."
+      },
+      {
+        "word": "心",
+        "translation": "heart - 心 xin1 (heart)",
+        "explanation": "This refers to his feelings."
+      },
+      {
+        "word": "随之",
+        "translation": "with it - 随之 sui2 zhi1 (along with it)",
+        "explanation": "This means as a result."
+      },
+      {
+        "word": "激动",
+        "translation": "excited - 激动 ji1 dong4 (excited)",
+        "explanation": "This means having strong feelings."
+      },
+      {
+        "word": "地",
+        "translation": "(adverbial marker) - 地 de (in this way)",
+        "explanation": "This shows how something happens."
+      },
+      {
+        "word": "跳动",
+        "translation": "beat - 跳动 tiao4 dong4 (to beat)",
+        "explanation": "This refers to the movement of the heart."
+      },
+      {
+        "word": "。",
+        "translation": "(period) - 。 (punctuation)",
+        "explanation": "This marks the end of a sentence."
+      }
+    ],
+    [
+      {
+        "word": "我",
+        "translation": "I - 我 wo3 (I)",
+        "explanation": "This is the speaker."
+      },
+      {
+        "word": "可以",
+        "translation": "can - 可以 ke3 yi3 (can)",
+        "explanation": "This shows ability or permission."
+      },
+      {
+        "word": "吗",
+        "translation": "(question particle) - 吗 ma (question marker)",
+        "explanation": "This is used to turn the statement into a question."
+      }
+    ],
+    [
+      {
+        "word": "他们",
+        "translation": "they - 他们 ta1 men (they)",
+        "explanation": "This refers to the surfers."
+      },
+      {
+        "word": "帮",
+        "translation": "help - 帮 bang1 (help)",
+        "explanation": "This means to assist someone."
+      },
+      {
+        "word": "他",
+        "translation": "him - 他 ta1 (he)",
+        "explanation": "This refers to Little Pink."
+      },
+      {
+        "word": "穿上",
+        "translation": "put on - 穿上 chuan1 shang4 (to wear)",
+        "explanation": "This means to dress in something."
+      },
+      {
+        "word": "了一套",
+        "translation": "a set of - 了 le (completed action) 一套 yi1 tao4 (one set)",
+        "explanation": "This means he received a complete outfit."
+      },
+      {
+        "word": "小潜水服",
+        "translation": "small wetsuit - 小 xiao3 (small) 潜水服 qian2 shui3 fu2 (wetsuit)",
+        "explanation": "This is a type of clothing for water activities."
+      },
+      {
+        "word": "，",
+        "translation": "(comma) - ， (punctuation)",
+        "explanation": "This is used to separate clauses."
+      },
+      {
+        "word": "不久",
+        "translation": "soon - 不久 bu4 jiu3 (not long)",
+        "explanation": "This indicates a short time."
+      },
+      {
+        "word": "小粉",
+        "translation": "Little Pink - 小 xiao3 (small) 粉 fen3 (pink)",
+        "explanation": "This is the character's name."
+      },
+      {
+        "word": "就",
+        "translation": "then - 就 jiu4 (then)",
+        "explanation": "This indicates that something is about to happen."
+      },
+      {
+        "word": "开始",
+        "translation": "start - 开始 kai1 shi3 (to begin)",
+        "explanation": "This means to begin doing something."
+      },
+      {
+        "word": "在一块",
+        "translation": "on a piece of - 在 zai4 (at) 一块 yi1 kuai4 (one piece)",
+        "explanation": "This indicates being physically on something."
+      },
+      {
+        "word": "五颜六色的",
+        "translation": "colorful - 五颜六色 wu3 yan2 liu4 se4 (multi-colored)",
+        "explanation": "This describes many colors."
+      },
+      {
+        "word": "泡沫板上",
+        "translation": "foam board - 泡沫 pao4 mo4 (foam) 板 ban3 (board) 上 shang4 (on)",
+        "explanation": "This is a type of surfboard."
+      },
+      {
+        "word": "划水",
+        "translation": "paddle - 划水 hua2 shui3 (to paddle)",
+        "explanation": "This means moving the board on the water."
+      },
+      {
+        "word": "，",
+        "translation": "(comma) - ， (punctuation)",
+        "explanation": "This is used to separate clauses."
+      },
+      {
+        "word": "骑着",
+        "translation": "riding - 骑着 qi2 zhe (to ride)",
+        "explanation": "This means to be on top of something moving."
+      },
+      {
+        "word": "温柔的波浪",
+        "translation": "gentle waves - 温柔 wen1 rou2 (gentle) 的 de (of) 波浪 bo1 lang4 (waves)",
+        "explanation": "This describes the calmness of the water."
+      },
+      {
+        "word": "。",
+        "translation": "(period) - 。 (punctuation)",
+        "explanation": "This marks the end of a sentence."
+      }
+    ],
+    [
+      {
+        "word": "每当",
+        "translation": "whenever - 每当 mei3 dang1 (whenever)",
+        "explanation": "This means at any time something happens."
+      },
+      {
+        "word": "他",
+        "translation": "he - 他 ta1 (he)",
+        "explanation": "This refers to Little Pink."
+      },
+      {
+        "word": "征服",
+        "translation": "conquer - 征服 zheng1 fu2 (to conquer)",
+        "explanation": "This means to overcome or achieve."
+      },
+      {
+        "word": "一个",
+        "translation": "one - 一个 yi1 ge4 (one)",
+        "explanation": "This indicates one object."
+      },
+      {
+        "word": "波浪",
+        "translation": "wave - 波浪 bo1 lang4 (wave)",
+        "explanation": "This is the water that surfers ride."
+      },
+      {
+        "word": "时",
+        "translation": "when - 时 shi2 (when)",
+        "explanation": "This indicates the time of an event."
+      },
+      {
+        "word": "，",
+        "translation": "(comma) - ， (punctuation)",
+        "explanation": "This is used to separate clauses."
+      },
+      {
+        "word": "他",
+        "translation": "he - 他 ta1 (he)",
+        "explanation": "This refers to Little Pink."
+      },
+      {
+        "word": "觉得",
+        "translation": "feel - 觉得 jue2 de (to think)",
+        "explanation": "This refers to his thoughts or emotions."
+      },
+      {
+        "word": "自己",
+        "translation": "himself - 自己 zi4 ji3 (oneself)",
+        "explanation": "This refers to the person."
+      },
+      {
+        "word": "比",
+        "translation": "than - 比 bi3 (than)",
+        "explanation": "This is used to compare two things."
+      },
+      {
+        "word": "任何",
+        "translation": "any - 任何 ren4 he2 (any)",
+        "explanation": "This means no matter which."
+      },
+      {
+        "word": "猪保管箱",
+        "translation": "piggy bank - 猪 zhu1 (pig) 保管箱 bao3 guan3 xiang1 (bank)",
+        "explanation": "This is a container for saving money."
+      },
+      {
+        "word": "都",
+        "translation": "all - 都 dou1 (all)",
+        "explanation": "This means every possible one."
+      },
+      {
+        "word": "要",
+        "translation": "need - 要 yao4 (to need)",
+        "explanation": "This indicates a desire."
+      },
+      {
+        "word": "富有",
+        "translation": "rich - 富有 fu4 you3 (wealthy)",
+        "explanation": "This means to have a lot of something."
+      }
+    ],
+    [
+      {
+        "word": "随着",
+        "translation": "with - 随 suí (follow) 着 zhe (indicates a continuing action)",
+        "explanation": "This indicates a condition or situation continuing as summer passes."
+      },
+      {
+        "word": "夏天",
+        "translation": "summer - 夏 xià (summer) 天 tiān (sky)",
+        "explanation": "This refers to the season that is summer."
+      },
+      {
+        "word": "懒洋洋地",
+        "translation": "lazily - 懒 lan3 (lazy) 洋洋 yang2 (easy-going) 地 de (adverbial particle)",
+        "explanation": "This describes how summer is passing in a slow and relaxed manner."
+      },
+      {
+        "word": "流逝",
+        "translation": "flow by - 流 liú (flow) 逝 shì (pass/vanish)",
+        "explanation": "This means that time is passing by."
+      },
+      {
+        "word": "小粉",
+        "translation": "little pink - 小 xiǎo (little) 粉 fěn (pink)",
+        "explanation": "This refers to a character named 'Little Pink'."
+      },
+      {
+        "word": "每天",
+        "translation": "every day - 每 měi (every) 天 tiān (day)",
+        "explanation": "This indicates the frequency of the action, which is daily."
+      },
+      {
+        "word": "在",
+        "translation": "at - 在 zài (at/in/on)",
+        "explanation": "This shows the location where the action takes place."
+      },
+      {
+        "word": "海滩上",
+        "translation": "on the beach - 海滩 hǎi tān (beach) 上 shàng (on)",
+        "explanation": "This describes the setting, which is a beach."
+      }
+    ],
+    [
+      {
+        "word": "他",
+        "translation": "he - 他 tā (he)",
+        "explanation": "Referring to the subject, Little Pink."
+      },
+      {
+        "word": "平衡",
+        "translation": "balances - 平衡 píng héng (balance)",
+        "explanation": "This means he is keeping something steady."
+      },
+      {
+        "word": "和",
+        "translation": "and - 和 hé (and)",
+        "explanation": "This is a conjunction connecting actions or subjects."
+      },
+      {
+        "word": "雕刻着",
+        "translation": "carving - 雕刻 diāo kè (carve) 着 zhe (indicates a continuing action)",
+        "explanation": "This suggests that he is continuously shaping something."
+      },
+      {
+        "word": "波浪",
+        "translation": "waves - 波浪 bō làng (waves)",
+        "explanation": "This refers to the sea's waves."
+      },
+      {
+        "word": "，",
+        "translation": ", - (punctuation)",
+        "explanation": "This is punctuation indicating a pause."
+      },
+      {
+        "word": "感觉",
+        "translation": "feels - 感觉 gǎn jué (feel)",
+        "explanation": "This describes an emotional state."
+      },
+      {
+        "word": "快乐",
+        "translation": "happy - 快乐 kuài lè (happy)",
+        "explanation": "This describes the emotion he is experiencing."
+      },
+      {
+        "word": "和",
+        "translation": "and - 和 hé (and)",
+        "explanation": "This connects two similar ideas."
+      },
+      {
+        "word": "自由",
+        "translation": "free - 自由 zì yóu (free)",
+        "explanation": "This describes a state of being unrestrained."
+      },
+      {
+        "word": "。",
+        "translation": ". - (punctuation)",
+        "explanation": "This is punctuation indicating the end of a sentence."
+      }
+    ],
+    [
+      {
+        "word": "他",
+        "translation": "he - 他 tā (he)",
+        "explanation": "Referring back to Little Pink."
+      },
+      {
+        "word": "和",
+        "translation": "and - 和 hé (and)",
+        "explanation": "A conjunction connecting two subjects."
+      },
+      {
+        "word": "冲浪者们",
+        "translation": "surfers - 冲浪者 chōng làng zhě (surfer) 们 men (plural marker)",
+        "explanation": "This refers to people who surf."
+      },
+      {
+        "word": "成为了",
+        "translation": "became - 成为 chéng wéi (become) 了 le (completed action marker)",
+        "explanation": "This indicates a change or development."
+      },
+      {
+        "word": "好朋友",
+        "translation": "good friends - 好 hǎo (good) 朋友 péng yǒu (friend)",
+        "explanation": "This describes a relationship of friendship."
+      },
+      {
+        "word": "，",
+        "translation": ", - (punctuation)",
+        "explanation": "This indicates a pause."
+      },
+      {
+        "word": "了解了",
+        "translation": "understood - 了解 liǎo jiě (understand) 了 le (completed action marker)",
+        "explanation": "This means he gained knowledge about something."
+      },
+      {
+        "word": "他们的",
+        "translation": "their - 他们 tā men (they) 的 de (possessive particle)",
+        "explanation": "This indicates belonging to the surfers."
+      },
+      {
+        "word": "生活",
+        "translation": "lives - 生活 shēng huó (life)",
+        "explanation": "This refers to the way they live."
+      },
+      {
+        "word": "、",
+        "translation": "and - 和 hé (and)",
+        "explanation": "Another conjunction between ideas."
+      },
+      {
+        "word": "梦想",
+        "translation": "dreams - 梦想 mèng xiǎng (dream)",
+        "explanation": "This refers to aspirations or hopes."
+      },
+      {
+        "word": "和",
+        "translation": "and - 和 hé (and)",
+        "explanation": "Connection between aspects."
+      },
+      {
+        "word": "追求的",
+        "translation": "pursued - 追求 zhuī qiú (pursue) 的 de (possessive particle)",
+        "explanation": "This describes that something is being sought after."
+      },
+      {
+        "word": "简单",
+        "translation": "simple - 简单 jiǎn dān (simple)",
+        "explanation": "This describes the ease or lack of complexity."
+      },
+      {
+        "word": "快乐",
+        "translation": "happiness - 快乐 kuài lè (happiness)",
+        "explanation": "This describes a state of joy."
+      },
+      {
+        "word": "。",
+        "translation": ". - (punctuation)",
+        "explanation": "End of the sentence."
+      }
+    ],
+    [
+      {
+        "word": "回到",
+        "translation": "returned - 回到 huí dào (return to)",
+        "explanation": "This indicates returning to a previous place."
+      },
+      {
+        "word": "家中",
+        "translation": "home - 家 jiā (home) 中 zhōng (in)",
+        "explanation": "This refers to the place where he lives."
+      },
+      {
+        "word": "，",
+        "translation": ", - (punctuation)",
+        "explanation": "Indicates a pause."
+      },
+      {
+        "word": "他的",
+        "translation": "his - 他 tā (he) 的 de (possessive particle)",
+        "explanation": "Indicating that something belongs to him."
+      },
+      {
+        "word": "猪朋友们",
+        "translation": "pig friends - 猪 zhū (pig) 朋友 péng yǒu (friend) 们 men (plural marker)",
+        "explanation": "Refers to a group of friends who are pigs."
+      },
+      {
+        "word": "从",
+        "translation": "from - 从 cóng (from)",
+        "explanation": "Indicates the starting point."
+      },
+      {
+        "word": "自己的",
+        "translation": "own - 自己 zì jǐ (oneself) 的 de (possessive particle)",
+        "explanation": "Indicates something belonging to oneself."
+      },
+      {
+        "word": "保管箱中",
+        "translation": "vault - 保管箱 bǎo guǎn xiāng (safe) 中 zhōng (inside)",
+        "explanation": "This refers to a storage place."
+      },
+      {
+        "word": "观看",
+        "translation": "watching - 观看 guān kàn (watch)",
+        "explanation": "This means to look at or observe."
+      },
+      {
+        "word": "他",
+        "translation": "he - 他 tā (he)",
+        "explanation": "Referring to Little Pink."
+      },
+      {
+        "word": "，",
+        "translation": ", - (punctuation)",
+        "explanation": "Indicates a pause."
+      },
+      {
+        "word": "困惑于",
+        "translation": "confused by - 困惑 kùn huò (confused) 于 yú (by)",
+        "explanation": "This indicates a state of confusion."
+      },
+      {
+        "word": "他放弃",
+        "translation": "his giving up - 他 tā (he) 放弃 fàng qì (give up)",
+        "explanation": "This refers to the action of letting go of something."
+      },
+      {
+        "word": "金币的",
+        "translation": "gold coins - 金币 jīn bì (gold coin) 的 de (possessive particle)",
+        "explanation": "Describes something made of gold."
+      },
+      {
+        "word": "生活选择",
+        "translation": "lifestyle choice - 生活 shēng huó (life) 选择 xuǎn zé (choice)",
+        "explanation": "This describes a decision related to how he lives."
+      },
+      {
+        "word": "。",
+        "translation": ". - (punctuation)",
+        "explanation": "End of the sentence."
+      }
+    ],
+    [
+      {
+        "word": "他们",
+        "translation": "they - 他们 tā men (they)",
+        "explanation": "Refers to Little Pink's pig friends."
+      },
+      {
+        "word": "咯咯地笑着",
+        "translation": "laughed - 咯咯地笑 luō luō de xiào (to laugh with a giggle) 着 zhe (indicates a continuing action)",
+        "explanation": "This describes how they are laughing in a giggling manner."
+      },
+      {
+        "word": "说：",
+        "translation": "said: - 说 shuō (say) : - (punctuation)",
+        "explanation": "Indicates dialogue or speech."
+      },
+      {
+        "word": "“多可惜啊",
+        "translation": "what a pity! - 多 duō (many) 可惜 kě xī (pity) 啊 a (particle for exclamation)",
+        "explanation": "This expresses a feeling of regret."
+      },
+      {
+        "word": "！",
+        "translation": "! - (punctuation)",
+        "explanation": "Indicates strong emotion."
+      },
+      {
+        "word": "他",
+        "translation": "he - 他 tā (he)",
+        "explanation": "Referring back to Little Pink."
+      },
+      {
+        "word": "为什么",
+        "translation": "why - 为什么 wèi shén me (why)",
+        "explanation": "This asks for the reason."
+      },
+      {
+        "word": "不",
+        "translation": "not - 不 bù (not)",
+        "explanation": "This negates what follows."
+      },
+      {
+        "word": "和",
+        "translation": "and - 和 hé (and)",
+        "explanation": "A conjunction connecting ideas."
+      },
+      {
+        "word": "我们",
+        "translation": "us - 我们 wǒ men (we)",
+        "explanation": "Refers to the speakers, Little Pink's friends."
+      },
+      {
+        "word": "一样",
+        "translation": "the same - 一样 yī yàng (same)",
+        "explanation": "This compares with something similar."
+      },
+      {
+        "word": "存钱呢？",
+        "translation": "save money? - 存钱 cún qián (save money) 呢 ne (question particle)",
+        "explanation": "This indicates questioning about saving money."
+      },
+      {
+        "word": "“",
+        "translation": "\" - (punctuation)",
+        "explanation": "Indicates beginning of spoken words."
+      }
+    ],
+    [
+      {
+        "word": "但",
+        "translation": "but - 但 dàn (but)",
+        "explanation": "This word links contrasting ideas. It introduces an opposing point."
+      },
+      {
+        "word": "小粉",
+        "translation": "Little Pink - 小粉 xiǎo fěn (small pink)",
+        "explanation": "This is the name of a character, likely a person or animal."
+      },
+      {
+        "word": "知道",
+        "translation": "knows - 知道 zhī dào (know)",
+        "explanation": "This is what Little Pink does; he has knowledge."
+      },
+      {
+        "word": "他",
+        "translation": "he - 他 tā (he)",
+        "explanation": "Refers to Little Pink."
+      },
+      {
+        "word": "正在",
+        "translation": "is currently - 正在 zhèng zài (currently)",
+        "explanation": "Indicates that an action is happening right now."
+      },
+      {
+        "word": "收获",
+        "translation": "harvesting - 收获 shōu huò (harvest)",
+        "explanation": "What he is gaining or collecting."
+      },
+      {
+        "word": "另一种",
+        "translation": "another type - 另一种 lìng yī zhǒng (another kind)",
+        "explanation": "Referring to a different kind of wealth."
+      },
+      {
+        "word": "财富",
+        "translation": "wealth - 财富 cáifù (wealth)",
+        "explanation": "This refers to valuable possessions or experiences."
+      },
+      {
+        "word": "那些",
+        "translation": "those - 那些 nàxiē (those)",
+        "explanation": "Referring to specific experiences mentioned later."
+      },
+      {
+        "word": "没有",
+        "translation": "no - 没有méiyǒu (not have)",
+        "explanation": "Indicates the absence of something."
+      },
+      {
+        "word": "任何",
+        "translation": "any - 任何 rènhé (any)",
+        "explanation": "Refers to all or any possible things."
+      },
+      {
+        "word": "一堆",
+        "translation": "a pile - 一堆 yī duī (a pile)",
+        "explanation": "Refers to a collection or large amount of something."
+      },
+      {
+        "word": "金币",
+        "translation": "gold coins - 金币 jīnbì (gold coin)",
+        "explanation": "Currency made of gold."
+      },
+      {
+        "word": "可以",
+        "translation": "can - 可以 kěyǐ (can)",
+        "explanation": "Indicates potential or possibility."
+      },
+      {
+        "word": "购买",
+        "translation": "buy - 购买 gòumǎi (purchase)",
+        "explanation": "Action of purchasing something."
+      },
+      {
+        "word": "的",
+        "translation": "(possessive particle) - 的 de (possessive particle)",
+        "explanation": "Indicates possession or association."
+      },
+      {
+        "word": "经历",
+        "translation": "experience - 经历 jīnglì (experience)",
+        "explanation": "Refers to events or activities one has lived through."
+      }
+    ],
+    [
+      {
+        "word": "他",
+        "translation": "he - 他 tā (he)",
+        "explanation": "Refers to Little Pink."
+      },
+      {
+        "word": "学会",
+        "translation": "learns - 学会 xuéhuì (learn)",
+        "explanation": "Indicates that he has gained a skill."
+      },
+      {
+        "word": "了",
+        "translation": "(completed action) - 了 le (completed action)",
+        "explanation": "Indicates that the action of learning is complete."
+      },
+      {
+        "word": "像",
+        "translation": "like - 像 xiàng (like)",
+        "explanation": "Used to compare or show similarity."
+      },
+      {
+        "word": "专业人士",
+        "translation": "professional - 专业人士 zhuānyè rénshì (professional person)",
+        "explanation": "Refers to someone highly skilled in a specific area."
+      },
+      {
+        "word": "一样",
+        "translation": "as - 一样 yīyàng (same as)",
+        "explanation": "Shows that two things are the same."
+      },
+      {
+        "word": "冲浪",
+        "translation": "surfing - 冲浪 chōnglàng (surfing)",
+        "explanation": "The activity of riding waves on a surfboard."
+      },
+      {
+        "word": "结成",
+        "translation": "forms - 结成 jiéchéng (form)",
+        "explanation": "Indicates the action of creating a bond or relationship."
+      },
+      {
+        "word": "了",
+        "translation": "(completed action) - 了 le (completed action)",
+        "explanation": "Indicates that a relationship forming action is complete."
+      },
+      {
+        "word": "比",
+        "translation": "than - 比 bǐ (than)",
+        "explanation": "Used for comparison."
+      },
+      {
+        "word": "任何",
+        "translation": "any - 任何 rènhé (any)",
+        "explanation": "Referring to all or any possible things."
+      },
+      {
+        "word": "黄金",
+        "translation": "gold - 黄金 huángjīn (gold)",
+        "explanation": "Referring to a valuable metal."
+      },
+      {
+        "word": "更",
+        "translation": "more - 更 gèng (more)",
+        "explanation": "Indicates a higher degree."
+      },
+      {
+        "word": "闪亮",
+        "translation": "shiny - 闪亮 shǎnliàng (shiny)",
+        "explanation": "Describes something that reflects light, very bright."
+      },
+      {
+        "word": "的",
+        "translation": "(possessive particle) - 的 de (possessive particle)",
+        "explanation": "Indicates possession or association."
+      },
+      {
+        "word": "友谊",
+        "translation": "friendship - 友谊 yǒuyì (friendship)",
+        "explanation": "A close relationship between people."
+      },
+      {
+        "word": "拥抱",
+        "translation": "embraces - 拥抱 yōngbào (embrace)",
+        "explanation": "To hug or take in, indicating acceptance."
+      },
+      {
+        "word": "了",
+        "translation": "(completed action) - 了 le (completed action)",
+        "explanation": "Indicates that the embrace action is complete."
+      },
+      {
+        "word": "充满",
+        "translation": "full of - 充满 chōngmǎn (filled with)",
+        "explanation": "Indicates that something has an abundance of quality."
+      },
+      {
+        "word": "欢笑",
+        "translation": "laughter - 欢笑 huānxiào (laughter)",
+        "explanation": "Sound or feeling of being happy."
+      },
+      {
+        "word": "的",
+        "translation": "(possessive particle) - 的 de (possessive particle)",
+        "explanation": "Indicates possession or association."
+      },
+      {
+        "word": "冒险",
+        "translation": "adventures - 冒险 màoxiǎn (adventures)",
+        "explanation": "Refers to exciting or risky activities."
+      }
+    ],
+    [
+      {
+        "word": "潮水",
+        "translation": "tide - 潮水 cháoshuǐ (tide)",
+        "explanation": "Refers to the rise and fall of sea levels."
+      },
+      {
+        "word": "转变",
+        "translation": "changes - 转变 zhuǎnbiàn (change)",
+        "explanation": "Indicates a shift or alteration."
+      },
+      {
+        "word": "秋天",
+        "translation": "autumn - 秋天 qiūtiān (autumn)",
+        "explanation": "The season between summer and winter."
+      },
+      {
+        "word": "来临",
+        "translation": "arrives - 来临 láilín (arrive)",
+        "explanation": "To come or occur."
+      },
+      {
+        "word": "时",
+        "translation": "when - 时 shí (time/when)",
+        "explanation": "Indicating a point in time."
+      },
+      {
+        "word": "小粉",
+        "translation": "Little Pink - 小粉 xiǎo fěn (small pink)",
+        "explanation": "This is the name of a character."
+      },
+      {
+        "word": "邀请",
+        "translation": "invites - 邀请 yāoqǐng (invite)",
+        "explanation": "To ask someone to join or come."
+      },
+      {
+        "word": "他的",
+        "translation": "his - 他的 tā de (his)",
+        "explanation": "Indicates possession, belonging to him."
+      },
+      {
+        "word": "朋友",
+        "translation": "friends - 朋友 péngyǒu (friend)",
+        "explanation": "People he has a friendly relationship with."
+      },
+      {
+        "word": "们",
+        "translation": "(plural suffix) - 们 men (plural)",
+        "explanation": "Indicates that there are multiple friends."
+      },
+      {
+        "word": "到",
+        "translation": "to - 到 dào (to)",
+        "explanation": "Indicates direction or arrival."
+      },
+      {
+        "word": "海滩",
+        "translation": "beach - 海滩 hǎitān (beach)",
+        "explanation": "A sandy or pebbly shore beside an ocean."
+      },
+      {
+        "word": "来",
+        "translation": "come - 来 lái (come)",
+        "explanation": "The action of moving towards where he is."
+      }
+    ],
+    [
+      {
+        "word": "尽管",
+        "translation": "although - 尽管 jǐnguǎn (although)",
+        "explanation": "Shows contrast, similar to 'but'."
+      },
+      {
+        "word": "不情愿",
+        "translation": "reluctant - 不情愿 bù qíngyuàn (reluctant)",
+        "explanation": "Not willing to do something."
+      },
+      {
+        "word": "他们",
+        "translation": "they - 他们 tāmen (they)",
+        "explanation": "Refers to a group, likely Little Pink's friends."
+      },
+      {
+        "word": "还是",
+        "translation": "still - 还是 háishi (still)",
+        "explanation": "Indicates that it happens anyway despite reluctance."
+      },
+      {
+        "word": "从",
+        "translation": "from - 从 cóng (from)",
+        "explanation": "Indicates the starting point of movement."
+      },
+      {
+        "word": "保管箱",
+        "translation": "safety deposit box - 保管箱 bǎoguǎn xiāng (safety box)",
+        "explanation": "A secured container for storing valuables."
+      },
+      {
+        "word": "中",
+        "translation": "in - 中 zhōng (in)",
+        "explanation": "Indicates location."
+      },
+      {
+        "word": "出来",
+        "translation": "come out - 出来 chūlái (come out)",
+        "explanation": "Indicates the action of exiting."
+      },
+      {
+        "word": "出于",
+        "translation": "out of - 出于 chū yú (from/because of)",
+        "explanation": "Indicates reason or cause."
+      },
+      {
+        "word": "好奇",
+        "translation": "curiosity - 好奇 hàoqí (curious)",
+        "explanation": "Describes a desire to know more."
+      },
+      {
+        "word": "而",
+        "translation": "and - 而 ér (and)",
+        "explanation": "Used to connect ideas."
+      },
+      {
+        "word": "来",
+        "translation": "come - 来 lái (come)",
+        "explanation": "The action of moving towards something."
+      }
+    ],
+    [
+      {
+        "word": "看着",
+        "translation": "watching - 看着 kànzhe (watch)",
+        "explanation": "Indicates the action of looking at something."
+      },
+      {
+        "word": "小粉",
+        "translation": "Little Pink - 小粉 xiǎo fěn (small pink)",
+        "explanation": "This is the name of a character."
+      },
+      {
+        "word": "优雅地",
+        "translation": "gracefully - 优雅地 yōuyǎ de (gracefully)",
+        "explanation": "Describes how he is performing the action in a stylish manner."
+      },
+      {
+        "word": "冲浪",
+        "translation": "surfing - 冲浪 chōnglàng (surfing)",
+        "explanation": "The activity of riding waves on a surfboard."
+      },
+      {
+        "word": "他们",
+        "translation": "they - 他们 tāmen (they)",
+        "explanation": "Refers to a group, likely Little Pink's friends."
+      },
+      {
+        "word": "被",
+        "translation": "are attracted - 被 bèi (by)",
+        "explanation": "Indicates passive voice, showing that the action happens to them."
+      },
+      {
+        "word": "他",
+        "translation": "his - 他 tā (he)",
+        "explanation": "Refers to Little Pink."
+      },
+      {
+        "word": "无以名状",
+        "translation": "indescribable - 无以名状 wú yǐ míng zhuàng (unspeakable)",
+        "explanation": "Refers to something that cannot be easily described."
+      },
+      {
+        "word": "的",
+        "translation": "(possessive particle) - 的 de (possessive particle)",
+        "explanation": "Indicates possession or association."
+      },
+      {
+        "word": "欢喜",
+        "translation": "joy - 欢喜 huānxǐ (joy)",
+        "explanation": "A feeling of great happiness."
+      },
+      {
+        "word": "和",
+        "translation": "and - 和 hé (and)",
+        "explanation": "Connects two ideas."
+      },
+      {
+        "word": "兴奋",
+        "translation": "excitement - 兴奋 xīngfèn (excitement)",
+        "explanation": "A feeling of enthusiasm or eagerness."
+      },
+      {
+        "word": "所吸引",
+        "translation": "attracted - 所吸引 suǒ xīyǐn (attracted)",
+        "explanation": "Describes what pulls them in."
+      }
+    ],
+    [
+      {
+        "word": "小粉",
+        "translation": "Little Pink - 小 xiao3 (small) 粉 fen3 (pink)",
+        "explanation": "Little Pink is a character's name."
+      },
+      {
+        "word": "在",
+        "translation": "in",
+        "explanation": "Indicates location."
+      },
+      {
+        "word": "水中",
+        "translation": "the water - 水 shui3 (water) 中 zhong1 (inside)",
+        "explanation": "Refers to being inside the water."
+      },
+      {
+        "word": "热情地",
+        "translation": "enthusiastically - 热情 re4 qing2 (enthusiasm) 地 de5 (adverbial marker)",
+        "explanation": "Describes how Little Pink is waving."
+      },
+      {
+        "word": "挥手",
+        "translation": "waving - 挥 hui1 (to wave) 手 shou3 (hand)",
+        "explanation": "What Little Pink is doing with her hand."
+      },
+      {
+        "word": "来吧",
+        "translation": "come on - 来 lai2 (come) 吧 ba5 (a modal particle for suggestion)",
+        "explanation": "An invitation or encouragement."
+      },
+      {
+        "word": "伙计们",
+        "translation": "guys - 伙计 huo3 ji4 (partners) 们 men5 (plural marker)",
+        "explanation": "Refers to a group of friends."
+      },
+      {
+        "word": "你们",
+        "translation": "you - 你 ni3 (you) 们 men5 (plural marker)",
+        "explanation": "Speaking to the group."
+      },
+      {
+        "word": "一定要",
+        "translation": "must - 一定 yi2 ding4 (certainly) 要 yao4 (want)",
+        "explanation": "States necessity."
+      },
+      {
+        "word": "试试",
+        "translation": "try - 试 shi4 (to try) 试 shi4 (to try)",
+        "explanation": "Encouraging to attempt something."
+      }
+    ],
+    [
+      {
+        "word": "小猪们",
+        "translation": "the piglets - 小 xiao3 (small) 猪 zhu1 (pig) 们 men5 (plural marker)",
+        "explanation": "Refers to a group of small pigs."
+      },
+      {
+        "word": "互相",
+        "translation": "each other",
+        "explanation": "Indicates interaction between the piglets."
+      },
+      {
+        "word": "交换着",
+        "translation": "exchanging - 交换 jiao1 huan4 (exchange) 着 zhe5 (indicating continuous action)",
+        "explanation": "Describes ongoing action."
+      },
+      {
+        "word": "紧张的",
+        "translation": "nervous - 紧张 jin3 zhang1 (nervous) 的 de5 (possessive particle)",
+        "explanation": "Describes the piglets' emotional state."
+      },
+      {
+        "word": "目光",
+        "translation": "glances - 目光 mu4 guang1 (glance or eyes)",
+        "explanation": "Refers to what the piglets are looking at."
+      },
+      {
+        "word": "但",
+        "translation": "but",
+        "explanation": "Indicates contrast."
+      },
+      {
+        "word": "在",
+        "translation": "at",
+        "explanation": "Indicates location."
+      },
+      {
+        "word": "小粉的",
+        "translation": "Little Pink's - 小粉 xiao3 fen3 (Little Pink) 的 de5 (possessive particle)",
+        "explanation": "Shows possession."
+      },
+      {
+        "word": "热情",
+        "translation": "enthusiasm - 热情 re4 qing2 (enthusiasm)",
+        "explanation": "Describes Little Pink's attitude."
+      },
+      {
+        "word": "感染下",
+        "translation": "infected by - 感染 gan3 ran3 (infect) 下 xia4 (down)",
+        "explanation": "Suggests influence from Little Pink."
+      },
+      {
+        "word": "他们",
+        "translation": "they - 他们 ta1 men5 (they)",
+        "explanation": "Refers to the piglets."
+      },
+      {
+        "word": "走到",
+        "translation": "walked to - 走 zao3 (to walk) 到 dao4 (arrive at)",
+        "explanation": "Describes movement."
+      },
+      {
+        "word": "水边",
+        "translation": "the water's edge - 水 shui3 (water) 边 bian1 (edge)",
+        "explanation": "Indicates location near the water."
+      }
+    ],
+    [
+      {
+        "word": "最后",
+        "translation": "finally - 最后 zui4 hou4 (last)",
+        "explanation": "Indicates the conclusion of the event."
+      },
+      {
+        "word": "在",
+        "translation": "with",
+        "explanation": "Indicates togetherness."
+      },
+      {
+        "word": "一番帮助下",
+        "translation": "a round of help - 一番 yi1 fan1 (a round) 帮助 bang1 zhu4 (help) 下 xia4 (down)",
+        "explanation": "Refers to some assistance they received."
+      },
+      {
+        "word": "他们",
+        "translation": "they - 他们 ta1 men5 (they)",
+        "explanation": "Refers again to the piglets."
+      },
+      {
+        "word": "也",
+        "translation": "also",
+        "explanation": "Indicates inclusion."
+      },
+      {
+        "word": "穿上了",
+        "translation": "put on - 穿上 chuan1 shang4 (to wear) 了 le5 (completed action marker)",
+        "explanation": "Describes the action of wearing something."
+      },
+      {
+        "word": "自己的",
+        "translation": "their own - 自己 zi4 ji3 (oneself) 的 de5 (possessive particle)",
+        "explanation": "Indicates possession."
+      },
+      {
+        "word": "小潜水服",
+        "translation": "little wetsuits - 小 xiao3 (little) 潜水服 qian2 shui3 fu2 (wetsuit)",
+        "explanation": "Describes what they are wearing."
+      },
+      {
+        "word": "肚子",
+        "translation": "belly - 肚子 du4 zi5 (belly)",
+        "explanation": "Part of the body that is down."
+      },
+      {
+        "word": "朝下",
+        "translation": "facing down - 朝 zhao1 (facing) 下 xia4 (down)",
+        "explanation": "Indicates the direction."
+      },
+      {
+        "word": "扑到了",
+        "translation": "plunged onto - 扑 pu1 (to plunge) 到 dao4 (arrive at) 了 le5 (completed action marker)",
+        "explanation": "Describes the action."
+      },
+      {
+        "word": "冲浪板上",
+        "translation": "the surfboard - 冲浪板 chong1 lang4 ban3 (surfboard) 上 shang4 (on)",
+        "explanation": "Denotes location."
+      }
+    ],
+    [
+      {
+        "word": "那天",
+        "translation": "that day - 那天 na4 tian1 (that day)",
+        "explanation": "Refers to a specific day."
+      },
+      {
+        "word": "回荡的",
+        "translation": "echoing - 回荡 hui2 dang4 (to echo) 的 de5 (modifying particle)",
+        "explanation": "Describes how the laughter sounds."
+      },
+      {
+        "word": "笑声",
+        "translation": "laughter - 笑声 xiao4 sheng1 (laughter)",
+        "explanation": "Denotes the sound of people laughing."
+      },
+      {
+        "word": "令人感染",
+        "translation": "infectious - 令人 ling2 ren2 (people feel) 感染 gan3 ran3 (to infect)",
+        "explanation": "Describes something that influences emotions."
+      },
+      {
+        "word": "每只",
+        "translation": "each - 每 mei3 (every) 只 zhi1 (measure word for animals)",
+        "explanation": "Indicates individuality."
+      },
+      {
+        "word": "小猪",
+        "translation": "little pig - 小 xiao3 (little) 猪 zhu1 (pig)",
+        "explanation": "Refers to the piglets."
+      },
+      {
+        "word": "都",
+        "translation": "all - 都 dou1 (all)",
+        "explanation": "Indicates totality."
+      },
+      {
+        "word": "摔倒",
+        "translation": "fell - 摔倒 shuai1 dao3 (to fall)",
+        "explanation": "Describes the action of falling down."
+      },
+      {
+        "word": "溅水并尝试着",
+        "translation": "splash water and try - 溅水 jian4 shui3 (to splash water) 并 bing4 (and) 尝试 zhang1 shi4 (to try) 着 zhe5 (indicating continuous action)",
+        "explanation": "Describes the actions they are doing."
+      },
+      {
+        "word": "他们",
+        "translation": "they - 他们 ta1 men5 (they)",
+        "explanation": "Refers back to the piglets."
+      },
+      {
+        "word": "之前的",
+        "translation": "previous - 之前 zhi1 qian2 (before) 的 de5 (possessive particle)",
+        "explanation": "Refers to what happened earlier."
+      },
+      {
+        "word": "僵硬",
+        "translation": "stiffness - 僵硬 jiang1 ying4 (stiff)",
+        "explanation": "Describes how they felt before."
+      },
+      {
+        "word": "在",
+        "translation": "in",
+        "explanation": "Indicates the context of being in something."
+      },
+      {
+        "word": "顽皮的",
+        "translation": "playful - 顽皮 wan2 pi2 (playful) 的 de5 (possessive particle)",
+        "explanation": "Describes the waves."
+      },
+      {
+        "word": "波浪中",
+        "translation": "waves - 波浪 bo1 lang4 (waves) 中 zhong1 (in)",
+        "explanation": "Indicates being surrounded by waves."
+      },
+      {
+        "word": "慢慢",
+        "translation": "slowly - 慢慢 man4 man4 (slowly)",
+        "explanation": "Describes the speed of change."
+      },
+      {
+        "word": "消融",
+        "translation": "melting - 消融 xiao1 rong2 (to dissolve)",
+        "explanation": "Describes a change from stiffness to being relaxed."
+      }
+    ],
+    [
+      {
+        "word": "意识到",
+        "translation": "realized - 意识到 yi4 shi2 dao4 (to realize)",
+        "explanation": "Describes the action of understanding."
+      },
+      {
+        "word": "他们",
+        "translation": "they - 他们 ta1 men5 (they)",
+        "explanation": "Refers to the piglets."
+      },
+      {
+        "word": "是",
+        "translation": "are",
+        "explanation": "A verb indicating being."
+      },
+      {
+        "word": "多么",
+        "translation": "how - 多么 duo1 me5 (how)",
+        "explanation": "An expression of strong emotion."
+      },
+      {
+        "word": "喜欢",
+        "translation": "like - 喜欢 xi3 huan1 (to like)",
+        "explanation": "Describes their feelings about surfing."
+      },
+      {
+        "word": "冲浪",
+        "translation": "surfing - 冲浪 chong1 lang4 (surfing)",
+        "explanation": "Refers to the activity they are doing."
+      },
+      {
+        "word": "一个",
+        "translation": "a - 一个 yi1 ge4 (one)",
+        "explanation": "Indicates one of something."
+      },
+      {
+        "word": "小猪的",
+        "translation": "little pig's - 小猪 xiao3 zhu1 (little pig) 的 de5 (possessive particle)",
+        "explanation": "Shows possession by one piglet."
+      },
+      {
+        "word": "脑海中",
+        "translation": "in the mind - 脑海 na3o3 hai3 (mind) 中 zhong1 (in)",
+        "explanation": "Refers to mental space."
+      },
+      {
+        "word": "闪过",
+        "translation": "flashed - 闪过 shan3 guo4 (to flash by)",
+        "explanation": "Indicates a quick thought."
+      },
+      {
+        "word": "一个主意",
+        "translation": "an idea - 一个 yi1 ge4 (one) 主意 zhu3 yi4 (idea)",
+        "explanation": "Refers to a new thought."
+      },
+      {
+        "word": "我们",
+        "translation": "we - 我们 wo3 men5 (we)",
+        "explanation": "Refers to the group including the speaker."
+      },
+      {
+        "word": "为什么",
+        "translation": "why - 为什么 wei4 shen2 me5 (why)",
+        "explanation": "Introduces a question."
+      },
+      {
+        "word": "不",
+        "translation": "not",
+        "explanation": "Indicates negation."
+      },
+      {
+        "word": "投资",
+        "translation": "invest - 投资 tou2 zi1 (to invest)",
+        "explanation": "Describes the act of putting resources into something."
+      },
+      {
+        "word": "一个",
+        "translation": "a - 一个 yi1 ge4 (one)",
+        "explanation": "Indicates singular."
+      },
+      {
+        "word": "冲浪学校",
+        "translation": "surf school - 冲浪 chong1 lang4 (surfing) 学校 xue2 xiao4 (school)",
+        "explanation": "Describes a place of learning about surfing."
+      },
+      {
+        "word": "我们",
+        "translation": "we - 我们 wo3 men5 (we)",
+        "explanation": "Refers again to the group."
+      },
+      {
+        "word": "都可以",
+        "translation": "can all - 都 dou1 (all) 可以 ke3 yi3 (can)",
+        "explanation": "Indicates that all can participate."
+      },
+      {
+        "word": "分享",
+        "translation": "share - 分享 fen1 xiang3 (to share)",
+        "explanation": "To divide something among others."
+      },
+      {
+        "word": "这个快乐",
+        "translation": "this happiness - 这个 zhe4 ge4 (this) 快乐 kuai4 le4 (happiness)",
+        "explanation": "Refers to the joy they are experiencing!"
+      }
+    ],
+    [
+      {
+        "word": "小粉",
+        "translation": "Little Pink - 小 xiao3 (small) 粉 fen3 (pink)",
+        "explanation": "Little Pink is the name of a character in the sentence."
+      },
+      {
+        "word": "的",
+        "translation": "'s - 的 de (possessive particle)",
+        "explanation": "A particle used to indicate possession or a descriptive relationship."
+      },
+      {
+        "word": "眼睛",
+        "translation": "eyes - 眼睛 yan3jing1 (eyes)",
+        "explanation": "The body part that Little Pink uses to see."
+      },
+      {
+        "word": "闪烁",
+        "translation": "twinkle - 闪 shan3 (flash) 爍 shuo4 (to shine)",
+        "explanation": "An action that describes how Little Pink's eyes are shining."
+      },
+      {
+        "word": "着",
+        "translation": "(continuous aspect marker) - 着 zhao4 (indicates an ongoing action)",
+        "explanation": "A word that shows that the action is happening continuously."
+      },
+      {
+        "word": "光",
+        "translation": "light - 光 guang1 (light)",
+        "explanation": "The bright appearance that eyes can have when they are excited."
+      },
+      {
+        "word": "这",
+        "translation": "this - 这 zhe4 (this)",
+        "explanation": "Refers to something nearby, in this case, an idea."
+      },
+      {
+        "word": "真是",
+        "translation": "really is - 真 zhen1 (really) 是 shi4 (is)",
+        "explanation": "A phrase to emphasize something is true."
+      },
+      {
+        "word": "个",
+        "translation": "a - 个 ge4 (a generic measure word)",
+        "explanation": "A measure word used for counting nouns."
+      },
+      {
+        "word": "绝妙的",
+        "translation": "brilliant - 绝妙 jue2miao4 (brilliant) 的 de (descriptive particle)",
+        "explanation": "A word that describes the idea as wonderful or excellent."
+      },
+      {
+        "word": "主意",
+        "translation": "idea - 主意 zhu3yi4 (idea)",
+        "explanation": "A thought or plan that is being referred to."
+      },
+      {
+        "word": "我们",
+        "translation": "we - 我们 wo3men (we)",
+        "explanation": "Refers to the speaker and others."
+      },
+      {
+        "word": "可以",
+        "translation": "can - 可以 ke3yi3 (can, able to)",
+        "explanation": "Indicates the ability to do something."
+      },
+      {
+        "word": "一起",
+        "translation": "together - 一起 yi1qi3 (together)",
+        "explanation": "Describing doing something in unison."
+      },
+      {
+        "word": "教",
+        "translation": "teach - 教 jiao4 (to teach)",
+        "explanation": "The action of instructing someone else."
+      },
+      {
+        "word": "别人",
+        "translation": "others - 别人 bie2ren2 (others)",
+        "explanation": "Refers to other people who are not the speaker or their friends."
+      },
+      {
+        "word": "冲浪",
+        "translation": "surf - 冲浪 chong1lang4 (to surf)",
+        "explanation": "The action of riding on a surfboard on waves."
+      },
+      {
+        "word": "就像",
+        "translation": "just like - 就像 jiu4xiang4 (just like)",
+        "explanation": "A phrase used for comparison."
+      },
+      {
+        "word": "我",
+        "translation": "I - 我 wo3 (I)",
+        "explanation": "The pronoun referring to the speaker."
+      },
+      {
+        "word": "学到的",
+        "translation": "have learned - 学到的 xue2dao4de (have learned)",
+        "explanation": "Indicates something the speaker has acquired knowledge of."
+      },
+      {
+        "word": "那样",
+        "translation": "that way - 那样 na4yang4 (that way)",
+        "explanation": "A phrase that indicates a certain manner or method."
+      }
+    ],
+    [
+      {
+        "word": "在",
+        "translation": "in - 在 zai4 (at, in)",
+        "explanation": "Indicates the position or location."
+      },
+      {
+        "word": "规划",
+        "translation": "planning - 规划 gui1hua4 (planning)",
+        "explanation": "The action of organizing or designing something."
+      },
+      {
+        "word": "和",
+        "translation": "and - 和 he2 (and)",
+        "explanation": "A conjunction to connect two elements."
+      },
+      {
+        "word": "集中",
+        "translation": "gather - 集中 ji2zhong1 (to concentrate)",
+        "explanation": "The action of bringing together."
+      },
+      {
+        "word": "他们",
+        "translation": "they - 他们 ta1men (they)",
+        "explanation": "Refers to a group of people, in this case, Little Pink and friends."
+      },
+      {
+        "word": "的",
+        "translation": "'s - 的 de (possessive particle)",
+        "explanation": "Indicates possession."
+      },
+      {
+        "word": "猪保管箱",
+        "translation": "piggy bank - 猪保管箱 zhu1bao3guan3xiang1 (piggy bank)",
+        "explanation": "A container often used to save coins."
+      },
+      {
+        "word": "里的",
+        "translation": "inside - 里 li3 (inside) 的 de (possessive particle)",
+        "explanation": "Indicates location within something."
+      },
+      {
+        "word": "硬币",
+        "translation": "coins - 硬币 ying4bi4 (coins)",
+        "explanation": "Small, flat pieces of metal used as money."
+      },
+      {
+        "word": "后",
+        "translation": "after - 后 hou4 (after)",
+        "explanation": "Indicates a point in time following an event."
+      },
+      {
+        "word": "小粉",
+        "translation": "Little Pink - 小 xiao3 (small) 粉 fen3 (pink)",
+        "explanation": "The name of the same character from earlier."
+      },
+      {
+        "word": "和",
+        "translation": "and - 和 he2 (and)",
+        "explanation": "Connecting Little Pink with their friends."
+      },
+      {
+        "word": "他的",
+        "translation": "his - 他的 ta1de (his)",
+        "explanation": "Refers to possession belonging to one male character."
+      },
+      {
+        "word": "朋友们",
+        "translation": "friends - 朋友们 peng2you3men (friends)",
+        "explanation": "A group of companions or associates."
+      },
+      {
+        "word": "开设了",
+        "translation": "set up - 开设了 kai1she4le (has established)",
+        "explanation": "The action of starting something."
+      },
+      {
+        "word": "冲浪学院",
+        "translation": "surfing academy - 冲浪学院 chong1lang4xue2yuan4 (surfing academy)",
+        "explanation": "An institution where surfing is taught."
+      }
+    ],
+    [
+      {
+        "word": "他们",
+        "translation": "they - 他们 ta1men (they)",
+        "explanation": "Refers to Little Pink and friends."
+      },
+      {
+        "word": "涂上了",
+        "translation": "painted - 涂上了 tu2shang4le (has painted on)",
+        "explanation": "The action of applying paint."
+      },
+      {
+        "word": "鲜艳的",
+        "translation": "bright colors - 鲜艳的 xian1yan4de (bright colors)",
+        "explanation": "Describes the vivid nature of the colors."
+      },
+      {
+        "word": "颜色",
+        "translation": "colors - 颜色 yan2se4 (colors)",
+        "explanation": "The different hues of the paint used."
+      },
+      {
+        "word": "装饰了",
+        "translation": "decorated - 装饰了 zhuang1shi4le (has decorated)",
+        "explanation": "The action of adding decoration."
+      },
+      {
+        "word": "冲浪板",
+        "translation": "surfboards - 冲浪板 chong1lang4ban3 (surfboards)",
+        "explanation": "The boards used to ride waves in surfing."
+      },
+      {
+        "word": "不久",
+        "translation": "shortly - 不久 bu4jiu3 (soon)",
+        "explanation": "Indicates a time that will come soon."
+      },
+      {
+        "word": "渴望",
+        "translation": "eager - 渴望 ke3wang4 (to long for)",
+        "explanation": "Describes a strong desire."
+      },
+      {
+        "word": "学习",
+        "translation": "learn - 学习 xue2xi2 (to learn)",
+        "explanation": "The process of acquiring knowledge."
+      },
+      {
+        "word": "冲浪的",
+        "translation": "surfing - 冲浪的 chong1lang4de (surfing)",
+        "explanation": "Describes the action related to surfing."
+      },
+      {
+        "word": "小学生们",
+        "translation": "elementary students - 小学生们 xiao3xue2sheng1men (elementary students)",
+        "explanation": "Refers to young students who are eager to learn."
+      },
+      {
+        "word": "纷纷而至",
+        "translation": "come one after another - 纷纷而至 fen1fen1er2zhi4 (arrive one after another)",
+        "explanation": "Describes many students arriving at the same time."
+      },
+      {
+        "word": "来",
+        "translation": "come - 来 lai2 (to come)",
+        "explanation": "An action of moving towards a location."
+      },
+      {
+        "word": "向",
+        "translation": "to - 向 xiang4 (towards)",
+        "explanation": "Indicates direction or orientation."
+      },
+      {
+        "word": "这些",
+        "translation": "these - 这些 zhe4xie1 (these)",
+        "explanation": "Refers to specific ones that are nearby."
+      },
+      {
+        "word": "小猪们",
+        "translation": "little pigs - 小猪们 xiao3zhu1men (little pigs)",
+        "explanation": "Refers to Little Pink and his friends."
+      },
+      {
+        "word": "学习",
+        "translation": "learn - 学习 xue2xi2 (to learn)",
+        "explanation": "The process of acquiring knowledge."
+      },
+      {
+        "word": "冲浪",
+        "translation": "surf - 冲浪 chong1lang4 (to surf)",
+        "explanation": "The action of riding on a surfboard."
+      }
+    ],
+    [
+      {
+        "word": "随着",
+        "translation": "as - 随着 sui2zhe (along with)",
+        "explanation": "Indicates a simultaneous occurrence."
+      },
+      {
+        "word": "每一天",
+        "translation": "each day - 每一天 mei3yi1tian1 (every day)",
+        "explanation": "Refers to the passage of time day by day."
+      },
+      {
+        "word": "的",
+        "translation": "(descriptive particle) - 的 de (descriptive particle)",
+        "explanation": "Used to connect adjectives to nouns."
+      },
+      {
+        "word": "过去",
+        "translation": "passing - 过去 guo4qu4 (to pass)",
+        "explanation": "Describes the action of moving through time."
+      },
+      {
+        "word": "他们",
+        "translation": "they - 他们 ta1men (they)",
+        "explanation": "Refers to Little Pink and friends."
+      },
+      {
+        "word": "分享着",
+        "translation": "sharing - 分享着 fen1xiang3zhe (are sharing)",
+        "explanation": "Describes the ongoing action of sharing experiences."
+      },
+      {
+        "word": "自己",
+        "translation": "their - 自己 zi4ji3 (self)",
+        "explanation": "Refers to them individually."
+      },
+      {
+        "word": "的",
+        "translation": "(possessive particle) - 的 de (possessive particle)",
+        "explanation": "Indicates possession."
+      },
+      {
+        "word": "热情",
+        "translation": "enthusiasm - 热情 re4qing2 (enthusiasm)",
+        "explanation": "The excitement and passion they feel."
+      },
+      {
+        "word": "冲浪学校",
+        "translation": "surfing school - 冲浪学校 chong1lang4xue2xiao4 (surfing school)",
+        "explanation": "An institution where surfing is taught."
+      },
+      {
+        "word": "蓬勃发展",
+        "translation": "flourishing - 蓬勃发展 peng2bo2fa1zhan3 (to develop vigorously)",
+        "explanation": "Describes the growth and success of the school."
+      },
+      {
+        "word": "带来了",
+        "translation": "brought - 带来了 dai4lai2le (has brought)",
+        "explanation": "The action of bringing something to a place."
+      },
+      {
+        "word": "无数",
+        "translation": "countless - 无数 wu2shu4 (countless)",
+        "explanation": "Refers to a large number that cannot be counted."
+      },
+      {
+        "word": "快乐",
+        "translation": "happy - 快乐 kuai4le (happy)",
+        "explanation": "The feeling of joy and contentment."
+      },
+      {
+        "word": "的",
+        "translation": "(descriptive particle) - 的 de (descriptive particle)",
+        "explanation": "Connects the adjective to a noun."
+      },
+      {
+        "word": "回忆",
+        "translation": "memories - 回忆 hui2yi4 (memories)",
+        "explanation": "Thoughts of past experiences."
+      },
+      {
+        "word": "和",
+        "translation": "and - 和 he2 (and)",
+        "explanation": "A conjunction to connect two elements."
+      },
+      {
+        "word": "体验",
+        "translation": "experiences - 体验 ti3yan4 (experiences)",
+        "explanation": "The acts of living through events."
+      }
+    ],
+    [
+      {
+        "word": "小猪们",
+        "translation": "little pigs - 小猪们 xiao3zhu1men (little pigs)",
+        "explanation": "Describes Little Pink and his friends."
+      },
+      {
+        "word": "欢笑着",
+        "translation": "laughing - 欢笑着 huan1xiao4zhe (are laughing)",
+        "explanation": "An ongoing action of being happy."
+      },
+      {
+        "word": "一起",
+        "translation": "together - 一起 yi1qi3 (together)",
+        "explanation": "Indicates doing something in unison."
+      },
+      {
+        "word": "冲浪",
+        "translation": "surf - 冲浪 chong1lang4 (to surf)",
+        "explanation": "The action of riding on waves."
+      },
+      {
+        "word": "幸福",
+        "translation": "happiness - 幸福 xing4fu2 (happiness)",
+        "explanation": "The feeling of joy and contentment."
+      },
+      {
+        "word": "充满了",
+        "translation": "filled with - 充满了 chong1man3le (has filled)",
+        "explanation": "Describes being full of something."
+      },
+      {
+        "word": "他们的",
+        "translation": "their - 他们的 ta1men de (their)",
+        "explanation": "Indicates possession belonging to Little Pink and his friends."
+      },
+      {
+        "word": "心",
+        "translation": "hearts - 心 xin1 (heart)",
+        "explanation": "The organ that symbolizes emotions and feelings."
+      }
+    ],
+    [
+      {
+        "word": "虽然",
+        "translation": "although - 虽 (sui1, although) 然 (ran2, however)",
+        "explanation": "it means 'although', showing a contrast."
+      },
+      {
+        "word": "他们",
+        "translation": "they - 他们 (ta1 men), they (plural of he/she)",
+        "explanation": "refers to a group of people."
+      },
+      {
+        "word": "不再",
+        "translation": "no longer - 不 (bu4, not) 再 (zai4, again)",
+        "explanation": "means 'not anymore', indicating change."
+      },
+      {
+        "word": "像",
+        "translation": "like - 像 (xiang4, like)",
+        "explanation": "means 'similar to or resembling'."
+      },
+      {
+        "word": "以前",
+        "translation": "before - 以前 (yi3 qian2, before)",
+        "explanation": "indicates a time in the past."
+      },
+      {
+        "word": "那样",
+        "translation": "that way - 那样 (na4 yang4, that way)",
+        "explanation": "refers to a manner or way of doing things."
+      },
+      {
+        "word": "渴望",
+        "translation": "long for - 渴望 (ke3 wang4, long for)",
+        "explanation": "means a strong desire for something."
+      },
+      {
+        "word": "财富",
+        "translation": "wealth - 财富 (cai2 fu4, wealth)",
+        "explanation": "refers to riches or valuable resources."
+      },
+      {
+        "word": "但",
+        "translation": "but - 但 (dan4, but)",
+        "explanation": "used to show contrast."
+      },
+      {
+        "word": "小粉",
+        "translation": "Xiaofen - 小粉 (xiao3 fen3, little pink)",
+        "explanation": "a name, meaning 'little pink', a character."
+      },
+      {
+        "word": "和",
+        "translation": "and - 和 (he2, and)",
+        "explanation": "used to connect words or phrases."
+      },
+      {
+        "word": "他的",
+        "translation": "his - 他的 (ta1 de5, his)",
+        "explanation": "shows possession, belonging to him."
+      },
+      {
+        "word": "朋友们",
+        "translation": "friends - 朋友们 (peng2 you3 men5, friends)",
+        "explanation": "refers to multiple friends."
+      },
+      {
+        "word": "发现",
+        "translation": "discover - 发现 (fa1 xian4, discover)",
+        "explanation": "means to find something new."
+      },
+      {
+        "word": "真正的",
+        "translation": "true - 真正的 (zhen1 zheng4 de5, true)",
+        "explanation": "means real or actual."
+      },
+      {
+        "word": "财富",
+        "translation": "wealth - 财富 (cai2 fu4, wealth)",
+        "explanation": "riches or valuable resources."
+      },
+      {
+        "word": "在于",
+        "translation": "lies in - 在于 (zai4 yu2, lies in)",
+        "explanation": "indicates the essence or core of something."
+      },
+      {
+        "word": "欢笑",
+        "translation": "laughter - 欢笑 (huan1 xiao4, laughter)",
+        "explanation": "refers to joy expressed through laughing."
+      },
+      {
+        "word": "冒险",
+        "translation": "adventure - 冒险 (mao4 xian3, adventure)",
+        "explanation": "something risky or exciting."
+      },
+      {
+        "word": "和",
+        "translation": "and - 和 (he2, and)",
+        "explanation": "used to connect words or phrases."
+      },
+      {
+        "word": "无法言喻的",
+        "translation": "inexpressible - 无法 (wu2 fa3, unable) 言喻 (yan2 yu4, to express) 的 (de5, of)",
+        "explanation": "means too great to be put into words."
+      },
+      {
+        "word": "快乐",
+        "translation": "joy - 快乐 (kuai4 le4, joy)",
+        "explanation": "a feeling of happiness."
+      }
+    ],
+    [
+      {
+        "word": "每次",
+        "translation": "every time - 每次 (mei3 ci4, every time)",
+        "explanation": "indicates each occurrence."
+      },
+      {
+        "word": "日落",
+        "translation": "sunset - 日落 (ri4 luo4, sunset)",
+        "explanation": "when the sun goes down, end of day."
+      },
+      {
+        "word": "都",
+        "translation": "all - 都 (dou1, all)",
+        "explanation": "indicates everything related."
+      },
+      {
+        "word": "带来了",
+        "translation": "brought - 带来 (dai4 lai2, bring) 了 (le5, aspect particle)",
+        "explanation": "means to come with something."
+      },
+      {
+        "word": "新的",
+        "translation": "new - 新的 (xin1 de5, new)",
+        "explanation": "means fresh or different from before."
+      },
+      {
+        "word": "冒险",
+        "translation": "adventure - 冒险 (mao4 xian3, adventure)",
+        "explanation": "something risky or exciting."
+      },
+      {
+        "word": "他们的",
+        "translation": "their - 他们的 (ta1 men5 de5, their)",
+        "explanation": "indicates possession belonging to them."
+      },
+      {
+        "word": "宝藏",
+        "translation": "treasure - 宝藏 (bao3 zang4, treasure)",
+        "explanation": "something valuable, often hidden."
+      },
+      {
+        "word": "是",
+        "translation": "is - 是 (shi4, is)",
+        "explanation": "used to indicate existence or identity."
+      },
+      {
+        "word": "大家",
+        "translation": "everyone - 大家 (da4 jia1, everyone)",
+        "explanation": "refers to all people."
+      },
+      {
+        "word": "之间",
+        "translation": "between - 之间 (zhi1 jian1, between)",
+        "explanation": "indicates connection among people."
+      },
+      {
+        "word": "的",
+        "translation": "of - 的 (de5, of)",
+        "explanation": "a possessive particle connecting groups."
+      },
+      {
+        "word": "纽带",
+        "translation": "bond - 纽带 (niu3 dai4, bond)",
+        "explanation": "something that connects or links."
+      }
+    ],
+    [
+      {
+        "word": "从那时起",
+        "translation": "from then on - 从 (cong2, from) 那时 (na4 shi2, that time) 起 (qi3, start)",
+        "explanation": "means starting from a specific time."
+      },
+      {
+        "word": "小粉",
+        "translation": "Xiaofen - 小粉 (xiao3 fen3, little pink)",
+        "explanation": "a name for a character."
+      },
+      {
+        "word": "常常",
+        "translation": "often - 常常 (chang2 chang2, often)",
+        "explanation": "means frequently or many times."
+      },
+      {
+        "word": "笑着",
+        "translation": "smiling - 笑着 (xiao4 zhe5, smiling)",
+        "explanation": "means to have a smile on the face."
+      },
+      {
+        "word": "说",
+        "translation": "said - 说 (shuo1, to say)",
+        "explanation": "indicates speaking or expressing."
+      },
+      {
+        "word": "我",
+        "translation": "I - 我 (wo3, I)",
+        "explanation": "refers to oneself."
+      },
+      {
+        "word": "是",
+        "translation": "am - 是 (shi4, am)",
+        "explanation": "used to indicate identity."
+      },
+      {
+        "word": "世界上",
+        "translation": "in the world - 世界上 (shi4 jie4 shang4, in the world)",
+        "explanation": "refers to everywhere on Earth."
+      },
+      {
+        "word": "最富有的",
+        "translation": "the richest - 最 (zui4, most) 富有的 (fu4 you3 de5, wealthy)",
+        "explanation": "means having the greatest wealth."
+      },
+      {
+        "word": "小猪",
+        "translation": "little pig - 小猪 (xiao3 zhu1, little pig)",
+        "explanation": "refers to a small pig, usually cute."
+      },
+      {
+        "word": "看看",
+        "translation": "look at - 看看 (kan4 kan4, to look at)",
+        "explanation": "means to view or observe."
+      },
+      {
+        "word": "这一切",
+        "translation": "all of this - 这 (zhe4, this) 一切 (yi1 qie4, all)",
+        "explanation": "refers to everything that is present."
+      },
+      {
+        "word": "手指着",
+        "translation": "pointing at - 手 (shou3, hand) 指着 (zhi3 zhe5, pointing at)",
+        "explanation": "means showing something with a finger."
+      },
+      {
+        "word": "友谊",
+        "translation": "friendship - 友谊 (you3 yi4, friendship)",
+        "explanation": "the bond between friends."
+      },
+      {
+        "word": "波浪",
+        "translation": "waves - 波浪 (bo1 lang4, waves)",
+        "explanation": "movement of water in the sea."
+      },
+      {
+        "word": "和",
+        "translation": "and - 和 (he2, and)",
+        "explanation": "used to connect words or phrases."
+      },
+      {
+        "word": "无尽的",
+        "translation": "endless - 无尽的 (wu2 jin4 de5, endless)",
+        "explanation": "means having no limits or ends."
+      },
+      {
+        "word": "夏天",
+        "translation": "summer - 夏天 (xia4 tian1, summer)",
+        "explanation": "the warm season of the year."
+      },
+      {
+        "word": "大家",
+        "translation": "everyone - 大家 (da4 jia1, everyone)",
+        "explanation": "refers to all people."
+      },
+      {
+        "word": "都",
+        "translation": "all - 都 (dou1, all)",
+        "explanation": "indicates every person."
+      },
+      {
+        "word": "幸福",
+        "translation": "happiness - 幸福 (xing4 fu2, happiness)",
+        "explanation": "means a state of joy or well-being."
+      },
+      {
+        "word": "地",
+        "translation": "ly - 地 (de5, ly)",
+        "explanation": "used to denote manner in which something is done."
+      },
+      {
+        "word": "生活在一起",
+        "translation": "live together - 生活 (sheng1 huo2, live) 在 (zai4, in) 一起 (yi1 qi3, together)",
+        "explanation": "means to reside in the same place."
+      }
+    ]
+  ]
+}

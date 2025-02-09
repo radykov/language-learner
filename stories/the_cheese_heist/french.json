@@ -1,0 +1,3547 @@
+{
+  "story": "Dans un charmant petit cottage, niché à la lisière de la forêt, vivait une souris astucieuse nommée Milo. Le vieux Monsieur Whiskers, le chat domestique, régnait sur la maison d'une patte sévère et d'un œil vigilant. Son principal devoir ? Garder la roue de fromage qui trônait majestueusement sur une étagère en bois dans la cuisine. Milo avait longtemps convoité ce fromage. C'était le cheddar le plus exquis, brillait d'un jaune riche sous le soleil de l'après-midi, et Milo pouvait pratiquement le goûter dans ses rêves. Mais avec Monsieur Whiskers rôdant autour, chaque tentative de prendre un morceau s'était soldée par une évasion de justesse dans les murs. Un soir, alors que le soleil se plongeait sous l'horizon, illuminant le ciel de nuances d'orange et de violet, Milo a concocté un plan. Il savait qu'il devait déjouer Monsieur Whiskers au lieu d'essayer de le devancer. D'abord, il observa la routine du chat. Chaque nuit, après le crépuscule, Monsieur Whiskers s'allongeait sur le canapé, s'étirant luxueusement avant de se préparer pour un bon somme. Le moment du coup de Milo était venu. Milo commença à créer une diversion. Il rassembla de petits morceaux de papier froissé et s'attaque à eux toute la nuit, créant un bruit dans divers coins de la pièce. Chaque nuit, Monsieur Whiskers se levait de sa sieste, enquêtant à moitié endormi sur la source du bruit, laissant le fromage momentanément sans surveillance. Lors de la troisième soirée des frasques de Milo, il remarqua un détail qui serait crucial. Monsieur Whiskers avait un jouet en peluche de souris qu'il attaquait souvent. S'il pouvait en tirer profit, le plan pourrait fonctionner. Milo se précipita dans le panier de jouets, attrapa la souris en peluche et l'emporta dans un coin. Il travailla soigneusement, retirant une partie de son rembourrage pour créer un leurre miniature. C'était une réplique parfaite de lui-même, un peu plus grande et couverte de peluches. Lorsque la nuit tomba, Milo positionna le leurre à l'autre bout de la pièce. Il le poussa juste assez pour qu'il semble bouger. Puis, il se retira derrière une théière, le cœur battant d'anticipation. Bien sûr, au bout de quelques instants, Monsieur Whiskers se réveilla de son somme et aperçut le mouvement. \"Aha !\" pensa-t-il, s'étirant et bâillant, \"Une souris dans ma maison !\" Avec une grande agilité, Monsieur Whiskers se mit en action, se précipitant vers le leurre avec une vitesse qui ferait tomber le cœur de n'importe quelle souris de peur. Mais Milo avait tout prévu. Alors que Monsieur Whiskers poursuivait le pompon, Milo saisit sa chance. Il s'élança à travers les plans de travail de la cuisine, ses yeux fixés fermement sur le fromage. Lorsqu'il atteignit l'étagère, l'horloge de la bibliothèque sonna minuit, remplissant la pièce d'un tintement mélodieux. Cela s'harmonisait parfaitement avec le tumulte créé par Monsieur Whiskers, qui frappait le leurre, pensant qu'il avait enfin piégé son dîner. Milo attrapa rapidement un morceau de cheddar, bien plus lourd qu'il ne s'y attendait mais trop glorieux pour être abandonné. Avec le fromage serré entre ses pattes, il courut vers le mur, juste au moment où Monsieur Whiskers réalisait qu'il avait été dupé. Milo rentra dans son trou juste à temps pour entendre Monsieur Whiskers pousser un miaulement confus, se mêlant à son propre couinement fier. \"Tu peux garder le fromage, mais ce soir, je fais un festin !\" s'exclama Milo triomphalement. Alors que la lumière de l'aube s'infiltrait dans le cottage, Milo savourait la première bouchée du fromage convoité. C'était plus qu'un simple repas ; c'était un témoignage de son esprit. Le fromage était riche et délicieux, et il ne put s'empêcher de sourire. À partir de ce jour, Milo continua à profiter des réserves de fromage en utilisant ses ruses chaleureuses, au grand dam de Monsieur Whiskers, qui ne pouvait que guetter et regarder alors que la petite souris devenait une légende parmi les créatures du cottage.",
+  "title": "Le Casse du Fromage",
+  "sentences": [
+    {
+      "original": "Dans un charmant petit cottage, niché à la lisière de la forêt, vivait une souris astucieuse nommée Milo.",
+      "translation": "In a charming little cottage, nestled at the edge of the forest, lived a clever mouse named Milo."
+    },
+    {
+      "original": "Le vieux Monsieur Whiskers, le chat domestique, régnait sur la maison d'une patte sévère et d'un œil vigilant.",
+      "translation": "Old Mr. Whiskers, the house cat, ruled the home with a stern paw and a watchful eye."
+    },
+    {
+      "original": "Son principal devoir ? Garder la roue de fromage qui trônait majestueusement sur une étagère en bois dans la cuisine.",
+      "translation": "His main duty? To guard the wheel of cheese that majestically sat on a wooden shelf in the kitchen."
+    },
+    {
+      "original": "Milo avait longtemps convoité ce fromage.",
+      "translation": "Milo had long coveted that cheese."
+    },
+    {
+      "original": "C'était le cheddar le plus exquis, brillait d'un jaune riche sous le soleil de l'après-midi, et Milo pouvait pratiquement le goûter dans ses rêves.",
+      "translation": "It was the most exquisite cheddar, shining with a rich yellow under the afternoon sun, and Milo could practically taste it in his dreams."
+    },
+    {
+      "original": "Mais avec Monsieur Whiskers rôdant autour, chaque tentative de prendre un morceau s'était soldée par une évasion de justesse dans les murs.",
+      "translation": "But with Mr. Whiskers prowling around, every attempt to take a piece had ended in a narrow escape within the walls."
+    },
+    {
+      "original": "Un soir, alors que le soleil se plongeait sous l'horizon, illuminant le ciel de nuances d'orange et de violet, Milo a concocté un plan.",
+      "translation": "One evening, as the sun sank below the horizon, lighting up the sky with shades of orange and purple, Milo devised a plan."
+    },
+    {
+      "original": "Il savait qu'il devait déjouer Monsieur Whiskers au lieu d'essayer de le devancer.",
+      "translation": "He knew he had to outsmart Mr. Whiskers instead of trying to outrun him."
+    },
+    {
+      "original": "D'abord, il observa la routine du chat.",
+      "translation": "First, he observed the cat's routine."
+    },
+    {
+      "original": "Chaque nuit, après le crépuscule, Monsieur Whiskers s'allongeait sur le canapé, s'étirant luxueusement avant de se préparer pour un bon somme.",
+      "translation": "Every night, after dusk, Mr. Whiskers would lie on the couch, stretching luxuriously before settling in for a good nap."
+    },
+    {
+      "original": "Le moment du coup de Milo était venu.",
+      "translation": "Milo's moment to strike had come."
+    },
+    {
+      "original": "Milo commença à créer une diversion.",
+      "translation": "Milo began to create a diversion."
+    },
+    {
+      "original": "Il rassembla de petits morceaux de papier froissé et s'attaque à eux toute la nuit, créant un bruit dans divers coins de la pièce.",
+      "translation": "He gathered small pieces of crumpled paper and attacked them all night, making noise in various corners of the room."
+    },
+    {
+      "original": "Chaque nuit, Monsieur Whiskers se levait de sa sieste, enquêtant à moitié endormi sur la source du bruit, laissant le fromage momentanément sans surveillance.",
+      "translation": "Each night, Mr. Whiskers would get up from his nap, half-asleep investigating the source of the noise, leaving the cheese momentarily unguarded."
+    },
+    {
+      "original": "Lors de la troisième soirée des frasques de Milo, il remarqua un détail qui serait crucial.",
+      "translation": "On the third night of Milo's antics, he noticed a detail that would be crucial."
+    },
+    {
+      "original": "Monsieur Whiskers avait un jouet en peluche de souris qu'il attaquait souvent.",
+      "translation": "Mr. Whiskers had a stuffed mouse toy that he often pounced on."
+    },
+    {
+      "original": "S'il pouvait en tirer profit, le plan pourrait fonctionner.",
+      "translation": "If he could take advantage of it, the plan could work."
+    },
+    {
+      "original": "Milo se précipita dans le panier de jouets, attrapa la souris en peluche et l'emporta dans un coin.",
+      "translation": "Milo rushed over to the toy basket, grabbed the stuffed mouse, and took it to a corner."
+    },
+    {
+      "original": "Il travailla soigneusement, retirant une partie de son rembourrage pour créer un leurre miniature.",
+      "translation": "He worked carefully, removing some of its stuffing to create a miniature decoy."
+    },
+    {
+      "original": "C'était une réplique parfaite de lui-même, un peu plus grande et couverte de peluches.",
+      "translation": "It was a perfect replica of himself, slightly larger and covered in fluff."
+    },
+    {
+      "original": "Lorsque la nuit tomba, Milo positionna le leurre à l'autre bout de la pièce.",
+      "translation": "As night fell, Milo placed the decoy at the other end of the room."
+    },
+    {
+      "original": "Il le poussa juste assez pour qu'il semble bouger.",
+      "translation": "He nudged it just enough to make it look like it was moving."
+    },
+    {
+      "original": "Puis, il se retira derrière une théière, le cœur battant d'anticipation.",
+      "translation": "Then, he retreated behind a teapot, his heart pounding with anticipation."
+    },
+    {
+      "original": "Bien sûr, au bout de quelques instants, Monsieur Whiskers se réveilla de son somme et aperçut le mouvement.",
+      "translation": "Sure enough, after a few moments, Mr. Whiskers woke from his nap and spotted the movement."
+    },
+    {
+      "original": "\"Aha !\" pensa-t-il, s'étirant et bâillant, \"Une souris dans ma maison !\"",
+      "translation": "\"Aha!\" he thought, stretching and yawning, \"A mouse in my house!\""
+    },
+    {
+      "original": "Avec une grande agilité, Monsieur Whiskers se mit en action, se précipitant vers le leurre avec une vitesse qui ferait tomber le cœur de n'importe quelle souris de peur.",
+      "translation": "With great agility, Mr. Whiskers sprang into action, rushing towards the decoy with a speed that would make any mouse's heart drop in fear."
+    },
+    {
+      "original": "Mais Milo avait tout prévu.",
+      "translation": "But Milo had planned for everything."
+    },
+    {
+      "original": "Alors que Monsieur Whiskers poursuivait le pompon, Milo saisit sa chance.",
+      "translation": "As Mr. Whiskers chased the pom-pom, Milo seized his chance."
+    },
+    {
+      "original": "Il s'élança à travers les plans de travail de la cuisine, ses yeux fixés fermement sur le fromage.",
+      "translation": "He darted across the kitchen countertops, his eyes firmly set on the cheese."
+    },
+    {
+      "original": "Lorsqu'il atteignit l'étagère, l'horloge de la bibliothèque sonna minuit, remplissant la pièce d'un tintement mélodieux.",
+      "translation": "When he reached the shelf, the library clock struck midnight, filling the room with a melodious chime."
+    },
+    {
+      "original": "Cela s'harmonisait parfaitement avec le tumulte créé par Monsieur Whiskers, qui frappait le leurre, pensant qu'il avait enfin piégé son dîner.",
+      "translation": "It harmonized perfectly with the commotion created by Mr. Whiskers, who was batting at the decoy, thinking he had finally trapped his dinner."
+    },
+    {
+      "original": "Milo attrapa rapidement un morceau de cheddar, bien plus lourd qu'il ne s'y attendait mais trop glorieux pour être abandonné.",
+      "translation": "Milo quickly grabbed a piece of cheddar, much heavier than he had expected but too glorious to be abandoned."
+    },
+    {
+      "original": "Avec le fromage serré entre ses pattes, il courut vers le mur, juste au moment où Monsieur Whiskers réalisait qu'il avait été dupé.",
+      "translation": "With the cheese clutched tightly between his paws, he ran towards the wall just as Mr. Whiskers realized he had been duped."
+    },
+    {
+      "original": "Milo rentra dans son trou juste à temps pour entendre Monsieur Whiskers pousser un miaulement confus, se mêlant à son propre couinement fier.",
+      "translation": "Milo scurried into his hole just in time to hear Mr. Whiskers let out a confused meow, mingling with his own proud squeak."
+    },
+    {
+      "original": "\"Tu peux garder le fromage, mais ce soir, je fais un festin !\" s'exclama Milo triomphalement.",
+      "translation": "\"You can keep the cheese, but tonight, I'm having a feast!\" Milo exclaimed triumphantly."
+    },
+    {
+      "original": "Alors que la lumière de l'aube s'infiltrait dans le cottage, Milo savourait la première bouchée du fromage convoité.",
+      "translation": "As the light of dawn streamed into the cottage, Milo savored the first bite of the coveted cheese."
+    },
+    {
+      "original": "C'était plus qu'un simple repas ; c'était un témoignage de son esprit.",
+      "translation": "It was more than just a meal; it was a testament to his cleverness."
+    },
+    {
+      "original": "Le fromage était riche et délicieux, et il ne put s'empêcher de sourire.",
+      "translation": "The cheese was rich and delicious, and he couldn't help but smile."
+    },
+    {
+      "original": "À partir de ce jour, Milo continua à profiter des réserves de fromage en utilisant ses ruses chaleureuses, au grand dam de Monsieur Whiskers, qui ne pouvait que guetter et regarder alors que la petite souris devenait une légende parmi les créatures du cottage.",
+      "translation": "From that day on, Milo continued to enjoy the cheese reserves, using his warm cunning to do so, to the great chagrin of Mr. Whiskers, who could only watch and wait as the little mouse became a legend among the creatures of the cottage."
+    }
+  ],
+  "words": [
+    [
+      {
+        "word": "Dans",
+        "translation": "In",
+        "explanation": "Indicates a position or location."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "Indefinite article for a singular noun."
+      },
+      {
+        "word": "charmant",
+        "translation": "charming",
+        "explanation": "Describes the cottage as pleasant and attractive."
+      },
+      {
+        "word": "petit",
+        "translation": "small",
+        "explanation": "Describes the size of the cottage."
+      },
+      {
+        "word": "cottage",
+        "translation": "cottage",
+        "explanation": "A small house, especially in a rural area."
+      },
+      {
+        "word": "niché",
+        "translation": "nestled",
+        "explanation": "Presents the idea that the cottage is situated safely or comfortably."
+      },
+      {
+        "word": "à",
+        "translation": "at",
+        "explanation": "Indicates location."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "Definite article for a singular noun."
+      },
+      {
+        "word": "lisière",
+        "translation": "edge",
+        "explanation": "Refers to the boundary or border of something."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Indicates belonging or relationship."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "Definite article for a singular noun."
+      },
+      {
+        "word": "forêt",
+        "translation": "forest",
+        "explanation": "A large area covered chiefly with trees and undergrowth."
+      },
+      {
+        "word": "vivait",
+        "translation": "lived",
+        "explanation": "Describes the action of being alive or residing in a place."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "Indefinite article for a singular noun."
+      },
+      {
+        "word": "souris",
+        "translation": "mouse",
+        "explanation": "A small rodent."
+      },
+      {
+        "word": "astucieuse",
+        "translation": "clever",
+        "explanation": "Describes the mouse as intelligent and resourceful."
+      },
+      {
+        "word": "nommée",
+        "translation": "named",
+        "explanation": "Indicates the name of the mouse."
+      },
+      {
+        "word": "Milo",
+        "translation": "Milo",
+        "explanation": "The name of the character, a mouse."
+      }
+    ],
+    [
+      {
+        "word": "Le",
+        "translation": "The",
+        "explanation": "Definite article for a singular noun."
+      },
+      {
+        "word": "vieux",
+        "translation": "old",
+        "explanation": "Describes the cat's age."
+      },
+      {
+        "word": "Monsieur",
+        "translation": "Mr.",
+        "explanation": "A polite title used for men."
+      },
+      {
+        "word": "Whiskers",
+        "translation": "Whiskers",
+        "explanation": "The name of the character, a cat."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "Definite article for a singular noun."
+      },
+      {
+        "word": "chat",
+        "translation": "cat",
+        "explanation": "A domesticated animal."
+      },
+      {
+        "word": "domestique",
+        "translation": "domestic",
+        "explanation": "Indicates that the cat is kept as a pet."
+      },
+      {
+        "word": "régnait",
+        "translation": "ruled",
+        "explanation": "Describes the action of controlling or commanding."
+      },
+      {
+        "word": "sur",
+        "translation": "over",
+        "explanation": "Indicates dominance or control."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "Definite article for a singular noun."
+      },
+      {
+        "word": "maison",
+        "translation": "house",
+        "explanation": "A building for human habitation."
+      },
+      {
+        "word": "d'une",
+        "translation": "with a",
+        "explanation": "Indicates possession or a relationship."
+      },
+      {
+        "word": "patte",
+        "translation": "paw",
+        "explanation": "The foot of an animal."
+      },
+      {
+        "word": "sévère",
+        "translation": "stern",
+        "explanation": "Describes the cat's strictness or seriousness."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Connects words or phrases."
+      },
+      {
+        "word": "d'un",
+        "translation": "of a",
+        "explanation": "Indicates possession."
+      },
+      {
+        "word": "œil",
+        "translation": "eye",
+        "explanation": "The organ that allows sight."
+      },
+      {
+        "word": "vigilant",
+        "translation": "watchful",
+        "explanation": "Describes the cat's attentiveness."
+      }
+    ],
+    [
+      {
+        "word": "Son",
+        "translation": "Its",
+        "explanation": "Possessive form; refers to something belonging to Mr. Whiskers."
+      },
+      {
+        "word": "principal",
+        "translation": "main",
+        "explanation": "Indicates the most important."
+      },
+      {
+        "word": "devoir",
+        "translation": "duty",
+        "explanation": "An obligation or responsibility."
+      },
+      {
+        "word": "?",
+        "translation": "?",
+        "explanation": "Indicates a question."
+      },
+      {
+        "word": "Garder",
+        "translation": "To keep",
+        "explanation": "To maintain or protect."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "Definite article for a singular noun."
+      },
+      {
+        "word": "roue",
+        "translation": "wheel",
+        "explanation": "A circular object that can turn."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Indicates belonging or relationship."
+      },
+      {
+        "word": "fromage",
+        "translation": "cheese",
+        "explanation": "A dairy product made from curdled milk."
+      },
+      {
+        "word": "qui",
+        "translation": "that",
+        "explanation": "Refers to something previously mentioned."
+      },
+      {
+        "word": "trônait",
+        "translation": "sat",
+        "explanation": "Describes the cheese being placed prominently."
+      },
+      {
+        "word": "majestueusement",
+        "translation": "majestically",
+        "explanation": "In a grand or impressive way."
+      },
+      {
+        "word": "sur",
+        "translation": "on",
+        "explanation": "Indicates position atop something."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "Indefinite article for a singular noun."
+      },
+      {
+        "word": "étagère",
+        "translation": "shelf",
+        "explanation": "A flat horizontal surface for storing items."
+      },
+      {
+        "word": "en",
+        "translation": "in",
+        "explanation": "Indicates location."
+      },
+      {
+        "word": "bois",
+        "translation": "wood",
+        "explanation": "Material from trees."
+      },
+      {
+        "word": "dans",
+        "translation": "in",
+        "explanation": "Indicates a position or location."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "Definite article for a singular noun."
+      },
+      {
+        "word": "cuisine",
+        "translation": "kitchen",
+        "explanation": "Room used for cooking."
+      }
+    ],
+    [
+      {
+        "word": "Milo",
+        "translation": "Milo",
+        "explanation": "The name of the character, a mouse."
+      },
+      {
+        "word": "avait",
+        "translation": "had",
+        "explanation": "Describes possession of something."
+      },
+      {
+        "word": "longtemps",
+        "translation": "long",
+        "explanation": "Indicates a significant amount of time."
+      },
+      {
+        "word": "convoité",
+        "translation": "coveted",
+        "explanation": "Desired something intensely."
+      },
+      {
+        "word": "ce",
+        "translation": "this",
+        "explanation": "Refers to something specific."
+      },
+      {
+        "word": "fromage",
+        "translation": "cheese",
+        "explanation": "A dairy product."
+      }
+    ],
+    [
+      {
+        "word": "C'était",
+        "translation": "It was",
+        "explanation": "Describes a situation in the past."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "Definite article for a singular noun."
+      },
+      {
+        "word": "cheddar",
+        "translation": "cheddar",
+        "explanation": "A type of cheese."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "Definite article for a singular noun."
+      },
+      {
+        "word": "plus",
+        "translation": "most",
+        "explanation": "Indicates the greatest amount."
+      },
+      {
+        "word": "exquis",
+        "translation": "exquisite",
+        "explanation": "Describes something as extremely beautiful or delicious."
+      },
+      {
+        "word": "brillait",
+        "translation": "shone",
+        "explanation": "Describes the light reflected from something."
+      },
+      {
+        "word": "d'un",
+        "translation": "of a",
+        "explanation": "Indicates possession."
+      },
+      {
+        "word": "jaune",
+        "translation": "yellow",
+        "explanation": "Color of the cheese."
+      },
+      {
+        "word": "riche",
+        "translation": "rich",
+        "explanation": "Describes a deep or vibrant quality."
+      },
+      {
+        "word": "sous",
+        "translation": "under",
+        "explanation": "Indicates position below."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "Definite article for a singular noun."
+      },
+      {
+        "word": "soleil",
+        "translation": "sun",
+        "explanation": "The star at the center of the solar system."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Indicates belonging or relationship."
+      },
+      {
+        "word": "l'après-midi",
+        "translation": "the afternoon",
+        "explanation": "Time between noon and evening."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Connects words or phrases."
+      },
+      {
+        "word": "Milo",
+        "translation": "Milo",
+        "explanation": "The name of the character, a mouse."
+      },
+      {
+        "word": "pouvait",
+        "translation": "could",
+        "explanation": "Indicates ability."
+      },
+      {
+        "word": "pratiquement",
+        "translation": "practically",
+        "explanation": "Almost or very nearly."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "Definite article for a singular noun."
+      },
+      {
+        "word": "goûter",
+        "translation": "taste",
+        "explanation": "To experience the flavor of something."
+      },
+      {
+        "word": "dans",
+        "translation": "in",
+        "explanation": "Indicates a position or location."
+      },
+      {
+        "word": "ses",
+        "translation": "his",
+        "explanation": "Possessive form; refers to something belonging to Milo."
+      },
+      {
+        "word": "rêves",
+        "translation": "dreams",
+        "explanation": "Thoughts or images experienced during sleep."
+      }
+    ],
+    [
+      {
+        "word": "Mais",
+        "translation": "But",
+        "explanation": "This word starts a contrast."
+      },
+      {
+        "word": "avec",
+        "translation": "with",
+        "explanation": "It shows connection."
+      },
+      {
+        "word": "Monsieur",
+        "translation": "Mr",
+        "explanation": "A formal title for a man."
+      },
+      {
+        "word": "Whiskers",
+        "translation": "Whiskers",
+        "explanation": "Name of the cat."
+      },
+      {
+        "word": "rôdant",
+        "translation": "lurking",
+        "explanation": "It means hiding and sneaking."
+      },
+      {
+        "word": "autour",
+        "translation": "around",
+        "explanation": "It shows the position."
+      },
+      {
+        "word": "chaque",
+        "translation": "every",
+        "explanation": "It means all without exception."
+      },
+      {
+        "word": "tentative",
+        "translation": "attempt",
+        "explanation": "It means an effort to do something."
+      },
+      {
+        "word": "de",
+        "translation": "to",
+        "explanation": "It shows direction or purpose."
+      },
+      {
+        "word": "prendre",
+        "translation": "take",
+        "explanation": "This means to grab or eat."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "An article used for one."
+      },
+      {
+        "word": "morceau",
+        "translation": "piece",
+        "explanation": "A part of something."
+      },
+      {
+        "word": "s'était",
+        "translation": "had",
+        "explanation": "This shows past action."
+      },
+      {
+        "word": "soldée",
+        "translation": "ended",
+        "explanation": "It means to finish, often with a result."
+      },
+      {
+        "word": "par",
+        "translation": "by",
+        "explanation": "It indicates the means."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "An article used for one."
+      },
+      {
+        "word": "évasion",
+        "translation": "escape",
+        "explanation": "It means getting away."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "It shows possession."
+      },
+      {
+        "word": "justesse",
+        "translation": "narrowly",
+        "explanation": "It means very closely."
+      },
+      {
+        "word": "dans",
+        "translation": "in",
+        "explanation": "This shows location."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "A definite article for plural."
+      },
+      {
+        "word": "murs",
+        "translation": "walls",
+        "explanation": "These are the sides of a room."
+      }
+    ],
+    [
+      {
+        "word": "Un",
+        "translation": "One",
+        "explanation": "An article used for one."
+      },
+      {
+        "word": "soir",
+        "translation": "evening",
+        "explanation": "It is the time before night."
+      },
+      {
+        "word": "alors",
+        "translation": "then",
+        "explanation": "It shows the time after something."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "It connects clauses."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A definite article for singular."
+      },
+      {
+        "word": "soleil",
+        "translation": "sun",
+        "explanation": "The star that lights up the day."
+      },
+      {
+        "word": "se",
+        "translation": "it",
+        "explanation": "Referring to the subject."
+      },
+      {
+        "word": "plongeait",
+        "translation": "was sinking",
+        "explanation": "This means to go down."
+      },
+      {
+        "word": "sous",
+        "translation": "under",
+        "explanation": "It shows a lower position."
+      },
+      {
+        "word": "l'horizon",
+        "translation": "the horizon",
+        "explanation": "The line where sky meets land."
+      },
+      {
+        "word": "illuminant",
+        "translation": "lighting",
+        "explanation": "Making something bright."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A definite article for singular."
+      },
+      {
+        "word": "ciel",
+        "translation": "sky",
+        "explanation": "The space above us."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "It shows possession."
+      },
+      {
+        "word": "nuances",
+        "translation": "shades",
+        "explanation": "Different types or variations."
+      },
+      {
+        "word": "d'orange",
+        "translation": "of orange",
+        "explanation": "A color."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "It connects words."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "It shows possession."
+      },
+      {
+        "word": "violet",
+        "translation": "purple",
+        "explanation": "A color."
+      },
+      {
+        "word": ",",
+        "translation": "",
+        "explanation": "Punctuation mark."
+      },
+      {
+        "word": "Milo",
+        "translation": "Milo",
+        "explanation": "Name of the character."
+      },
+      {
+        "word": "a",
+        "translation": "has",
+        "explanation": "This shows possession or action."
+      },
+      {
+        "word": "concocté",
+        "translation": "made up",
+        "explanation": "To create or plan something."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "An article used for one."
+      },
+      {
+        "word": "plan",
+        "translation": "plan",
+        "explanation": "A strategy or idea."
+      },
+      {
+        "word": ".",
+        "translation": "",
+        "explanation": "Punctuation mark."
+      }
+    ],
+    [
+      {
+        "word": "Il",
+        "translation": "He",
+        "explanation": "Referring to the character."
+      },
+      {
+        "word": "savait",
+        "translation": "knew",
+        "explanation": "To have knowledge."
+      },
+      {
+        "word": "qu'il",
+        "translation": "that he",
+        "explanation": "It refers to another clause."
+      },
+      {
+        "word": "devait",
+        "translation": "had to",
+        "explanation": "Necessary action."
+      },
+      {
+        "word": "déjouer",
+        "translation": "outsmart",
+        "explanation": "To be smarter than someone."
+      },
+      {
+        "word": "Monsieur",
+        "translation": "Mr",
+        "explanation": "A formal title for a man."
+      },
+      {
+        "word": "Whiskers",
+        "translation": "Whiskers",
+        "explanation": "Name of the cat."
+      },
+      {
+        "word": "au",
+        "translation": "to the",
+        "explanation": "A contraction indicating direction."
+      },
+      {
+        "word": "lieu",
+        "translation": "instead",
+        "explanation": "Substitution or choice."
+      },
+      {
+        "word": "d'essayer",
+        "translation": "of trying",
+        "explanation": "To make an effort."
+      },
+      {
+        "word": "de",
+        "translation": "to",
+        "explanation": "Shows direction or purpose."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A definite article for singular."
+      },
+      {
+        "word": "devancer",
+        "translation": "outpace",
+        "explanation": "To move faster than someone."
+      },
+      {
+        "word": ".",
+        "translation": "",
+        "explanation": "Punctuation mark."
+      }
+    ],
+    [
+      {
+        "word": "D'abord",
+        "translation": "First",
+        "explanation": "It indicates the order of actions."
+      },
+      {
+        "word": ",",
+        "translation": "",
+        "explanation": "Punctuation mark."
+      },
+      {
+        "word": "il",
+        "translation": "he",
+        "explanation": "Referring to the character."
+      },
+      {
+        "word": " observa",
+        "translation": "observed",
+        "explanation": "To watch carefully."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article for singular."
+      },
+      {
+        "word": "routine",
+        "translation": "routine",
+        "explanation": "Regular pattern of actions."
+      },
+      {
+        "word": "du",
+        "translation": "of the",
+        "explanation": "A contraction indicating possession."
+      },
+      {
+        "word": "chat",
+        "translation": "cat",
+        "explanation": "A common pet animal."
+      },
+      {
+        "word": ".",
+        "translation": "",
+        "explanation": "Punctuation mark."
+      }
+    ],
+    [
+      {
+        "word": "Chaque",
+        "translation": "Every",
+        "explanation": "All without exception."
+      },
+      {
+        "word": "nuit",
+        "translation": "night",
+        "explanation": "The time after sunset."
+      },
+      {
+        "word": ",",
+        "translation": "",
+        "explanation": "Punctuation mark."
+      },
+      {
+        "word": "après",
+        "translation": "after",
+        "explanation": "Following in time."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A definite article for singular."
+      },
+      {
+        "word": "crépuscule",
+        "translation": "twilight",
+        "explanation": "The time when the sky is partially dark."
+      },
+      {
+        "word": "Monsieur",
+        "translation": "Mr",
+        "explanation": "A formal title for a man."
+      },
+      {
+        "word": "Whiskers",
+        "translation": "Whiskers",
+        "explanation": "Name of the cat."
+      },
+      {
+        "word": "s'allongeait",
+        "translation": "lay down",
+        "explanation": "To position oneself horizontally."
+      },
+      {
+        "word": "sur",
+        "translation": "on",
+        "explanation": "Shows position."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A definite article for singular."
+      },
+      {
+        "word": "canapé",
+        "translation": "couch",
+        "explanation": "A piece of furniture for sitting."
+      },
+      {
+        "word": ",",
+        "translation": "",
+        "explanation": "Punctuation mark."
+      },
+      {
+        "word": "s'étirant",
+        "translation": "stretching",
+        "explanation": "To extend the body."
+      },
+      {
+        "word": "luxueusement",
+        "translation": "luxuriously",
+        "explanation": "In a very comfortable and rich way."
+      },
+      {
+        "word": "avant",
+        "translation": "before",
+        "explanation": "Earlier in time."
+      },
+      {
+        "word": "de",
+        "translation": "to",
+        "explanation": "Shows direction or purpose."
+      },
+      {
+        "word": "se",
+        "translation": "itself",
+        "explanation": "Refers back to the subject."
+      },
+      {
+        "word": "préparer",
+        "translation": "prepare",
+        "explanation": "To get ready for something."
+      },
+      {
+        "word": "pour",
+        "translation": "for",
+        "explanation": "Indicates purpose."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "An article used for one."
+      },
+      {
+        "word": "bon",
+        "translation": "good",
+        "explanation": "Positive quality."
+      },
+      {
+        "word": "somme",
+        "translation": "nap",
+        "explanation": "A short sleep."
+      },
+      {
+        "word": ".",
+        "translation": "",
+        "explanation": "Punctuation mark."
+      }
+    ],
+    [
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "used to refer to a specific thing as known."
+      },
+      {
+        "word": "moment",
+        "translation": "moment",
+        "explanation": "a short period of time."
+      },
+      {
+        "word": "du",
+        "translation": "of the",
+        "explanation": "used to show possession, meaning belonging."
+      },
+      {
+        "word": "coup",
+        "translation": "hit",
+        "explanation": "a sudden action."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "used to show the relationship between two things."
+      },
+      {
+        "word": "Milo",
+        "translation": "Milo",
+        "explanation": "the name of a character."
+      },
+      {
+        "word": "était",
+        "translation": "was",
+        "explanation": "past tense of to be, describing a state."
+      },
+      {
+        "word": "venu",
+        "translation": "come",
+        "explanation": "to arrive at a place."
+      }
+    ],
+    [
+      {
+        "word": "Milo",
+        "translation": "Milo",
+        "explanation": "the name of a character."
+      },
+      {
+        "word": "commença",
+        "translation": "began",
+        "explanation": "past tense of begin, meaning started."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "shows direction or purpose."
+      },
+      {
+        "word": "créer",
+        "translation": "create",
+        "explanation": "to make something new."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "used before a singular noun."
+      },
+      {
+        "word": "diversion",
+        "translation": "distraction",
+        "explanation": "something that takes your attention away."
+      }
+    ],
+    [
+      {
+        "word": "il",
+        "translation": "he",
+        "explanation": "referring to Milo."
+      },
+      {
+        "word": "rassembla",
+        "translation": "gathered",
+        "explanation": "past tense of gather, meaning collected."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "used to show a relationship."
+      },
+      {
+        "word": "petits",
+        "translation": "small",
+        "explanation": "not large in size."
+      },
+      {
+        "word": "morceaux",
+        "translation": "pieces",
+        "explanation": "parts of something."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "used to show a relationship."
+      },
+      {
+        "word": "papier",
+        "translation": "paper",
+        "explanation": "material used for writing."
+      },
+      {
+        "word": "froissé",
+        "translation": "crumpled",
+        "explanation": "wrinkled or crushed."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "used to connect words."
+      },
+      {
+        "word": "s'attaqua",
+        "translation": "attacked",
+        "explanation": "past tense of attack, meaning approached with eagerness."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "shows direction."
+      },
+      {
+        "word": "eux",
+        "translation": "them",
+        "explanation": "referring to the paper pieces."
+      },
+      {
+        "word": "toute",
+        "translation": "all",
+        "explanation": "referring to the whole time."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "used before a specific noun."
+      },
+      {
+        "word": "nuit",
+        "translation": "night",
+        "explanation": "the time of day when it is dark."
+      },
+      {
+        "word": "créant",
+        "translation": "creating",
+        "explanation": "making something."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "used before a singular noun."
+      },
+      {
+        "word": "bruit",
+        "translation": "noise",
+        "explanation": "a sound."
+      },
+      {
+        "word": "dans",
+        "translation": "in",
+        "explanation": "inside or within."
+      },
+      {
+        "word": "divers",
+        "translation": "various",
+        "explanation": "different types."
+      },
+      {
+        "word": "coins",
+        "translation": "corners",
+        "explanation": "the places where two edges meet."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "used to show a relationship."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "used before a specific noun."
+      },
+      {
+        "word": "pièce",
+        "translation": "room",
+        "explanation": "an enclosed space in a building."
+      }
+    ],
+    [
+      {
+        "word": "chaque",
+        "translation": "each",
+        "explanation": "referring to every single one."
+      },
+      {
+        "word": "nuit",
+        "translation": "night",
+        "explanation": "the time of day when it is dark."
+      },
+      {
+        "word": "Monsieur",
+        "translation": "Mister",
+        "explanation": "a polite way to address a man."
+      },
+      {
+        "word": "Whiskers",
+        "translation": "Whiskers",
+        "explanation": "the name of a character."
+      },
+      {
+        "word": "se",
+        "translation": "himself",
+        "explanation": "referring back to the person."
+      },
+      {
+        "word": "levait",
+        "translation": "stood up",
+        "explanation": "past tense of stand up, meaning to rise."
+      },
+      {
+        "word": "de",
+        "translation": "from",
+        "explanation": "shows the origin."
+      },
+      {
+        "word": "sa",
+        "translation": "his",
+        "explanation": "showing possession for a male."
+      },
+      {
+        "word": "sieste",
+        "translation": "nap",
+        "explanation": "a short sleep."
+      },
+      {
+        "word": "enquêtant",
+        "translation": "investigating",
+        "explanation": "trying to find out information."
+      },
+      {
+        "word": "à",
+        "translation": "on",
+        "explanation": "shows location."
+      },
+      {
+        "word": "moitié",
+        "translation": "half",
+        "explanation": "partially."
+      },
+      {
+        "word": "endormi",
+        "translation": "asleep",
+        "explanation": "not awake."
+      },
+      {
+        "word": "sur",
+        "translation": "on",
+        "explanation": "indicating position."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "used before a specific noun."
+      },
+      {
+        "word": "source",
+        "translation": "source",
+        "explanation": "the origin."
+      },
+      {
+        "word": "du",
+        "translation": "of the",
+        "explanation": "shows possession or relationship."
+      },
+      {
+        "word": "bruit",
+        "translation": "noise",
+        "explanation": "a sound."
+      },
+      {
+        "word": "laissant",
+        "translation": "leaving",
+        "explanation": "not taking; abandoning."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "used before a specific noun."
+      },
+      {
+        "word": "fromage",
+        "translation": "cheese",
+        "explanation": "a dairy product."
+      },
+      {
+        "word": "momentanément",
+        "translation": "temporarily",
+        "explanation": "for a short time."
+      },
+      {
+        "word": "sans",
+        "translation": "without",
+        "explanation": "not having."
+      },
+      {
+        "word": "surveillance",
+        "translation": "supervision",
+        "explanation": "watching over something."
+      }
+    ],
+    [
+      {
+        "word": "lors",
+        "translation": "during",
+        "explanation": "at the time of."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "used to show a relationship."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "used before a specific noun."
+      },
+      {
+        "word": "troisième",
+        "translation": "third",
+        "explanation": "the number three in order."
+      },
+      {
+        "word": "soirée",
+        "translation": "evening",
+        "explanation": "the period of time from late afternoon to night."
+      },
+      {
+        "word": "des",
+        "translation": "of the",
+        "explanation": "used to indicate possession."
+      },
+      {
+        "word": "frasques",
+        "translation": "pranks",
+        "explanation": "funny or mischievous acts."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "used to show a relationship."
+      },
+      {
+        "word": "Milo",
+        "translation": "Milo",
+        "explanation": "the name of a character."
+      },
+      {
+        "word": "il",
+        "translation": "he",
+        "explanation": "referring to Milo."
+      },
+      {
+        "word": "remarqua",
+        "translation": "noticed",
+        "explanation": "past tense of notice, meaning became aware."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "used before a singular noun."
+      },
+      {
+        "word": "détail",
+        "translation": "detail",
+        "explanation": "a specific part."
+      },
+      {
+        "word": "qui",
+        "translation": "that",
+        "explanation": "used to refer to a thing."
+      },
+      {
+        "word": "serait",
+        "translation": "would be",
+        "explanation": "conditional form of be, showing possibility."
+      },
+      {
+        "word": "crucial",
+        "translation": "crucial",
+        "explanation": "very important."
+      }
+    ],
+    [
+      {
+        "word": "Monsieur",
+        "translation": "Mr.",
+        "explanation": "A title used to address a man."
+      },
+      {
+        "word": "Whiskers",
+        "translation": "Whiskers",
+        "explanation": "The name of a character, possibly a cat."
+      },
+      {
+        "word": "avait",
+        "translation": "had",
+        "explanation": "What Mr. Whiskers possessed."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "A singular article indicating one."
+      },
+      {
+        "word": "jouet",
+        "translation": "toy",
+        "explanation": "An object for playing."
+      },
+      {
+        "word": "en",
+        "translation": "of",
+        "explanation": "Indicates a type or material."
+      },
+      {
+        "word": "peluche",
+        "translation": "plush",
+        "explanation": "A soft fabric often used for toys."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Indicates belonging."
+      },
+      {
+        "word": "souris",
+        "translation": "mouse",
+        "explanation": "A small rodent or a toy that looks like one."
+      },
+      {
+        "word": "qu'il",
+        "translation": "that he",
+        "explanation": "Refers to Mr. Whiskers."
+      },
+      {
+        "word": "attaquait",
+        "translation": "attacked",
+        "explanation": "What Mr. Whiskers often did."
+      },
+      {
+        "word": "souvent",
+        "translation": "often",
+        "explanation": "Indicates frequency."
+      }
+    ],
+    [
+      {
+        "word": "S'il",
+        "translation": "If he",
+        "explanation": "A conditional phrase referring to Mr. Whiskers."
+      },
+      {
+        "word": "pouvait",
+        "translation": "could",
+        "explanation": "Indicates ability."
+      },
+      {
+        "word": "en",
+        "translation": "it",
+        "explanation": "Refers to a plan or situation."
+      },
+      {
+        "word": "tirer",
+        "translation": "take",
+        "explanation": "To gain or obtain."
+      },
+      {
+        "word": "profit",
+        "translation": "advantage",
+        "explanation": "A benefit or gain."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A definite article indicating something specific."
+      },
+      {
+        "word": "plan",
+        "translation": "plan",
+        "explanation": "A strategy or idea."
+      },
+      {
+        "word": "pourrait",
+        "translation": "could",
+        "explanation": "Indicates possibility."
+      },
+      {
+        "word": "fonctionner",
+        "translation": "work",
+        "explanation": "To operate or function correctly."
+      }
+    ],
+    [
+      {
+        "word": "Milo",
+        "translation": "Milo",
+        "explanation": "The name of a character."
+      },
+      {
+        "word": "se",
+        "translation": "himself",
+        "explanation": "Refers to Milo."
+      },
+      {
+        "word": "précipita",
+        "translation": "rushed",
+        "explanation": "What Milo did quickly."
+      },
+      {
+        "word": "dans",
+        "translation": "into",
+        "explanation": "Indicates direction or movement."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A definite article for a specific object."
+      },
+      {
+        "word": "panier",
+        "translation": "basket",
+        "explanation": "A container for holding items."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows belonging."
+      },
+      {
+        "word": "jouets",
+        "translation": "toys",
+        "explanation": "Objects for play."
+      },
+      {
+        "word": "attrapa",
+        "translation": "grabbed",
+        "explanation": "What Milo did when he took something."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article indicating something specific."
+      },
+      {
+        "word": "souris",
+        "translation": "mouse",
+        "explanation": "A small rodent or a toy that looks like one."
+      },
+      {
+        "word": "en",
+        "translation": "in",
+        "explanation": "Indicates location."
+      },
+      {
+        "word": "peluche",
+        "translation": "plush",
+        "explanation": "A soft fabric often used for toys."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "A conjunction connecting words."
+      },
+      {
+        "word": "l'emporta",
+        "translation": "took it away",
+        "explanation": "What Milo did with the toy."
+      },
+      {
+        "word": "dans",
+        "translation": "to",
+        "explanation": "Indicates direction."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "A singular article indicating one."
+      },
+      {
+        "word": "coin",
+        "translation": "corner",
+        "explanation": "A part of a room or area."
+      }
+    ],
+    [
+      {
+        "word": "Il",
+        "translation": "He",
+        "explanation": "Refers to Milo."
+      },
+      {
+        "word": "travailla",
+        "translation": "worked",
+        "explanation": "What he did actively."
+      },
+      {
+        "word": "soigneusement",
+        "translation": "carefully",
+        "explanation": "In a way that pays attention."
+      },
+      {
+        "word": "retirant",
+        "translation": "removing",
+        "explanation": "Taking something away."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "A singular article indicating one."
+      },
+      {
+        "word": "partie",
+        "translation": "part",
+        "explanation": "A portion of something."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows belonging."
+      },
+      {
+        "word": "son",
+        "translation": "his",
+        "explanation": "Indicates possession belonging to him."
+      },
+      {
+        "word": "rembourrage",
+        "translation": "stuffing",
+        "explanation": "Soft material inside toys."
+      },
+      {
+        "word": "pour",
+        "translation": "to",
+        "explanation": "Indicates purpose."
+      },
+      {
+        "word": "créer",
+        "translation": "create",
+        "explanation": "To make or build something."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "A singular article indicating one."
+      },
+      {
+        "word": "leurre",
+        "translation": "lure",
+        "explanation": "An object used to attract something."
+      },
+      {
+        "word": "miniature",
+        "translation": "miniature",
+        "explanation": "A small version of something."
+      }
+    ],
+    [
+      {
+        "word": "C'était",
+        "translation": "It was",
+        "explanation": "Refers to a state or condition in the past."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "A singular article indicating one."
+      },
+      {
+        "word": "réplique",
+        "translation": "replica",
+        "explanation": "An exact copy of something."
+      },
+      {
+        "word": "parfaite",
+        "translation": "perfect",
+        "explanation": "Flawless or without errors."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows belonging."
+      },
+      {
+        "word": "lui-même",
+        "translation": "itself",
+        "explanation": "Refers back to Milo or Mr. Whiskers."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "A singular article indicating one."
+      },
+      {
+        "word": "peu",
+        "translation": "a bit",
+        "explanation": "To some extent."
+      },
+      {
+        "word": "plus",
+        "translation": "more",
+        "explanation": "Indicates a greater amount."
+      },
+      {
+        "word": "grande",
+        "translation": "large",
+        "explanation": "Describes size."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "A conjunction connecting words."
+      },
+      {
+        "word": "couverte",
+        "translation": "covered",
+        "explanation": "Having something on top."
+      },
+      {
+        "word": "de",
+        "translation": "with",
+        "explanation": "Indicates manner."
+      },
+      {
+        "word": "peluches",
+        "translation": "plushies",
+        "explanation": "Soft toy-like materials."
+      }
+    ],
+    [
+      {
+        "word": "lorsque",
+        "translation": "when",
+        "explanation": "Indicates a time something happens."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article used before a noun."
+      },
+      {
+        "word": "nuit",
+        "translation": "night",
+        "explanation": "The time of day when it is dark and generally time to sleep."
+      },
+      {
+        "word": "tomba",
+        "translation": "fell",
+        "explanation": "The past tense of fall, meaning to come down suddenly."
+      },
+      {
+        "word": "Milo",
+        "translation": "Milo",
+        "explanation": "The name of the character."
+      },
+      {
+        "word": "positionna",
+        "translation": "positioned",
+        "explanation": "Past tense of position, meaning to put something in a particular place."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A definite article used before a noun."
+      },
+      {
+        "word": "leurre",
+        "translation": "decoy",
+        "explanation": "An object used to attract animals, in this case to trick them."
+      },
+      {
+        "word": "à",
+        "translation": "at",
+        "explanation": "A preposition used to indicate a location."
+      },
+      {
+        "word": "l'autre",
+        "translation": "the other",
+        "explanation": "Refers to something different or another."
+      },
+      {
+        "word": "bout",
+        "translation": "end",
+        "explanation": "A point or side of something."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "A preposition used to indicate belonging."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article used before a noun."
+      },
+      {
+        "word": "pièce",
+        "translation": "room",
+        "explanation": "An enclosed space in a building."
+      }
+    ],
+    [
+      {
+        "word": "il",
+        "translation": "he",
+        "explanation": "A pronoun referring to Milo."
+      },
+      {
+        "word": "le",
+        "translation": "it",
+        "explanation": "Refers to the decoy."
+      },
+      {
+        "word": "poussa",
+        "translation": "pushed",
+        "explanation": "Past tense of push, meaning to move something away."
+      },
+      {
+        "word": "juste",
+        "translation": "just",
+        "explanation": "Means exactly or only."
+      },
+      {
+        "word": "assez",
+        "translation": "enough",
+        "explanation": "Sufficient amount or degree."
+      },
+      {
+        "word": "pour",
+        "translation": "to",
+        "explanation": "A preposition used to indicate purpose."
+      },
+      {
+        "word": "qu'il",
+        "translation": "that it",
+        "explanation": "Refers back to the decoy."
+      },
+      {
+        "word": "semble",
+        "translation": "seems",
+        "explanation": "To give the impression or appear."
+      },
+      {
+        "word": "bouger",
+        "translation": "move",
+        "explanation": "To change position or place."
+      }
+    ],
+    [
+      {
+        "word": "puis",
+        "translation": "then",
+        "explanation": "Indicates what happens next."
+      },
+      {
+        "word": "il",
+        "translation": "he",
+        "explanation": "A pronoun referring to Milo."
+      },
+      {
+        "word": "se",
+        "translation": "himself",
+        "explanation": "Refers back to the subject Milo."
+      },
+      {
+        "word": "retira",
+        "translation": "withdrew",
+        "explanation": "Past tense of withdraw, meaning to move back."
+      },
+      {
+        "word": "derrière",
+        "translation": "behind",
+        "explanation": "At the back of something."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "An indefinite article used before a noun."
+      },
+      {
+        "word": "théière",
+        "translation": "teapot",
+        "explanation": "A container used for brewing tea."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A definite article used before a noun."
+      },
+      {
+        "word": "cœur",
+        "translation": "heart",
+        "explanation": "An organ that beats; often used to describe feelings."
+      },
+      {
+        "word": "battant",
+        "translation": "beating",
+        "explanation": "The action of the heart pulsating."
+      },
+      {
+        "word": "d'anticipation",
+        "translation": "of anticipation",
+        "explanation": "Feeling excitement about something that is going to happen."
+      }
+    ],
+    [
+      {
+        "word": "bien",
+        "translation": "of course",
+        "explanation": "Used to affirm or agree."
+      },
+      {
+        "word": "sûr",
+        "translation": "sure",
+        "explanation": "Certain or confident."
+      },
+      {
+        "word": "au",
+        "translation": "at the",
+        "explanation": "A contraction of 'à' and 'le', used for locations."
+      },
+      {
+        "word": "bout",
+        "translation": "end",
+        "explanation": "A point or side of something."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "A preposition used to indicate belonging."
+      },
+      {
+        "word": "quelques",
+        "translation": "a few",
+        "explanation": "Referring to a small number."
+      },
+      {
+        "word": "instants",
+        "translation": "moments",
+        "explanation": "Short periods of time."
+      },
+      {
+        "word": "Monsieur",
+        "translation": "Mr.",
+        "explanation": "A title used for a man, here referring to Whiskers."
+      },
+      {
+        "word": "Whiskers",
+        "translation": "Whiskers",
+        "explanation": "The name of the character."
+      },
+      {
+        "word": "se",
+        "translation": "himself",
+        "explanation": "Refers back to the subject."
+      },
+      {
+        "word": "réveilla",
+        "translation": "woke",
+        "explanation": "Past tense of wake, meaning to stop sleeping."
+      },
+      {
+        "word": "de",
+        "translation": "from",
+        "explanation": "A preposition indicating a starting point."
+      },
+      {
+        "word": "son",
+        "translation": "his",
+        "explanation": "Possessive form of he, showing ownership."
+      },
+      {
+        "word": "somme",
+        "translation": "nap",
+        "explanation": "A short sleep."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Used to connect words or phrases."
+      },
+      {
+        "word": "aperçut",
+        "translation": "saw",
+        "explanation": "Past tense of see, meaning to notice."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A definite article used before a noun."
+      },
+      {
+        "word": "mouvement",
+        "translation": "movement",
+        "explanation": "The act of something changing position."
+      }
+    ],
+    [
+      {
+        "word": "aha",
+        "translation": "aha",
+        "explanation": "An expression used to show discovery or realization."
+      },
+      {
+        "word": "pensa",
+        "translation": "thought",
+        "explanation": "Past tense of think, meaning to consider something."
+      },
+      {
+        "word": "il",
+        "translation": "he",
+        "explanation": "A pronoun referring to Mr. Whiskers."
+      },
+      {
+        "word": "s'étirant",
+        "translation": "stretching",
+        "explanation": "The action of stretching out the body."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Used to connect words or phrases."
+      },
+      {
+        "word": "bâillant",
+        "translation": "yawning",
+        "explanation": "The action of opening the mouth wide while breathing in, often from tiredness."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "An indefinite article used before a noun."
+      },
+      {
+        "word": "souris",
+        "translation": "mouse",
+        "explanation": "A small rodent."
+      },
+      {
+        "word": "dans",
+        "translation": "in",
+        "explanation": "A preposition used to indicate inclusion within a space."
+      },
+      {
+        "word": "ma",
+        "translation": "my",
+        "explanation": "Possessive form of I, showing ownership."
+      },
+      {
+        "word": "maison",
+        "translation": "house",
+        "explanation": "A building for people to live in."
+      }
+    ],
+    [
+      {
+        "word": "Avec",
+        "translation": "With",
+        "explanation": "This shows the relationship of how something is done."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "This is an article used before a noun."
+      },
+      {
+        "word": "grande",
+        "translation": "great",
+        "explanation": "This describes the size or importance of something."
+      },
+      {
+        "word": "agilité",
+        "translation": "agility",
+        "explanation": "This refers to the ability to move quickly and easily."
+      },
+      {
+        "word": "Monsieur",
+        "translation": "Mr",
+        "explanation": "This is a title used before a man's name."
+      },
+      {
+        "word": "Whiskers",
+        "translation": "Whiskers",
+        "explanation": "This is the name of the character, likely a cat."
+      },
+      {
+        "word": "se",
+        "translation": "himself",
+        "explanation": "This reflects back to the subject, Mr. Whiskers."
+      },
+      {
+        "word": "mit",
+        "translation": "put",
+        "explanation": "This is what Mr. Whiskers did."
+      },
+      {
+        "word": "en",
+        "translation": "in",
+        "explanation": "This shows location or condition."
+      },
+      {
+        "word": "action",
+        "translation": "action",
+        "explanation": "This refers to the process of doing something."
+      },
+      {
+        "word": "se",
+        "translation": "himself",
+        "explanation": "This reflects back to the subject."
+      },
+      {
+        "word": "précipitant",
+        "translation": "rushing",
+        "explanation": "This describes how Mr. Whiskers moved quickly."
+      },
+      {
+        "word": "vers",
+        "translation": "towards",
+        "explanation": "This shows direction."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "This is a definite article used before a noun."
+      },
+      {
+        "word": "leurre",
+        "translation": "lure",
+        "explanation": "This is something used to attract or draw someone in."
+      },
+      {
+        "word": "avec",
+        "translation": "with",
+        "explanation": "This shows the manner of doing something."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "This is an article used before a noun."
+      },
+      {
+        "word": "vitesse",
+        "translation": "speed",
+        "explanation": "This refers to how fast something goes."
+      },
+      {
+        "word": "qui",
+        "translation": "that",
+        "explanation": "This connects a clause or more information."
+      },
+      {
+        "word": "ferait",
+        "translation": "would make",
+        "explanation": "This indicates a conditional action."
+      },
+      {
+        "word": "tomber",
+        "translation": "fall",
+        "explanation": "This describes the action of going down."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "This is a definite article used before a noun."
+      },
+      {
+        "word": "cœur",
+        "translation": "heart",
+        "explanation": "This refers to the organ but can also mean emotional center."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This shows possession or relation."
+      },
+      {
+        "word": "n'importe",
+        "translation": "any",
+        "explanation": "This refers to an unspecified person or thing."
+      },
+      {
+        "word": "quelle",
+        "translation": "what",
+        "explanation": "This is used to inquire about a specific thing."
+      },
+      {
+        "word": "souris",
+        "translation": "mouse",
+        "explanation": "This refers to the small animal."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Used to show relation."
+      },
+      {
+        "word": "peur",
+        "translation": "fear",
+        "explanation": "This describes an emotion."
+      }
+    ],
+    [
+      {
+        "word": "Mais",
+        "translation": "But",
+        "explanation": "This is a conjunction used to contrast sentences."
+      },
+      {
+        "word": "Milo",
+        "translation": "Milo",
+        "explanation": "This is the name of another character."
+      },
+      {
+        "word": "avait",
+        "translation": "had",
+        "explanation": "This indicates possession in the past."
+      },
+      {
+        "word": "tout",
+        "translation": "everything",
+        "explanation": "This refers to all things."
+      },
+      {
+        "word": "prévu",
+        "translation": "foreseen",
+        "explanation": "This means to plan or expect something."
+      }
+    ],
+    [
+      {
+        "word": "Alors",
+        "translation": "Then",
+        "explanation": "This indicates a sequence in time."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "This connects clauses or phrases."
+      },
+      {
+        "word": "Monsieur",
+        "translation": "Mr",
+        "explanation": "This is a title for a man."
+      },
+      {
+        "word": "Whiskers",
+        "translation": "Whiskers",
+        "explanation": "This is the name of the character."
+      },
+      {
+        "word": "poursuivait",
+        "translation": "was pursuing",
+        "explanation": "This shows an ongoing action of chasing."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "This is a definite article."
+      },
+      {
+        "word": "pompon",
+        "translation": "pom-pom",
+        "explanation": "This refers to something fluffy often used as a toy or decoration."
+      },
+      {
+        "word": "Milo",
+        "translation": "Milo",
+        "explanation": "This is the name of the other character."
+      },
+      {
+        "word": "saisit",
+        "translation": "seized",
+        "explanation": "This means to grab or take hold of something."
+      },
+      {
+        "word": "sa",
+        "translation": "his",
+        "explanation": "This shows possession."
+      },
+      {
+        "word": "chance",
+        "translation": "chance",
+        "explanation": "This refers to an opportunity."
+      }
+    ],
+    [
+      {
+        "word": "Il",
+        "translation": "He",
+        "explanation": "This refers to Mr. Whiskers."
+      },
+      {
+        "word": "s'élança",
+        "translation": "leaped",
+        "explanation": "This describes an action of jumping forward."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "This shows direction."
+      },
+      {
+        "word": "travers",
+        "translation": "across",
+        "explanation": "This indicates moving from one side to another."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "This is a definite article."
+      },
+      {
+        "word": "plans",
+        "translation": "countertops",
+        "explanation": "These are surfaces in the kitchen."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This shows possession or relation."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "This is a definite article."
+      },
+      {
+        "word": "cuisine",
+        "translation": "kitchen",
+        "explanation": "This is the room where food is prepared."
+      },
+      {
+        "word": "ses",
+        "translation": "his",
+        "explanation": "This shows possession."
+      },
+      {
+        "word": "yeux",
+        "translation": "eyes",
+        "explanation": "These are the organs of sight."
+      },
+      {
+        "word": "fixés",
+        "translation": "fixed",
+        "explanation": "This means to focus or direct attention."
+      },
+      {
+        "word": "fermement",
+        "translation": "firmly",
+        "explanation": "This describes how securely something is held."
+      },
+      {
+        "word": "sur",
+        "translation": "on",
+        "explanation": "This indicates position."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "This is a definite article."
+      },
+      {
+        "word": "fromage",
+        "translation": "cheese",
+        "explanation": "This is a dairy product."
+      }
+    ],
+    [
+      {
+        "word": "Lorsqu'il",
+        "translation": "When he",
+        "explanation": "This indicates a time condition for Mr. Whiskers."
+      },
+      {
+        "word": "atteignit",
+        "translation": "reached",
+        "explanation": "This indicates arriving at a destination."
+      },
+      {
+        "word": "l'étagère",
+        "translation": "the shelf",
+        "explanation": "This is a place where items are stored."
+      },
+      {
+        "word": "l'horloge",
+        "translation": "the clock",
+        "explanation": "This tells the time."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "This shows relation."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "This is a definite article."
+      },
+      {
+        "word": "bibliothèque",
+        "translation": "library",
+        "explanation": "This is a place where books are kept."
+      },
+      {
+        "word": "sonna",
+        "translation": "struck",
+        "explanation": "This means the clock rang."
+      },
+      {
+        "word": "minuit",
+        "translation": "midnight",
+        "explanation": "This refers to twelve o'clock at night."
+      },
+      {
+        "word": "remplissant",
+        "translation": "filling",
+        "explanation": "This means to make full."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "This is a definite article."
+      },
+      {
+        "word": "pièce",
+        "translation": "room",
+        "explanation": "This is an enclosed space."
+      },
+      {
+        "word": "d'un",
+        "translation": "with a",
+        "explanation": "This indicates having something."
+      },
+      {
+        "word": "tintement",
+        "translation": "tinkling",
+        "explanation": "This refers to a light ringing sound."
+      },
+      {
+        "word": "mélodieux",
+        "translation": "melodious",
+        "explanation": "This describes the pleasant music-like quality."
+      }
+    ],
+    [
+      {
+        "word": "cela",
+        "translation": "it",
+        "explanation": "refers to something mentioned earlier in the sentence."
+      },
+      {
+        "word": "s'harmonisait",
+        "translation": "harmonized",
+        "explanation": "describes how something matched well."
+      },
+      {
+        "word": "parfaitement",
+        "translation": "perfectly",
+        "explanation": "describes the extent to which it harmonized."
+      },
+      {
+        "word": "avec",
+        "translation": "with",
+        "explanation": "indicates what it is harmonizing with."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "a definite article."
+      },
+      {
+        "word": "tumulte",
+        "translation": "tumult",
+        "explanation": "refers to a loud noise or uproar."
+      },
+      {
+        "word": "créé",
+        "translation": "created",
+        "explanation": "describes the action of causing something to happen."
+      },
+      {
+        "word": "par",
+        "translation": "by",
+        "explanation": "indicates the agent performing the action."
+      },
+      {
+        "word": "Monsieur",
+        "translation": "Mr.",
+        "explanation": "title used before a man's name."
+      },
+      {
+        "word": "Whiskers",
+        "translation": "Whiskers",
+        "explanation": "name of the cat character."
+      },
+      {
+        "word": "qui",
+        "translation": "who",
+        "explanation": "refers to Mr. Whiskers."
+      },
+      {
+        "word": "frappait",
+        "translation": "hit",
+        "explanation": "describes the action that Mr. Whiskers took."
+      },
+      {
+        "word": "leurer",
+        "translation": "lure",
+        "explanation": "refers to the object designed to attract."
+      },
+      {
+        "word": "pensant",
+        "translation": "thinking",
+        "explanation": "describes Mr. Whiskers' thoughts."
+      },
+      {
+        "word": "qu'il",
+        "translation": "that he",
+        "explanation": "refers to Mr. Whiskers."
+      },
+      {
+        "word": "avait",
+        "translation": "had",
+        "explanation": "describes possession of something."
+      },
+      {
+        "word": "enfin",
+        "translation": "finally",
+        "explanation": "indicates that something has been awaited."
+      },
+      {
+        "word": "piégé",
+        "translation": "caught",
+        "explanation": "describes what Mr. Whiskers thought he did."
+      },
+      {
+        "word": "son",
+        "translation": "his",
+        "explanation": "shows possession belonging to Mr. Whiskers."
+      },
+      {
+        "word": "dîner",
+        "translation": "dinner",
+        "explanation": "refers to the meal that Mr. Whiskers is trying to catch."
+      }
+    ],
+    [
+      {
+        "word": "Milo",
+        "translation": "Milo",
+        "explanation": "name of the main character."
+      },
+      {
+        "word": "attrapa",
+        "translation": "quickly grabbed",
+        "explanation": "describes the action Milo took to take something."
+      },
+      {
+        "word": "rapidement",
+        "translation": "quickly",
+        "explanation": "describes how fast Milo did it."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "indefinite article indicating one."
+      },
+      {
+        "word": "morceau",
+        "translation": "piece",
+        "explanation": "refers to a part of something."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "a preposition indicating belonging."
+      },
+      {
+        "word": "cheddar",
+        "translation": "cheddar",
+        "explanation": "type of cheese."
+      },
+      {
+        "word": "bien",
+        "translation": "much",
+        "explanation": "indicates a large quantity."
+      },
+      {
+        "word": "plus",
+        "translation": "more",
+        "explanation": "indicates an increase or greater extent."
+      },
+      {
+        "word": "lourd",
+        "translation": "heavy",
+        "explanation": "describes the weight of the piece."
+      },
+      {
+        "word": "qu'il",
+        "translation": "than he",
+        "explanation": "compares the weight to what Milo expected."
+      },
+      {
+        "word": "ne",
+        "translation": "not",
+        "explanation": "negation word."
+      },
+      {
+        "word": "s'y",
+        "translation": "to it",
+        "explanation": "refers to the situation or context being discussed."
+      },
+      {
+        "word": "attendait",
+        "translation": "expected",
+        "explanation": "describes what Milo thought would happen."
+      },
+      {
+        "word": "mais",
+        "translation": "but",
+        "explanation": "conjunction used to contrast ideas."
+      },
+      {
+        "word": "trop",
+        "translation": "too",
+        "explanation": "indicates an excessive amount."
+      },
+      {
+        "word": "glorieux",
+        "translation": "glorious",
+        "explanation": "describes how beautiful or wonderful it is."
+      },
+      {
+        "word": "pour",
+        "translation": "to",
+        "explanation": "preposition indicating purpose."
+      },
+      {
+        "word": "être",
+        "translation": "be",
+        "explanation": "indicates existence or state."
+      },
+      {
+        "word": "abandonner",
+        "translation": "abandoned",
+        "explanation": "refers to leaving something behind."
+      }
+    ],
+    [
+      {
+        "word": "avec",
+        "translation": "with",
+        "explanation": "indicates accompaniment."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "definite article."
+      },
+      {
+        "word": "fromage",
+        "translation": "cheese",
+        "explanation": "the type of food Milo is holding."
+      },
+      {
+        "word": "serré",
+        "translation": "tight",
+        "explanation": "describes how Milo holds the cheese."
+      },
+      {
+        "word": "entre",
+        "translation": "between",
+        "explanation": "indicates a position."
+      },
+      {
+        "word": "ses",
+        "translation": "his",
+        "explanation": "possessive form indicating belonging to Milo."
+      },
+      {
+        "word": "pattes",
+        "translation": "paws",
+        "explanation": "refers to Milo's feet."
+      },
+      {
+        "word": "il",
+        "translation": "he",
+        "explanation": "refers to Milo."
+      },
+      {
+        "word": "courut",
+        "translation": "ran",
+        "explanation": "describes the action Milo took."
+      },
+      {
+        "word": "vers",
+        "translation": "toward",
+        "explanation": "indicates direction."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "definite article."
+      },
+      {
+        "word": "mur",
+        "translation": "wall",
+        "explanation": "the surface Milo is running towards."
+      },
+      {
+        "word": "juste",
+        "translation": "just",
+        "explanation": "indicates precision in timing."
+      },
+      {
+        "word": "au",
+        "translation": "at the",
+        "explanation": "contraction of 'to the'."
+      },
+      {
+        "word": "moment",
+        "translation": "moment",
+        "explanation": "a point in time."
+      },
+      {
+        "word": "où",
+        "translation": "when",
+        "explanation": "introduces a time clause."
+      },
+      {
+        "word": "Monsieur",
+        "translation": "Mr.",
+        "explanation": "title used before a man's name."
+      },
+      {
+        "word": "Whiskers",
+        "translation": "Whiskers",
+        "explanation": "name of the cat character."
+      },
+      {
+        "word": "réalisait",
+        "translation": "realized",
+        "explanation": "describes the moment Mr. Whiskers became aware."
+      },
+      {
+        "word": "qu'il",
+        "translation": "that he",
+        "explanation": "refers to Mr. Whiskers."
+      },
+      {
+        "word": "avait",
+        "translation": "had",
+        "explanation": "describes possession."
+      },
+      {
+        "word": "été",
+        "translation": "been",
+        "explanation": "indicates a state."
+      },
+      {
+        "word": "dupé",
+        "translation": "duped",
+        "explanation": "means tricked or deceived."
+      }
+    ],
+    [
+      {
+        "word": "Milo",
+        "translation": "Milo",
+        "explanation": "name of the main character."
+      },
+      {
+        "word": "rentra",
+        "translation": "returned",
+        "explanation": "describes the action of going back."
+      },
+      {
+        "word": "dans",
+        "translation": "into",
+        "explanation": "indicates movement towards an area."
+      },
+      {
+        "word": "son",
+        "translation": "his",
+        "explanation": "shows possession belonging to Milo."
+      },
+      {
+        "word": "trou",
+        "translation": "hole",
+        "explanation": "refers to the hiding place of Milo."
+      },
+      {
+        "word": "juste",
+        "translation": "just",
+        "explanation": "denotes precision in timing."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "preposition indicating direction."
+      },
+      {
+        "word": "temps",
+        "translation": "time",
+        "explanation": "refers to the moment."
+      },
+      {
+        "word": "pour",
+        "translation": "to",
+        "explanation": "preposition indicating purpose."
+      },
+      {
+        "word": "entendre",
+        "translation": "hear",
+        "explanation": "describes the action of perceiving sound."
+      },
+      {
+        "word": "Monsieur",
+        "translation": "Mr.",
+        "explanation": "title used before a man's name."
+      },
+      {
+        "word": "Whiskers",
+        "translation": "Whiskers",
+        "explanation": "name of the cat character."
+      },
+      {
+        "word": "pousser",
+        "translation": "let out",
+        "explanation": "describes the action of emitting a sound."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "indefinite article indicating one."
+      },
+      {
+        "word": "miaulement",
+        "translation": "meow",
+        "explanation": "the sound a cat makes."
+      },
+      {
+        "word": "confondu",
+        "translation": "confused",
+        "explanation": "describes the state of Mr. Whiskers."
+      },
+      {
+        "word": "se",
+        "translation": "himself",
+        "explanation": "refers back to Mr. Whiskers."
+      },
+      {
+        "word": "mêlant",
+        "translation": "mingling",
+        "explanation": "describes mixing with other sounds."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "preposition indicating direction."
+      },
+      {
+        "word": "son",
+        "translation": "his",
+        "explanation": "shows possession belonging to Mr. Whiskers."
+      },
+      {
+        "word": "propre",
+        "translation": "own",
+        "explanation": "intensifies the possession."
+      },
+      {
+        "word": "couinement",
+        "translation": "squeak",
+        "explanation": "a sound made by mice or similar creatures."
+      },
+      {
+        "word": "fier",
+        "translation": "proud",
+        "explanation": "describes the state of Milo."
+      }
+    ],
+    [
+      {
+        "word": "tu",
+        "translation": "you",
+        "explanation": "addressing someone directly."
+      },
+      {
+        "word": "peux",
+        "translation": "can",
+        "explanation": "indicates ability."
+      },
+      {
+        "word": "garder",
+        "translation": "keep",
+        "explanation": "describes the action of retaining possession."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "definite article."
+      },
+      {
+        "word": "fromage",
+        "translation": "cheese",
+        "explanation": "the food item in question."
+      },
+      {
+        "word": "mais",
+        "translation": "but",
+        "explanation": "conjunction used to contrast ideas."
+      },
+      {
+        "word": "ce",
+        "translation": "this",
+        "explanation": "demonstrative pronoun referring to something near."
+      },
+      {
+        "word": "soit",
+        "translation": "evening",
+        "explanation": "refers to the time of day."
+      },
+      {
+        "word": "je",
+        "translation": "I",
+        "explanation": "refers to Milo as the speaker."
+      },
+      {
+        "word": "fais",
+        "translation": "make",
+        "explanation": "describes what Milo will do."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "indefinite article indicating one."
+      },
+      {
+        "word": "festin",
+        "translation": "feast",
+        "explanation": "a large meal, often celebratory."
+      },
+      {
+        "word": "!",
+        "translation": "!",
+        "explanation": "punctuation mark indicating excitement."
+      },
+      {
+        "word": "s'exclama",
+        "translation": "exclaimed",
+        "explanation": "describes how Milo spoke."
+      },
+      {
+        "word": "Milo",
+        "translation": "Milo",
+        "explanation": "the name of the main character."
+      },
+      {
+        "word": "triomphalement",
+        "translation": "triumphantly",
+        "explanation": "adverb describing how Milo spoke with pride."
+      }
+    ],
+    [
+      {
+        "word": "Alors",
+        "translation": "Then",
+        "explanation": "This word is used to indicate a moment in time."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "Used to connect clauses."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article used for feminine singular nouns."
+      },
+      {
+        "word": "lumière",
+        "translation": "light",
+        "explanation": "What allows us to see."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows possession or relation."
+      },
+      {
+        "word": "l'aube",
+        "translation": "the dawn",
+        "explanation": "The time when day begins."
+      },
+      {
+        "word": "s'infiltrait",
+        "translation": "was filtering in",
+        "explanation": "Was gradually coming in."
+      },
+      {
+        "word": "dans",
+        "translation": "into",
+        "explanation": "Indicates movement toward the inside."
+      },
+      {
+        "word": "le",
+        "translation": "the",
+        "explanation": "A definite article used for masculine singular nouns."
+      },
+      {
+        "word": "cottage",
+        "translation": "cottage",
+        "explanation": "A small house, usually in the countryside."
+      },
+      {
+        "word": "Milo",
+        "translation": "Milo",
+        "explanation": "Name of the character."
+      },
+      {
+        "word": "savourait",
+        "translation": "was savoring",
+        "explanation": "Was enjoying the taste of something."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article used for feminine singular nouns."
+      },
+      {
+        "word": "première",
+        "translation": "first",
+        "explanation": "The ordinal number indicating position."
+      },
+      {
+        "word": "bouchée",
+        "translation": "bite",
+        "explanation": "A piece of food taken into the mouth."
+      },
+      {
+        "word": "du",
+        "translation": "of the",
+        "explanation": "A contraction of 'de' and 'le', indicating possession."
+      },
+      {
+        "word": "fromage",
+        "translation": "cheese",
+        "explanation": "A dairy product made from milk."
+      },
+      {
+        "word": "convoité",
+        "translation": "coveted",
+        "explanation": "Desired very much."
+      }
+    ],
+    [
+      {
+        "word": "C'était",
+        "translation": "It was",
+        "explanation": "Used to describe something in the past."
+      },
+      {
+        "word": "plus",
+        "translation": "more",
+        "explanation": "Indicates a greater amount."
+      },
+      {
+        "word": "qu'un",
+        "translation": "than a",
+        "explanation": "Used for comparison."
+      },
+      {
+        "word": "simple",
+        "translation": "simple",
+        "explanation": "Not complicated."
+      },
+      {
+        "word": "repas",
+        "translation": "meal",
+        "explanation": "Food eaten at one time."
+      },
+      {
+        "word": ";",
+        "translation": "",
+        "explanation": "Punctuation, ignored."
+      },
+      {
+        "word": "c'était",
+        "translation": "it was",
+        "explanation": "Referring back to the meal in the past."
+      },
+      {
+        "word": "un",
+        "translation": "a",
+        "explanation": "An indefinite article used for singular nouns."
+      },
+      {
+        "word": "témoignage",
+        "translation": "testament",
+        "explanation": "Something that shows or proves."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows possession or relation."
+      },
+      {
+        "word": "son",
+        "translation": "his",
+        "explanation": "Referring to Milo, showing ownership."
+      },
+      {
+        "word": "esprit",
+        "translation": "spirit",
+        "explanation": "The character or essence of someone."
+      },
+      {
+        "word": ".",
+        "translation": "",
+        "explanation": "Punctuation, ignored."
+      }
+    ],
+    [
+      {
+        "word": "Le",
+        "translation": "The",
+        "explanation": "A definite article used for masculine singular nouns."
+      },
+      {
+        "word": "fromage",
+        "translation": "cheese",
+        "explanation": "A dairy product made from milk."
+      },
+      {
+        "word": "était",
+        "translation": "was",
+        "explanation": "Past tense of 'is', used to describe."
+      },
+      {
+        "word": "riche",
+        "translation": "rich",
+        "explanation": "Having a lot of flavor."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Used to connect words."
+      },
+      {
+        "word": "délicieux",
+        "translation": "delicious",
+        "explanation": "Very pleasant to taste."
+      },
+      {
+        "word": ",",
+        "translation": "",
+        "explanation": "Punctuation, ignored."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Used to connect words."
+      },
+      {
+        "word": "il",
+        "translation": "he",
+        "explanation": "Referring to Milo."
+      },
+      {
+        "word": "ne",
+        "translation": "could not",
+        "explanation": "Used to make a negative statement."
+      },
+      {
+        "word": "put",
+        "translation": "help",
+        "explanation": "To be able to do something."
+      },
+      {
+        "word": "s'empêcher",
+        "translation": "stop himself",
+        "explanation": "To prevent oneself from doing something."
+      },
+      {
+        "word": "de",
+        "translation": "from",
+        "explanation": "Indicates the source or action."
+      },
+      {
+        "word": "sourire",
+        "translation": "smiling",
+        "explanation": "Showing happiness with the mouth."
+      },
+      {
+        "word": ".",
+        "translation": "",
+        "explanation": "Punctuation, ignored."
+      }
+    ],
+    [
+      {
+        "word": "À",
+        "translation": "From",
+        "explanation": "Indicates a starting point in time."
+      },
+      {
+        "word": "partir",
+        "translation": "beginning",
+        "explanation": "To start something."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows possession or relation."
+      },
+      {
+        "word": "ce",
+        "translation": "this",
+        "explanation": "Referring to the current situation."
+      },
+      {
+        "word": "jour",
+        "translation": "day",
+        "explanation": "A period of 24 hours."
+      },
+      {
+        "word": ",",
+        "translation": "",
+        "explanation": "Punctuation, ignored."
+      },
+      {
+        "word": "Milo",
+        "translation": "Milo",
+        "explanation": "Name of the character."
+      },
+      {
+        "word": "continua",
+        "translation": "continued",
+        "explanation": "Kept doing something."
+      },
+      {
+        "word": "à",
+        "translation": "to",
+        "explanation": "Indicates direction or purpose."
+      },
+      {
+        "word": "profiter",
+        "translation": "enjoy",
+        "explanation": "To take pleasure from."
+      },
+      {
+        "word": "des",
+        "translation": "of the",
+        "explanation": "Indicates an unspecified amount."
+      },
+      {
+        "word": "réserves",
+        "translation": "supplies",
+        "explanation": "Extra amounts of something."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows possession or relation."
+      },
+      {
+        "word": "fromage",
+        "translation": "cheese",
+        "explanation": "A dairy product made from milk."
+      },
+      {
+        "word": "en",
+        "translation": "by",
+        "explanation": "Indicates a method."
+      },
+      {
+        "word": "utilisant",
+        "translation": "using",
+        "explanation": "Employing or making use of."
+      },
+      {
+        "word": "ses",
+        "translation": "his",
+        "explanation": "Referring to Milo's possessions."
+      },
+      {
+        "word": "ruses",
+        "translation": "tricks",
+        "explanation": "Clever plans to achieve something."
+      },
+      {
+        "word": "chaleureuses",
+        "translation": "warm",
+        "explanation": "Friendly or comforting."
+      },
+      {
+        "word": ",",
+        "translation": "",
+        "explanation": "Punctuation, ignored."
+      },
+      {
+        "word": "au",
+        "translation": "to the",
+        "explanation": "Indicates direction."
+      },
+      {
+        "word": "grand",
+        "translation": "great",
+        "explanation": "Large in size or importance."
+      },
+      {
+        "word": "dam",
+        "translation": "dismay",
+        "explanation": "A feeling of disappointment."
+      },
+      {
+        "word": "de",
+        "translation": "of",
+        "explanation": "Shows possession or relation."
+      },
+      {
+        "word": "Monsieur",
+        "translation": "Mr.",
+        "explanation": "A title for a man."
+      },
+      {
+        "word": "Whiskers",
+        "translation": "Whiskers",
+        "explanation": "Name of the cat character."
+      },
+      {
+        "word": ",",
+        "translation": "",
+        "explanation": "Punctuation, ignored."
+      },
+      {
+        "word": "qui",
+        "translation": "who",
+        "explanation": "Refers to the cat."
+      },
+      {
+        "word": "ne",
+        "translation": "could only",
+        "explanation": "Indicates limitation."
+      },
+      {
+        "word": "pouvait",
+        "translation": "could",
+        "explanation": "Was able to."
+      },
+      {
+        "word": "que",
+        "translation": "only",
+        "explanation": "Indicates restriction."
+      },
+      {
+        "word": "guetter",
+        "translation": "watching",
+        "explanation": "Observing carefully."
+      },
+      {
+        "word": "et",
+        "translation": "and",
+        "explanation": "Used to connect words."
+      },
+      {
+        "word": "regarder",
+        "translation": "look",
+        "explanation": "To use one's eyes to see."
+      },
+      {
+        "word": "alors",
+        "translation": "as",
+        "explanation": "At the same time."
+      },
+      {
+        "word": "que",
+        "translation": "that",
+        "explanation": "Used to connect clauses."
+      },
+      {
+        "word": "la",
+        "translation": "the",
+        "explanation": "A definite article used for feminine singular nouns."
+      },
+      {
+        "word": "petite",
+        "translation": "little",
+        "explanation": "Small in size or amount."
+      },
+      {
+        "word": "souris",
+        "translation": "mouse",
+        "explanation": "A small rodent."
+      },
+      {
+        "word": "devenait",
+        "translation": "was becoming",
+        "explanation": "Was in the process of change."
+      },
+      {
+        "word": "une",
+        "translation": "a",
+        "explanation": "An indefinite article used for singular nouns."
+      },
+      {
+        "word": "légende",
+        "translation": "legend",
+        "explanation": "A very famous story or person."
+      },
+      {
+        "word": "parmi",
+        "translation": "among",
+        "explanation": "In the middle of a group."
+      },
+      {
+        "word": "les",
+        "translation": "the",
+        "explanation": "A definite article used for plural nouns."
+      },
+      {
+        "word": "créatures",
+        "translation": "creatures",
+        "explanation": "Living beings."
+      },
+      {
+        "word": "du",
+        "translation": "of the",
+        "explanation": "A contraction of 'de' and 'le', indicating possession."
+      },
+      {
+        "word": "cottage",
+        "translation": "cottage",
+        "explanation": "A small house, usually in the countryside."
+      },
+      {
+        "word": ".",
+        "translation": "",
+        "explanation": "Punctuation, ignored."
+      }
+    ]
+  ]
+}
