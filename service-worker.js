@@ -1,16 +1,34 @@
-// Import Workbox libraries from CDN
-importScripts('https://storage.googleapis.com/workbox-cdn/releases/6.5.4/workbox-sw.js');
+const CACHE_NAME = 'pwa-cache-v1';
+const urlsToCache = [
+    '/index.html',
+    '/static/css/main.css',
+    '/static/js/main.js',
+];
 
-// Pre-cache the static assets (if any, like index.html, CSS, JS, etc.)
-workbox.precaching.precacheAndRoute(self.__WB_MANIFEST);
+self.addEventListener('install', (event) => {
+    event.waitUntil(
+        caches.open(CACHE_NAME)
+            .then((cache) => {
+                return cache.addAll(urlsToCache);
+            })
+    );
+});
 
-// Cache all GET requests that match the current origin
-workbox.routing.registerRoute(
-    ({ request, url }) => {
-        // Match all GET requests
-        return request.method === 'GET' && url.origin === self.location.origin;
-    },
-    new workbox.strategies.StaleWhileRevalidate({
-        cacheName: 'dynamic-cache', // Name of the cache
-    })
-);
+self.addEventListener('fetch', (event) => {
+    if (event.request.url.includes('/stories/')) {
+        event.respondWith(
+            caches.open(CACHE_NAME).then((cache) => {
+                return cache.match(event.request).then((cachedResponse) => {
+                    const fetchPromise = fetch(event.request).then((networkResponse) => {
+                        // Update the cache with the latest version of the file
+                        cache.put(event.request, networkResponse.clone());
+                        return networkResponse;
+                    });
+
+                    // If the cache is still valid, return the cached version, otherwise fetch a new one
+                    return cachedResponse || fetchPromise;
+                });
+            })
+        );
+    }
+});
