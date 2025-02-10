@@ -31,6 +31,10 @@
         {
             "title": "The Cheese Heist",
             "path": "the_cheese_heist"
+        },
+        {
+            "title": "Bora and the Beavers' Wisdom",
+            "path": "bora_and_the_beavers_wisdom"
         }
     ]
 }

@@ -1,0 +1,2996 @@
+{
+  "story": "在一個生氣勃勃、綠意盎然的森林裡，陽光透過樹葉，住著一隻名叫波拉的大熊。 波拉的毛皮柔軟如雲，邊大的爪子在泥土裡留下深深的爪痕，牠在森林裡的生物中是個有名的人物。 但波拉真正特別之處在於牠與居住在附近河流旁的一群聰明小海狸之間的友誼。 森林裡其他的大型動物，從高大的駝鹿到輕快的鹿，常常嘲笑那些海狸。 \"看看那些小生物，\"牠們嘲弄道，\"牠們能教我們什麼呢？牠們只是幾隻有著扁平尾巴的弱小游泳者！\" 但波拉，擁有一顆大心的牠，對於他們的嘲諷毫不在意。 相反地，牠每天都在向海狸朋友學習，研究牠們如何利用樹枝和泥土建造精巧的水壩，創造出安全的避風港，讓牠們的家得以安全。 牠欣賞這些小海狸的決心和技巧。 波拉意識到，即使是最小的生物也能分享偉大的課題。 當牠與海狸們一起工作時，牠發現了團隊合作和創造力的快樂——這隻大熊幫忙搬運較大的樹木，而靈活的海狸們則專業地整理一切。 一個註定的日子，一群野狼潛入森林，飢餓的眼睛掃視著樹木尋找獵物。 大型動物們驚恐不已，牠們自大的勇氣瞬間消失。 \"我們該怎麼辦！？\"一隻驚慌的雌鹿叫道。 狼以兇殘著稱，而大型動物們知道牠們必須找到安全的地方。 突然，聰明的老麋鹿心中閃過一個念頭。 \"波拉的水壩怎麼樣？\"牠提議道。 這是牠們唯一的希望！ 牠們瘋狂地奔向河流，波拉的水壩在那裡堅固而驕傲。 波拉張開雙臂歡迎牠們的朋友，\"快進來！這裡安全！\" 大型動物們爭先恐後地衝進水壩寬敞的內部，心臟砰砰直跳。 牠們迅速找到一根堅固的木頭，並用它封住入口，然後靜靜地等待，屏住呼吸。 狼的嚎叫在森林中迴響，但牠們無法接觸到在水壩後面安全藏身的驚慌動物。 過了幾個小時，狼們最終失去興趣，遊蕩進了森林的深處。 慢慢地，緊張的氣氛消散，大型動物們小心翼翼地望向外面。 陽光依然照耀著，牠們是安全的。 帶著感激，這些大型動物們轉向波拉，聲音充滿敬畏。 \"你真聰明，竟然建了這個水壩！\"鹿興奮地叫道。 \"再看看海狸們是如何與你合作的！\" 波拉微笑著，眼睛閃爍著光芒。 \"當然，我們都能彼此學習，特別是我們的海狸朋友。牠們教我如何建這個水壩，今天拯救了我們所有人。\" 這些曾經嘲笑海狸的大型動物們現在明白力量有多種形式。 牠們以新的尊重看著小海狸們，意識到牠們的大小與智慧和才智無關。 從那天起，熊波拉繼續珍惜與海狸的友誼。 其他的大型動物們也加入了牠們，渴望學習建設和團隊合作的知識。 牠們在河裡開懷大笑、嬉戲，讚美著即使是最小的爪子也能創造出宏偉的事物。 在森林的心臟地帶，友誼無邊的地方，波拉熊教會了大家一個重要的道理：有時，最大的力量來自於團結，而真正的朋友能幫助你渡過任何風暴。",
+  "title": "波拉與海狸的智慧",
+  "sentences": [
+    {
+      "original": "在一個生氣勃勃、綠意盎然的森林裡，陽光透過樹葉，住著一隻名叫波拉的大熊。",
+      "translation": "In a lively, green forest, sunlight filtered through the leaves, where a big bear named Polar lived."
+    },
+    {
+      "original": "波拉的毛皮柔軟如雲，邊大的爪子在泥土裡留下深深的爪痕，牠在森林裡的生物中是個有名的人物。",
+      "translation": "Polar's fur was soft as a cloud, and his large paws left deep paw prints in the dirt; he was a well-known figure among the creatures of the forest."
+    },
+    {
+      "original": "但波拉真正特別之處在於牠與居住在附近河流旁的一群聰明小海狸之間的友誼。",
+      "translation": "But what made Polar truly special was his friendship with a group of clever little beavers living by a nearby stream."
+    },
+    {
+      "original": "森林裡其他的大型動物，從高大的駝鹿到輕快的鹿，常常嘲笑那些海狸。",
+      "translation": "The other large animals in the forest, from the tall moose to the nimble deer, often mocked the beavers."
+    },
+    {
+      "original": "\"看看那些小生物，\"牠們嘲弄道，\"牠們能教我們什麼呢？牠們只是幾隻有著扁平尾巴的弱小游泳者！\"",
+      "translation": "\"Look at those little creatures,\" they teased, \"what can they teach us? They are just a few weak swimmers with flat tails!\""
+    },
+    {
+      "original": "但波拉，擁有一顆大心的牠，對於他們的嘲諷毫不在意。",
+      "translation": "But Polar, with his big heart, did not care about their taunts."
+    },
+    {
+      "original": "相反地，牠每天都在向海狸朋友學習，研究牠們如何利用樹枝和泥土建造精巧的水壩，創造出安全的避風港，讓牠們的家得以安全。",
+      "translation": "Instead, he learned from his beaver friends every day, studying how they used branches and mud to build intricate dams, creating a safe haven for their home."
+    },
+    {
+      "original": "牠欣賞這些小海狸的決心和技巧。",
+      "translation": "He admired the determination and skill of the little beavers."
+    },
+    {
+      "original": "波拉意識到，即使是最小的生物也能分享偉大的課題。",
+      "translation": "Polar realized that even the smallest creatures could share great lessons."
+    },
+    {
+      "original": "當牠與海狸們一起工作時，牠發現了團隊合作和創造力的快樂——這隻大熊幫忙搬運較大的樹木，而靈活的海狸們則專業地整理一切。",
+      "translation": "As he worked alongside the beavers, he discovered the joy of teamwork and creativity—this big bear helped carry larger logs, while the agile beavers expertly arranged everything."
+    },
+    {
+      "original": "一個註定的日子，一群野狼潛入森林，飢餓的眼睛掃視著樹木尋找獵物。",
+      "translation": "One fateful day, a pack of wild wolves crept into the forest, their hungry eyes scanning the trees for prey."
+    },
+    {
+      "original": "大型動物們驚恐不已，牠們自大的勇氣瞬間消失。",
+      "translation": "The large animals were terrified, their arrogant bravery evaporating in an instant."
+    },
+    {
+      "original": "\"我們該怎麼辦！？\"一隻驚慌的雌鹿叫道。",
+      "translation": "\"What should we do?!\" cried a terrified doe."
+    },
+    {
+      "original": "狼以兇殘著稱，而大型動物們知道牠們必須找到安全的地方。",
+      "translation": "The wolves were known for their ferocity, and the large animals knew they had to find a safe place."
+    },
+    {
+      "original": "突然，聰明的老麋鹿心中閃過一個念頭。",
+      "translation": "Suddenly, a clever old elk had a thought."
+    },
+    {
+      "original": "\"波拉的水壩怎麼樣？\"牠提議道。",
+      "translation": "\"What about Polar's dam?\" he suggested."
+    },
+    {
+      "original": "這是牠們唯一的希望！",
+      "translation": "This was their only hope!"
+    },
+    {
+      "original": "牠們瘋狂地奔向河流，波拉的水壩在那裡堅固而驕傲。",
+      "translation": "They rushed madly toward the river, where Polar's dam stood strong and proud."
+    },
+    {
+      "original": "波拉張開雙臂歡迎牠們的朋友，\"快進來！這裡安全！\"",
+      "translation": "Polar opened his arms to welcome his friends, \"Come in! It's safe here!\""
+    },
+    {
+      "original": "大型動物們爭先恐後地衝進水壩寬敞的內部，心臟砰砰直跳。",
+      "translation": "The large animals rushed into the spacious interior of the dam, their hearts pounding."
+    },
+    {
+      "original": "牠們迅速找到一根堅固的木頭，並用它封住入口，然後靜靜地等待，屏住呼吸。",
+      "translation": "They quickly found a sturdy log and used it to seal the entrance, then waited silently, holding their breath."
+    },
+    {
+      "original": "狼的嚎叫在森林中迴響，但牠們無法接觸到在水壩後面安全藏身的驚慌動物。",
+      "translation": "The howls of the wolves echoed through the forest, but they could not reach the frightened animals hidden safely behind the dam."
+    },
+    {
+      "original": "過了幾個小時，狼們最終失去興趣，遊蕩進了森林的深處。",
+      "translation": "After a few hours, the wolves eventually lost interest and wandered deeper into the forest."
+    },
+    {
+      "original": "慢慢地，緊張的氣氛消散，大型動物們小心翼翼地望向外面。",
+      "translation": "Gradually, the tense atmosphere faded, and the large animals cautiously looked outside."
+    },
+    {
+      "original": "陽光依然照耀著，牠們是安全的。",
+      "translation": "The sun still shone, and they were safe."
+    },
+    {
+      "original": "帶著感激，這些大型動物們轉向波拉，聲音充滿敬畏。",
+      "translation": "Filled with gratitude, these large animals turned to Polar, their voices full of awe."
+    },
+    {
+      "original": "\"你真聰明，竟然建了這個水壩！\"鹿興奮地叫道。",
+      "translation": "\"You are so clever to have built this dam!\" the deer exclaimed excitedly."
+    },
+    {
+      "original": "\"再看看海狸們是如何與你合作的！\"",
+      "translation": "\"Just look at how the beavers worked with you!\""
+    },
+    {
+      "original": "波拉微笑著，眼睛閃爍著光芒。",
+      "translation": "Polar smiled, his eyes sparkling with light."
+    },
+    {
+      "original": "\"當然，我們都能彼此學習，特別是我們的海狸朋友。牠們教我如何建這個水壩，今天拯救了我們所有人。\"",
+      "translation": "\"Of course, we can all learn from each other, especially our beaver friends. They taught me how to build this dam, which saved us all today.\""
+    },
+    {
+      "original": "這些曾經嘲笑海狸的大型動物們現在明白力量有多種形式。",
+      "translation": "These large animals, who once mocked the beavers, now understood that strength comes in many forms."
+    },
+    {
+      "original": "牠們以新的尊重看著小海狸們，意識到牠們的大小與智慧和才智無關。",
+      "translation": "They looked at the little beavers with new respect, realizing that size has nothing to do with wisdom and intelligence."
+    },
+    {
+      "original": "從那天起，熊波拉繼續珍惜與海狸的友誼。",
+      "translation": "From that day on, Bear Polar continued to cherish his friendship with the beavers."
+    },
+    {
+      "original": "其他的大型動物們也加入了牠們，渴望學習建設和團隊合作的知識。",
+      "translation": "The other large animals joined them, eager to learn the knowledge of construction and teamwork."
+    },
+    {
+      "original": "牠們在河裡開懷大笑、嬉戲，讚美著即使是最小的爪子也能創造出宏偉的事物。",
+      "translation": "They laughed and played in the river, praising how even the smallest paws could create great things."
+    },
+    {
+      "original": "在森林的心臟地帶，友誼無邊的地方，波拉熊教會了大家一個重要的道理：有時，最大的力量來自於團結，而真正的朋友能幫助你渡過任何風暴。",
+      "translation": "In the heart of the forest, a place where friendship knows no bounds, Polar Bear taught everyone an important lesson: sometimes the greatest strength comes from unity, and true friends can help you weather any storm."
+    }
+  ],
+  "words": [
+    [
+      {
+        "word": "在",
+        "translation": "in - 在 zoi6 (in)",
+        "explanation": "Indicating a location."
+      },
+      {
+        "word": "一個",
+        "translation": "a - 一個 jat1 go3 (a)",
+        "explanation": "Describes a singular object or thing."
+      },
+      {
+        "word": "生氣勃勃",
+        "translation": "vibrant - 生氣勃勃 saang1 hei3 but6 but6 (vibrant)",
+        "explanation": "Describes something full of energy."
+      },
+      {
+        "word": "綠意盎然",
+        "translation": "lush green - 綠意盎然 luk6 ji3 ong3 jyn4 (lush green)",
+        "explanation": "Describes the abundance of greenery."
+      },
+      {
+        "word": "的",
+        "translation": "of - 的 dik1 (of)",
+        "explanation": "A possessive or descriptive particle."
+      },
+      {
+        "word": "森林",
+        "translation": "forest - 森林 sam1 lam4 (forest)",
+        "explanation": "A large area covered densely with trees."
+      },
+      {
+        "word": "裡",
+        "translation": "in - 裡 leoi5 (inside)",
+        "explanation": "Indicating that something is inside."
+      },
+      {
+        "word": "陽光",
+        "translation": "sunlight - 陽光 joeng4 gwong1 (sunlight)",
+        "explanation": "Light from the sun."
+      },
+      {
+        "word": "透過",
+        "translation": "through - 透過 tau3 gwo3 (through)",
+        "explanation": "To move from one side to another."
+      },
+      {
+        "word": "樹葉",
+        "translation": "leaves - 樹葉 syu6 jip6 (leaves)",
+        "explanation": "Parts of a tree or plant that are usually green."
+      },
+      {
+        "word": "住著",
+        "translation": "lives - 住 zyu6 (live)",
+        "explanation": "Where someone resides or lives."
+      },
+      {
+        "word": "一隻",
+        "translation": "a - 一隻 jat1 zek3 (a)",
+        "explanation": "Refers to one animal."
+      },
+      {
+        "word": "名叫",
+        "translation": "named - 名叫 ming4 giu3 (named)",
+        "explanation": "Indicates someone's name."
+      },
+      {
+        "word": "波拉",
+        "translation": "Bola - 波拉 bo1 laai1 (Bola)",
+        "explanation": "The name of the bear."
+      },
+      {
+        "word": "的大熊",
+        "translation": "big bear - 的的熊 dak1 dei6 hung4 (the big bear)",
+        "explanation": "Refers to a bear and its size."
+      }
+    ],
+    [
+      {
+        "word": "波拉",
+        "translation": "Bola - 波拉 bo1 laai1 (Bola)",
+        "explanation": "The name of the bear."
+      },
+      {
+        "word": "的",
+        "translation": "of - 的 dik1 (of)",
+        "explanation": "A possessive or descriptive particle."
+      },
+      {
+        "word": "毛皮",
+        "translation": "fur - 毛皮 mou4 pei4 (fur)",
+        "explanation": "The hair covering the body of the animal."
+      },
+      {
+        "word": "柔軟",
+        "translation": "soft - 柔軟 jau4 jyun5 (soft)",
+        "explanation": "Describes the texture of Bola's fur."
+      },
+      {
+        "word": "如",
+        "translation": "like - 如 jyu4 (like)",
+        "explanation": "Used to make a comparison."
+      },
+      {
+        "word": "雲",
+        "translation": "cloud - 雲 wan4 (cloud)",
+        "explanation": "Refers to something fluffy and light."
+      },
+      {
+        "word": "邊",
+        "translation": "side - 邊 bin1 (side)",
+        "explanation": "Relates to the edge or border of something."
+      },
+      {
+        "word": "大",
+        "translation": "big - 大 daai6 (big)",
+        "explanation": "Describes size."
+      },
+      {
+        "word": "爪子",
+        "translation": "claws - 爪子 zaau2 zi2 (claws)",
+        "explanation": "The sharp nails of the bear."
+      },
+      {
+        "word": "在",
+        "translation": "in - 在 zoi6 (in)",
+        "explanation": "Indicating a location."
+      },
+      {
+        "word": "泥土",
+        "translation": "soil - 泥土 nai4 to2 (soil)",
+        "explanation": "The ground or earth."
+      },
+      {
+        "word": "裡",
+        "translation": "in - 裡 leoi5 (inside)",
+        "explanation": "Indicating that something is inside."
+      },
+      {
+        "word": "留下",
+        "translation": "leaves - 留下 lau4 haa6 (leaves)",
+        "explanation": "To cause something to be present."
+      },
+      {
+        "word": "深深的",
+        "translation": "deep - 深深的 sam1 sam1 dik1 (deep)",
+        "explanation": "Describes the depth."
+      },
+      {
+        "word": "爪痕",
+        "translation": "claw marks - 爪痕 zaau2 han4 (claw marks)",
+        "explanation": "Marks left by the bear's claws."
+      },
+      {
+        "word": "牠",
+        "translation": "it - 牠 taa1 (it)",
+        "explanation": "Refers to the bear."
+      },
+      {
+        "word": "在",
+        "translation": "in - 在 zoi6 (in)",
+        "explanation": "Indicating a location."
+      },
+      {
+        "word": "森林",
+        "translation": "forest - 森林 sam1 lam4 (forest)",
+        "explanation": "A large area covered densely with trees."
+      },
+      {
+        "word": "裡",
+        "translation": "in - 裡 leoi5 (inside)",
+        "explanation": "Indicating that something is inside."
+      },
+      {
+        "word": "的",
+        "translation": "of - 的 dik1 (of)",
+        "explanation": "A possessive or descriptive particle."
+      },
+      {
+        "word": "生物",
+        "translation": "creatures - 生物 saang1 mat6 (creatures)",
+        "explanation": "Living things."
+      },
+      {
+        "word": "中",
+        "translation": "among - 中 zung1 (among)",
+        "explanation": "In the middle of a group."
+      },
+      {
+        "word": "是",
+        "translation": "is - 是 si6 (is)",
+        "explanation": "Indicates equality or identity."
+      },
+      {
+        "word": "個",
+        "translation": "a - 個 go3 (a)",
+        "explanation": "Describes a singular object or thing."
+      },
+      {
+        "word": "有名",
+        "translation": "famous - 有名 jau5 ming4 (famous)",
+        "explanation": "Well known."
+      },
+      {
+        "word": "的人物",
+        "translation": "character - 的的人物 dik1 dik1 jan4 mat6 (character)",
+        "explanation": "A person of interest or significance."
+      }
+    ],
+    [
+      {
+        "word": "但",
+        "translation": "but - 但 daan6 (but)",
+        "explanation": "Indicates a contrast."
+      },
+      {
+        "word": "波拉",
+        "translation": "Bola - 波拉 bo1 laai1 (Bola)",
+        "explanation": "The name of the bear."
+      },
+      {
+        "word": "真正",
+        "translation": "truly - 真正 zan1 zing3 (truly)",
+        "explanation": "Indicates authenticity."
+      },
+      {
+        "word": "特別",
+        "translation": "special - 特別 dak6 bit6 (special)",
+        "explanation": "Unusual or noteworthy."
+      },
+      {
+        "word": "之",
+        "translation": "of - 之 zi1 (of)",
+        "explanation": "A possessive or descriptive particle."
+      },
+      {
+        "word": "處",
+        "translation": "place - 處 cyu3 (place)",
+        "explanation": "Referring to a location."
+      },
+      {
+        "word": "在於",
+        "translation": "lies in - 在於 zoi6 jyu4 (lies in)",
+        "explanation": "Indicates the key point of something."
+      },
+      {
+        "word": "牠",
+        "translation": "it - 牠 taa1 (it)",
+        "explanation": "Refers to the bear."
+      },
+      {
+        "word": "與",
+        "translation": "with - 與 jyu5 (with)",
+        "explanation": "Indicates a connection between things."
+      },
+      {
+        "word": "居住",
+        "translation": "living - 居住 geoi1 zyu6 (living)",
+        "explanation": "Residing in a place."
+      },
+      {
+        "word": "在附近",
+        "translation": "nearby - 在附近 zoi6 fu6 gan6 (nearby)",
+        "explanation": "Close to."
+      },
+      {
+        "word": "河流",
+        "translation": "river - 河流 ho4 lau4 (river)",
+        "explanation": "A large natural stream of water."
+      },
+      {
+        "word": "旁",
+        "translation": "beside - 旁 pong4 (beside)",
+        "explanation": "Next to something."
+      },
+      {
+        "word": "的",
+        "translation": "of - 的 dik1 (of)",
+        "explanation": "A possessive or descriptive particle."
+      },
+      {
+        "word": "一群",
+        "translation": "a group - 一群 jat1 kwan4 (a group)",
+        "explanation": "Indicates multiple things together."
+      },
+      {
+        "word": "聰明",
+        "translation": "smart - 聰明 cung1 ming4 (smart)",
+        "explanation": "Having intelligence."
+      },
+      {
+        "word": "小海狸",
+        "translation": "little beavers - 小海狸 siu2 hoi2 lei4 (little beavers)",
+        "explanation": "Small aquatic animals known for building dams."
+      },
+      {
+        "word": "之間",
+        "translation": "between - 之間 zi1 gaan1 (between)",
+        "explanation": "Indicates a relationship in space or time."
+      },
+      {
+        "word": "的",
+        "translation": "of - 的 dik1 (of)",
+        "explanation": "A possessive or descriptive particle."
+      },
+      {
+        "word": "友誼",
+        "translation": "friendship - 友誼 jau5 ji4 (friendship)",
+        "explanation": "The bond between friends."
+      }
+    ],
+    [
+      {
+        "word": "森林裡",
+        "translation": "in the forest - 森林裡 sam1 lam4 leoi5 (in the forest)",
+        "explanation": "Indicates a location."
+      },
+      {
+        "word": "其他",
+        "translation": "other - 其他 kei4 taa1 (other)",
+        "explanation": "Indicates additional or different items."
+      },
+      {
+        "word": "的大型",
+        "translation": "large - 大型 daai6 jing4 (large)",
+        "explanation": "Describing size."
+      },
+      {
+        "word": "動物",
+        "translation": "animals - 動物 dung6 mat6 (animals)",
+        "explanation": "Living creatures that move."
+      },
+      {
+        "word": "從",
+        "translation": "from - 從 cung4 (from)",
+        "explanation": "Indicating the starting point."
+      },
+      {
+        "word": "高大的",
+        "translation": "tall - 高大的 gou1 daai6 dik1 (tall)",
+        "explanation": "Describing the height."
+      },
+      {
+        "word": "駝鹿",
+        "translation": "moose - 駝鹿 to4 luk6 (moose)",
+        "explanation": "A large deer."
+      },
+      {
+        "word": "到",
+        "translation": "to - 到 dou3 (to)",
+        "explanation": "Indicating direction or destination."
+      },
+      {
+        "word": "輕快的",
+        "translation": "light - 輕快的 hing1 faai3 dik1 (light)",
+        "explanation": "Describing movement or demeanor."
+      },
+      {
+        "word": "鹿",
+        "translation": "deer - 鹿 luk6 (deer)",
+        "explanation": "A type of large animal."
+      },
+      {
+        "word": "常常",
+        "translation": "often - 常常 soeng4 soeng4 (often)",
+        "explanation": "Indicates frequency."
+      },
+      {
+        "word": "嘲笑",
+        "translation": "mock - 嘲笑 ziu1 siu3 (mock)",
+        "explanation": "Disrespecting or laughing at someone."
+      },
+      {
+        "word": "那些",
+        "translation": "those - 那些 naa5 se1 (those)",
+        "explanation": "Referring to a specific group of things."
+      },
+      {
+        "word": "海狸",
+        "translation": "beavers - 海狸 hoi2 lei4 (beavers)",
+        "explanation": "Aquatic animals known for building dams."
+      },
+      {
+        "word": "看看",
+        "translation": "look at - 看看 hon3 hon3 (look at)",
+        "explanation": "An action of observing."
+      },
+      {
+        "word": "這些",
+        "translation": "these - 這些 ze5 se1 (these)",
+        "explanation": "Referring to a specific group."
+      },
+      {
+        "word": "小生物",
+        "translation": "little creatures - 小生物 siu2 saang1 mat6 (little creatures)",
+        "explanation": "Referring to small living things."
+      },
+      {
+        "word": "牠們",
+        "translation": "they - 牠們 taa1 mun4 (they)",
+        "explanation": "Referring to the beavers."
+      },
+      {
+        "word": "能",
+        "translation": "can - 能 nang4 (can)",
+        "explanation": "Indicates ability."
+      },
+      {
+        "word": "教",
+        "translation": "teach - 教 gaau3 (teach)",
+        "explanation": "To impart knowledge."
+      },
+      {
+        "word": "我們",
+        "translation": "us - 我們 ngo5 mun4 (us)",
+        "explanation": "Referring to the speaker and others."
+      },
+      {
+        "word": "什麼",
+        "translation": "what - 什麼 sam1 mo1 (what)",
+        "explanation": "Asking for information."
+      },
+      {
+        "word": "呢？",
+        "translation": "?",
+        "explanation": "Used in a question to seek clarification."
+      },
+      {
+        "word": "牠們",
+        "translation": "they - 牠們 taa1 mun4 (they)",
+        "explanation": "Referring to the beavers."
+      },
+      {
+        "word": "只是",
+        "translation": "just - 只是 zi2 si6 (just)",
+        "explanation": "Indicates limitation."
+      },
+      {
+        "word": "幾隻",
+        "translation": "a few - 幾隻 gei2 zek3 (a few)",
+        "explanation": "Indicating a small number."
+      },
+      {
+        "word": "有著",
+        "translation": "has - 有著 jau5 zoek3 (has)",
+        "explanation": "Indicates possession."
+      },
+      {
+        "word": "扁平",
+        "translation": "flat - 扁平 bin2 ping4 (flat)",
+        "explanation": "Describes the shape."
+      },
+      {
+        "word": "尾巴",
+        "translation": "tail - 尾巴 mei5 ba1 (tail)",
+        "explanation": "The end part of the animal."
+      },
+      {
+        "word": "的",
+        "translation": "of - 的 dik1 (of)",
+        "explanation": "A possessive or descriptive particle."
+      },
+      {
+        "word": "弱小",
+        "translation": "weak - 弱小 joek6 siu2 (weak)",
+        "explanation": "Describes lack of strength."
+      },
+      {
+        "word": "游泳者",
+        "translation": "swimmer - 游泳者 jau4 wing6 ze2 (swimmer)",
+        "explanation": "Refers to an entity that swims."
+      }
+    ],
+    [
+      {
+        "word": "但",
+        "translation": "but - 但 daan6 (but)",
+        "explanation": "A conjunction used to introduce a contradiction or contrast."
+      },
+      {
+        "word": "波拉",
+        "translation": "Bola - 波拉 Bo1 laai1 (Bola)",
+        "explanation": "The name of the bear, Bola."
+      },
+      {
+        "word": "擁有",
+        "translation": "has - 擁有 jung5 jau5 (to possess)",
+        "explanation": "This means Bola possesses or owns something."
+      },
+      {
+        "word": "一顆",
+        "translation": "a - 一顆 jat1 fo1 (one (of a round object))",
+        "explanation": "Refers to one large heart."
+      },
+      {
+        "word": "大心",
+        "translation": "big heart - 大心 daai6 sam1 (big heart)",
+        "explanation": "Describes Bola's kind and generous nature."
+      },
+      {
+        "word": "的",
+        "translation": "(possessive particle) - 的 dik1 (of)",
+        "explanation": "Indicates possession."
+      },
+      {
+        "word": "牠",
+        "translation": "it - 牠 taa1 (it, for animals)",
+        "explanation": "Refers to Bola, the bear."
+      },
+      {
+        "word": "對於",
+        "translation": "towards - 對於 deoi3 jyu1 (towards)",
+        "explanation": "Expresses the direction of Bola's feelings."
+      },
+      {
+        "word": "他們",
+        "translation": "their - 他們 keoi5 mun4 (they)",
+        "explanation": "Refers to the beavers."
+      },
+      {
+        "word": "的",
+        "translation": "(possessive particle) - 的 dik1 (of)",
+        "explanation": "Indicates possession."
+      },
+      {
+        "word": "嘲諷",
+        "translation": "mockery - 嘲諷 ziu1 fung3 (to ridicule)",
+        "explanation": "Refers to the act of sarcastically teasing."
+      },
+      {
+        "word": "毫不",
+        "translation": "not at all - 毫不 hou4 bat1 (not at all)",
+        "explanation": "Indicates that Bola is completely unaffected."
+      },
+      {
+        "word": "在意",
+        "translation": "care - 在意 zoi6 ji3 (to care)",
+        "explanation": "Means to be concerned or affected by something."
+      },
+      {
+        "word": "相反地",
+        "translation": "on the contrary - 相反地 soeng1 faan2 dei6 (on the contrary)",
+        "explanation": "Indicates a contrasting action or attitude."
+      },
+      {
+        "word": "牠",
+        "translation": "it - 牠 taa1 (it, for animals)",
+        "explanation": "Again refers to Bola."
+      },
+      {
+        "word": "每天",
+        "translation": "every day - 每天 mui5 tin1 (every day)",
+        "explanation": "Indicates the frequency of an action."
+      },
+      {
+        "word": "都",
+        "translation": "all - 都 dou1 (all)",
+        "explanation": "Used to emphasize that something happens without exception."
+      },
+      {
+        "word": "在",
+        "translation": "is - 在 zoi6 (to be in)",
+        "explanation": "Indicates the presence of an action or being."
+      },
+      {
+        "word": "向",
+        "translation": "towards - 向 hoeng3 (towards)",
+        "explanation": "Indicates direction towards someone."
+      },
+      {
+        "word": "海狸",
+        "translation": "beaver - 海狸 hoi2 lei4 (beaver)",
+        "explanation": "Refers to the beaver, an animal friend of Bola."
+      },
+      {
+        "word": "朋友",
+        "translation": "friend - 朋友 pang4 jau5 (friend)",
+        "explanation": "Refers to a companion or ally."
+      },
+      {
+        "word": "學習",
+        "translation": "learn - 學習 hok6 zaap6 (to learn)",
+        "explanation": "Describes the process of acquiring knowledge or skills."
+      },
+      {
+        "word": "研究",
+        "translation": "study - 研究 jat6 gau3 (to study)",
+        "explanation": "Means to investigate or analyze."
+      },
+      {
+        "word": "牠們",
+        "translation": "they - 牠們 taa1 mun4 (they)",
+        "explanation": "Refers to multiple beavers."
+      },
+      {
+        "word": "如何",
+        "translation": "how - 如何 jyu4 ho4 (how)",
+        "explanation": "Asks about the method or way of doing something."
+      },
+      {
+        "word": "利用",
+        "translation": "use - 利用 lei6 jung6 (to utilize)",
+        "explanation": "Means to make use of something."
+      },
+      {
+        "word": "樹枝",
+        "translation": "branches - 樹枝 syu6 zi1 (branches)",
+        "explanation": "Refers to the twigs or branches from trees."
+      },
+      {
+        "word": "和",
+        "translation": "and - 和 wo4 (and)",
+        "explanation": "Used to connect words or phrases."
+      },
+      {
+        "word": "泥土",
+        "translation": "mud - 泥土 nai4 tou2 (mud)",
+        "explanation": "Refers to the soil or earth."
+      },
+      {
+        "word": "建造",
+        "translation": "build - 建造 gin3 zou6 (to construct)",
+        "explanation": "Means to construct or make something."
+      },
+      {
+        "word": "精巧",
+        "translation": "delicate - 精巧 zing1 haau2 (delicate)",
+        "explanation": "Describes something that is finely crafted."
+      },
+      {
+        "word": "的",
+        "translation": "(possessive particle) - 的 dik1 (of)",
+        "explanation": "Indicates possession."
+      },
+      {
+        "word": "水壩",
+        "translation": "dam - 水壩 seoi2 baa3 (dam)",
+        "explanation": "Refers to a structure built to hold back water."
+      },
+      {
+        "word": "，",
+        "translation": ", - (punctuation)",
+        "explanation": "A comma used to separate clauses."
+      },
+      {
+        "word": "創造",
+        "translation": "create - 創造 cong3 zou6 (to create)",
+        "explanation": "Means to make or bring into existence."
+      },
+      {
+        "word": "出",
+        "translation": "out - 出 ceot1 (out)",
+        "explanation": "Indicates movement from inside to outside."
+      },
+      {
+        "word": "安全",
+        "translation": "safe - 安全 on1 cyun4 (safe)",
+        "explanation": "Describes a condition where there is no danger."
+      },
+      {
+        "word": "，",
+        "translation": ", - (punctuation)",
+        "explanation": "A comma used to separate clauses."
+      },
+      {
+        "word": "讓",
+        "translation": "allow - 讓 joeng6 (to allow)",
+        "explanation": "Means to permit or make possible."
+      },
+      {
+        "word": "牠們",
+        "translation": "they - 牠們 taa1 mun4 (they)",
+        "explanation": "Refers to the beavers again."
+      },
+      {
+        "word": "的",
+        "translation": "(possessive particle) - 的 dik1 (of)",
+        "explanation": "Indicates possession."
+      },
+      {
+        "word": "家",
+        "translation": "home - 家 gaa1 (home)",
+        "explanation": "Refers to the place where someone lives."
+      },
+      {
+        "word": "得以",
+        "translation": "can - 得以 dak1 ji5 (to be able to)",
+        "explanation": "Indicates the ability to do something."
+      },
+      {
+        "word": "安全",
+        "translation": "safe - 安全 on1 cyun4 (safe)",
+        "explanation": "Describes a condition without danger."
+      },
+      {
+        "word": "。",
+        "translation": ". - (punctuation)",
+        "explanation": "A period used to end a sentence."
+      }
+    ],
+    [
+      {
+        "word": "牠",
+        "translation": "it - 牠 taa1 (it, for animals)",
+        "explanation": "Refers again to Bola."
+      },
+      {
+        "word": "欣賞",
+        "translation": "appreciate - 欣賞 jan1 soeng2 (to appreciate)",
+        "explanation": "Means to recognize the value or quality."
+      },
+      {
+        "word": "這些",
+        "translation": "these - 這些 ze5 se1 (these)",
+        "explanation": "Refers to multiple things in proximity."
+      },
+      {
+        "word": "小海狸",
+        "translation": "young beavers - 小海狸 siu2 hoi2 lei4 (young beavers)",
+        "explanation": "Describes the smaller and younger beavers."
+      },
+      {
+        "word": "的",
+        "translation": "(possessive particle) - 的 dik1 (of)",
+        "explanation": "Indicates possession."
+      },
+      {
+        "word": "決心",
+        "translation": "determination - 決心 kyut3 sam1 (determination)",
+        "explanation": "Refers to the steadfastness in pursuing goals."
+      },
+      {
+        "word": "和",
+        "translation": "and - 和 wo4 (and)",
+        "explanation": "Used to connect words or phrases."
+      },
+      {
+        "word": "技巧",
+        "translation": "skills - 技巧 gei6 haau2 (skills)",
+        "explanation": "Refers to the abilities or proficiencies in doing something."
+      },
+      {
+        "word": "。",
+        "translation": ". - (punctuation)",
+        "explanation": "A period used to end a sentence."
+      }
+    ],
+    [
+      {
+        "word": "波拉",
+        "translation": "Bola - 波拉 Bo1 laai1 (Bola)",
+        "explanation": "The name of the bear, Bola."
+      },
+      {
+        "word": "意識到",
+        "translation": "realized - 意識到 ji3 sik1 dou3 (realized)",
+        "explanation": "Means to become aware or understand something."
+      },
+      {
+        "word": "，",
+        "translation": ", - (punctuation)",
+        "explanation": "A comma used to separate clauses."
+      },
+      {
+        "word": "即使",
+        "translation": "even if - 即使 zik1 si2 (even if)",
+        "explanation": "Indicates a condition that remains true despite contrasts."
+      },
+      {
+        "word": "是",
+        "translation": "is - 是 si6 (is)",
+        "explanation": "A verb used to equate one thing with another."
+      },
+      {
+        "word": "最小的",
+        "translation": "smallest - 最小的 zeoi3 siu2 dik1 (the smallest)",
+        "explanation": "Describes the least in size."
+      },
+      {
+        "word": "生物",
+        "translation": "creatures - 生物 saang1 mat6 (living organisms)",
+        "explanation": "Refers to all forms of life."
+      },
+      {
+        "word": "也",
+        "translation": "also - 也 jaa5 (also)",
+        "explanation": "Used to indicate addition or similarity."
+      },
+      {
+        "word": "能",
+        "translation": "can - 能 nang4 (can)",
+        "explanation": "Indicates the ability or capacity to do something."
+      },
+      {
+        "word": "分享",
+        "translation": "share - 分享 fan1 hoeng1 (to share)",
+        "explanation": "Means to give a portion of something to others."
+      },
+      {
+        "word": "偉大的",
+        "translation": "great - 偉大的 wai5 daai6 dik1 (great)",
+        "explanation": "Describes something of immense significance."
+      },
+      {
+        "word": "課題",
+        "translation": "lesson - 課題 fo3 tai4 (topic or lesson)",
+        "explanation": "Refers to the subject or matter being discussed."
+      },
+      {
+        "word": "。",
+        "translation": ". - (punctuation)",
+        "explanation": "A period used to end a sentence."
+      }
+    ],
+    [
+      {
+        "word": "當",
+        "translation": "when - 當 dong1 (when)",
+        "explanation": "Indicates a specific time or condition."
+      },
+      {
+        "word": "牠",
+        "translation": "it - 牠 taa1 (it, for animals)",
+        "explanation": "Refers to Bola again."
+      },
+      {
+        "word": "與",
+        "translation": "with - 與 jyu5 (with)",
+        "explanation": "Indicates accompaniment or association."
+      },
+      {
+        "word": "海狸們",
+        "translation": "the beavers - 海狸們 hoi2 lei4 mun4 (the beavers)",
+        "explanation": "Refers to multiple beavers."
+      },
+      {
+        "word": "一起",
+        "translation": "together - 一起 jat1 hei2 (together)",
+        "explanation": "Indicates that actions are done in companionship."
+      },
+      {
+        "word": "工作",
+        "translation": "work - 工作 gung1 zok3 (to work)",
+        "explanation": "Refers to performing tasks or duties."
+      },
+      {
+        "word": "時",
+        "translation": "time - 時 si4 (time)",
+        "explanation": "Refers to an occasion or moment."
+      },
+      {
+        "word": "，",
+        "translation": ", - (punctuation)",
+        "explanation": "A comma used to separate clauses."
+      },
+      {
+        "word": "牠",
+        "translation": "it - 牠 taa1 (it, for animals)",
+        "explanation": "Refers to Bola."
+      },
+      {
+        "word": "發現",
+        "translation": "discovered - 發現 faat3 jin6 (to discover)",
+        "explanation": "Means to find something new."
+      },
+      {
+        "word": "了",
+        "translation": "(completed aspect particle) - 了 liu5 (completed)",
+        "explanation": "Indicates that the action is complete."
+      },
+      {
+        "word": "團隊",
+        "translation": "team - 團隊 tyun4 deoi2 (team)",
+        "explanation": "Refers to a group working towards a common goal."
+      },
+      {
+        "word": "合作",
+        "translation": "cooperation - 合作 hap6 zok3 (cooperation)",
+        "explanation": "Means working together towards a shared aim."
+      },
+      {
+        "word": "和",
+        "translation": "and - 和 wo4 (and)",
+        "explanation": "Used to connect words or phrases."
+      },
+      {
+        "word": "創造力",
+        "translation": "creativity - 創造力 cong3 zou6 lik6 (creativity)",
+        "explanation": "Refers to the ability to create something new."
+      },
+      {
+        "word": "的",
+        "translation": "(possessive particle) - 的 dik1 (of)",
+        "explanation": "Indicates possession."
+      },
+      {
+        "word": "快樂",
+        "translation": "happiness - 快樂 faai3 lok6 (happiness)",
+        "explanation": "Describes the feeling of joy or contentment."
+      },
+      {
+        "word": "——",
+        "translation": "— - (dash)",
+        "explanation": "A dash indicating a pause or separation."
+      },
+      {
+        "word": "這隻",
+        "translation": "this - 這隻 ze5 zhek3 (this)",
+        "explanation": "Specifies the bear Bola."
+      },
+      {
+        "word": "大熊",
+        "translation": "big bear - 大熊 daai6 hung4 (big bear)",
+        "explanation": "Describes what Bola is."
+      },
+      {
+        "word": "幫忙",
+        "translation": "help - 幫忙 bong1 mong4 (to help)",
+        "explanation": "Means to assist someone in doing something."
+      },
+      {
+        "word": "搬運",
+        "translation": "move - 搬運 bun1 wan6 (to transport)",
+        "explanation": "Describes the act of carrying or shifting items."
+      },
+      {
+        "word": "較大的",
+        "translation": "larger - 較大的 gaau3 daai6 dik1 (larger)",
+        "explanation": "Describes something that is bigger in comparison."
+      },
+      {
+        "word": "樹木",
+        "translation": "trees - 樹木 syu6 muk6 (trees)",
+        "explanation": "Refers to wood-bearing plants."
+      },
+      {
+        "word": "，",
+        "translation": ", - (punctuation)",
+        "explanation": "A comma used to separate clauses."
+      },
+      {
+        "word": "而",
+        "translation": "and - 而 ji4 (and)",
+        "explanation": "A conjunction to connect clauses."
+      },
+      {
+        "word": "靈活的",
+        "translation": "flexible - 靈活的 ling4 waak6 dik1 (flexible)",
+        "explanation": "Describes something that can easily adapt or be bent."
+      },
+      {
+        "word": "海狸們",
+        "translation": "beavers - 海狸們 hoi2 lei4 mun4 (the beavers)",
+        "explanation": "Refers to multiple beavers."
+      },
+      {
+        "word": "則",
+        "translation": "then - 則 zak1 (then)",
+        "explanation": "Indicates a consequence or result."
+      },
+      {
+        "word": "專業",
+        "translation": "proficient - 專業 zyun1 jip6 (professional)",
+        "explanation": "Describes high skill in a specific area."
+      },
+      {
+        "word": "地",
+        "translation": "ly - 地 dei6 (ly, attached to an adverb)",
+        "explanation": "Indicates the way an action is performed."
+      },
+      {
+        "word": "整理",
+        "translation": "organize - 整理 zing2 lei5 (to organize)",
+        "explanation": "Means to arrange or put in order."
+      },
+      {
+        "word": "一切",
+        "translation": "everything - 一切 jat1 cai3 (everything)",
+        "explanation": "Refers to all things."
+      },
+      {
+        "word": "。",
+        "translation": ". - (punctuation)",
+        "explanation": "A period used to end a sentence."
+      }
+    ],
+    [
+      {
+        "word": "一個",
+        "translation": "a - 一 jat1 (one) 個 go3 (piece)",
+        "explanation": "This word indicates a single unit or one of something."
+      },
+      {
+        "word": "註定",
+        "translation": "destined - 註 zyu3 (to indicate) 定 ding6 (decided)",
+        "explanation": "This means something is meant to happen or predetermined."
+      },
+      {
+        "word": "的",
+        "translation": "of - 的 dik1 (possessive particle)",
+        "explanation": "This particle shows possession or relation."
+      },
+      {
+        "word": "日子",
+        "translation": "day - 日 jat6 (sun) 子 zi2 (child)",
+        "explanation": "This means a particular day or date."
+      },
+      {
+        "word": "一群",
+        "translation": "a group of - 一 jat1 (one) 群 kwan4 (a group)",
+        "explanation": "Indicates a collection or group."
+      },
+      {
+        "word": "野狼",
+        "translation": "wild wolves - 野 je5 (wild) 狼 long4 (wolf)",
+        "explanation": "These are wolves that live in the wild."
+      },
+      {
+        "word": "潛入",
+        "translation": "sneak into - 潛 cim4 (to sneak) 入 jap6 (to enter)",
+        "explanation": "This means to enter quietly or stealthily."
+      },
+      {
+        "word": "森林",
+        "translation": "forest - 森 sam1 (forest) 林 lam4 (woods)",
+        "explanation": "A large area covered with trees."
+      },
+      {
+        "word": "飢餓的",
+        "translation": "hungry - 飢 gei1 (hungry) 餓 ngo6 (hungry) 的 dik1 (possessive particle)",
+        "explanation": "Describes the state of needing food."
+      },
+      {
+        "word": "眼睛",
+        "translation": "eyes - 眼 ngaan5 (eye) 睜 zing3 (to open)",
+        "explanation": "The organs of sight."
+      },
+      {
+        "word": "掃視著",
+        "translation": "scanning - 掃 sou3 (to sweep) 視 si6 (to observe) 著 zoek3 (to indicate)",
+        "explanation": "This means looking around carefully."
+      },
+      {
+        "word": "樹木",
+        "translation": "trees - 樹 syu6 (tree) 木 muk6 (wood)",
+        "explanation": "Plants that are tall and have trunks."
+      },
+      {
+        "word": "尋找",
+        "translation": "search for - 尋 cam4 (to seek) 找 zaa3 (to look for)",
+        "explanation": "This means looking for something."
+      },
+      {
+        "word": "獵物",
+        "translation": "prey - 獵 lip6 (to hunt) 物 mat6 (object)",
+        "explanation": "The animals that are hunted."
+      }
+    ],
+    [
+      {
+        "word": "大型",
+        "translation": "large - 大 daai6 (big) 型 jing4 (type)",
+        "explanation": "This means something is big or large."
+      },
+      {
+        "word": "動物們",
+        "translation": "animals - 動 dung6 (to move) 物 mat6 (thing) 們 man4 (plural marker)",
+        "explanation": "Refers to creatures or living beings."
+      },
+      {
+        "word": "驚恐不已",
+        "translation": "terrified - 驚 geng1 (to frighten) 恐 hung2 (fear) 不已 bat1 ji5 (endlessly)",
+        "explanation": "Describes a state of being very scared."
+      },
+      {
+        "word": "牠們",
+        "translation": "they - 牠 taa1 (it/he for animals) 們 man4 (plural marker)",
+        "explanation": "Refers to a group of animals."
+      },
+      {
+        "word": "自大的",
+        "translation": "arrogant - 自 zi6 (oneself) 大 daai6 (big) 的 dik1 (possessive particle)",
+        "explanation": "Describes someone who thinks too highly of themselves."
+      },
+      {
+        "word": "勇氣",
+        "translation": "courage - 勇 jung5 (brave) 氣 hei3 (spirit)",
+        "explanation": "This means bravery or strength to face fear."
+      },
+      {
+        "word": "瞬間",
+        "translation": "moment - 瞬 seon3 (instant) 間 gaan1 (interval)",
+        "explanation": "Refers to a very brief time."
+      },
+      {
+        "word": "消失",
+        "translation": "disappear - 消 siu1 (to vanish) 失 sat1 (to lose)",
+        "explanation": "This means to no longer be visible."
+      }
+    ],
+    [
+      {
+        "word": "我們",
+        "translation": "we - 我 ngo5 (I) 們 man4 (plural marker)",
+        "explanation": "Refers to a group including the speaker."
+      },
+      {
+        "word": "該",
+        "translation": "should - 該 goi1 (should)",
+        "explanation": "Indicates a recommendation or necessity."
+      },
+      {
+        "word": "怎麼辦",
+        "translation": "what to do - 怎麼 zam2 (how) 辦 bun6 (to handle)",
+        "explanation": "Asking about possible actions."
+      },
+      {
+        "word": "！？",
+        "translation": "! - punctuation",
+        "explanation": "Indicates surprise or urgency."
+      },
+      {
+        "word": "一隻",
+        "translation": "a - 一 jat1 (one) 隻 zek3 (measure word for animals)",
+        "explanation": "Indicates one of a kind."
+      },
+      {
+        "word": "驚慌的",
+        "translation": "panicked - 驚 geng1 (to frighten) 慌 fong1 (to panic) 的 dik1 (possessive particle)",
+        "explanation": "Describes being extremely anxious."
+      },
+      {
+        "word": "雌鹿",
+        "translation": "doe - 雌 ci1 (female) 鹿 luk6 (deer)",
+        "explanation": "A female deer."
+      },
+      {
+        "word": "叫道",
+        "translation": "called out - 叫 giu3 (to call) 道 dou6 (to say)",
+        "explanation": "This means to call or speak loudly."
+      }
+    ],
+    [
+      {
+        "word": "狼",
+        "translation": "wolves - 狼 long4 (wolf)",
+        "explanation": "Refers to the species of predatory animals."
+      },
+      {
+        "word": "以",
+        "translation": "known for - 以 ji5 (to use)",
+        "explanation": "Indicates a basis for understanding."
+      },
+      {
+        "word": "兇殘",
+        "translation": "ferocity - 兇 hung1 (ferocious) 殘 caan4 (cruel)",
+        "explanation": "Describes something that is vicious and aggressive."
+      },
+      {
+        "word": "著稱，",
+        "translation": "known for - 著 zoek3 (to indicate) 稱 ceng1 (to be called)",
+        "explanation": "This means being recognized or famous for something."
+      },
+      {
+        "word": "而",
+        "translation": "and - 而 ji4 (and)",
+        "explanation": "This is a connecting word."
+      },
+      {
+        "word": "大型動物們",
+        "translation": "large animals - 大型 daai6 jing4 (large type) 動物 dong6 mat6 (animals) 們 man4 (plural marker)",
+        "explanation": "Refers to big creatures."
+      },
+      {
+        "word": "知道",
+        "translation": "know - 知 zi1 (know) 道 dou6 (way)",
+        "explanation": "This expresses awareness or understanding."
+      },
+      {
+        "word": "牠們",
+        "translation": "they - 牠 taa1 (it/he for animals) 們 man4 (plural marker)",
+        "explanation": "Refers to a group of animals."
+      },
+      {
+        "word": "必須",
+        "translation": "must - 必 bit1 (must) 須 jyu1 (to need)",
+        "explanation": "Indicates something is necessary."
+      },
+      {
+        "word": "找到",
+        "translation": "find - 找 zaa3 (to look for) 到 dou3 (to arrive)",
+        "explanation": "This means to discover or locate."
+      },
+      {
+        "word": "安全的",
+        "translation": "safe - 安全 on1 cyun4 (safe) 的 dik1 (possessive particle)",
+        "explanation": "Describes a state of being secure."
+      },
+      {
+        "word": "地方",
+        "translation": "place - 地地 dei6 (earth) 方 fong1 (square/side)",
+        "explanation": "Refers to a location or area."
+      }
+    ],
+    [
+      {
+        "word": "突然",
+        "translation": "suddenly - 突然 dat6 jin4 (sudden)",
+        "explanation": "Indicates something that happens unexpectedly."
+      },
+      {
+        "word": "聰明的",
+        "translation": "intelligent - 聰明 cung1 ming4 (smart) 的 dik1 (possessive particle)",
+        "explanation": "Describes someone who is clever."
+      },
+      {
+        "word": "老麋鹿",
+        "translation": "old elk - 老 lou5 (old) 麋 mi4 (elk) 鹿 luk6 (deer)",
+        "explanation": "Refers to an elderly elk."
+      },
+      {
+        "word": "心中",
+        "translation": "in heart - 心 sam1 (heart) 中 zung1 (middle)",
+        "explanation": "Indicates feelings or thoughts within."
+      },
+      {
+        "word": "閃過",
+        "translation": "flashed by - 閃 sim2 (to flash) 過 gwo3 (to pass)",
+        "explanation": "This means to pass quickly."
+      },
+      {
+        "word": "一個",
+        "translation": "a - 一 jat1 (one) 個 go3 (piece)",
+        "explanation": "Indicates a single unit or one of something."
+      },
+      {
+        "word": "念頭",
+        "translation": "thought - 念 nim6 (thought) 頭 tau4 (head)",
+        "explanation": "Refers to an idea or concept that comes to mind."
+      }
+    ],
+    [
+      {
+        "word": "波拉",
+        "translation": "Pola",
+        "explanation": "Name of a character, likely a larger-than-life figure in the story."
+      },
+      {
+        "word": "的",
+        "translation": "(possessive particle)",
+        "explanation": "Used to indicate possession."
+      },
+      {
+        "word": "水壩",
+        "translation": "dam",
+        "explanation": "A structure to hold back water."
+      },
+      {
+        "word": "怎麼樣",
+        "translation": "how",
+        "explanation": "Asking for the condition or state of something."
+      },
+      {
+        "word": "？",
+        "translation": "(punctuation)",
+        "explanation": "Indicates a question."
+      }
+    ],
+    [
+      {
+        "word": "牠",
+        "translation": "it",
+        "explanation": "Refers to an animal."
+      },
+      {
+        "word": "提議",
+        "translation": "suggested",
+        "explanation": "What the animal did."
+      },
+      {
+        "word": "道",
+        "translation": "that",
+        "explanation": "Used here to introduce what was suggested."
+      },
+      {
+        "word": "，",
+        "translation": "(punctuation)",
+        "explanation": "Used to separate clauses."
+      }
+    ],
+    [
+      {
+        "word": "這",
+        "translation": "this",
+        "explanation": "Refers to something nearby."
+      },
+      {
+        "word": "是",
+        "translation": "is",
+        "explanation": "A form of the verb 'to be'."
+      },
+      {
+        "word": "牠們",
+        "translation": "they",
+        "explanation": "Refers to a group of animals."
+      },
+      {
+        "word": "唯一",
+        "translation": "only",
+        "explanation": "The one and not more."
+      },
+      {
+        "word": "的",
+        "translation": "(possessive particle)",
+        "explanation": "Used to indicate possession."
+      },
+      {
+        "word": "希望",
+        "translation": "hope",
+        "explanation": "What they want to happen."
+      },
+      {
+        "word": "！",
+        "translation": "(punctuation)",
+        "explanation": "Indicates excitement."
+      }
+    ],
+    [
+      {
+        "word": "牠們",
+        "translation": "they",
+        "explanation": "Refers to the animals."
+      },
+      {
+        "word": "瘋狂地",
+        "translation": "madly",
+        "explanation": "Describes how they ran, in a frantic manner."
+      },
+      {
+        "word": "奔向",
+        "translation": "ran towards",
+        "explanation": "What they did, moving quickly towards something."
+      },
+      {
+        "word": "河流",
+        "translation": "river",
+        "explanation": "A large natural stream of water."
+      },
+      {
+        "word": "，",
+        "translation": "(punctuation)",
+        "explanation": "Used to separate clauses."
+      },
+      {
+        "word": "波拉",
+        "translation": "Pola",
+        "explanation": "Name of a character, likely a larger-than-life figure in the story."
+      },
+      {
+        "word": "的",
+        "translation": "(possessive particle)",
+        "explanation": "Used to indicate possession."
+      },
+      {
+        "word": "水壩",
+        "translation": "dam",
+        "explanation": "A structure to hold back water."
+      },
+      {
+        "word": "在",
+        "translation": "at",
+        "explanation": "Indicating location."
+      },
+      {
+        "word": "那裡",
+        "translation": "there",
+        "explanation": "Refers to a location that is far."
+      },
+      {
+        "word": "堅固",
+        "translation": "solid",
+        "explanation": "Describes the dam as strong."
+      },
+      {
+        "word": "而",
+        "translation": "and",
+        "explanation": "Connects two adjectives."
+      },
+      {
+        "word": "驕傲",
+        "translation": "proud",
+        "explanation": "Describes the dam as looking impressive."
+      },
+      {
+        "word": "。",
+        "translation": "(punctuation)",
+        "explanation": "Indicates the end of a statement."
+      }
+    ],
+    [
+      {
+        "word": "波拉",
+        "translation": "Pola",
+        "explanation": "Name of a character, likely a larger-than-life figure in the story."
+      },
+      {
+        "word": "張開",
+        "translation": "opened",
+        "explanation": "What Pola did with arms."
+      },
+      {
+        "word": "雙臂",
+        "translation": "arms",
+        "explanation": "Part of Pola's body."
+      },
+      {
+        "word": "歡迎",
+        "translation": "welcomed",
+        "explanation": "What Pola said to them."
+      },
+      {
+        "word": "牠們",
+        "translation": "them",
+        "explanation": "Refers to the group of animals."
+      },
+      {
+        "word": "的",
+        "translation": "(possessive particle)",
+        "explanation": "Used to indicate possession."
+      },
+      {
+        "word": "朋友",
+        "translation": "friends",
+        "explanation": "Refers to companions."
+      },
+      {
+        "word": "，",
+        "translation": "(punctuation)",
+        "explanation": "Used to separate clauses."
+      },
+      {
+        "word": "快",
+        "translation": "quickly",
+        "explanation": "Telling friends to hurry."
+      },
+      {
+        "word": "進來",
+        "translation": "come in",
+        "explanation": "Request to enter."
+      },
+      {
+        "word": "！",
+        "translation": "(punctuation)",
+        "explanation": "Indicates excitement."
+      },
+      {
+        "word": "這裡",
+        "translation": "here",
+        "explanation": "Refers to the location inside the dam."
+      },
+      {
+        "word": "安全",
+        "translation": "safe",
+        "explanation": "Describes the place as free from danger."
+      },
+      {
+        "word": "！",
+        "translation": "(punctuation)",
+        "explanation": "Indicates excitement."
+      }
+    ],
+    [
+      {
+        "word": "大型",
+        "translation": "large",
+        "explanation": "Describes the type of animals."
+      },
+      {
+        "word": "動物們",
+        "translation": "animals",
+        "explanation": "Refers to the creatures in the story."
+      },
+      {
+        "word": "爭先恐後地",
+        "translation": "rushed in turn",
+        "explanation": "Describes how they hurried in."
+      },
+      {
+        "word": "衝進",
+        "translation": "charged into",
+        "explanation": "What they did to enter."
+      },
+      {
+        "word": "水壩",
+        "translation": "dam",
+        "explanation": "The structure they entered."
+      },
+      {
+        "word": "寬敞的",
+        "translation": "spacious",
+        "explanation": "Describes the inside of the dam."
+      },
+      {
+        "word": "內部",
+        "translation": "interior",
+        "explanation": "Inside part of the dam."
+      },
+      {
+        "word": "，",
+        "translation": "(punctuation)",
+        "explanation": "Used to separate clauses."
+      },
+      {
+        "word": "心臟",
+        "translation": "heart",
+        "explanation": "Part of their body."
+      },
+      {
+        "word": "砰砰直跳",
+        "translation": "pounded wildly",
+        "explanation": "Describes the heart's beating fast."
+      },
+      {
+        "word": "。",
+        "translation": "(punctuation)",
+        "explanation": "Indicates the end of a statement."
+      }
+    ],
+    [
+      {
+        "word": "牠們",
+        "translation": "they - 牠 nei5 (they, neutral or non-human)",
+        "explanation": "the subject of the sentence referring to animals."
+      },
+      {
+        "word": "迅速",
+        "translation": "quickly - 迅速 seon3cuk1 (quick, fast)",
+        "explanation": "describes how they moved or acted."
+      },
+      {
+        "word": "找到",
+        "translation": "found - 找到 zaau2dou3 (to find)",
+        "explanation": "what they did to the wood."
+      },
+      {
+        "word": "一根",
+        "translation": "a - 一根 jat1gan1 (one, a)",
+        "explanation": "indicating one piece of something."
+      },
+      {
+        "word": "堅固",
+        "translation": "solid - 堅固 gin1gu3 (solid, strong)",
+        "explanation": "describing the quality of the wood."
+      },
+      {
+        "word": "的",
+        "translation": "(no direct translation) - 的 dik1 (of, possessive particle)",
+        "explanation": "used to indicate possession or description."
+      },
+      {
+        "word": "木頭",
+        "translation": "wood - 木頭 muk6tau4 (wood)",
+        "explanation": "the material they found."
+      },
+      {
+        "word": "並",
+        "translation": "and - 並 bing6 (and, also)",
+        "explanation": "used to connect actions."
+      },
+      {
+        "word": "用",
+        "translation": "use - 用 jung6 (to use, with)",
+        "explanation": "indicating how they acted with the wood."
+      },
+      {
+        "word": "它",
+        "translation": "it - 它 keoi5 (it, neutral or non-human)",
+        "explanation": "referring to the wood."
+      },
+      {
+        "word": "封住",
+        "translation": "seal - 封住 fung1zyu6 (to seal, to block)",
+        "explanation": "what they did to the entrance."
+      },
+      {
+        "word": "入口",
+        "translation": "entrance - 入口 jap6hau2 (entrance, entry)",
+        "explanation": "the place they sealed off."
+      },
+      {
+        "word": "然後",
+        "translation": "then - 然後 jin4hau6 (after that, then)",
+        "explanation": "indicating what happened next."
+      },
+      {
+        "word": "靜靜地",
+        "translation": "quietly - 靜靜地 zing6zing6dei6 (quietly, silently)",
+        "explanation": "describing how they waited."
+      },
+      {
+        "word": "等待",
+        "translation": "wait - 等待 dang2doi6 (to wait)",
+        "explanation": "what they did after sealing."
+      },
+      {
+        "word": "屏住",
+        "translation": "hold - 屏住 ping4zyu6 (to hold, to restrain)",
+        "explanation": "describing how they held their breath."
+      },
+      {
+        "word": "呼吸",
+        "translation": "breath - 呼吸 fu1kap1 (to breathe, breath)",
+        "explanation": "what they were holding."
+      }
+    ],
+    [
+      {
+        "word": "狼",
+        "translation": "wolf - 狼 long4 (wolf)",
+        "explanation": "the subject of this sentence, referring to the animal."
+      },
+      {
+        "word": "的",
+        "translation": "(no direct translation) - 的 dik1 (of, possessive particle)",
+        "explanation": "used to indicate possession or description."
+      },
+      {
+        "word": "嚎叫",
+        "translation": "howl - 嚎叫 hou4giu3 (to howl, howling)",
+        "explanation": "what the wolves were doing."
+      },
+      {
+        "word": "在",
+        "translation": "in - 在 zoi6 (in, at)",
+        "explanation": "indicating location."
+      },
+      {
+        "word": "森林",
+        "translation": "forest - 森林 sam1lam4 (forest, woods)",
+        "explanation": "the setting where the wolves are."
+      },
+      {
+        "word": "中",
+        "translation": "within - 中 zung1 (middle, in)",
+        "explanation": "indicating location."
+      },
+      {
+        "word": "迴響",
+        "translation": "echo - 迴響 wui4hoeng3 (echo)",
+        "explanation": "what happened to their howls."
+      },
+      {
+        "word": "但",
+        "translation": "but - 但 daan6 (but)",
+        "explanation": "indicating a contrast or exception."
+      },
+      {
+        "word": "牠們",
+        "translation": "they - 牠 nei5 (they, neutral or non-human)",
+        "explanation": "the subject of the sentence referring to animals."
+      },
+      {
+        "word": "無法",
+        "translation": "unable - 無法 mou4faat3 (unable, cannot)",
+        "explanation": "describing a limitation."
+      },
+      {
+        "word": "接觸",
+        "translation": "contact - 接觸 zip3zuk1 (to contact, touch)",
+        "explanation": "what they could not do."
+      },
+      {
+        "word": "到",
+        "translation": "to - 到 dou3 (to arrive, to)",
+        "explanation": "indicating direction or resultant action."
+      },
+      {
+        "word": "在",
+        "translation": "in - 在 zoi6 (in, at)",
+        "explanation": "indicating location."
+      },
+      {
+        "word": "水壩",
+        "translation": "dam - 水壩 seoi2baa3 (water dam)",
+        "explanation": "the structure behind which the animals were hiding."
+      },
+      {
+        "word": "後面",
+        "translation": "behind - 後面 hau6min6 (behind)",
+        "explanation": "indicating the location."
+      },
+      {
+        "word": "安全",
+        "translation": "safe - 安全 on1cyun4 (safe, security)",
+        "explanation": "describing the state of the hidden animals."
+      },
+      {
+        "word": "藏身",
+        "translation": "hiding - 藏身 cong4san1 (to hide oneself)",
+        "explanation": "what the animals were doing."
+      },
+      {
+        "word": "的",
+        "translation": "(no direct translation) - 的 dik1 (of, possessive particle)",
+        "explanation": "used to indicate possession or description."
+      },
+      {
+        "word": "驚慌",
+        "translation": "panic - 驚慌 geng1fong1 (panic)",
+        "explanation": "describing the state of the animals."
+      },
+      {
+        "word": "動物",
+        "translation": "animal - 動物 dung6mat6 (animal)",
+        "explanation": "what they were referring to."
+      }
+    ],
+    [
+      {
+        "word": "過了",
+        "translation": "after - 過了 gwo3liuh4 (after)",
+        "explanation": "indicating the passage of time."
+      },
+      {
+        "word": "幾個",
+        "translation": "several - 幾個 gei2go3 (several, a few)",
+        "explanation": "describing an unspecified small number."
+      },
+      {
+        "word": "小時",
+        "translation": "hours - 小時 siu2si4 (hours)",
+        "explanation": "the unit of time that passed."
+      },
+      {
+        "word": "狼們",
+        "translation": "wolves - 狼們 long4mun4 (wolves, plural)",
+        "explanation": "the subject referring to multiple wolves."
+      },
+      {
+        "word": "最終",
+        "translation": "finally - 最終 zeoi3zung1 (finally, at last)",
+        "explanation": "indicating the conclusion."
+      },
+      {
+        "word": "失去",
+        "translation": "lost - 失去 sat1heoi3 (to lose)",
+        "explanation": "what happened to their interest."
+      },
+      {
+        "word": "興趣",
+        "translation": "interest - 興趣 hing1ceoi3 (interest)",
+        "explanation": "describing what they had."
+      },
+      {
+        "word": "遊蕩",
+        "translation": "wander - 遊蕩 jau4dong6 (to wander, to stroll)",
+        "explanation": "what they started to do."
+      },
+      {
+        "word": "進到",
+        "translation": "move into - 進到 zeon3dou3 (to move into, to enter)",
+        "explanation": "indicating direction of movement."
+      },
+      {
+        "word": "森林",
+        "translation": "forest - 森林 sam1lam4 (forest, woods)",
+        "explanation": "the area where they wandered."
+      },
+      {
+        "word": "的",
+        "translation": "(no direct translation) - 的 dik1 (of, possessive particle)",
+        "explanation": "used to indicate possession or description."
+      },
+      {
+        "word": "深處",
+        "translation": "depth - 深處 sam1cyu3 (depth, deep place)",
+        "explanation": "the interior area of the forest."
+      }
+    ],
+    [
+      {
+        "word": "慢慢地",
+        "translation": "slowly - 慢慢地 maan6maan6dei6 (slowly)",
+        "explanation": "describing the pace at which something happens."
+      },
+      {
+        "word": "緊張",
+        "translation": "nervous - 緊張 gan2zoeng1 (nervous, tense)",
+        "explanation": "describing the atmosphere."
+      },
+      {
+        "word": "的",
+        "translation": "(no direct translation) - 的 dik1 (of, possessive particle)",
+        "explanation": "used to indicate possession or description."
+      },
+      {
+        "word": "氣氛",
+        "translation": "atmosphere - 氣氛 hei3fan1 (atmosphere)",
+        "explanation": "the feeling or mood in a place."
+      },
+      {
+        "word": "消散",
+        "translation": "disperse - 消散 siu1saan3 (to disperse, to dissipate)",
+        "explanation": "what happened to the nervousness."
+      },
+      {
+        "word": "大型",
+        "translation": "large - 大型 daai6jing4 (large, big)",
+        "explanation": "describing the size of the animals."
+      },
+      {
+        "word": "動物們",
+        "translation": "animals - 動物們 dung6mat6mun4 (animals, plural)",
+        "explanation": "the subject referring to multiple animals."
+      },
+      {
+        "word": "小心翼翼地",
+        "translation": "carefully - 小心翼翼地 siu2sam1jik6jik6dei6 (carefully)",
+        "explanation": "describing how they looked around."
+      },
+      {
+        "word": "望向",
+        "translation": "look towards - 望向 mong6hoeng3 (to look towards)",
+        "explanation": "the action they are doing."
+      },
+      {
+        "word": "外面",
+        "translation": "outside - 外面 ngoi6min6 (outside)",
+        "explanation": "the direction they are looking."
+      }
+    ],
+    [
+      {
+        "word": "陽光",
+        "translation": "sunlight - 陽光 joeng4gwong1 (sunlight)",
+        "explanation": "the natural light coming from the sun."
+      },
+      {
+        "word": "依然",
+        "translation": "still - 依然 ji1jin4 (still, as before)",
+        "explanation": "indicating continuity."
+      },
+      {
+        "word": "照耀",
+        "translation": "shine - 照耀 ziu3jiu6 (to shine)",
+        "explanation": "what the sunlight is doing."
+      },
+      {
+        "word": "著",
+        "translation": "(no direct translation) - 著 zoek3 (to be)",
+        "explanation": "a particle used to indicate ongoing action."
+      },
+      {
+        "word": "牠們",
+        "translation": "they - 牠 nei5 (they, neutral or non-human)",
+        "explanation": "the subject of the sentence referring to animals."
+      },
+      {
+        "word": "是",
+        "translation": "are - 是 si6 (to be)",
+        "explanation": "linking verb to describe the subject."
+      },
+      {
+        "word": "安全的",
+        "translation": "safe - 安全 on1cyun4 (safe, security)",
+        "explanation": "describing their state."
+      }
+    ],
+    [
+      {
+        "word": "帶著",
+        "translation": "carrying - 帶 dai3 (carry) 著 zoek3 (to hold)",
+        "explanation": "This shows how someone is holding or containing something with gratitude."
+      },
+      {
+        "word": "感激",
+        "translation": "gratitude - 感 gam2 (feel) 激 gik1 (grateful)",
+        "explanation": "This means having a feeling of thankfulness."
+      },
+      {
+        "word": "這些",
+        "translation": "these - 這 ze5 (this) 些 se1 (plural suffix)",
+        "explanation": "Refers to multiple animals in this context."
+      },
+      {
+        "word": "大型",
+        "translation": "large - 大 daai6 (big) 型 jing4 (type)",
+        "explanation": "Describes the size of the animals."
+      },
+      {
+        "word": "動物們",
+        "translation": "animals - 動物 dung6 mat6 (animal) 們 mun4 (plural suffix)",
+        "explanation": "The plural form of animal, referring to a group."
+      },
+      {
+        "word": "轉向",
+        "translation": "turned to - 轉 zyun3 (turn) 向 hoeng3 (toward)",
+        "explanation": "Describes the action of the animals directing themselves toward Boral."
+      },
+      {
+        "word": "波拉",
+        "translation": "Boral - 波拉 Bo1 laai1",
+        "explanation": "This is a name, the main character being addressed."
+      },
+      {
+        "word": "聲音",
+        "translation": "voice - 聲 seeng1 (sound) 音 jam1 (tone)",
+        "explanation": "Describes the nature of communication being made."
+      },
+      {
+        "word": "充滿",
+        "translation": "filled with - 充 chung1 (fill) 滿 mun5 (full)",
+        "explanation": "Describes how their voice contains a certain feeling."
+      },
+      {
+        "word": "敬畏",
+        "translation": "awe - 敬 ging3 (respect) 畏 wai3 (fear)",
+        "explanation": "A mixture of respect and admiration in their tone."
+      }
+    ],
+    [
+      {
+        "word": "你",
+        "translation": "you - 你 nei5 (you)",
+        "explanation": "This word is directly addressing Boral."
+      },
+      {
+        "word": "真",
+        "translation": "truly - 真 zan1 (true)",
+        "explanation": "An expression of affirmation."
+      },
+      {
+        "word": "聰明",
+        "translation": "smart - 聰 cung1 (intelligent) 明 ming4 (bright)",
+        "explanation": "Describing the great mental ability of Boral."
+      },
+      {
+        "word": "竟然",
+        "translation": "actually - 竟 jing3 (unexpectedly) 然 jin4 (to be)",
+        "explanation": "Expressing surprise about what follows."
+      },
+      {
+        "word": "建了",
+        "translation": "built - 建 gin3 (build) 了 liu5 (completed)",
+        "explanation": "Describing the action of construction being finished."
+      },
+      {
+        "word": "這個",
+        "translation": "this - 這 ze5 (this) 個 go3 (measure word)",
+        "explanation": "Refers to a specific dam."
+      },
+      {
+        "word": "水壩",
+        "translation": "dam - 水 seoi2 (water) 壩 baa3 (barrier)",
+        "explanation": "A barrier built to hold back water."
+      }
+    ],
+    [
+      {
+        "word": "再",
+        "translation": "again - 再 zoi3 (again)",
+        "explanation": "Asking to do something once more."
+      },
+      {
+        "word": "看看",
+        "translation": "look at - 看 hon3 (look) 看 hon3 (look)",
+        "explanation": "A request for visual observation."
+      },
+      {
+        "word": "海狸們",
+        "translation": "beavers - 海狸 hoii2 lei4 (beaver) 們 mun4 (plural suffix)",
+        "explanation": "Identifying a specific type of animal, plural."
+      },
+      {
+        "word": "是",
+        "translation": "are - 是 si6 (be)",
+        "explanation": "Indicates existence or identification."
+      },
+      {
+        "word": "如何",
+        "translation": "how - 如何 jyu4 ho4 (how)",
+        "explanation": "Asking about the manner of doing something."
+      },
+      {
+        "word": "與",
+        "translation": "with - 與 jyu5 (and/with)",
+        "explanation": "Indicates a conjunction or connection."
+      },
+      {
+        "word": "你",
+        "translation": "you - 你 nei5 (you)",
+        "explanation": "Referring to Boral."
+      },
+      {
+        "word": "合作",
+        "translation": "cooperate - 合 haap6 (join) 作 zok3 (work)",
+        "explanation": "To work together in a task."
+      },
+      {
+        "word": "的",
+        "translation": "'s - 的 dik1 (of)",
+        "explanation": "Possessive particle indicating association."
+      }
+    ],
+    [
+      {
+        "word": "波拉",
+        "translation": "Boral - 波拉 Bo1 laai1",
+        "explanation": "This is a name, the speaker addressing themselves."
+      },
+      {
+        "word": "微笑",
+        "translation": "smiled - 微笑 mei4 siu3 (smile)",
+        "explanation": "A facial expression indicating happiness."
+      },
+      {
+        "word": "著",
+        "translation": "with - 著 zoek3 (to hold)",
+        "explanation": "Indicating the way the smile is being expressed."
+      },
+      {
+        "word": "眼睛",
+        "translation": "eyes - 眼睛 ngaan5 zing1 (eyes)",
+        "explanation": "The organs of sight being referred to."
+      },
+      {
+        "word": "閃爍",
+        "translation": "sparkled - 閃閃 sim2 sim2 (twinkle)",
+        "explanation": "Describing a shining quality in the eyes."
+      },
+      {
+        "word": "著",
+        "translation": "with - 著 zoek3 (to hold)",
+        "explanation": "Another reference to an action or state."
+      },
+      {
+        "word": "光芒",
+        "translation": "light - 光光 gong1 (light) 芒 mong4 (ray)",
+        "explanation": "Brightness or illumination being emitted."
+      }
+    ],
+    [
+      {
+        "word": "當然",
+        "translation": "of course - 當然 dong1 jin4 (certainly)",
+        "explanation": "An expression of certainty."
+      },
+      {
+        "word": "我們",
+        "translation": "we - 我們 ngo5 mun4 (we)",
+        "explanation": "Referring to a group including the speaker."
+      },
+      {
+        "word": "都",
+        "translation": "all - 都 dou1 (all)",
+        "explanation": "Indicates inclusiveness."
+      },
+      {
+        "word": "能",
+        "translation": "can - 能 nang4 (can)",
+        "explanation": "Indicating ability."
+      },
+      {
+        "word": "彼此",
+        "translation": "each other - 彼此 bei2 ci2 (each other)",
+        "explanation": "Referring to mutual connection."
+      },
+      {
+        "word": "學習",
+        "translation": "learn - 學 hok6 (learn) 習 zaap6 (practice)",
+        "explanation": "To acquire knowledge or skills."
+      },
+      {
+        "word": "特別",
+        "translation": "especially - 特別 dak6 bit6 (special)",
+        "explanation": "Emphasizing something out of the ordinary."
+      },
+      {
+        "word": "是",
+        "translation": "are - 是 si6 (be)",
+        "explanation": "Indicating identification."
+      },
+      {
+        "word": "我們",
+        "translation": "we - 我們 ngo5 mun4 (we)",
+        "explanation": "Referring to the group including the speaker."
+      },
+      {
+        "word": "的",
+        "translation": "'s - 的 dik1 (of)",
+        "explanation": "Possessive particle indicating association."
+      },
+      {
+        "word": "海狸",
+        "translation": "beavers - 海狸 hoii2 lei4 (beaver)",
+        "explanation": "A specific animal being referred to."
+      },
+      {
+        "word": "朋友",
+        "translation": "friends - 朋友 pang4 jau5 (friend)",
+        "explanation": "Indicating companionship or relationship."
+      }
+    ],
+    [
+      {
+        "word": "牠們",
+        "translation": "they - 牠們 taa1 mun4 (they)",
+        "explanation": "Referring to beavers.'"
+      },
+      {
+        "word": "教",
+        "translation": "taught - 教 gaau3 (teach)",
+        "explanation": "The action of providing knowledge or skills."
+      },
+      {
+        "word": "我",
+        "translation": "me - 我 ngo5 (me)",
+        "explanation": "Referring to Boral."
+      },
+      {
+        "word": "如何",
+        "translation": "how - 如何 jyu4 ho4 (how)",
+        "explanation": "Asking about the manner of doing something."
+      },
+      {
+        "word": "建",
+        "translation": "to build - 建 gin3 (build)",
+        "explanation": "Indicating the action of construction."
+      },
+      {
+        "word": "這個",
+        "translation": "this - 這 ze5 (this) 個 go3 (measure word)",
+        "explanation": "Referring to a specific dam."
+      },
+      {
+        "word": "水壩",
+        "translation": "dam - 水 seoi2 (water) 壩 baa3 (barrier)",
+        "explanation": "A barrier constructed to hold water."
+      },
+      {
+        "word": "今天",
+        "translation": "today - 今日 gam1 jat6 (today)",
+        "explanation": "Refers to the current day."
+      },
+      {
+        "word": "拯救",
+        "translation": "saved - 拯救 zing2 gau3 (rescue)",
+        "explanation": "The action of saving someone from risk."
+      },
+      {
+        "word": "了",
+        "translation": "completed - 了 liu5 (completed)",
+        "explanation": "Indicating past action."
+      },
+      {
+        "word": "我們",
+        "translation": "us - 我們 ngo5 mun4 (we)",
+        "explanation": "Referring to the group including Boral."
+      },
+      {
+        "word": "所有人",
+        "translation": "everyone - 所有 so2 jau5 (all) 人 jan4 (person)",
+        "explanation": "Referring to the total group of beings."
+      }
+    ],
+    [
+      {
+        "word": "這些",
+        "translation": "these",
+        "explanation": "'these' refers to specific things that are close in distance or time."
+      },
+      {
+        "word": "曾經",
+        "translation": "once",
+        "explanation": "'once' means at some time in the past."
+      },
+      {
+        "word": "嘲笑",
+        "translation": "mock",
+        "explanation": "'mock' means to make fun of someone."
+      },
+      {
+        "word": "海狸",
+        "translation": "beavers",
+        "explanation": "'beavers' are large rodents known for building dams."
+      },
+      {
+        "word": "的大型動物們",
+        "translation": "large animals",
+        "explanation": "'large animals' refers to big creatures in general."
+      },
+      {
+        "word": "現在",
+        "translation": "now",
+        "explanation": "'now' means at the present time."
+      },
+      {
+        "word": "明白",
+        "translation": "understand",
+        "explanation": "'understand' means to comprehend or grasp an idea."
+      },
+      {
+        "word": "力量",
+        "translation": "strength",
+        "explanation": "'strength' refers to power or ability."
+      },
+      {
+        "word": "有多種形式",
+        "translation": "comes in many forms",
+        "explanation": "'comes in many forms' means that there are different types of strength."
+      }
+    ],
+    [
+      {
+        "word": "牠們",
+        "translation": "they",
+        "explanation": "'they' refers to the large animals mentioned before."
+      },
+      {
+        "word": "以",
+        "translation": "with",
+        "explanation": "'with' indicates the manner or means."
+      },
+      {
+        "word": "新的",
+        "translation": "new",
+        "explanation": "'new' means something that is fresh or recent."
+      },
+      {
+        "word": "尊重",
+        "translation": "respect",
+        "explanation": "'respect' is a feeling of admiration or consideration."
+      },
+      {
+        "word": "看著",
+        "translation": "look at",
+        "explanation": "'look at' means to direct one's gaze towards."
+      },
+      {
+        "word": "小海狸們",
+        "translation": "the little beavers",
+        "explanation": "'the little beavers' refers to young or small beavers."
+      },
+      {
+        "word": "意識到",
+        "translation": "realize",
+        "explanation": "'realize' means to become aware of something."
+      },
+      {
+        "word": "牠們的",
+        "translation": "their",
+        "explanation": "'their' indicates possession, belonging to them."
+      },
+      {
+        "word": "大小",
+        "translation": "size",
+        "explanation": "'size' refers to how big or small something is."
+      },
+      {
+        "word": "與",
+        "translation": "is related to",
+        "explanation": "'is related to' indicates a connection between two things."
+      },
+      {
+        "word": "智慧",
+        "translation": "wisdom",
+        "explanation": "'wisdom' means the ability to make good decisions."
+      },
+      {
+        "word": "和",
+        "translation": "and",
+        "explanation": "'and' is a conjunction that connects two ideas."
+      },
+      {
+        "word": "才智",
+        "translation": "intelligence",
+        "explanation": "'intelligence' refers to the ability to think and understand."
+      },
+      {
+        "word": "無關",
+        "translation": "has nothing to do with",
+        "explanation": "has no connection or relevance."
+      },
+      {
+        "word": "。",
+        "translation": "",
+        "explanation": ""
+      }
+    ],
+    [
+      {
+        "word": "從那天起",
+        "translation": "from that day on",
+        "explanation": "'from that day on' refers to a time after a specific event."
+      },
+      {
+        "word": "熊波拉",
+        "translation": "Bear Bola",
+        "explanation": "the name of a character, likely a bear."
+      },
+      {
+        "word": "繼續",
+        "translation": "continued",
+        "explanation": "'continued' means to keep doing something."
+      },
+      {
+        "word": "珍惜",
+        "translation": "cherish",
+        "explanation": "'cherish' means to hold something dear or value it."
+      },
+      {
+        "word": "與",
+        "translation": "with",
+        "explanation": "indicates togetherness or companionship."
+      },
+      {
+        "word": "海狸的",
+        "translation": "the beavers'",
+        "explanation": "indicates possession by the beavers."
+      },
+      {
+        "word": "友誼",
+        "translation": "friendship",
+        "explanation": "'friendship' is a close bond or relationship."
+      },
+      {
+        "word": "。",
+        "translation": "",
+        "explanation": ""
+      }
+    ],
+    [
+      {
+        "word": "其他",
+        "translation": "other",
+        "explanation": "'other' means additional or different."
+      },
+      {
+        "word": "的大型動物們",
+        "translation": "large animals",
+        "explanation": "the same reference to the big animals."
+      },
+      {
+        "word": "也",
+        "translation": "also",
+        "explanation": "'also' indicates addition."
+      },
+      {
+        "word": "加入",
+        "translation": "joined",
+        "explanation": "'joined' means to become part of a group."
+      },
+      {
+        "word": "了",
+        "translation": "(past tense marker)",
+        "explanation": "indicates a change of state."
+      },
+      {
+        "word": "牠們",
+        "translation": "they",
+        "explanation": "referring again to the large animals."
+      },
+      {
+        "word": "渴望",
+        "translation": "eager to",
+        "explanation": "'eager to' means wanting very much."
+      },
+      {
+        "word": "學習",
+        "translation": "learn",
+        "explanation": "'learn' means to gain knowledge."
+      },
+      {
+        "word": "建設",
+        "translation": "building",
+        "explanation": "'building' refers to construction or creating something."
+      },
+      {
+        "word": "和",
+        "translation": "and",
+        "explanation": "the conjunction connecting two elements."
+      },
+      {
+        "word": "團隊合作的",
+        "translation": "teamwork",
+        "explanation": "'teamwork' means working together towards a common goal."
+      },
+      {
+        "word": "知識",
+        "translation": "knowledge",
+        "explanation": "'knowledge' is information or understanding about something."
+      },
+      {
+        "word": "。",
+        "translation": "",
+        "explanation": ""
+      }
+    ],
+    [
+      {
+        "word": "牠們",
+        "translation": "they",
+        "explanation": "referring again to the large animals."
+      },
+      {
+        "word": "在",
+        "translation": "in",
+        "explanation": "'in' specifies location."
+      },
+      {
+        "word": "河裡",
+        "translation": "the river",
+        "explanation": "'the river' is the body of water."
+      },
+      {
+        "word": "開懷大笑",
+        "translation": "laughed heartily",
+        "explanation": "'laughed heartily' means to laugh joyfully and loudly."
+      },
+      {
+        "word": "、",
+        "translation": "",
+        "explanation": ""
+      },
+      {
+        "word": "嬉戲",
+        "translation": "played",
+        "explanation": "'played' means to engage in fun activities."
+      },
+      {
+        "word": "，",
+        "translation": "",
+        "explanation": ""
+      },
+      {
+        "word": "讚美著",
+        "translation": "praising",
+        "explanation": "'praising' means to express approval ."
+      },
+      {
+        "word": "即使是",
+        "translation": "even in the case of",
+        "explanation": "'even in the case of' indicates consideration of an example."
+      },
+      {
+        "word": "最小的",
+        "translation": "the smallest",
+        "explanation": "'the smallest' indicates the least size."
+      },
+      {
+        "word": "爪子",
+        "translation": "paws",
+        "explanation": "'paws' refer to the feet of animals."
+      },
+      {
+        "word": "也能",
+        "translation": "can also",
+        "explanation": "'can also' means having the ability to do something."
+      },
+      {
+        "word": "創造出",
+        "translation": "create",
+        "explanation": "'create' means to make or produce something."
+      },
+      {
+        "word": "宏偉的",
+        "translation": "grand",
+        "explanation": "'grand' means large and impressive."
+      },
+      {
+        "word": "事物",
+        "translation": "things",
+        "explanation": "'things' refers to objects or concepts."
+      },
+      {
+        "word": "。",
+        "translation": "",
+        "explanation": ""
+      }
+    ],
+    [
+      {
+        "word": "在",
+        "translation": "in",
+        "explanation": "This word indicates a state of being inside a location."
+      },
+      {
+        "word": "森林",
+        "translation": "forest",
+        "explanation": "This is the place filled with trees and wildlife."
+      },
+      {
+        "word": "的",
+        "translation": "'s (possessive particle)",
+        "explanation": "This is used to show possession or connection."
+      },
+      {
+        "word": "心臟地帶",
+        "translation": "heart of the land",
+        "explanation": "This refers to the central or most important area."
+      },
+      {
+        "word": "，",
+        "translation": ",",
+        "explanation": "This is punctuation used to separate clauses."
+      },
+      {
+        "word": "友誼",
+        "translation": "friendship",
+        "explanation": "This is the bond between friends."
+      },
+      {
+        "word": "無邊",
+        "translation": "boundless",
+        "explanation": "This describes something that has no limits."
+      },
+      {
+        "word": "的",
+        "translation": "'s (possessive particle)",
+        "explanation": "Again, this shows possession or connection."
+      },
+      {
+        "word": "地方",
+        "translation": "place",
+        "explanation": "This refers to a location or area."
+      },
+      {
+        "word": "，",
+        "translation": ",",
+        "explanation": "This separates elements of the sentence."
+      },
+      {
+        "word": "波拉熊",
+        "translation": "Polar Bear",
+        "explanation": "This is the character or subject of the sentence."
+      },
+      {
+        "word": "教會了",
+        "translation": "taught",
+        "explanation": "This is what the character did, indicating imparting knowledge."
+      },
+      {
+        "word": "大家",
+        "translation": "everyone",
+        "explanation": "This refers to all people present."
+      },
+      {
+        "word": "一個",
+        "translation": "an",
+        "explanation": "This indicates a single unit."
+      },
+      {
+        "word": "重要",
+        "translation": "important",
+        "explanation": "This describes something with great significance."
+      },
+      {
+        "word": "的",
+        "translation": "'s (possessive particle)",
+        "explanation": "A connection word."
+      },
+      {
+        "word": "道理",
+        "translation": "lesson",
+        "explanation": "This refers to a piece of knowledge or teaching."
+      },
+      {
+        "word": "：",
+        "translation": ":",
+        "explanation": "This introduces what comes next."
+      },
+      {
+        "word": "有時",
+        "translation": "sometimes",
+        "explanation": "This indicates that something happens occasionally."
+      },
+      {
+        "word": "，",
+        "translation": ",",
+        "explanation": "This is a comma for separation."
+      },
+      {
+        "word": "最大的",
+        "translation": "greatest",
+        "explanation": "This means the largest or most significant."
+      },
+      {
+        "word": "力量",
+        "translation": "strength",
+        "explanation": "This refers to the power or force."
+      },
+      {
+        "word": "來自",
+        "translation": "comes from",
+        "explanation": "This indicates the source or origin."
+      },
+      {
+        "word": "於",
+        "translation": "from",
+        "explanation": "Another form to indicate origin."
+      },
+      {
+        "word": "團結",
+        "translation": "unity",
+        "explanation": "This means being together as one."
+      },
+      {
+        "word": "，",
+        "translation": ",",
+        "explanation": "Another comma."
+      },
+      {
+        "word": "而",
+        "translation": "and",
+        "explanation": "This connects two ideas."
+      },
+      {
+        "word": "真正",
+        "translation": "true",
+        "explanation": "This means genuine or real."
+      },
+      {
+        "word": "的",
+        "translation": "'s (possessive particle)",
+        "explanation": "Connecting word."
+      },
+      {
+        "word": "朋友",
+        "translation": "friend",
+        "explanation": "This is someone who has a bond of affection."
+      },
+      {
+        "word": "能",
+        "translation": "can",
+        "explanation": "This indicates ability."
+      },
+      {
+        "word": "幫助",
+        "translation": "help",
+        "explanation": "This means to provide assistance."
+      },
+      {
+        "word": "你",
+        "translation": "you",
+        "explanation": "This refers to the person being addressed."
+      },
+      {
+        "word": "渡過",
+        "translation": "get through",
+        "explanation": "This means to survive or finish something difficult."
+      },
+      {
+        "word": "任何",
+        "translation": "any",
+        "explanation": "This means all types of."
+      },
+      {
+        "word": "風暴",
+        "translation": "storm",
+        "explanation": "This refers to a violent weather event, often symbolizing trouble."
+      }
+    ],
+    [
+      {
+        "word": "在",
+        "translation": "in",
+        "explanation": "Refers to being in a location."
+      },
+      {
+        "word": "森林",
+        "translation": "forest",
+        "explanation": "A large area covered chiefly with trees."
+      },
+      {
+        "word": "的",
+        "translation": "'s (possessive particle)",
+        "explanation": "Indicates possession."
+      },
+      {
+        "word": "心臟地帶",
+        "translation": "heart of the land",
+        "explanation": "The center of the forest."
+      },
+      {
+        "word": "，",
+        "translation": ",",
+        "explanation": "Used to separate ideas."
+      },
+      {
+        "word": "友誼",
+        "translation": "friendship",
+        "explanation": "The connection between friends."
+      },
+      {
+        "word": "無邊",
+        "translation": "boundless",
+        "explanation": "Without limits."
+      },
+      {
+        "word": "的",
+        "translation": "'s (possessive particle)",
+        "explanation": "Shows connection."
+      },
+      {
+        "word": "地方",
+        "translation": "place",
+        "explanation": "A location or area."
+      },
+      {
+        "word": "，",
+        "translation": ",",
+        "explanation": "Another separator."
+      },
+      {
+        "word": "波拉熊",
+        "translation": "Polar Bear",
+        "explanation": "Main character in the sentence."
+      },
+      {
+        "word": "教會了",
+        "translation": "taught",
+        "explanation": "Instructed or imparted knowledge."
+      },
+      {
+        "word": "大家",
+        "translation": "everyone",
+        "explanation": "All people."
+      },
+      {
+        "word": "一個",
+        "translation": "an",
+        "explanation": "Referring to one."
+      },
+      {
+        "word": "重要",
+        "translation": "important",
+        "explanation": "Something significant."
+      },
+      {
+        "word": "的",
+        "translation": "'s (possessive particle)",
+        "explanation": "Another connection word."
+      },
+      {
+        "word": "道理",
+        "translation": "lesson",
+        "explanation": "A principle learned."
+      },
+      {
+        "word": "：",
+        "translation": ":",
+        "explanation": "Indicates an explanation follows."
+      },
+      {
+        "word": "有時",
+        "translation": "sometimes",
+        "explanation": "Occasionally."
+      },
+      {
+        "word": "，",
+        "translation": ",",
+        "explanation": "Another comma."
+      },
+      {
+        "word": "最大的",
+        "translation": "greatest",
+        "explanation": "The largest or most significant."
+      },
+      {
+        "word": "力量",
+        "translation": "strength",
+        "explanation": "Power or force."
+      },
+      {
+        "word": "來自",
+        "translation": "comes from",
+        "explanation": "Indicating where something originates."
+      },
+      {
+        "word": "於",
+        "translation": "from",
+        "explanation": "Alternative form of indicating origin."
+      },
+      {
+        "word": "團結",
+        "translation": "unity",
+        "explanation": "The state of being united."
+      },
+      {
+        "word": "，",
+        "translation": ",",
+        "explanation": "Comma."
+      },
+      {
+        "word": "而",
+        "translation": "and",
+        "explanation": "Used to connect clauses."
+      },
+      {
+        "word": "真正",
+        "translation": "true",
+        "explanation": "Genuine or real."
+      },
+      {
+        "word": "的",
+        "translation": "'s (possessive particle)",
+        "explanation": "Connection."
+      },
+      {
+        "word": "朋友",
+        "translation": "friend",
+        "explanation": "A person with whom one has a bond."
+      },
+      {
+        "word": "能",
+        "translation": "can",
+        "explanation": "Indicates ability."
+      },
+      {
+        "word": "幫助",
+        "translation": "help",
+        "explanation": "To assist."
+      },
+      {
+        "word": "你",
+        "translation": "you",
+        "explanation": "The person being addressed."
+      },
+      {
+        "word": "渡過",
+        "translation": "get through",
+        "explanation": "To survive or overcome."
+      },
+      {
+        "word": "任何",
+        "translation": "any",
+        "explanation": "All kinds of."
+      },
+      {
+        "word": "風暴",
+        "translation": "storm",
+        "explanation": "A severe weather condition."
+      }
+    ]
+  ]
+}
