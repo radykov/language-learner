@@ -1,8 +1,8 @@
 {
-  "name": "languge-learner",
+  "name": "pipo-languge-learner",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://radykov.github.io/language-learner/",
+  "homepage": "https://radykov.github.io/pipo-language-learner/",
   "dependencies": {
     "cra-template": "1.2.0",
     "dotenv": "^16.4.7",
