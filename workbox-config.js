@@ -7,7 +7,7 @@ module.exports = {
     runtimeCaching: [
         {
             urlPattern: /^\/.*/,  // Match everything
-            handler: 'CacheFirst',  // Always serve from cache first
+            handler: 'StaleWhileRevalidate',
             options: {
                 cacheName: 'static-cache',
                 expiration: {
