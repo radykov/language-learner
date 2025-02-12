@@ -40,8 +40,6 @@ class GenAIAPI {
                 response_format: zodResponseFormat(TitleAndStory, 'title_and_story'),
             });
             const storyAndTitle = storyResponse.choices[0].message.parsed;
-            console.log('Story generated:', storyAndTitle.story);
-            console.log('Title generated:', storyAndTitle.title);
             return storyAndTitle;
         } catch (error) {
             console.error('Error generating story and title:', error);
