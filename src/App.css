@@ -482,7 +482,7 @@ main {
   padding: 0.25rem 0.5rem;
   border: 1px solid #ddd;
   border-radius: 4px;
-  display: flex;
+  display: inline;
   align-items: center;
   gap: 0.5rem;
   transition: all 0.2s ease;
