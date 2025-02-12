@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/pipo-language-learner/static/css/main.ef5abf37.css",
-    "main.js": "/pipo-language-learner/static/js/main.960117f4.js",
+    "main.js": "/pipo-language-learner/static/js/main.121ee31d.js",
     "index.html": "/pipo-language-learner/index.html",
     "main.ef5abf37.css.map": "/pipo-language-learner/static/css/main.ef5abf37.css.map",
-    "main.960117f4.js.map": "/pipo-language-learner/static/js/main.960117f4.js.map"
+    "main.121ee31d.js.map": "/pipo-language-learner/static/js/main.121ee31d.js.map"
   },
   "entrypoints": [
     "static/css/main.ef5abf37.css",
-    "static/js/main.960117f4.js"
+    "static/js/main.121ee31d.js"
   ]
 }
