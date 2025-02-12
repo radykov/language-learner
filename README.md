@@ -20,3 +20,7 @@ b. If running locally, add this to your .env `REACT_APP_NODE_ENV=development`
 
 ## 3. Generating new stories
 Follow the instructions from the Creator Studio (must have done the steps in #2 first)
+
+## 4. Deploying
+Deployment is setup for Github pages. First update the "homepage" value in package.json and make sure to setup your Github pages and folder as per Github instructions. Then run
+```npm run deploy```
